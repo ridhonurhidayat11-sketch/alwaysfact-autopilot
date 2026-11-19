@@ -1,0 +1,163 @@
+{
+  "format": "reel",
+  "topic": "Dua bintang di galaksi Andromeda bergabung di depan mata",
+  "image_query": "Andromeda Galaxy",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+    "Dua bintang menyatu, dan kita melihatnya",
+    "Ada bintang raksasa yang menelan temannya"
+  ],
+  "slides": [],
+  "reel": {
+    "hook": "Dua bintang menyatu, dan kita melihatnya",
+    "mood": "curious",
+    "beats": [
+      {
+        "say": "Pernahkah kamu membayangkan bintang yang menelan bintang lain, dan kita bisa melihatnya?",
+        "text": "Bintang menelan bintang",
+        "image_query": "Andromeda Galaxy",
+        "icon": "planet"
+      },
+      {
+        "say": "Selama tujuh tahun, sebuah bintang raksasa di galaksi Andromeda terus bertambah terang.",
+        "text": "Tujuh tahun makin terang",
+        "viz": {
+          "kind": "stat",
+          "value": "7 tahun",
+          "label": "makin terang",
+          "note": "bintang raksasa di Andromeda"
+        }
+      },
+      {
+        "say": "Ukurannya membengkak lebih dari dua kali lipat, padahal suhu permukaannya nyaris tidak berubah.",
+        "text": "Membengkak dua kali",
+        "icon": "bulb"
+      },
+      {
+        "say": "Lalu pada Oktober dua ribu dua puluh lima, bintang itu meletus.",
+        "text": "Meletus Oktober 2025",
+        "icon": "burst"
+      },
+      {
+        "say": "Para peneliti menduga bintang kecil sebelumnya berputar masuk ke lapisan luar sang raksasa.",
+        "text": "Si kecil masuk ke dalam",
+        "viz": {
+          "kind": "steps",
+          "items": [
+            "Bintang kecil mengorbit",
+            "Masuk ke lapisan luar raksasa",
+            "Meletus lalu bergabung"
+          ],
+          "caption": "Dugaan para peneliti"
+        }
+      },
+      {
+        "say": "Petunjuknya mengarah ke penggabungan, tapi debu masih menutupi sisanya, jadi belum bisa dilihat langsung.",
+        "text": "Debu menutupi hasilnya",
+        "icon": "cloud"
+      },
+      {
+        "say": "Kirim ini ke temanmu yang suka luar angkasa, dan ikuti @alwaysfact_ untuk fakta sains lainnya.",
+        "text": "Kirim dan ikuti",
+        "icon": "rocket"
+      }
+    ]
+  },
+  "caption": "Di galaksi Andromeda, sebuah bintang raksasa makin terang selama tujuh tahun lalu meletus pada Oktober 2025. Petunjuknya mengarah ke penggabungan dengan bintang kecil di dalamnya, tetapi debu masih menutupi hasilnya. Kirim ke temanmu dan ikuti @alwaysfact_.\n\nSumber: Science News, 18-19 November 2026 (Nature, Karambelkar dkk.).",
+  "hashtags": [
+    "sains",
+    "astronomi",
+    "bintang",
+    "andromeda",
+    "luarangkasa",
+    "faktasains",
+    "alwaysfact"
+  ],
+  "claims": [
+    {
+      "text": "Selama tujuh tahun, sebuah bintang raksasa di galaksi Andromeda terus bertambah terang.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao"
+    },
+    {
+      "text": "Bintang itu membengkak lebih dari dua kali ukuran semula, padahal suhu permukaannya nyaris tidak berubah.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao"
+    },
+    {
+      "text": "Pada Oktober 2025, bintang itu meletus.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao"
+    },
+    {
+      "text": "Petunjuk-petunjuk itu mengarah ke penggabungan dua bintang.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao"
+    },
+    {
+      "text": "Debu terlalu tebal sehingga sisa sistem belum bisa dilihat langsung.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao"
+    }
+  ],
+  "music_suggestions": [
+    "misterius kosmik, tempo pelan",
+    "sinematik membangun, tempo sedang",
+    "ambient penasaran, tempo lambat"
+  ],
+  "id": "013",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao",
+      "quote": "For seven years, a giant star in the Andromeda galaxy grew brighter.",
+      "note": "Kalimat sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao",
+      "quote": "It swelled to more than twice its original size, even as its surface temperature barely changed.",
+      "note": "Kalimat sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao",
+      "quote": "Then, in October 2025, it erupted.",
+      "note": "Kalimat sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao",
+      "quote": "Together, those clues point to a merger.",
+      "note": "Kalimat sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao",
+      "quote": "Still, too much dust clouds the system to directly see what remains.",
+      "note": "Kalimat sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao",
+  "topic_id": "te7b1fb34",
+  "image_credits": [
+    "NASA, ESA, Benjamin F. Williams (UWashington), Zhuo Chen (UW / Public domain (Wikimedia Commons)"
+  ]
+}
