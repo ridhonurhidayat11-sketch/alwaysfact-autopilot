@@ -2,8 +2,7 @@ name: Scout (daily candidate topics, no AI)
 
 on:
   schedule:
-    - cron: "30 21 * * *"   # 04:30 WIB, before the Claude routine of 05:07
-    - cron: "30 9 * * *"    # 16:30 WIB, before the Claude routine of 17:07 (fresh news twice a day)
+    - cron: "30 3,9,15,21 * * *"   # 10:30, 16:30, 22:30, 04:30 WIB: fresh news 20 minutes before each Claude routine run
   workflow_dispatch: {}
 
 permissions:
