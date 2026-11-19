@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *"   # 07:00 WIB, after the planner and before the first slot
   workflow_dispatch: {}
+  # Woken by the Claude routine "tick" (pushes an empty claude/tick-* branch): GitHub cron proved unreliable here.
+  push:
+    branches: ["claude/tick-**"]
 
 permissions:
   contents: write
@@ -21,6 +24,8 @@ jobs:
       IG_TOKEN_ISSUED: ${{ vars.IG_TOKEN_ISSUED }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main          # a tick branch only wakes this workflow up; the data always lives on main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -38,7 +43,7 @@ jobs:
           git add -A media 2>/dev/null || true
           git diff --cached --quiet && exit 0
           git commit -m "watchdog: health report"
-          for i in 1 2 3; do git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && exit 0; sleep 5; done
+          for i in 1 2 3; do git pull --rebase -X theirs origin main && git push origin HEAD:main && exit 0; sleep 5; done
       - name: Tell me when something needs attention
         if: steps.dog.outcome == 'failure'
         env:
