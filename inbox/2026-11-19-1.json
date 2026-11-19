@@ -1,0 +1,151 @@
+{
+ "topic_id": "t8b988991",
+ "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
+ "risk": "low",
+ "post": {
+  "topic": "Paus purba dengan wajah paling miring yang pernah ditemukan",
+  "hook_options": [
+   "Wajah paus ini miring sampai ilmuwan kira tengkoraknya rusak",
+   "Tengkorak paus ini begitu miring, dikira fosilnya remuk"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Wajah paus ini miring sampai ilmuwan kira tengkoraknya rusak",
+    "body": "Geser untuk lihat kenapa ternyata itu bukan kerusakan.",
+    "visual": {
+     "source": "pexels",
+     "keywords": "whale skull fossil"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Paus kecil dari Peru",
+    "body": "Scaphokogia huachafo hidup sekitar 6.3 hingga 5.6 juta tahun lalu dan panjangnya kira-kira 2.7 meter.",
+    "visual": {
+     "source": "pexels",
+     "keywords": "prehistoric whale ocean"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Kedua lubang hidungnya di kiri",
+    "body": "Kedua lubang hidung tulangnya bergeser seluruhnya ke sisi kiri tengkorak. Wajahnya benar-benar tidak simetris.",
+    "visual": {
+     "source": "pexels",
+     "keywords": "skull asymmetry"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Awalnya dikira rusak",
+    "body": "Peneliti curiga tengkoraknya terpuntir tekanan sedimen. Tapi sutura tulangnya tertutup penuh dan tidak ada retakan.",
+    "visual": {
+     "source": "pexels",
+     "keywords": "fossil excavation"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Moncong menunduk 31 derajat",
+    "body": "Moncongnya menekuk ke bawah 31 derajat dan lehernya bisa menunduk hingga 55 derajat, cocok untuk mencari makan di dasar laut.",
+    "visual": {
+     "source": "pexels",
+     "keywords": "seafloor ocean"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Bukan cacat, tapi adaptasi",
+    "body": "Menurut peneliti, bentuk aneh ini kemungkinan membantu sonarnya mendeteksi mangsa yang bersembunyi di bawah sedimen.",
+    "visual": {
+     "source": "pexels",
+     "keywords": "echolocation whale"
+    }
+   },
+   {
+    "type": "cta",
+    "title": "Mau fakta sains lain yang bikin melongo?",
+    "body": "Ikuti @alwaysfact_ dan kirim ke teman yang suka bilang 'masa sih?'",
+    "visual": {
+     "source": "pexels",
+     "keywords": "ocean whale"
+    }
+   }
+  ],
+  "caption": "Bayangkan tengkorak yang begitu miring sampai ilmuwan mengira fosilnya rusak tertekan bumi selama jutaan tahun. Ternyata itu bentuk aslinya. Paus purba Scaphokogia huachafo dari Peru punya wajah yang mungkin paling tidak simetris dari semua mamalia. Bentuk anehnya tampaknya adaptasi untuk berburu di dasar laut dangkal. Menurut peneliti, ini temuan studi, bukan kepastian mutlak soal caranya hidup. Ikuti @alwaysfact_ untuk fakta sains lain!\n\nSumber: ScienceDaily (University of Zurich)",
+  "hashtags": [
+   "fakta",
+   "sains",
+   "paus",
+   "fosil",
+   "evolusi",
+   "hewanpurba",
+   "alwaysfact",
+   "faktaunik"
+  ],
+  "claims": [
+   {
+    "text": "Paus Scaphokogia huachafo hidup antara 6.3 dan 5.6 juta tahun lalu dengan panjang sekitar 2.7 meter.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
+   },
+   {
+    "text": "Kedua lubang hidung tulang paus ini bergeser seluruhnya ke sisi kiri tengkorak.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
+   },
+   {
+    "text": "Peneliti awalnya curiga tengkoraknya rusak setelah mati, tetapi bentuk miringnya ternyata alami.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
+   },
+   {
+    "text": "Moncongnya menunjuk ke bawah dengan sudut 31 derajat dan kepalanya bisa menunduk hingga 55 derajat.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
+   }
+  ],
+  "music_suggestions": [
+   "misterius, tempo sedang",
+   "ambient laut, lambat",
+   "penasaran, tempo ringan"
+  ],
+  "pillar": "Hewan dan alam"
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
+   "quote": "the whale lived during the Late Miocene, between 6.3 and 5.6 million years ago, and measured approximately 2.7 meters in length.",
+   "note": "quote copied from stored article text"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
+   "quote": "Both bony nostrils are shifted entirely to the left side of the skull",
+   "note": "quote copied from stored article text"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
+   "quote": "A bizarre prehistoric whale that lived roughly 6 million years ago had a face so crooked that researchers initially suspected its fossilized skull had been distorted after death.",
+   "note": "quote copied from stored article text"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
+   "quote": "Its snout also pointed downward at an angle of 31 degrees relative to the rest of its skull. By reconstructing the joint connecting the skull to the first neck vertebra, known as the atlas, scientists determined that Scaphokogia could bend its head downward by as much as 55 degrees.",
+   "note": "quote copied from stored article text"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}
