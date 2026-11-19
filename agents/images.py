@@ -123,6 +123,12 @@ GENERIC = {"ocean", "deep", "science", "scientific", "curiosity", "mystery", "il
            "structure", "drawing", "diagram", "animal", "nature", "water", "light", "the", "and", "of", "in", "a"}
 
 
+# Words that show the photo is about a PLACE, a sign or a monument that merely contains the subject's name
+# ('Orcas Island' is not an orca, a memorial plaque is not the stone). Ignored when the query itself asks for that thing.
+INCIDENTAL = re.compile(r"\b(islands?|streets?|roads?|avenues?|schools?|churche?s?|hotels?|stadiums?|restaurants?|airports?|"
+                        r"plaques?|memorials?|inscriptions?|signage|signs?|statues?|screenshots?|logos?)\b")
+
+
 def relevant(c, query):
     """The photo must actually be about the subject: its title/description/categories have to contain the
     subject words, and the HEAD word (the most specific one) is mandatory. A loose full-text match
@@ -135,6 +141,9 @@ def relevant(c, query):
     if not toks:
         return False
     text = c.get("core", c.get("text", ""))  # title + description; categories are too loose to prove the subject
+    asked = set(re.findall(r"[a-z]+", (query or "").lower()))
+    if any(m.group(1).rstrip("s") not in {a.rstrip("s") for a in asked} for m in INCIDENTAL.finditer(text)):
+        return False
 
     def has(t):  # whole words only: 'pig' must not match 'pigment'
         return bool(re.search(r"\b" + re.escape(t.rstrip("s") if len(t) > 3 else t) + r"s?\b", text))

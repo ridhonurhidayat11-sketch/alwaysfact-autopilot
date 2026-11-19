@@ -375,9 +375,7 @@ def render_post(post, out_dir, photos, slide_photos=None):
         art_img = (lambda spec: (lambda w, h: infographics.render(spec, w, h)))(s["viz"]) if s.get("viz") and infographics.valid(s["viz"]) else None
         if s["type"] == "hook":
             pick = own.get(i) or (spare.pop(0) if spare else None)
-            if not pick and not art_img:  # no photo: borrow the most striking infographic of the post as the hero
-                hero = next((x["viz"] for x in slides if x.get("viz") and x["viz"].get("kind") in ("stat", "dots") and infographics.valid(x["viz"])), None)
-                art_img = (lambda spec: (lambda w, h: infographics.render(spec, w, h)))(hero) if hero else None
+            # No photo: the cover stays typographic with the mascot. It never borrows a number that a later slide shows again.
             fn = art_from(pick[0] if pick else None, art_img)
             img = slide_cover(s, i, total, fn, pick[1] if pick and art_img is None else None)
         elif s["type"] == "cta":
@@ -428,7 +426,7 @@ def gather_slide_photos(post, taken):
             continue
         color, grey = [], []
         for c in images.find_many(q, 4, "commons", pool=8):
-            if c["url"] in taken:
+            if c["url"] in taken or images.quality(c) < 0:  # drawings, models and dull specimen shots: no photo is better
                 continue
             _download(c, color, grey)
             if color:

@@ -109,11 +109,31 @@ def _common_problems(p):
     return bad
 
 
+JARGON = re.compile(r"\b(molekul\w*|protein\w*|enzim\w*|isotop\w*|spektrum|hipotesis|spesies|genus|sulfida|natrium|senyawa|"
+                    r"kuantum|anomali|algoritma\w*|paleontolog\w*|arkeolog\w*|geolog\w*|mikrob\w*|genom\w*|neuron\w*|"
+                    r"eksoplanet\w*|nebula\w*|supernova|metabolit\w*|spektroskop\w*|fotometri\w*|mineral\w*|kristal\w*)\b", re.I)
+
+
+def hook_problems(text):
+    """A hook must be understandable by a lay reader in 3 seconds: no jargon, not too many foreign names, no hanging 'ini'."""
+    bad, words = [], re.findall(r"[A-Za-z0-9'-]+", text or "")
+    if m := JARGON.search(text or ""):
+        bad.append(f"hook uses the technical word {m.group(0)!r}: say it in everyday words")
+    names = [w for w in words[1:] if w[0].isupper() and len(w) > 2]
+    if len(names) > 2:
+        bad.append(f"hook has {len(names)} proper names ({', '.join(names[:4])}): keep at most 2, lay readers will not know them")
+    if any(len(w) > 14 for w in words):
+        bad.append("hook has a very long word: use a simpler one")
+    if re.search(r"\b(hewan|batu|benda|zat|makhluk|tumbuhan|planet|bintang|fosil)( \w+){0,2} ini\b", text or "", re.I):
+        bad.append("hook says 'X ini' without naming the thing: name it, the reader has not seen the picture yet")
+    return bad
+
+
 def validate_post(p, check_viz=True):
     """Returns a list of problems; an empty list means the structure is acceptable."""
     if p.get("format") == "reel":
         import reel
-        return reel.validate_reel(p) + _common_problems(p) + (viz_problems(p) if check_viz else [])
+        return reel.validate_reel(p) + hook_problems((p.get("reel") or {}).get("hook")) + _common_problems(p) + (viz_problems(p) if check_viz else [])
     bad = []
     slides = p.get("slides") or []
     lo, hi = LIMITS["slides"]
@@ -124,6 +144,7 @@ def validate_post(p, check_viz=True):
             bad.append("first slide must be type hook")
         if slides[-1].get("type") != "cta":
             bad.append("last slide must be type cta")
+        bad += hook_problems(slides[0].get("title"))
     for i, s in enumerate(slides, 1):
         if s.get("type") not in SLIDE_TYPES:
             bad.append(f"slide {i}: unknown type {s.get('type')!r}")
