@@ -1,13 +1,38 @@
 {
   "per_feed": 8,
   "feeds": [
-    {"name": "NASA", "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss"},
-    {"name": "NOAA", "url": "https://www.noaa.gov/rss.xml"},
-    {"name": "Nature", "url": "https://www.nature.com/nature.rss"},
-    {"name": "Science News", "url": "https://www.sciencenews.org/feed"},
-    {"name": "Quanta Magazine", "url": "https://api.quantamagazine.org/feed/"},
-    {"name": "Phys.org", "url": "https://phys.org/rss-feed/"},
-    {"name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/top/science.xml"},
-    {"name": "New Scientist", "url": "https://www.newscientist.com/feed/home/"}
-  ]
+    {
+      "name": "NASA",
+      "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+    },
+    {
+      "name": "NOAA",
+      "url": "https://www.noaa.gov/rss.xml"
+    },
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com/nature.rss"
+    },
+    {
+      "name": "Science News",
+      "url": "https://www.sciencenews.org/feed"
+    },
+    {
+      "name": "Quanta Magazine",
+      "url": "https://api.quantamagazine.org/feed/"
+    },
+    {
+      "name": "Phys.org",
+      "url": "https://phys.org/rss-feed/"
+    },
+    {
+      "name": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/rss/top/science.xml"
+    },
+    {
+      "name": "New Scientist",
+      "url": "https://www.newscientist.com/feed/home/"
+    }
+  ],
+  "max_age_days": 5
 }
