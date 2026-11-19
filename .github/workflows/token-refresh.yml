@@ -1,0 +1,36 @@
+name: Refresh the Instagram token (every 60 days it would expire)
+
+# The Instagram long-lived token lives 60 days and can be refreshed once it is at least 24 hours old.
+# This workflow refreshes it twice a month and stores the new value back as the IG_TOKEN secret.
+# Writing a secret needs a personal access token that YOU create once (fine-grained, this repository only,
+# permission "Secrets: read and write" and "Variables: read and write") and save as the secret GH_PAT.
+# Without GH_PAT this workflow only reports; refresh the token by hand then (the watchdog warns you in time).
+
+on:
+  schedule:
+    - cron: "0 3 1,15 * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Refresh and store the token
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          if [ -z "$IG_TOKEN" ]; then echo "IG_TOKEN is not set yet: nothing to refresh"; exit 0; fi
+          resp=$(curl -fsS "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${IG_TOKEN}") || { echo "::error::refresh call failed (token expired or younger than 24 h?)"; exit 1; }
+          new=$(echo "$resp" | python3 -c "import sys,json; print(json.load(sys.stdin).get('access_token',''))")
+          [ -n "$new" ] || { echo "::error::no access_token in the answer"; exit 1; }
+          echo "::add-mask::$new"
+          if [ -z "$GH_PAT" ]; then echo "::warning::Token is valid and refreshed on Instagram's side, but GH_PAT is not set, so the new value could not be stored. Add the GH_PAT secret (see the comment at the top of this file)."; exit 0; fi
+          GH_TOKEN="$GH_PAT" gh secret set IG_TOKEN --repo "$GH_REPO" --body "$new"
+          GH_TOKEN="$GH_PAT" gh variable set IG_TOKEN_ISSUED --repo "$GH_REPO" --body "$(date -u +%F)"
+          echo "token refreshed and stored"

@@ -21,6 +21,7 @@ jobs:
     env:
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
       IG_TOKEN: ${{ secrets.IG_TOKEN }}
+      IG_GRAPH_BASE: ${{ vars.IG_GRAPH_BASE }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
