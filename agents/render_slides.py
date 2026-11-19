@@ -201,7 +201,8 @@ def gather_photos(post):
     for c in images.find_many(query, MAX_PHOTOS, prefer):
         try:
             got.append((images.get_bytes(c["url"]), "Foto ilustrasi: " + images.credit(c), c))
-        except Exception:
+        except Exception as e:
+            images.ERRORS.append(f"download {c['url'][:70]}: {type(e).__name__}: {str(e)[:60]}")
             continue
     return got
 

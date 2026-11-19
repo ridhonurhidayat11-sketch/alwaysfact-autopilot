@@ -72,7 +72,7 @@ def commons_search(query, fetch=get_json, limit=12):
     url = COMMONS + "?" + urllib.parse.urlencode({
         "action": "query", "format": "json", "generator": "search", "gsrnamespace": 6,
         "gsrsearch": f"{query} filetype:bitmap", "gsrlimit": limit, "prop": "imageinfo",
-        "iiprop": "url|size|mime|extmetadata", "iiurlwidth": 1600})
+        "iiprop": "url|size|mime|extmetadata", "iiurlwidth": 1280})
     data = fetch(url)
     pages = ((data.get("query") or {}).get("pages") or {}).values()
     out, dropped = [], {}
