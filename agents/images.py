@@ -73,15 +73,21 @@ def commons_search(query, fetch=get_json, limit=12):
         "action": "query", "format": "json", "generator": "search", "gsrnamespace": 6,
         "gsrsearch": f"{query} filetype:bitmap", "gsrlimit": limit, "prop": "imageinfo",
         "iiprop": "url|size|mime|extmetadata", "iiurlwidth": 1600})
-    pages = ((fetch(url).get("query") or {}).get("pages") or {}).values()
-    out = []
+    data = fetch(url)
+    pages = ((data.get("query") or {}).get("pages") or {}).values()
+    out, dropped = [], {}
     for p in sorted(pages, key=lambda x: x.get("index", 0)):
         ii = (p.get("imageinfo") or [{}])[0]
         meta = ii.get("extmetadata", {})
         lic = (meta.get("LicenseShortName") or {}).get("value", "")
-        if ii.get("mime") not in ("image/jpeg", "image/png") or not license_ok(lic):
+        if ii.get("mime") not in ("image/jpeg", "image/png"):
+            dropped["mime"] = dropped.get("mime", 0) + 1
+            continue
+        if not license_ok(lic):
+            dropped["license:" + (lic or "none")[:20]] = dropped.get("license:" + (lic or "none")[:20], 0) + 1
             continue
         if ii.get("width", 0) < MIN_W or ii.get("height", 0) < MIN_H:
+            dropped["small"] = dropped.get("small", 0) + 1
             continue
         out.append({"source": "Wikimedia Commons", "url": ii.get("thumburl") or ii.get("url"),
                     "title": strip(p.get("title", "")).replace("File:", ""), "creator": strip((meta.get("Artist") or {}).get("value", "")) or "unknown",
@@ -89,6 +95,9 @@ def commons_search(query, fetch=get_json, limit=12):
                     "text": " ".join([p.get("title", ""), strip((meta.get("ImageDescription") or {}).get("value", "")),
                                       strip((meta.get("ObjectName") or {}).get("value", "")),
                                       strip((meta.get("Categories") or {}).get("value", "")).replace("|", " ")]).lower()})
+    if not out:  # an empty answer is not an error, but it must not be silent either
+        keys = [k for k in data if k != "batchcomplete"][:3]
+        ERRORS.append(f"commons_search({query!r}): 0 usable of {len(list(pages))}; dropped={dropped}; keys={keys}")
     return out
 
 
