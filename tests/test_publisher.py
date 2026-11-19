@@ -13,7 +13,7 @@ NOW = datetime(2026, 11, 20, 6, 0, tzinfo=timezone.utc)
 
 
 def row(i="001", at="2026-11-20T05:00:00Z", urls="https://x/a.jpg", cap="cap", status="approved"):
-    return {"id": i, "scheduled_at": at, "media_urls": urls, "caption": cap, "status": status, "result": ""}
+    return {"id": i, "scheduled_at": at, "media_urls": urls, "caption": cap, "status": status, "result": "", "posted_at": ""}
 
 
 class FakeApi:
