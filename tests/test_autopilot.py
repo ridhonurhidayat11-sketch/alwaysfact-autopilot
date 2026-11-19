@@ -1,5 +1,6 @@
 import copy
 import json
+import os
 import sys
 import tempfile
 import unittest
@@ -30,6 +31,19 @@ def ctl(**kw):
     c.update({"mode": "shadow", **kw})
     return c
 
+
+
+_SAVED_KEY = {}
+
+
+def setUpModule():
+    """These tests use a fake Meta API; a real BUFFER_API_KEY in the environment (as in GitHub Actions) must not redirect them to Buffer."""
+    _SAVED_KEY["v"] = os.environ.pop("BUFFER_API_KEY", None)
+
+
+def tearDownModule():
+    if _SAVED_KEY.get("v") is not None:
+        os.environ["BUFFER_API_KEY"] = _SAVED_KEY["v"]
 
 class SourceRuleTests(unittest.TestCase):
     def ok(self, first, second=""):

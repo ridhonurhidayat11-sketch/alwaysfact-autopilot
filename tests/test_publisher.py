@@ -16,6 +16,19 @@ def row(i="001", at="2026-11-20T05:00:00Z", urls="https://x/a.jpg", cap="cap", s
     return {"id": i, "scheduled_at": at, "media_urls": urls, "caption": cap, "status": status, "result": "", "posted_at": ""}
 
 
+
+_SAVED_KEY = {}
+
+
+def setUpModule():
+    """These tests use a fake Meta API; a real BUFFER_API_KEY in the environment (as in GitHub Actions) must not redirect them to Buffer."""
+    _SAVED_KEY["v"] = os.environ.pop("BUFFER_API_KEY", None)
+
+
+def tearDownModule():
+    if _SAVED_KEY.get("v") is not None:
+        os.environ["BUFFER_API_KEY"] = _SAVED_KEY["v"]
+
 class FakeApi:
     """Records Graph API calls and answers like Instagram would."""
 
