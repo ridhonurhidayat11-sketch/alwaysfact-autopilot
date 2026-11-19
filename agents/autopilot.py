@@ -73,7 +73,7 @@ def caption_with_tags(post):
 
 def enqueue(rows, posts, c, now):
     """Add one `pending_media` row per ready post. Reels take the prime-time reel slots, carousels the other slots."""
-    taken = {r["scheduled_at"] for r in rows}
+    taken = {r["scheduled_at"] for r in rows if r.get("status") != "held"}   # a held row does not use up its slot
     reel_slots = [x for x in c.get("reel_slots_wib", []) if x in c["slots_wib"]]
     other = [x for x in c["slots_wib"] if x not in reel_slots] or list(c["slots_wib"])
     groups = [([p for p in posts if p.get("format") == "reel"], {**c, "slots_wib": reel_slots or c["slots_wib"]}),
