@@ -61,10 +61,15 @@ VISUAL FIELDS on a fact slide (all optional but strongly wanted, so every slide 
   In body text you may mark the key phrase with **double asterisks** (bold + underline).
 
 REEL FORMAT (when the brief asks for reels): same object, but set "post.format": "reel", "post.slides": [] and add
-  "post.reel": {"hook": "<8-70 chars, shown on screen in the first second>", "mood": "curious|calm|energetic",
-    "beats": [ {"say": "<ONE narrated Indonesian sentence, 12-190 chars, max ~25 words>",
-                "text": "<2-5 word on-screen headline>", "viz": {...as above...} OR "image_query": "<English>", "icon": "<optional>"} ]}
-  5-8 beats, 45-140 narrated words in total (about 25-45 seconds). Beat 1 is the hook (a question or surprising fact),
+  "post.reel": {"central_question": "<the one question the video answers>", "titles": ["<3 alternative titles, 8-90 chars>", "...", "..."],
+    "hook": "<8-70 chars, shown on screen in the first second>", "mood": "curious|calm|energetic",
+    "beats": [ {"act": "hook|context|stakes|evidence|reveal|conclusion|cta", "say": "<ONE narrated Indonesian sentence, 12-190 chars, max ~25 words>",
+                "text": "<2-5 word on-screen headline>", "viz": {...as above, kinds also include timeline...} OR "image_query": "<English>",
+                "icon": "<optional>", "claim": <number of the claim this beat states, optional>,
+                "camera": "push_in|pull_out|pan_left|pan_right|zoom_to_detail|static", "transition": "wipe|slide|fade|cut"} ]}
+  Timeline viz: {"kind":"timeline","items":[{"label":"6.3 juta tahun lalu","text":"..."},{"label":"...","text":"..."}]} (2-4 events).
+  Follow the 'Brief Reels ala Vox' in the brand text: a story with a central question, at most 60 seconds (about 100-140 narrated words).
+  5-8 beats, 45-150 narrated words in total (about 20-60 seconds). Beat 1 is the hook (a question or surprising fact),
   the LAST beat is the call to action: ask to send it to a friend and to follow @alwaysfact_ (the code draws that scene).
   Spell numbers in words inside "say" (the voice reads it), and keep digits in "text"/"viz". Caption, hashtags, claims and
   verdicts work exactly as for a carousel. Reels follow the same fact rules: nothing is said that a verified claim does not support."""
