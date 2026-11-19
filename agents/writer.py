@@ -104,9 +104,10 @@ def validate_post(p):
             bad.append(f"slide {i}: title missing or over {LIMITS['title']} chars")
         if len(s.get("body", "")) > LIMITS["body"]:
             bad.append(f"slide {i}: body over {LIMITS['body']} chars")
-        vs = (s.get("visual") or {}).get("source")
-        if vs not in VISUAL_SOURCES:
-            bad.append(f"slide {i}: visual source must be one of {sorted(VISUAL_SOURCES)}")
+        if s.get("visual") is not None:  # legacy field: photos now come from image_query, drawings from viz
+            vs = (s.get("visual") or {}).get("source") if isinstance(s.get("visual"), dict) else None
+            if vs not in VISUAL_SOURCES:
+                bad.append(f"slide {i}: visual source must be one of {sorted(VISUAL_SOURCES)} (or leave visual out)")
     if len(p.get("hook_options") or []) < 2:
         bad.append("need 2 hook_options")
     for i, s in enumerate(slides, 1):

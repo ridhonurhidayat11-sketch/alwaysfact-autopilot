@@ -29,7 +29,7 @@ SCHEMA = """Write each proposal to inbox/<YYYY-MM-DD>-<n>.json as exactly this J
     "hook_options": ["<hook 1, max 70 chars>", "<hook 2, different>"],
     "slides": [ {"type": "hook|fact|compare|chart|cta", "title": "<max 70>", "body": "<max 220>",
                  "image_query": "<optional, fact slides only: English words for a photo of the concrete thing THIS slide is about, e.g. 'Escherichia coli'; leave out when abstract>",
-                 "visual": {"source": "canva_stock|unsplash|pexels|pixabay|nasa|wikimedia|code_chart", "keywords": "<search words>"}} ],
+                 (the old "visual" field is no longer needed: leave it out) } ],
     "caption": "<Indonesian, max 1200, ends with a line starting 'Sumber:' naming the sources>",
     "hashtags": ["<5-10 tags without #>"],
     "claims": [ {"text": "<one factual statement, Indonesian>", "source_name": "<name>", "source_url": "<https url>"} ],
@@ -68,6 +68,28 @@ REEL FORMAT (when the brief asks for reels): same object, but set "post.format":
   the LAST beat is the call to action: ask to send it to a friend and to follow @alwaysfact_ (the code draws that scene).
   Spell numbers in words inside "say" (the voice reads it), and keep digits in "text"/"viz". Caption, hashtags, claims and
   verdicts work exactly as for a carousel. Reels follow the same fact rules: nothing is said that a verified claim does not support."""
+
+
+def recent_rejections(limit=8):
+    """Why the referee refused proposals recently, so the routine does not repeat the same mistakes."""
+    try:
+        lines = (STATE / "ingest_log.jsonl").read_text(encoding="utf-8").splitlines()[-6:]
+    except OSError:
+        return []
+    seen, out = set(), []
+    for ln in reversed(lines):
+        try:
+            rep = json.loads(ln).get("report", [])
+        except ValueError:
+            continue
+        for r in rep:
+            if r.get("result") == "rejected":
+                for reason in r.get("reasons", []):
+                    key = reason.split(":", 1)[-1].strip()[:60]
+                    if key not in seen:
+                        seen.add(key)
+                        out.append(reason[:200])
+    return out[:limit]
 
 
 def _format(post_id):
@@ -111,6 +133,7 @@ def brief(now=None, queue_path=None):
         "candidates": [{k: x[k] for k in ("id", "source", "title", "summary", "url", "text_file") if k in x}
                        for x in fresh[:60]],
         "already_covered": history[-40:],
+        "recent_rejections_do_not_repeat": recent_rejections(),
         "rubric": rubric,
         "brand": (ROOT / "brand.md").read_text(encoding="utf-8"),
         "trusted_tier1_domains": load_json(CONFIG / "trusted_sources.json", {}).get("tier1", []),
