@@ -1,0 +1,35 @@
+name: Buffer check (nothing is published)
+
+# Verifies the Buffer connection end to end WITHOUT publishing: lists the organisation and the Instagram channel and,
+# when a queue id is given, puts that post into Buffer as a DRAFT (saveToDraft), which is never published.
+
+on:
+  workflow_dispatch:
+    inputs:
+      draft_id:
+        description: "Optional queue id to send to Buffer as a draft, for example 009"
+        required: false
+        default: ""
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+      BUFFER_CHANNEL_ID: ${{ vars.BUFFER_CHANNEL_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Is the key there, and is Instagram connected?
+        run: python publisher/buffer_backend.py check
+      - name: Send one post as a draft (optional, never published)
+        if: ${{ github.event.inputs.draft_id != '' }}
+        env:
+          DRAFT_ID: ${{ github.event.inputs.draft_id }}
+        run: python publisher/buffer_backend.py draft "$DRAFT_ID"

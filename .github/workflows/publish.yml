@@ -22,6 +22,8 @@ jobs:
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
       IG_TOKEN: ${{ secrets.IG_TOKEN }}
       IG_GRAPH_BASE: ${{ vars.IG_GRAPH_BASE }}
+      BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+      BUFFER_CHANNEL_ID: ${{ vars.BUFFER_CHANNEL_ID }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
