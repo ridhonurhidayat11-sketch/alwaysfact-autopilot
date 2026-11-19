@@ -17,9 +17,6 @@
   "paused": false,
   "pause_reason": "",
   "max_consecutive_failures": 3,
-  "reel_slots_wib": [
-    "12:00",
-    "19:30"
-  ],
-  "reels_per_day": 2
+  "reel_slots_wib": [],
+  "reels_per_day": 0
 }
