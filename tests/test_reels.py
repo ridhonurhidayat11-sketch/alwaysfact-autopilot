@@ -143,6 +143,25 @@ class JudgeVizNumberTests(unittest.TestCase):
         self.assertTrue(any("77" in r for r in reasons))
 
 
+class WordNumberTests(unittest.TestCase):
+    def test_numbers_written_as_words_count_as_numbers(self):
+        n = writer._numbers("Selama tujuh tahun, dua belas bintang, dua puluh lima kali; three years and fifty cents")
+        for x in ("7", "12", "20", "25", "3", "50"):
+            self.assertIn(x, n)
+
+    def test_a_viz_may_say_7_when_the_claim_says_tujuh(self):
+        p = reel_post()
+        p["claims"][0]["text"] = "Selama tujuh tahun, sebuah bintang terus bertambah terang."
+        p["reel"]["beats"][1]["viz"] = {"kind": "stat", "value": "7 tahun", "label": "makin terang"}
+        self.assertEqual([x for x in writer.viz_problems(p) if "beat 2" in x], [])
+
+    def test_a_derived_number_is_still_refused(self):
+        p = reel_post()
+        p["claims"][0]["text"] = "Memasak menyumbang hingga 83 persen emisi."
+        p["reel"]["beats"][1]["viz"] = {"kind": "stat", "value": "17%", "label": "sisanya"}
+        self.assertTrue(any("17" in x for x in writer.viz_problems(p)))
+
+
 class ElementTests(unittest.TestCase):
     def test_every_icon_and_the_mascot_draw(self):
         for name in elements.ICONS:
