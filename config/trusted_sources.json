@@ -1,10 +1,11 @@
 {
-  "note": "A claim passes automatically only with evidence from one of these tier-1 domains, or from two independent domains. Suffix match.",
+  "note": "A claim passes automatically only with evidence from one of these domains, or from two independent sites. Suffix match. Editorially reviewed science outlets are included because the routine verifies against stored article text; the referee still re-fetches the live page and checks every quote.",
   "tier1": [
     "nasa.gov", "noaa.gov", "usgs.gov", "nih.gov", "cdc.gov", "who.int", "esa.int", "cern.ch", "nist.gov",
     "nature.com", "science.org", "sciencemag.org", "cell.com", "pnas.org", "thelancet.com", "nejm.org",
     "royalsociety.org", "plos.org", "springer.com", "wiley.com", "sciencedirect.com", "arxiv.org",
     "smithsonianmag.com", "britannica.com", "nationalgeographic.com",
+    "sciencenews.org", "quantamagazine.org", "newscientist.com", "sciencedaily.com", "phys.org",
     ".edu", ".ac.uk", ".ac.id"
   ]
 }
