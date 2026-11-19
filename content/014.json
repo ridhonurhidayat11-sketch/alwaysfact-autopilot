@@ -1,0 +1,187 @@
+{
+  "topic": "Orca raksasa purba di Laut Utara yang mungkin memangsa paus lain",
+  "image_query": "Orcinus orca",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+    "Orca purba sepanjang bus kecil pernah berburu di Laut Utara",
+    "Orca ini mungkin memangsa paus lain"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Orca purba sepanjang bus kecil pernah berburu di Laut Utara",
+      "body": "Fosil yang ditarik jaring nelayan membuka rahasia pemburu laut purba.",
+      "icon": "fish",
+      "image_query": "Orcinus orca"
+    },
+    {
+      "type": "fact",
+      "title": "Fosilnya ditarik jaring nelayan",
+      "body": "Pada 1994, kapal nelayan yang menyeret dasar Laut Utara mengangkat berkarung-karung fosil dan gading mamut. Sebagian fosil itu milik orca besar yang belum dikenal.",
+      "takeaway": "Penemuannya berawal dari jaring ikan.",
+      "icon": "magnifier",
+      "image_query": "North Sea fishing trawler"
+    },
+    {
+      "type": "fact",
+      "title": "Panjangnya sekitar 7,7 meter",
+      "body": "Peneliti menduga orca purba ini bisa sepanjang 7.7 meter. Ukuran itu setara orca jantan terbesar zaman sekarang.",
+      "takeaway": "Sudah sebesar orca modern sejak jutaan tahun lalu.",
+      "icon": "fish",
+      "viz": {
+        "kind": "stat",
+        "value": "7.7 m",
+        "label": "perkiraan panjang",
+        "note": "setara orca jantan terbesar masa kini"
+      }
+    },
+    {
+      "type": "compare",
+      "title": "Sepupunya jauh lebih kecil",
+      "body": "Satu-satunya fosil orca lain yang dikenal berukuran 3.5 meter dan hidup di Laut Tengah pada masa yang sama. Analisisnya menyiratkan ia lebih banyak makan ikan.",
+      "takeaway": "Orca Laut Utara dua kali lebih panjang.",
+      "icon": "fish",
+      "viz": {
+        "kind": "compare",
+        "items": [
+          {
+            "label": "Orca Laut Utara",
+            "value": 7.7
+          },
+          {
+            "label": "Orca Laut Tengah",
+            "value": 3.5
+          }
+        ],
+        "unit": "m",
+        "caption": "Perkiraan panjang kedua orca purba"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Giginya tertanam dalam",
+      "body": "Gigi orca purba ini berada di lubang yang sangat dalam dan diperkuat tulang. Pada kebanyakan lumba-lumba, gigi hanya menempel di alur dangkal.",
+      "takeaway": "Gigi kokoh cocok untuk mencengkeram mangsa besar.",
+      "icon": "magnifier",
+      "image_query": "Orca skull teeth"
+    },
+    {
+      "type": "fact",
+      "title": "Jadi, mangsanya apa?",
+      "body": "Dari ciri tulang dan giginya, peneliti menduga ia bisa menyerang lumba-lumba atau paus baleen. Ini masih dugaan, belum bukti pasti.",
+      "takeaway": "Dugaan kuat, belum dipastikan.",
+      "icon": "bulb",
+      "image_query": "Baleen whale"
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_",
+      "body": "Kirim ke temanmu yang suka hewan purba, lalu ikuti @alwaysfact_ untuk fakta sains lainnya.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Fosil dari dasar Laut Utara menunjukkan orca purba yang diperkirakan sepanjang 7.7 meter, dengan gigi kokoh yang mirip orca pemburu mamalia laut masa kini. Peneliti menduga ia bisa memangsa lumba-lumba atau paus lain, tetapi itu masih dugaan. Kirim ke temanmu yang suka hewan!\n\nSumber: New Scientist, 19 November 2026.",
+  "hashtags": [
+    "orca",
+    "sains",
+    "faktasains",
+    "hewanpurba",
+    "fosil",
+    "pausorca",
+    "alwaysfact"
+  ],
+  "claims": [
+    {
+      "text": "Pada 1994, kapal nelayan yang menyeret dasar Laut Utara mengangkat fosil dan gading mamut; beberapa fosil tampak milik orca besar yang belum dikenal.",
+      "source_name": "New Scientist",
+      "source_url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+    },
+    {
+      "text": "Peneliti menduga orca Laut Utara bisa sepanjang 7.7 meter, setara orca jantan terbesar masa kini.",
+      "source_name": "New Scientist",
+      "source_url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+    },
+    {
+      "text": "Satu-satunya fosil orca lain yang dikenal berukuran 3.5 meter dan hidup di Laut Tengah pada masa yang sama.",
+      "source_name": "New Scientist",
+      "source_url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+    },
+    {
+      "text": "Gigi orca Laut Utara tertanam di lubang yang sangat dalam dan diperkuat tulang.",
+      "source_name": "New Scientist",
+      "source_url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+    },
+    {
+      "text": "Ciri ini membuat peneliti menduga ia bisa menyerang lumba-lumba atau paus baleen.",
+      "source_name": "New Scientist",
+      "source_url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+    }
+  ],
+  "music_suggestions": [
+    "tenang misterius, tempo pelan",
+    "ringan penasaran, tempo sedang",
+    "sinematik lembut, tempo pelan"
+  ],
+  "id": "014",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "quote": "In 1994, fishing vessels trawling the bottom of the southern North Sea between the UK and the coast of the Netherlands pulled up truckloads of fossils and mammoth tusks.",
+      "note": "1994 trawl",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "quote": "Bakker and his colleagues think it could have been 7.7 metres long, which puts it on par with some of the largest male orcas today.",
+      "note": "7.7 m",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "quote": "The only other fossil orca species known, says Bakker, is a 3.5-metre-long species that swam in the Mediterranean Sea around Italy at around the same time as the North Sea orcas were around.",
+      "note": "3.5 m",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "quote": "In particular, its teeth were set in very deep sockets that were reinforced with bone.",
+      "note": "teeth",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "quote": "These traits all hint that this predator could attack other big, powerful animals such as other dolphins or baleen whales.",
+      "note": "hedged",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+  "topic_id": "t58851156",
+  "image_credits": [
+    "H. Zell / CC BY-SA 3.0 (Wikimedia Commons)",
+    "Buiobuione / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Buiobuione / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Buiobuione / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Buiobuione / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Ciacho5 / CC BY-SA 4.0 (Wikimedia Commons)",
+    "brewbooks / CC BY-SA 2.0 (Wikimedia Commons)",
+    "TheUltimateGrass / CC0 (Wikimedia Commons)"
+  ]
+}
