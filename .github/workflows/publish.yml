@@ -18,6 +18,9 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    env:
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_TOKEN: ${{ secrets.IG_TOKEN }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -27,10 +30,11 @@ jobs:
         run: python -m unittest discover -s tests
       - name: Post the next approved, due row
         id: post
-        env:
-          IG_USER_ID: ${{ secrets.IG_USER_ID }}
-          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        if: ${{ env.IG_TOKEN != '' && env.IG_USER_ID != '' }}
         run: python publisher/publish.py
+      - name: Secrets not set yet (nothing is posted)
+        if: ${{ env.IG_TOKEN == '' || env.IG_USER_ID == '' }}
+        run: echo "::notice::IG_USER_ID or IG_TOKEN is not set. Add both under Settings > Secrets and variables > Actions."
       - name: Save queue changes (retries if the branch moved)
         if: always()
         run: |
@@ -49,5 +53,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          # one open alert at a time, so a repeating failure never floods the issue list
+          [ "$(gh issue list --state open --search 'Instagram post failed in:title' --json number -q length)" = "0" ] || exit 0
           gh issue create --title "Instagram post failed" \
             --body "The publisher reported an error. See queue.csv (status=error, result column) and the run log: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}. A common cause is an expired IG_TOKEN."
