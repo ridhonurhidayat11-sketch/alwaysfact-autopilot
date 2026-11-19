@@ -88,6 +88,16 @@ class FlowTests(unittest.TestCase):
             self.assertTrue(B.already_live("", CAROUSEL["caption"]))
             self.assertFalse(B.already_live("", "something else entirely"))
 
+    def test_a_draft_does_not_count_as_already_posted(self):
+        def gql(query, key=None, retries=2):
+            if "organizations" in query:
+                return {"account": {"organizations": [{"id": "O", "name": "o"}]}}
+            if "channels(" in query:
+                return {"channels": [{"id": "IG1", "service": "instagram"}]}
+            return {"posts": {"edges": [{"node": {"id": "p", "text": CAROUSEL["caption"], "status": "draft"}}]}}
+        with mock.patch.object(B, "gql", gql):
+            self.assertFalse(B.already_live("", CAROUSEL["caption"]))
+
     def test_draft_mode_creates_a_draft(self):
         gql, calls = self.fake()
         with mock.patch.object(B, "gql", gql), mock.patch.dict(os.environ, {"BUFFER_DRAFT": "1"}), \

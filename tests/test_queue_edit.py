@@ -41,3 +41,15 @@ class QueueEditTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class RetryTests(unittest.TestCase):
+    def test_retry_only_touches_rows_wrongly_marked_already_live(self):
+        import queue_edit as Q
+        rows = [
+            {"id": "009", "status": "posted", "result": "already-live", "posted_at": "", "scheduled_at": "x", "media_urls": "u", "caption": "c"},
+            {"id": "010", "status": "posted", "result": "buffer:abc:sending", "posted_at": "t", "scheduled_at": "x", "media_urls": "u", "caption": "c"},
+        ]
+        self.assertEqual(Q.retry(rows, {"009", "010"}), 1)
+        self.assertEqual((rows[0]["status"], rows[0]["result"]), ("approved", ""))
+        self.assertEqual(rows[1]["status"], "posted")
