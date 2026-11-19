@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "note": "Starting hypothesis, not a fact. The analyst agent will adjust weights from real insight data.",
+  "criteria": [
+    {"key": "surprise", "weight": 0.30, "question": "Would most people say 'masa sih?' (disbelief) on hearing it?"},
+    {"key": "simple", "weight": 0.20, "question": "Can it be told in 1 hook sentence plus 3 short slides?"},
+    {"key": "shareable", "weight": 0.20, "question": "Would someone send it to a friend?"},
+    {"key": "source", "weight": 0.15, "question": "Is there a primary source with clear numbers?"},
+    {"key": "visual", "weight": 0.10, "question": "Is there a strong image, chart or comparison for it?"},
+    {"key": "fresh", "weight": 0.05, "question": "Is it new to this account?"}
+  ],
+  "pillars": [
+    "Tubuh manusia",
+    "Alam semesta dan fisika",
+    "Benda sehari-hari yang rumit",
+    "Hewan dan alam",
+    "Sains yang disepelekan"
+  ]
+}
