@@ -21,6 +21,7 @@ sys.path.insert(0, str(ROOT / "publisher"))
 import elements  # noqa: E402
 import infographics  # noqa: E402
 import reel  # noqa: E402
+import reel_sheet  # noqa: E402
 import writer  # noqa: E402
 import autopilot  # noqa: E402
 import publish  # noqa: E402
@@ -67,6 +68,44 @@ class ReelValidationTests(unittest.TestCase):
                 "claims": [{"text": "14 sampai 20 kali", "source_url": "https://e.org/x"}, {"text": "b", "source_url": "https://e.org/y"}]}
         bad = writer.validate_post(post)
         self.assertTrue(any("takeaway" in x for x in bad))
+
+
+class StorytellingTests(unittest.TestCase):
+    def test_new_fields_are_validated(self):
+        p = reel_post()
+        p["reel"]["titles"] = ["only one title here"]
+        self.assertTrue(any("titles" in x for x in reel.validate_reel(p)))
+        p = reel_post()
+        p["reel"]["beats"][1]["act"] = "boring"
+        p["reel"]["beats"][2]["camera"] = "shake"
+        p["reel"]["beats"][3]["claim"] = 99
+        bad = " ".join(reel.validate_reel(p))
+        self.assertIn("act", bad)
+        self.assertIn("camera", bad)
+        self.assertIn("claim", bad)
+
+    def test_sixty_second_limit_is_enforced_through_the_word_count(self):
+        p = reel_post()
+        p["reel"]["beats"][1]["say"] = "kata " * 150
+        self.assertTrue(any("words" in x for x in reel.validate_reel(p)))
+
+    def test_timeline_infographic(self):
+        spec = {"kind": "timeline", "items": [{"label": "6.3 juta tahun lalu", "text": "a"}, {"label": "5.6 juta tahun lalu", "text": "b"}]}
+        self.assertTrue(infographics.valid(spec))
+        self.assertFalse(infographics.valid({"kind": "timeline", "items": [{"text": "no label"}, {"label": "x"}]}))
+        for pr in (0, 0.5, 1):
+            self.assertEqual(infographics.render(spec, 500, 400, pr).size, (500, 400))
+
+    def test_production_sheet_has_every_section(self):
+        p = reel_post()
+        p["reel"]["titles"] = ["Judul alternatif satu", "Judul alternatif dua", "Judul alternatif tiga"]
+        p["reel"]["beats"][2]["say"] = "Menurut peneliti, ini kemungkinan benar."
+        md = reel_sheet.sheet(p, [4.0] * len(p["reel"]["beats"]), ["A / CC0 (Wikimedia Commons)"])
+        for head in ("## A.", "## B.", "## C.", "## D.", "## E.", "## F.", "## G.", "## Referensi"):
+            self.assertIn(head, md)
+        self.assertIn("Judul alternatif dua", md)
+        self.assertIn("| 1 | 4.0 dtk |", md)
+        self.assertIn("Menurut peneliti", md.split("Interpretasi")[1])
 
 
 class ElementTests(unittest.TestCase):
