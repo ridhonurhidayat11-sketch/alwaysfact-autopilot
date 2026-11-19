@@ -70,7 +70,7 @@ def main():
         r["media_urls"] = " ".join(f"{base}/{n}" for n in names)
         print(f"rendered {len(names)} slides for {r['id']}")
     with open(QUEUE, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=["id", "scheduled_at", "media_urls", "caption", "status", "result"])
+        w = csv.DictWriter(f, fieldnames=["id", "scheduled_at", "media_urls", "caption", "status", "result", "posted_at"])
         w.writeheader()
         w.writerows(rows)
 

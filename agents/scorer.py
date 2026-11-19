@@ -33,7 +33,11 @@ def build_prompt(batch, rubric):
         f"Rate each candidate 1-5 on every criterion:\n{crit}\n\nPillars: {pillars}\n\nCandidates:\n{cands}\n\n"
         'Return a JSON array, one item per candidate: {"id": str, "scores": {"surprise": int, "simple": int, '
         '"shareable": int, "source": int, "visual": int, "fresh": int}, "pillar": str, "angle": str (hook idea in '
-        'Indonesian, max 110 chars, no clickbait lies), "reason": str (max 120 chars)}. '
+        'Indonesian, max 110 chars, no clickbait lies), "reason": str (max 120 chars), "risk": "low|medium|high"}. '
+        "risk: high = medical or health advice, politics, religion, disasters, deaths, children, claims about named "
+        "people, anything alarming; medium = early-stage or contested research, health-adjacent, simulated or "
+        "preliminary results; low = well-established science about space, nature, animals, physics, chemistry, "
+        "engineering. When unsure choose the higher risk. "
         'Candidates from "brainstorm" have no source URL yet: rate "source" at most 3.'
     )
 
@@ -58,6 +62,7 @@ def score(llm, candidates, rubric, history, top_n=10):
                 continue
             rated.append({**c, "score": total, "scores": r["scores"], "pillar": r.get("pillar") or c.get("pillar", ""),
                           "angle": (r.get("angle") or "")[:160], "reason": (r.get("reason") or "")[:160],
+                          "risk": r.get("risk") if r.get("risk") in ("low", "medium", "high") else "high",
                           "decision": "", "status": "new"})
     rated.sort(key=lambda t: t["score"], reverse=True)
     picked = []
