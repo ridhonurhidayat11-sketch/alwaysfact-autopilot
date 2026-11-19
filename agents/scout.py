@@ -135,7 +135,7 @@ MIN_TEXT = 800     # shorter than this is a paywall stub or an error page, not a
 MAX_TEXT = 9000    # enough for the key facts; keeps the repo small
 
 
-def attach_sources(cands, directory, per_source=5, page_fetcher=None):
+def attach_sources(cands, directory, per_source=7, page_fetcher=None):
     """Download the article text of the best candidates so the Claude routine can read sources WITHOUT internet.
     The referee later re-fetches the live page itself and checks every quote, so stored text is never trusted blindly.
     Wipes and rewrites `directory` each day. Returns (fetched, failed)."""

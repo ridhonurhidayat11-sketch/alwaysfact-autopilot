@@ -141,7 +141,7 @@ def brief(now=None, queue_path=None):
                           "article text stored in the repository: read that file and copy quotes VERBATIM from it, with "
                           "evidence_url set to the candidate's url. Never quote text you did not read in a file or page."),
         "candidates": [{**{k: x[k] for k in ("id", "source", "title", "url", "text_file", "published") if k in x},
-                        "summary": (x.get("summary") or "")[:200]} for x in fresh[:30]],   # fewer, shorter: saves tokens
+                        "summary": (x.get("summary") or "")[:200]} for x in fresh[:40]],   # a wide pool: the routine drops many topics (not a science fact, too thin, risky)
         "already_covered": history[-40:],
         "recent_rejections_do_not_repeat": recent_rejections(),
         "rubric": rubric,
