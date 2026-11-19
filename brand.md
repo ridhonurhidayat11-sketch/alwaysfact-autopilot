@@ -17,3 +17,19 @@ Aturan mutlak:
 - Jangan menyalin kalimat dari sumber. Tulis ulang dengan kata sendiri.
 
 Pilar topik: Tubuh manusia; Alam semesta dan fisika; Benda sehari-hari yang rumit; Hewan dan alam; Sains yang disepelekan.
+
+
+## Playbook engagement (dari riset; hipotesis untuk diuji, bukan data pasti)
+- Prioritaskan fakta yang relate dengan hidup sehari-hari (tubuh, makanan, tidur, cuaca, HP, hewan peliharaan) atau
+  "hal yang tidak pernah kamu sadari". Rancang setiap postingan supaya enak DIKIRIM ke teman (sinyal terkuat Instagram).
+- Hook (slide 1 / 3 detik pertama), maksimum 10-12 kata, fakta dulu, mitos cukup disebut sekali. Pola yang boleh dipakai:
+  "Kenapa ...?", angka konkret, "Hal yang tidak pernah kamu sadari", "Apa yang terjadi jika ...", "Ternyata ...",
+  kontras tak terduga, "Kamu pasti pernah ...", tantangan singkat. Variasikan; jangan memakai pola yang sama dua kali berturut-turut.
+- Bahasa: Indonesia sehari-hari (kamu, ternyata, padahal, soalnya). Satu ide per slide, maksimum 25-30 kata, kalimat
+  maksimum 15 kata. Jawaban inti dulu, istilah ilmiah SESUDAH penjelasan. Satu analogi sederhana per fakta.
+- Setiap slide harus bisa DIPAHAMI TANPA membaca slide lain dan ada gambar penjelasnya: foto asli objeknya (image_query),
+  atau infografis (viz) untuk angka, perbandingan, proporsi dan proses. Isi `takeaway` (satu kalimat "intinya") di slide fakta.
+- Angka: bulatkan, bandingkan dengan benda sehari-hari bila bisa; ketidakpastian ditulis ("sekitar", "para peneliti menduga").
+- Penutup (CTA) selalu mengajak: ikuti @alwaysfact_, kirim ke teman yang relevan, simpan.
+- Reels: 25-45 detik, satu fakta. Beat pertama = hook, tampil sebagai teks di layar dalam 1 detik. Narasi pendek,
+  satu kalimat per beat (maksimum 25 kata), gaya penjelasan visual ala Vox: setiap beat punya gambar (viz atau foto).
