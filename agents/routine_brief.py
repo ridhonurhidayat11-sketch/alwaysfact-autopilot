@@ -62,13 +62,17 @@ VISUAL FIELDS on a fact slide (all optional but strongly wanted, so every slide 
 
 REEL FORMAT (when the brief asks for reels): same object, but set "post.format": "reel", "post.slides": [] and add
   "post.reel": {"central_question": "<the one question the video answers>", "titles": ["<3 alternative titles, 8-90 chars>", "...", "..."],
-    "hook": "<8-70 chars, shown on screen in the first second>", "mood": "curious|calm|energetic",
+    "hook": "<8-70 chars, shown on screen in the first second>", "mood": "curious|calm|energetic", "voice": "ardi|gadis",
     "beats": [ {"act": "hook|context|stakes|evidence|reveal|conclusion|cta", "say": "<ONE narrated Indonesian sentence, 12-190 chars, max ~25 words>",
                 "text": "<2-5 word on-screen headline>", "viz": {...as above, kinds also include timeline...} OR "image_query": "<English>",
                 "icon": "<optional>", "claim": <number of the claim this beat states, optional>,
+                "delivery": "<optional: antusias|serius|santai|tanya>",
                 "camera": "push_in|pull_out|pan_left|pan_right|zoom_to_detail|static", "transition": "wipe|slide|fade|cut"} ]}
   Timeline viz: {"kind":"timeline","items":[{"label":"6.3 juta tahun lalu","text":"..."},{"label":"...","text":"..."}]} (2-4 events).
-  Follow the 'Brief Reels ala Vox' in the brand text: a story with a central question, at most 60 seconds (about 100-140 narrated words).
+  Map viz (Reels only): {"kind":"map","lat":-14.0,"lon":-75.0,"label":"Peru","zoom":3.2} (animated zoom on real coastlines).
+  Clip (Reels only): "clip": true together with "claim": n shows the VERIFIED source sentence of claim n like a newspaper clipping;
+  "highlight": ["word", ...] marks key words inside it. In "text" wrap accent words in *asterisks*; optional "sub": "<supporting line>".
+  Write the say lines as natural SPOKEN Indonesian (see 'Gaya suara (VO)' in the brand text: short sentences, direct address, one rhetorical question, no stiff article wording). Follow the 'Brief Reels ala Vox' in the brand text: a story with a central question, at most 60 seconds (about 100-140 narrated words).
   5-8 beats, 45-150 narrated words in total (about 20-60 seconds). Beat 1 is the hook (a question or surprising fact),
   the LAST beat is the call to action: ask to send it to a friend and to follow @alwaysfact_ (the code draws that scene).
   Spell numbers in words inside "say" (the voice reads it), and keep digits in "text"/"viz". Caption, hashtags, claims and

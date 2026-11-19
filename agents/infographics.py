@@ -20,7 +20,7 @@ PANEL, PANEL_EDGE = (236, 236, 247), (214, 214, 236)
 TEXT, MUTED, DIM = (34, 34, 42), (92, 92, 112), (210, 210, 230)
 AMBER, MAGENTA, TEAL, BLUE, PURPLE = (255, 160, 40), (233, 100, 160), (31, 175, 140), (116, 130, 250), (107, 99, 200)
 PALETTE = [PURPLE, MAGENTA, TEAL, AMBER, BLUE]
-KINDS = ("stat", "share", "compare", "dots", "steps", "timeline")
+KINDS = ("stat", "share", "compare", "dots", "steps", "timeline", "map")
 
 
 def font(weight, size):
@@ -250,6 +250,11 @@ def valid(spec):
         return _num(spec.get("total")) is not None and _num(spec.get("highlight")) is not None
     if k == "steps":
         return isinstance(spec.get("items"), list) and 2 <= len(spec["items"]) <= 4
+    if k == "map":   # Reels only: an animated zoom on real coastlines
+        try:
+            return -90 <= float(spec.get("lat")) <= 90 and -180 <= float(spec.get("lon")) <= 180 and bool(spec.get("label"))
+        except (TypeError, ValueError):
+            return False
     if k == "timeline":
         its = spec.get("items")
         return isinstance(its, list) and 2 <= len(its) <= 4 and all(isinstance(i, dict) and i.get("label") for i in its)
@@ -258,6 +263,6 @@ def valid(spec):
 
 def render(spec, w=960, h=640, p=1.0):
     """RGBA picture of the infographic, or None when the spec is not drawable."""
-    if not valid(spec):
+    if not valid(spec) or spec["kind"] not in _DRAW:
         return None
     return _DRAW[spec["kind"]](spec, w, h, max(0.0, min(1.0, p)))
