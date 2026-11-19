@@ -1,5 +1,5 @@
 {
-  "mode": "off",
+  "mode": "shadow",
   "posts_per_day": 5,
   "slots_wib": ["07:30", "10:30", "13:30", "17:30", "20:30"],
   "buffer_days": 2,
