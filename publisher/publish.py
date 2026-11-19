@@ -254,7 +254,7 @@ def main():
     uid = os.environ.get("IG_USER_ID", "")
     rows = read_queue()
     posted, failed = run(rows, uid, save=write_queue, dry=shadow or bool(os.environ.get("DRY_RUN")),
-                         max_per_day=int(c.get("posts_per_day", 5)), min_gap_min=60)
+                         max_per_day=int(c.get("posts_per_day", 5)), min_gap_min=int(c.get("min_gap_min", 60)))
     if posted:
         print(f"posted -> {posted}")
     if failed:
