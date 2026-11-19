@@ -61,13 +61,18 @@ def brief(now=None, queue_path=None):
     history = history_titles() + [u["title"] for u in used]
     fresh = [x for x in load_json(STATE / "candidates.json", [])
              if x.get("url") not in used_urls and not is_duplicate(x["title"], history)]
+    fresh.sort(key=lambda x: 0 if x.get("text_file") else 1)  # candidates whose article text is stored come first
     rubric = load_json(CONFIG / "rubric.json", {})
     return {
         "go": True,
         "need_posts": need,
         "propose_at_most": control.topics_needed(need, cap=c["max_topics_per_run"]),
         "posts_per_day": c["posts_per_day"],
-        "candidates": [{k: x[k] for k in ("id", "source", "title", "summary", "url")} for x in fresh[:60]],
+        "how_to_verify": ("This session may have NO internet for opening pages. Candidates with a text_file have their full "
+                          "article text stored in the repository: read that file and copy quotes VERBATIM from it, with "
+                          "evidence_url set to the candidate's url. Never quote text you did not read in a file or page."),
+        "candidates": [{k: x[k] for k in ("id", "source", "title", "summary", "url", "text_file") if k in x}
+                       for x in fresh[:60]],
         "already_covered": history[-40:],
         "rubric": rubric,
         "brand": (ROOT / "brand.md").read_text(encoding="utf-8"),

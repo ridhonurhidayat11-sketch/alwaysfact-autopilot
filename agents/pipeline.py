@@ -89,7 +89,7 @@ def main():
         return cmd_report()
     llm = Llm()
     if a.cmd == "scout":
-        cands, errors = scout.run(llm if a.brainstorm else None, per_pillar=a.brainstorm)
+        cands, errors = scout.run(llm if a.brainstorm else None, per_pillar=a.brainstorm, with_text=True)
         print(f"{len(cands)} candidates; feed errors: {errors or 'none'}")
     elif a.cmd == "score":
         topics, dropped = scorer.run(llm, a.top)

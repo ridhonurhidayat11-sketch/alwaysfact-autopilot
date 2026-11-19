@@ -8,6 +8,7 @@ import html
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
+from pathlib import Path
 
 from common import CONFIG, HAIKU, STATE, extract_json, load_json, save_json
 
@@ -97,10 +98,46 @@ def brainstorm(llm, pillars, per_pillar, avoid):
             for it in items if it.get("title")]
 
 
-def run(llm=None, fetcher=fetch, per_pillar=0):
+MIN_TEXT = 800     # shorter than this is a paywall stub or an error page, not an article
+MAX_TEXT = 9000    # enough for the key facts; keeps the repo small
+
+
+def attach_sources(cands, directory, per_source=5, page_fetcher=None):
+    """Download the article text of the best candidates so the Claude routine can read sources WITHOUT internet.
+    The referee later re-fetches the live page itself and checks every quote, so stored text is never trusted blindly.
+    Wipes and rewrites `directory` each day. Returns (fetched, failed)."""
+    import shutil
+
+    if page_fetcher is None:
+        from evidence import fetch_text as page_fetcher
+    directory = Path(directory)
+    shutil.rmtree(directory, ignore_errors=True)
+    directory.mkdir(parents=True, exist_ok=True)
+    seen, fetched, failed = {}, 0, 0
+    for c in cands:
+        if c.get("origin") != "feed" or seen.get(c["source"], 0) >= per_source:
+            continue
+        seen[c["source"]] = seen.get(c["source"], 0) + 1
+        try:
+            text = re.sub(r"\s+", " ", page_fetcher(c["url"])).strip()
+            if len(text) < MIN_TEXT:
+                raise ValueError("page text too short")
+            (directory / f"{c['id']}.txt").write_text(text[:MAX_TEXT], encoding="utf-8")
+            c["text_file"] = f"state/sources/{c['id']}.txt"
+            fetched += 1
+        except Exception as e:
+            c["fetch_error"] = f"{type(e).__name__}: {str(e)[:60]}"
+            failed += 1
+    return fetched, failed
+
+
+def run(llm=None, fetcher=fetch, per_pillar=0, with_text=False, page_fetcher=None):
     cfg = load_json(CONFIG / "sources.json", {"feeds": [], "per_feed": 8})
     rubric = load_json(CONFIG / "rubric.json", {"pillars": []})
     cands, errors = collect(cfg["feeds"], cfg.get("per_feed", 8), fetcher)
+    if with_text:
+        ok, bad = attach_sources(cands, STATE / "sources", page_fetcher=page_fetcher)
+        errors.append(f"article text: {ok} saved, {bad} unavailable")
     if llm and per_pillar:
         from common import history_titles
 
