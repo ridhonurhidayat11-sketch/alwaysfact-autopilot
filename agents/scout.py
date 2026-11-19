@@ -8,6 +8,8 @@ import html
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 from common import CONFIG, HAIKU, STATE, extract_json, load_json, save_json
@@ -34,6 +36,25 @@ def clean(text, limit=400):
     return re.sub(r"\s+", " ", t).strip()[:limit]
 
 
+def parse_date(text):
+    """RSS (RFC 822) or Atom (ISO 8601) date text -> aware UTC datetime, or None when it cannot be read."""
+    text = (text or "").strip()
+    if not text:
+        return None
+    try:
+        dt = parsedate_to_datetime(text)
+    except (TypeError, ValueError, IndexError):
+        dt = None
+    if dt is None:
+        t = re.sub(r"Z$", "+00:00", text)
+        t = re.sub(r"(\.\d+)(?=[+-]\d\d:?\d\d$|$)", "", t)   # fractional seconds of any length
+        try:
+            dt = datetime.fromisoformat(t)
+        except ValueError:
+            return None
+    return dt.astimezone(timezone.utc) if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
+
+
 def parse_feed(xml_text, source):
     """RSS or Atom -> list of {title, url, summary, source}. Rejects DTD/entity tricks before parsing."""
     head = xml_text[:4096].upper()
@@ -52,28 +73,40 @@ def parse_feed(xml_text, source):
                 f["url"] = (c.attrib.get("href") or (c.text or "")).strip()
             elif n in ("title", "description", "summary", "content") and n not in f:
                 f[n] = c.text or ""
+            elif n in ("pubDate", "published", "updated", "date") and "date" not in f:
+                f["date"] = c.text or ""
         title = clean(f.get("title"), 200)
         url = f.get("url", "")
         if title and url.startswith("http"):
             summary = clean(f.get("description") or f.get("summary") or f.get("content"))
-            items.append({"title": title, "url": url, "summary": summary, "source": source})
+            items.append({"title": title, "url": url, "summary": summary, "source": source, "date": f.get("date", "")})
     return items
 
 
-def collect(feeds, per_feed=8, fetcher=fetch):
-    """Never fails as a whole: a dead feed is reported and skipped."""
+def collect(feeds, per_feed=8, fetcher=fetch, now=None, max_age_days=7):
+    """Never fails as a whole: a dead feed is reported and skipped. News older than `max_age_days` is dropped, the rest is
+    ordered newest first (undated items go last), so every run works on what happened recently."""
+    now = now or datetime.now(timezone.utc)
+    limit = now - timedelta(days=max_age_days)
     out, errors, seen = [], [], set()
     for feed in feeds:
         try:
-            items = parse_feed(fetcher(feed["url"]), feed["name"])[:per_feed]
+            items = parse_feed(fetcher(feed["url"]), feed["name"])
         except Exception as e:
             errors.append(f"{feed['name']}: {type(e).__name__}: {str(e)[:80]}")
             continue
-        for it in items:
+        dated = [(parse_date(it.get("date")), it) for it in items]
+        fresh = [(dt, it) for dt, it in dated if dt is None or dt >= limit]
+        fresh.sort(key=lambda x: x[0] or datetime(1970, 1, 1, tzinfo=timezone.utc), reverse=True)
+        if len(fresh) < len(dated):
+            errors.append(f"{feed['name']}: {len(dated) - len(fresh)} item(s) older than {max_age_days} days skipped")
+        for dt, it in fresh[:per_feed]:
             if it["url"] in seen:
                 continue
             seen.add(it["url"])
-            out.append({"id": tid(it["url"]), "origin": "feed", **it})
+            out.append({"id": tid(it["url"]), "origin": "feed", **{k: v for k, v in it.items() if k != "date"},
+                        "published": dt.isoformat() if dt else ""})
+    out.sort(key=lambda c: c["published"] or "", reverse=True)
     return out, errors
 
 
@@ -134,7 +167,7 @@ def attach_sources(cands, directory, per_source=5, page_fetcher=None):
 def run(llm=None, fetcher=fetch, per_pillar=0, with_text=False, page_fetcher=None):
     cfg = load_json(CONFIG / "sources.json", {"feeds": [], "per_feed": 8})
     rubric = load_json(CONFIG / "rubric.json", {"pillars": []})
-    cands, errors = collect(cfg["feeds"], cfg.get("per_feed", 8), fetcher)
+    cands, errors = collect(cfg["feeds"], cfg.get("per_feed", 8), fetcher, max_age_days=cfg.get("max_age_days", 7))
     if with_text:
         ok, bad = attach_sources(cands, STATE / "sources", page_fetcher=page_fetcher)
         errors.append(f"article text: {ok} saved, {bad} unavailable")
