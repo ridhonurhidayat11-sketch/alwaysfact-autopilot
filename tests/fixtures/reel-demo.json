@@ -1,0 +1,86 @@
+{
+  "id": "r001",
+  "topic": "Kenapa kentut bau padahal sebagian besar tidak berbau",
+  "format": "reel",
+  "pillar": "Tubuh manusia",
+  "reel": {
+    "hook": "Kentut hampir tidak berbau. Kok bisa busuk?",
+    "mood": "curious",
+    "beats": [
+      {
+        "say": "Sebagian besar isi kentut sebenarnya tidak berbau. Lalu kenapa baunya bisa sebusuk itu?",
+        "text": "Kentut itu tidak bau?",
+        "viz": {
+          "kind": "dots",
+          "total": 100,
+          "highlight": 1,
+          "label": "hampir semuanya tak berbau",
+          "caption": "Satu titik = biang bau"
+        }
+      },
+      {
+        "say": "Orang sehat kentut sekitar empat belas sampai dua puluh kali setiap hari.",
+        "text": "14 sampai 20 kali sehari",
+        "viz": {
+          "kind": "stat",
+          "value": "14-20x",
+          "label": "kali kentut per hari",
+          "note": "pada orang sehat"
+        }
+      },
+      {
+        "say": "Sebagian besar isinya nitrogen, antara dua puluh sampai sembilan puluh persen. Gas yang sama dengan udara di sekitarmu.",
+        "text": "Isinya: nitrogen",
+        "viz": {
+          "kind": "stat",
+          "value": "20-90%",
+          "label": "isi kentut adalah nitrogen",
+          "note": "gas yang sama dengan udara"
+        }
+      },
+      {
+        "say": "Biang baunya adalah gas yang mengandung belerang.",
+        "text": "Biang baunya: belerang",
+        "viz": {
+          "kind": "steps",
+          "items": [
+            "Sebagian besar tak berbau",
+            "Sebagian kecil gas berbelerang",
+            "Hasilnya: bau menyengat"
+          ]
+        }
+      },
+      {
+        "say": "Cukup satu molekul hidrogen sulfida di antara satu juta molekul gas lain, dan hidungmu sudah protes.",
+        "text": "Satu banding sejuta",
+        "viz": {
+          "kind": "dots",
+          "total": 100,
+          "highlight": 1,
+          "label": "1 dari 1 juta molekul",
+          "caption": "Satu titik merah muda = molekul bau"
+        }
+      },
+      {
+        "say": "Hidung kita memang berevolusi sebagai sensor kimia untuk gas berbelerang, penanda zat membusuk atau bahaya.",
+        "text": "Hidung = alarm alami",
+        "viz": {
+          "kind": "steps",
+          "items": [
+            "Gas berbelerang di udara",
+            "Hidung menangkapnya",
+            "Sinyal: busuk atau bahaya"
+          ]
+        }
+      },
+      {
+        "say": "Kirim ini ke temanmu yang suka bilang masa sih, dan ikuti alwaysfact untuk fakta sains lainnya.",
+        "text": "Ikuti dan bagikan"
+      }
+    ]
+  },
+  "caption": "Test",
+  "hashtags": [
+    "fakta"
+  ]
+}
