@@ -43,9 +43,14 @@ jobs:
         id: post
         continue-on-error: true
         run: python publisher/publish.py
-      # 2. Scout: fresh article text for the Claude content routine (plain code, no AI, no cost).
+      # 2. Scout: fresh article text for the Claude content routine (plain code, no AI, no cost). Only in the ticks that
+      #    come right before a content-routine run (21, 03, 09, 15 UTC), so the repository does not grow on every tick.
+      - name: Is this a tick just before a content-routine run?
+        id: hour
+        run: echo "h=$(date -u +%H)" >> "$GITHUB_OUTPUT"
       - name: Fetch real science feeds and store the article text
         id: scout
+        if: github.event_name == 'workflow_dispatch' || contains('21 03 09 15', steps.hour.outputs.h)
         continue-on-error: true
         run: python agents/pipeline.py scout
       # 3. Watchdog: health check, may pause posting by itself; prune old media.
