@@ -1,0 +1,69 @@
+name: Ingest (referee for posts proposed by the Claude routine)
+
+on:
+  push:
+    branches: ["claude/**"]
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: "Branch that holds inbox/*.json (for example claude/inbox-2026-11-20)"
+        required: true
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: queue
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      BRANCH: ${{ github.event.inputs.branch || github.ref_name }}
+      MEDIA_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/media
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - name: Run tests first (a broken referee must never accept anything)
+        run: python -m unittest discover -s tests
+      - name: Bring in the proposals (read-only copy of inbox/ from the routine's branch)
+        run: |
+          git fetch origin "$BRANCH"
+          rm -rf inbox && mkdir -p inbox
+          git archive "origin/$BRANCH" inbox 2>/dev/null | tar -x || echo "no inbox/ on that branch"
+          ls inbox 2>/dev/null | head -50
+      - name: Referee - accept only what the code can verify
+        id: referee
+        run: python agents/ingest.py inbox
+      - name: Render slides (no AI)
+        run: python agents/render_slides.py
+      - name: Finalize - only posts with finished slides become approved
+        run: python agents/autopilot.py finalize
+      - name: Save results to main
+        if: always()
+        run: |
+          rm -rf inbox
+          git config user.name "ig-autopilot"
+          git config user.email "actions@users.noreply.github.com"
+          git add queue.csv content media state 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "ingest: referee results"
+          for i in 1 2 3; do git pull --rebase -X theirs origin main && git push origin HEAD:main && exit 0; sleep 5; done
+          echo "could not push results" >&2; exit 1
+      - name: Alert me when ingest failed
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          [ "$(gh issue list --state open --search 'Ingest failed in:title' --json number -q length)" = "0" ] || exit 0
+          gh issue create --title "Ingest failed" \
+            --body "The referee workflow failed. Run log: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}. Nothing unverified was queued."

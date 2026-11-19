@@ -31,16 +31,18 @@ jobs:
         run: python -m unittest discover -s tests
       - name: Read the control file
         id: mode
-        run: echo "mode=$(python -c "import json;print(json.load(open('config/control.json'))['mode'])")" >> "$GITHUB_OUTPUT"
+        run: |
+          echo "mode=$(python -c "import json;print(json.load(open('config/control.json'))['mode'])")" >> "$GITHUB_OUTPUT"
+          if [ -n "$ANTHROPIC_API_KEY" ]; then echo "key=yes" >> "$GITHUB_OUTPUT"; else echo "key=no" >> "$GITHUB_OUTPUT"; echo "::notice::ANTHROPIC_API_KEY is not set: the API-based planner is skipped (the free routine path does not need it)"; fi
       - name: Plan - pick topics, write, fact-check, queue
         id: plan
-        if: steps.mode.outputs.mode != 'off'
+        if: steps.mode.outputs.mode != 'off' && steps.mode.outputs.key == 'yes'
         run: python agents/autopilot.py plan
       - name: Render slides (no AI)
-        if: steps.mode.outputs.mode != 'off'
+        if: steps.mode.outputs.mode != 'off' && steps.mode.outputs.key == 'yes'
         run: python agents/render_slides.py
       - name: Finalize - only posts with finished slides become approved
-        if: steps.mode.outputs.mode != 'off'
+        if: steps.mode.outputs.mode != 'off' && steps.mode.outputs.key == 'yes'
         run: python agents/autopilot.py finalize
       - name: Save the usage log even when something failed (keeps the daily budget honest)
         if: always()
