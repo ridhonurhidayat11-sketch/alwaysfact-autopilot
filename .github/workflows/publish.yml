@@ -1,15 +1,15 @@
-name: Publish approved Instagram posts
+name: Publish due posts
 
 on:
   schedule:
-    - cron: "*/30 0-15 * * *"   # every 30 min, 07:00-22:59 WIB; keeps a private repo under 2,000 free minutes/month
+    - cron: "*/30 0-15 * * *"   # every 30 min, 07:00-22:59 WIB
   workflow_dispatch: {}
 
 permissions:
   contents: write
   issues: write
 
-# One writer to queue.csv at a time, shared with the weekly drafting workflow.
+# One writer to queue.csv at a time, shared with the planner and watchdog.
 concurrency:
   group: queue
   cancel-in-progress: false
@@ -28,13 +28,10 @@ jobs:
           python-version: "3.12"
       - name: Run tests first (a broken publisher must never post)
         run: python -m unittest discover -s tests
-      - name: Post the next approved, due row
+      # Reads config/control.json: mode off or paused => does nothing; shadow => dry run; live => posts.
+      - name: Post the next due, approved row (if the control file allows it)
         id: post
-        if: ${{ env.IG_TOKEN != '' && env.IG_USER_ID != '' }}
         run: python publisher/publish.py
-      - name: Secrets not set yet (nothing is posted)
-        if: ${{ env.IG_TOKEN == '' || env.IG_USER_ID == '' }}
-        run: echo "::notice::IG_USER_ID or IG_TOKEN is not set. Add both under Settings > Secrets and variables > Actions."
       - name: Save queue changes (retries if the branch moved)
         if: always()
         run: |
@@ -56,4 +53,4 @@ jobs:
           # one open alert at a time, so a repeating failure never floods the issue list
           [ "$(gh issue list --state open --search 'Instagram post failed in:title' --json number -q length)" = "0" ] || exit 0
           gh issue create --title "Instagram post failed" \
-            --body "The publisher reported an error. See queue.csv (status=error, result column) and the run log: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}. A common cause is an expired IG_TOKEN."
+            --body "The publisher reported an error. See queue.csv (status=error, result column) and the run log: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}. A common cause is an expired IG_TOKEN. The watchdog pauses posting by itself after repeated failures."

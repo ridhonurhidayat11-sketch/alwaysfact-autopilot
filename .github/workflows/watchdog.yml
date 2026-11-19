@@ -1,0 +1,46 @@
+name: Watchdog (health check)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 07:00 WIB, after the planner and before the first slot
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: queue
+  cancel-in-progress: false
+
+jobs:
+  watchdog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      IG_TOKEN_ISSUED: ${{ vars.IG_TOKEN_ISSUED }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check health (may pause posting by itself)
+        id: dog
+        continue-on-error: true
+        run: python agents/autopilot.py watchdog
+      - name: Save health report and any automatic pause
+        run: |
+          git config user.name "ig-autopilot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/health.json config/control.json 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "watchdog: health report"
+          for i in 1 2 3; do git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && exit 0; sleep 5; done
+      - name: Tell me when something needs attention
+        if: steps.dog.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          [ "$(gh issue list --state open --search 'Autopilot needs attention in:title' --json number -q length)" = "0" ] || exit 0
+          gh issue create --title "Autopilot needs attention" \
+            --body "The watchdog found a problem. Open state/health.json for the list, and config/control.json to see whether posting was paused. Run log: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"

@@ -1,0 +1,69 @@
+name: Autopilot plan (fill the queue)
+
+on:
+  schedule:
+    - cron: "0 22 * * *"   # 05:00 WIB every day, before the first slot at 07:30
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: queue
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      MEDIA_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/media
+      MAX_USD_PER_RUN: "0.60"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install anthropic pillow
+      - name: Run tests first (a broken pipeline must not run)
+        run: python -m unittest discover -s tests
+      - name: Read the control file
+        id: mode
+        run: echo "mode=$(python -c "import json;print(json.load(open('config/control.json'))['mode'])")" >> "$GITHUB_OUTPUT"
+      - name: Plan - pick topics, write, fact-check, queue
+        id: plan
+        if: steps.mode.outputs.mode != 'off'
+        run: python agents/autopilot.py plan
+      - name: Render slides (no AI)
+        if: steps.mode.outputs.mode != 'off'
+        run: python agents/render_slides.py
+      - name: Finalize - only posts with finished slides become approved
+        if: steps.mode.outputs.mode != 'off'
+        run: python agents/autopilot.py finalize
+      - name: Save the usage log even when something failed (keeps the daily budget honest)
+        if: always()
+        run: |
+          git config user.name "ig-autopilot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/usage.jsonl 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "usage: log token spend"
+          for i in 1 2 3; do git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && exit 0; sleep 5; done
+      - name: Save the plan
+        if: success()
+        run: |
+          git add queue.csv content media state config 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "plan: new posts queued"
+          for i in 1 2 3; do git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && exit 0; sleep 5; done
+          echo "could not push the plan" >&2; exit 1
+      - name: Alert me when planning failed
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          [ "$(gh issue list --state open --search 'Autopilot planning failed in:title' --json number -q length)" = "0" ] || exit 0
+          gh issue create --title "Autopilot planning failed" \
+            --body "The daily planner failed. Run log: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}. Nothing was queued; already queued posts are unaffected."
