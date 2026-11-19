@@ -13,7 +13,7 @@ from pathlib import Path
 from common import CONFIG, HAIKU, STATE, extract_json, load_json, save_json
 
 MAX_FEED_BYTES = 2_000_000
-UA = "Mozilla/5.0 (compatible; alwaysfact-scout/1.0)"
+UA = "Mozilla/5.0 (compatible; science-feed-reader/1.0)"
 
 
 def tid(seed):

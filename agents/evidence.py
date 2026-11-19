@@ -10,7 +10,7 @@ import urllib.request
 
 from factcheck import host, site
 
-UA = "Mozilla/5.0 (compatible; alwaysfact-referee/1.0)"
+UA = "Mozilla/5.0 (compatible; science-page-checker/1.0)"
 MAX_BYTES = 2_500_000
 MIN_QUOTE = 25  # characters; a 3-word "quote" proves nothing
 

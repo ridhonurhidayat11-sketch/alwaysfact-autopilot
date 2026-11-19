@@ -24,6 +24,7 @@ SCHEMA = """Write each proposal to inbox/<YYYY-MM-DD>-<n>.json as exactly this J
   "risk": "low",
   "post": {
     "topic": "<Indonesian title, max 90 chars>",
+    "image_query": "<English search words for ONE real photo of the literal main subject, e.g. 'sea pig Scotoplanes' or 'hydrogen sulfide molecule'. Never a metaphor, never a pun, never an abstract idea. Photos come from Wikimedia Commons and NASA only; if the subject has no photo, the slide design is typographic.>",
     "pillar": "<one of the pillars>",
     "hook_options": ["<hook 1, max 70 chars>", "<hook 2, different>"],
     "slides": [ {"type": "hook|fact|compare|chart|cta", "title": "<max 70>", "body": "<max 220>",
