@@ -2,7 +2,7 @@ name: Publish due posts
 
 on:
   schedule:
-    - cron: "*/30 0-15 * * *"   # every 30 min, 07:00-22:59 WIB
+    - cron: "*/30 23,0-15 * * *"   # every 30 min, 06:00-22:59 WIB (slots start at 06:30)
   workflow_dispatch: {}
 
 permissions:

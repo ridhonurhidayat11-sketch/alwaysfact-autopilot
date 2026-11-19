@@ -28,11 +28,14 @@ jobs:
         id: dog
         continue-on-error: true
         run: python agents/autopilot.py watchdog
+      - name: Remove pictures and videos of posts that went live 3+ days ago (keeps the repository small)
+        run: python agents/autopilot.py prune
       - name: Save health report and any automatic pause
         run: |
           git config user.name "ig-autopilot"
           git config user.email "actions@users.noreply.github.com"
           git add state/health.json config/control.json 2>/dev/null || true
+          git add -A media 2>/dev/null || true
           git diff --cached --quiet && exit 0
           git commit -m "watchdog: health report"
           for i in 1 2 3; do git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && exit 0; sleep 5; done
