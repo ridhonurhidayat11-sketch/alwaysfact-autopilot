@@ -1,0 +1,168 @@
+{
+  "topic": "Bakteri aneh dengan genom mini di bawah kulit babi laut",
+  "hook_options": [
+    "Hewan laut dalam ini menyimpan bakteri yang baru ketahuan",
+    "Babi laut menyimpan bakteri yang belum pernah dikenal sains"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Hewan laut dalam ini menyimpan bakteri yang baru ketahuan",
+      "body": "Namanya babi laut. Dan bukan itu bagian teraneh.",
+      "visual": {
+        "source": "pexels",
+        "keywords": "sea pig deep sea"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Babi laut itu teripang",
+      "body": "Hewan lunak dan transparan ini ternyata sejenis teripang yang hidup di laut dalam dan sebesar kira-kira 15 sentimeter.",
+      "visual": {
+        "source": "pexels",
+        "keywords": "sea cucumber deep ocean"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Satu bakteri menguasai dinding tubuh",
+      "body": "Pada tiga spesies babi laut, satu bakteri menyumbang lebih dari 70% urutan gen bakteri di dinding tubuhnya.",
+      "visual": {
+        "source": "pexels",
+        "keywords": "bacteria microscope"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Genomnya mungil",
+      "body": "Genomnya hanya 649,000 basa DNA, sekitar tujuh kali lebih kecil daripada E. coli.",
+      "visual": {
+        "source": "pexels",
+        "keywords": "dna genome"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Tapi punya protein raksasa",
+      "body": "Lebih dari seperempat DNA-nya dipakai untuk protein permukaan, sebagian berisi lebih dari 5,000 asam amino.",
+      "visual": {
+        "source": "pexels",
+        "keywords": "protein structure"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Misterinya belum selesai",
+      "body": "Peneliti menduga bakteri ini sangat bergantung pada inangnya, tetapi apa imbalan untuk babi laut belum diketahui.",
+      "visual": {
+        "source": "pexels",
+        "keywords": "deep sea mystery"
+      }
+    },
+    {
+      "type": "cta",
+      "title": "Mau fakta sains lain yang bikin melongo?",
+      "body": "Ikuti @alwaysfact_ dan kirim ke teman yang suka bilang 'masa sih?'",
+      "visual": {
+        "source": "pexels",
+        "keywords": "deep sea"
+      }
+    }
+  ],
+  "caption": "Peneliti Universitas Tokyo menemukan bakteri baru yang mendominasi dinding tubuh babi laut, sejenis teripang laut dalam. Genomnya hanya 649,000 basa, tetapi lebih dari seperempat DNA-nya membuat protein permukaan, sebagian sangat besar. Hubungan keduanya masih menyimpan misteri. Ikuti @alwaysfact_ untuk fakta sains lain!\n\nSumber: ScienceDaily (University of Tokyo)",
+  "hashtags": [
+    "fakta",
+    "sains",
+    "lautdalam",
+    "babilaut",
+    "bakteri",
+    "alwaysfact",
+    "faktaunik",
+    "masasih"
+  ],
+  "claims": [
+    {
+      "text": "Babi laut adalah sejenis teripang kecil dan transparan yang hidup di laut dalam.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm"
+    },
+    {
+      "text": "Babi laut bisa tumbuh sekitar 15 sentimeter.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm"
+    },
+    {
+      "text": "Pada tiga spesies babi laut, satu bakteri menyumbang lebih dari 70% urutan gen 16S rRNA bakteri di dinding tubuh.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm"
+    },
+    {
+      "text": "Genom bakteri itu hanya 649,000 basa, sekitar tujuh kali lebih kecil daripada genom E. coli.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm"
+    },
+    {
+      "text": "Sebagian protein raksasa bakteri itu berisi lebih dari 5,000 asam amino.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm"
+    }
+  ],
+  "music_suggestions": [
+    "misterius, tempo lambat",
+    "ambient dalam, tempo lambat",
+    "penasaran, tempo sedang"
+  ],
+  "pillar": "Hewan dan alam",
+  "id": "010",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
+      "quote": "These small, gelatinous creatures are actually a type of sea cucumber that inhabits the deep ocean.",
+      "note": "quote copied from stored article text",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
+      "quote": "The plump, soft-bodied sea pig can grow to around 15 centimeters long",
+      "note": "quote copied from stored article text",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
+      "quote": "one bacterium accounted for more than 70% of bacterial 16S rRNA gene sequences",
+      "note": "quote copied from stored article text",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
+      "quote": "The complete genome was very small, only 649,000 bases. By comparison, the E. coli genome is approximately seven times larger.",
+      "note": "quote copied from stored article text",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
+      "quote": "contain more than 5,000 amino acids and may help the bacteria interact with their hosts",
+      "note": "quote copied from stored article text",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
+  "topic_id": "t93aa0cf8"
+}

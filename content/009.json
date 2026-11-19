@@ -1,0 +1,168 @@
+{
+  "topic": "Kenapa kentut bau padahal kebanyakan isinya tidak berbau",
+  "hook_options": [
+    "Bagian kentut yang bikin bau cuma sebutir jagung di satu truk",
+    "Gas yang bikin kentut bau ternyata jumlahnya sangat sedikit"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Bagian kentut yang bikin bau cuma sebutir jagung di satu truk",
+      "body": "Kebanyakan isi kentut sebenarnya tidak berbau sama sekali.",
+      "visual": {
+        "source": "pexels",
+        "keywords": "corn truck"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Orang sehat kentut 14-20 kali sehari",
+      "body": "Orang sehat kentut sekitar 14 sampai 20 kali setiap hari.",
+      "visual": {
+        "source": "pexels",
+        "keywords": "stomach digestion illustration"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Sebagian besar gasnya tidak berbau",
+      "body": "Antara 20% sampai 90% volume kentut adalah nitrogen, gas yang juga mendominasi udara yang kita hirup.",
+      "visual": {
+        "source": "pexels",
+        "keywords": "air nitrogen"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Biang baunya: gas berbelerang",
+      "body": "Penyebab bau adalah molekul gas yang mengandung unsur belerang (sulfur).",
+      "visual": {
+        "source": "pexels",
+        "keywords": "sulfur molecule"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Satu banding sejuta sudah cukup",
+      "body": "Satu molekul hidrogen sulfida di antara 1 juta molekul gas lain sudah cukup membuat hidungmu protes.",
+      "visual": {
+        "source": "pexels",
+        "keywords": "nose smell"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Hidungmu memang dirancang begitu",
+      "body": "Menurut penulisnya, hidung berevolusi sebagai sensor kimia untuk gas berbelerang, penanda zat membusuk atau lingkungan berbahaya.",
+      "visual": {
+        "source": "pexels",
+        "keywords": "nose evolution"
+      }
+    },
+    {
+      "type": "cta",
+      "title": "Mau fakta sains lain yang bikin melongo?",
+      "body": "Ikuti @alwaysfact_ dan kirim ke teman yang suka bilang 'masa sih?'",
+      "visual": {
+        "source": "pexels",
+        "keywords": "science curiosity"
+      }
+    }
+  ],
+  "caption": "Kentut itu mayoritas gas tak berbau, tapi sedikit gas berbelerang saja sudah cukup bikin satu ruangan menyerah. Satu molekul hidrogen sulfida di antara 1 juta molekul lain sudah bisa tercium. Hidung kita memang berevolusi untuk peka terhadap gas ini. Ikuti @alwaysfact_ untuk fakta sains lain!\n\nSumber: ScienceDaily (The Conversation)",
+  "hashtags": [
+    "fakta",
+    "sains",
+    "tubuhmanusia",
+    "kentut",
+    "mikrobioma",
+    "alwaysfact",
+    "faktaunik",
+    "masasih"
+  ],
+  "claims": [
+    {
+      "text": "Orang sehat kentut sekitar 14 sampai 20 kali setiap hari.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm"
+    },
+    {
+      "text": "Antara 20% sampai 90% volume kentut adalah nitrogen.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm"
+    },
+    {
+      "text": "Bau kentut berasal dari molekul gas yang mengandung unsur belerang.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm"
+    },
+    {
+      "text": "Satu molekul hidrogen sulfida di antara 1 juta molekul gas lain sudah cukup untuk menimbulkan bau.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm"
+    },
+    {
+      "text": "Kemampuan hidung mendeteksi gas berbelerang adalah hasil evolusi, sebagai sensor kimia.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm"
+    }
+  ],
+  "music_suggestions": [
+    "jenaka, tempo cepat",
+    "ringan, tempo sedang",
+    "penasaran, playful"
+  ],
+  "pillar": "Tubuh manusia",
+  "id": "009",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
+      "quote": "A healthy person farts about 14 to 20 times each day",
+      "note": "quote copied from stored article text",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
+      "quote": "Anywhere from 20% to 90% of a fart's volume consists of nitrogen, which makes up more than three-quarters of air.",
+      "note": "quote copied from stored article text",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
+      "quote": "What makes farts so malodorous is other gas molecules that contain the element sulfur",
+      "note": "quote copied from stored article text",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
+      "quote": "One molecule of hydrogen sulfide among 1 million other gas molecules has enough power to do the job.",
+      "note": "quote copied from stored article text",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
+      "quote": "your nose is doing exactly what evolution designed it to do: act as a chemical sensor for sulfur-containing gases.",
+      "note": "quote copied from stored article text",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
+  "topic_id": "t73c78aa6"
+}
