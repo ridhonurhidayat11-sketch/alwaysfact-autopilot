@@ -24,6 +24,7 @@ import reel  # noqa: E402
 import reel_sheet  # noqa: E402
 import writer  # noqa: E402
 import autopilot  # noqa: E402
+import ingest  # noqa: E402
 import publish  # noqa: E402
 
 DEMO = json.loads((ROOT / "tests" / "fixtures" / "reel-demo.json").read_text(encoding="utf-8"))
@@ -106,6 +107,40 @@ class StorytellingTests(unittest.TestCase):
         self.assertIn("Judul alternatif dua", md)
         self.assertIn("| 1 | 4.0 dtk |", md)
         self.assertIn("Menurut peneliti", md.split("Interpretasi")[1])
+
+
+class JudgeVizNumberTests(unittest.TestCase):
+    """The referee lets an infographic show a number that is in a VERIFIED source quote, even if the claim text lacks it."""
+
+    PAGE = ("People pass gas about 14 to 20 times a day and 99 percent of it is harmless. Between 20% and 90% of it is nitrogen. "
+            "One molecule of hydrogen sulfide in 1 million other gas molecules is enough to smell.")
+
+    def verdicts(self):
+        url = "https://www.sciencedaily.com/releases/x.htm"
+        return [{"claim": 1, "verdict": "supported", "evidence_url": url,
+                 "quote": "People pass gas about 14 to 20 times a day and 99 percent of it is harmless."},
+                {"claim": 2, "verdict": "supported", "evidence_url": url,
+                 "quote": "Between 20% and 90% of it is nitrogen."},
+                {"claim": 3, "verdict": "supported", "evidence_url": url,
+                 "quote": "One molecule of hydrogen sulfide in 1 million other gas molecules is enough to smell."},
+                {"claim": 0, "verdict": "supported", "note": "nothing stronger than the claims"}]
+
+    def run_judge(self, value):
+        post = reel_post()
+        for c in post["claims"]:
+            c["source_url"] = "https://www.sciencedaily.com/releases/x.htm"
+        post["reel"]["beats"][1]["viz"]["value"] = value
+        data = {"risk": "low", "post": post, "verdicts": self.verdicts()}
+        return ingest.judge(data, ["sciencedaily.com"], lambda url: self.PAGE, [])
+
+    def test_a_number_from_a_verified_quote_is_accepted(self):
+        ok, reasons, _ = self.run_judge("99%")
+        self.assertTrue(ok, reasons)
+
+    def test_a_number_found_nowhere_is_refused(self):
+        ok, reasons, _ = self.run_judge("77%")
+        self.assertFalse(ok)
+        self.assertTrue(any("77" in r for r in reasons))
 
 
 class ElementTests(unittest.TestCase):
