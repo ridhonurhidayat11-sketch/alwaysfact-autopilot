@@ -1,0 +1,154 @@
+{
+ "topic_id": "t98f0f0a5",
+ "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
+ "risk": "low",
+ "post": {
+  "topic": "Api hidrogen bisa oranye lalu nyaris tak terlihat gara-gara garam di udara",
+  "image_query": "",
+  "pillar": "Benda sehari-hari yang rumit",
+  "hook_options": [
+   "Api bisa nyaris tak terlihat, padahal kompor tidak diubah",
+   "Ternyata warna api hidrogen dipengaruhi garam laut"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Api bisa nyaris tak terlihat, padahal kompor tidak diubah",
+    "body": "Pengaturan kompor sama persis, tetapi apinya berubah drastis.",
+    "icon": "flame"
+   },
+   {
+    "type": "fact",
+    "title": "Hari ini oranye, besok nyaris hilang",
+    "body": "Api hidrogen bisa menyala oranye terang suatu hari, lalu hampir mustahil terlihat keesokan harinya, padahal pengaturan pembakar tidak berubah.",
+    "takeaway": "Tampilan api tidak selalu menunjukkan apinya menyala.",
+    "icon": "flame"
+   },
+   {
+    "type": "fact",
+    "title": "Biang keladinya: natrium",
+    "body": "Peneliti Universitas Adelaide menemukan penyebabnya natrium di udara. Saat natrium ada, api hidrogen bisa berpendar oranye.",
+    "takeaway": "Unsur kecil di udara mengubah warna api.",
+    "icon": "atom"
+   },
+   {
+    "type": "fact",
+    "title": "Natrium itu terbawa dari laut",
+    "body": "Garam laut yang terbawa angin ke daratan adalah salah satu sumber natrium itu. Jadi cuaca ikut menentukan warna api.",
+    "takeaway": "Angin dari laut membawa garam yang membuat api oranye.",
+    "icon": "cloud",
+    "image_query": "Sea spray ocean wave"
+   },
+   {
+    "type": "chart",
+    "title": "Sinyalnya berubah lebih dari 28 kali",
+    "body": "Selama dua minggu, tim memantau cahaya api tanpa mengubah pengaturan. Sinyal cahaya dari natrium berbeda lebih dari 28 kali antara nilai terendah dan tertinggi.",
+    "takeaway": "Perbedaannya besar, padahal pengaturannya sama.",
+    "icon": "clock",
+    "viz": {
+     "kind": "stat",
+     "value": "28x+",
+     "label": "selisih sinyal cahaya",
+     "note": "terendah dibanding tertinggi, selama 2 minggu"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Lebih redup dari api gas alam",
+    "body": "Rata-rata, api hidrogen memancarkan cahaya tampak lebih sedikit daripada kompor gas alam, bahkan saat kondisi udara membuatnya lebih terang.",
+    "takeaway": "Api hidrogen memang lebih sulit dilihat.",
+    "icon": "bulb"
+   },
+   {
+    "type": "cta",
+    "title": "Ikuti @alwaysfact_",
+    "body": "Kirim ke temanmu yang penasaran soal kompor masa depan, lalu ikuti @alwaysfact_.",
+    "icon": "heart"
+   }
+  ],
+  "caption": "Api hidrogen bisa oranye terang di satu hari dan nyaris tak terlihat di hari lain, walau pengaturannya sama. Menurut peneliti Universitas Adelaide, natrium di udara, termasuk dari garam laut yang terbawa angin, ikut menentukan. Kirim ke temanmu yang suka sains sehari-hari!\n\nSumber: ScienceDaily (Adelaide University), 19 November 2026.",
+  "hashtags": [
+   "api",
+   "hidrogen",
+   "sains",
+   "faktasains",
+   "kimia",
+   "energi",
+   "alwaysfact"
+  ],
+  "claims": [
+   {
+    "text": "Api hidrogen bisa menyala oranye terang suatu hari dan nyaris tak terlihat hari berikutnya, walau pengaturan pembakar sama persis.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm"
+   },
+   {
+    "text": "Saat ada natrium di udara sekitar, api hidrogen bisa berpendar oranye.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm"
+   },
+   {
+    "text": "Garam laut yang terbawa angin ke daratan adalah salah satu sumber natrium.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm"
+   },
+   {
+    "text": "Selama dua minggu, sinyal cahaya terkait natrium berbeda lebih dari 28 kali antara nilai terendah dan tertinggi.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm"
+   },
+   {
+    "text": "Rata-rata api hidrogen memancarkan cahaya tampak lebih sedikit daripada api kompor gas alam.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm"
+   }
+  ],
+  "music_suggestions": [
+   "tenang misterius, tempo pelan",
+   "ringan penasaran, tempo sedang",
+   "sinematik lembut, tempo pelan"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
+   "quote": "Hydrogen flames can glow bright orange one day and become almost impossible to see the next, even when the burner settings remain exactly the same.",
+   "note": "same settings"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
+   "quote": "When sodium is present in the surrounding air, hydrogen flames can take on a noticeable orange glow.",
+   "note": "sodium"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
+   "quote": "Sea salt transported inland by the wind is one important source.",
+   "note": "sea salt"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
+   "quote": "Despite the consistent operating conditions, the sodium-related light signal varied by more than 28 times between its lowest and highest recorded values.",
+   "note": "28x; two weeks"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
+   "quote": "They found that hydrogen flames emitted less visible light on average, even when atmospheric conditions favored a brighter flame.",
+   "note": "less visible"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}

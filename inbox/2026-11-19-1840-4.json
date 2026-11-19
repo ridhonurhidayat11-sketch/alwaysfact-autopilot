@@ -1,0 +1,166 @@
+{
+ "topic_id": "t8693248f",
+ "source_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+ "risk": "low",
+ "post": {
+  "topic": "Memasak jadi sumber polusi partikel terbesar di London saat jam makan",
+  "image_query": "Deep frying",
+  "pillar": "Sains yang disepelekan",
+  "hook_options": [
+   "Saat jam makan, dapur jadi sumber polusi utama kota",
+   "Jam makan siang mengubah udara kota"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Saat jam makan, dapur jadi sumber polusi utama kota",
+    "body": "Saat lapar, ternyata dapur restoran ikut mengubah udara kota.",
+    "icon": "cloud",
+    "image_query": "Deep frying"
+   },
+   {
+    "type": "fact",
+    "title": "Lalu lintas sudah jauh membaik",
+    "body": "Emisi partikel dari transportasi jalan di Inggris turun lebih dari 90 persen sejak 1996. Jadi sumber lain mulai terlihat.",
+    "takeaway": "Udara yang lebih bersih membuka sinyal baru.",
+    "icon": "leaf",
+    "image_query": "London traffic"
+   },
+   {
+    "type": "fact",
+    "title": "Yang muncul: asap dapur",
+    "body": "Pada jam makan, emisi masak menjadi sumber utama partikel halus PM1 di London. Dugaan peneliti, sebagian besar dari menggoreng di dapur komersial.",
+    "takeaway": "Menggoreng di dapur restoran ikut menyumbang polusi.",
+    "icon": "flame",
+    "image_query": "Commercial kitchen wok flame"
+   },
+   {
+    "type": "chart",
+    "title": "Sampai 83 persen saat makan siang",
+    "body": "Masak menyumbang hingga 83 persen emisi tengah hari dan 87 persen di awal malam.",
+    "takeaway": "Pada jam makan, dapur mendominasi emisi langsung.",
+    "icon": "clock",
+    "viz": {
+     "kind": "compare",
+     "items": [
+      {
+       "label": "Tengah hari",
+       "value": 83
+      },
+      {
+       "label": "Awal malam",
+       "value": 87
+      }
+     ],
+     "unit": "%",
+     "caption": "Porsi masak dalam emisi partikel PM1 di London"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Beijing pun mirip",
+    "body": "Di Beijing, masak menyumbang hingga 61 persen emisi tengah hari dan 76 persen di awal malam.",
+    "takeaway": "Pola yang sama muncul di kota lain.",
+    "icon": "globe",
+    "image_query": "Beijing street food"
+   },
+   {
+    "type": "fact",
+    "title": "PM1 itu sehalus apa?",
+    "body": "PM1 adalah partikel dengan diameter kurang dari satu mikrometer. Penelitian ini hanya melihat emisi yang dihasilkan langsung di kota.",
+    "takeaway": "Ini soal sumber emisi, bukan seberapa bahayanya.",
+    "icon": "atom"
+   },
+   {
+    "type": "cta",
+    "title": "Ikuti @alwaysfact_",
+    "body": "Kirim ke temanmu yang doyan gorengan, lalu ikuti @alwaysfact_.",
+    "icon": "heart"
+   }
+  ],
+  "caption": "Saat jam makan, masak di dapur komersial jadi sumber utama partikel halus PM1 di London, hingga 83 persen emisi tengah hari. Studi ini melihat sumber emisi, bukan tingkat bahayanya. Kirim ke temanmu!\n\nSumber: New Scientist, 19 November 2026.",
+  "hashtags": [
+   "polusiudara",
+   "london",
+   "sains",
+   "faktasains",
+   "memasak",
+   "lingkungan",
+   "alwaysfact"
+  ],
+  "claims": [
+   {
+    "text": "Emisi partikel dari transportasi jalan di Inggris turun lebih dari 90 persen sejak 1996.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "Di London, emisi masak menjadi sumber utama PM1 saat jam makan, hingga 83 persen emisi tengah hari dan 87 persen di awal malam.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "Peneliti menduga emisi itu didominasi minyak goreng dari menggoreng di dapur komersial.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "Di Beijing, masak menyumbang hingga 61 persen emisi tengah hari dan 76 persen di awal malam.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "PM1 adalah partikel dengan diameter kurang dari satu mikrometer.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   }
+  ],
+  "music_suggestions": [
+   "tenang misterius, tempo pelan",
+   "ringan penasaran, tempo sedang",
+   "sinematik lembut, tempo pelan"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "pointing out that particulate matter emissions for road transport have fallen by more than 90 per cent in the UK since 1996",
+   "note": "90%"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "the team found that cooking emissions emerge as the dominant source of PM1 pollution during mealtimes in London, contributing up to 83 per cent of midday emissions and 87 per cent in the early evening.",
+   "note": "83/87"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "This is likely dominated by emissions from shallow and deep-frying cooking oil in commercial kitchens, the researchers say.",
+   "note": "frying"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "There, cooking emissions contributed up to 61 per cent of midday emissions and 76 per cent of early-evening emissions.",
+   "note": "Beijing"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "particles with a diameter smaller than one micrometre",
+   "note": "PM1"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}

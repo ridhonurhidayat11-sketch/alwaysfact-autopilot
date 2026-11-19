@@ -1,0 +1,157 @@
+{
+ "topic_id": "t15842642",
+ "source_url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
+ "risk": "low",
+ "post": {
+  "topic": "Batu Altar Stonehenge: asalnya dari Wales atau Skotlandia?",
+  "image_query": "Stonehenge Altar Stone",
+  "pillar": "Sains yang disepelekan",
+  "hook_options": [
+   "Satu batu Stonehenge asalnya masih jadi teka-teki",
+   "Dari mana batu 6 ton ini dibawa?"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Satu batu Stonehenge asalnya masih jadi teka-teki",
+    "body": "Batu raksasa ini masih menyimpan asal-usul yang belum terjawab.",
+    "icon": "magnifier",
+    "image_query": "Stonehenge"
+   },
+   {
+    "type": "fact",
+    "title": "Namanya Batu Altar",
+    "body": "Batu pasir ini panjangnya 4.9 meter dan terletak di jantung Stonehenge, di Dataran Salisbury, Inggris selatan.",
+    "takeaway": "Satu batu raksasa di pusat monumen.",
+    "icon": "globe",
+    "image_query": "Altar Stone Stonehenge"
+   },
+   {
+    "type": "fact",
+    "title": "Dulu dikira dari Wales",
+    "body": "Lebih dari satu abad, arkeolog dan ahli geologi percaya batu ini dibawa dari Wales.",
+    "takeaway": "Teori lama bertahan seratusan tahun.",
+    "icon": "bulb",
+    "image_query": "Wales landscape"
+   },
+   {
+    "type": "fact",
+    "title": "Lalu teori itu terbalik",
+    "body": "Penelitian baru dengan metode analisis canggih menunjuk Skotlandia timur laut sebagai sumber yang lebih mungkin.",
+    "takeaway": "Perjalanannya mungkin jauh lebih panjang.",
+    "icon": "planet",
+    "image_query": "Orkney Old Red Sandstone"
+   },
+   {
+    "type": "compare",
+    "title": "Batu kecilnya saja jauh",
+    "body": "Batu biru yang lebih kecil di Stonehenge menempuh sekitar 225 kilometer dari Wales barat. Kalau Batu Altar dari Skotlandia, perjalanannya lebih jauh lagi.",
+    "takeaway": "Pembangun Stonehenge memindahkan batu lintas negeri.",
+    "icon": "rocket",
+    "viz": {
+     "kind": "stat",
+     "value": "225 km",
+     "label": "jarak batu biru dari Wales barat",
+     "note": "sekitar 140 mil"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Tapi lokasi pastinya belum ketemu",
+    "body": "Studi terbaru: sejauh ini belum ada lokasi yang diperiksa dengan ciri yang sama persis dengan Batu Altar. Pencarian menyempit, belum selesai.",
+    "takeaway": "Mencoret kandidat juga kemajuan.",
+    "icon": "magnifier"
+   },
+   {
+    "type": "cta",
+    "title": "Ikuti @alwaysfact_",
+    "body": "Kirim ke temanmu yang suka misteri, lalu ikuti @alwaysfact_.",
+    "icon": "heart"
+   }
+  ],
+  "caption": "Batu Altar Stonehenge panjangnya 4.9 meter. Lama dikira dari Wales, tetapi penelitian menunjuk Skotlandia timur laut. Lokasi pastinya masih belum ditemukan. Kirim ke temanmu yang suka misteri!\n\nSumber: ScienceDaily (Aberystwyth University), 18 November 2026.",
+  "hashtags": [
+   "stonehenge",
+   "sejarah",
+   "sains",
+   "faktasains",
+   "geologi",
+   "misteri",
+   "alwaysfact"
+  ],
+  "claims": [
+   {
+    "text": "Batu Altar Stonehenge panjangnya 4.9 meter dan berada di jantung monumen di Dataran Salisbury, Inggris selatan.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm"
+   },
+   {
+    "text": "Lebih dari satu abad, arkeolog dan ahli geologi percaya batu itu dibawa dari Wales.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm"
+   },
+   {
+    "text": "Penelitian terbaru menunjuk Skotlandia timur laut sebagai sumber yang lebih mungkin.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm"
+   },
+   {
+    "text": "Batu biru yang lebih kecil menempuh sekitar 225 kilometer dari Wales barat.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm"
+   },
+   {
+    "text": "Sejauh ini belum ada lokasi yang diperiksa dengan ciri yang sama seperti Batu Altar.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm"
+   }
+  ],
+  "music_suggestions": [
+   "tenang misterius, tempo pelan",
+   "ringan penasaran, tempo sedang",
+   "sinematik lembut, tempo pelan"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
+   "quote": "Measuring 4.9 meters (about 16 feet) long, the massive sandstone slab lies at the heart of the famous prehistoric monument on Salisbury Plain in southern England.",
+   "note": "4.9 m"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
+   "quote": "For more than a century, archaeologists and geologists believed it had been transported from Wales.",
+   "note": "Wales theory"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
+   "quote": "However, recent research using advanced analytical methods overturned that long-standing theory and identified northeastern Scotland as a more likely source.",
+   "note": "Scotland"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
+   "quote": "Its builders are known to have moved massive stones across the landscape, including the smaller bluestones, which traveled roughly 225 kilometers (140 miles) from western Wales.",
+   "note": "225 km"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
+   "quote": "So far, none of the locations examined have the same set of characteristics as the Altar Stone.",
+   "note": "unsolved"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}
