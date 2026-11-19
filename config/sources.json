@@ -1,5 +1,5 @@
 {
-  "per_feed": 8,
+  "per_feed": 12,
   "feeds": [
     {
       "name": "NASA",
@@ -32,7 +32,19 @@
     {
       "name": "New Scientist",
       "url": "https://www.newscientist.com/feed/home/"
+    },
+    {
+      "name": "Live Science",
+      "url": "https://www.livescience.com/feeds/all"
+    },
+    {
+      "name": "Space.com",
+      "url": "https://www.space.com/feeds/all"
+    },
+    {
+      "name": "Mongabay",
+      "url": "https://news.mongabay.com/feed/"
     }
   ],
-  "max_age_days": 5
+  "max_age_days": 7
 }
