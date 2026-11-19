@@ -1,5 +1,5 @@
 {
-  "mode": "shadow",
+  "mode": "live",
   "posts_per_day": 5,
   "slots_wib": [
     "06:30",
