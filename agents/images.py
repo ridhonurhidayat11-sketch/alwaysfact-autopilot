@@ -92,6 +92,8 @@ def commons_search(query, fetch=get_json, limit=12):
         out.append({"source": "Wikimedia Commons", "url": ii.get("thumburl") or ii.get("url"),
                     "title": strip(p.get("title", "")).replace("File:", ""), "creator": strip((meta.get("Artist") or {}).get("value", "")) or "unknown",
                     "license": lic, "page": ii.get("descriptionurl", ""), "w": ii.get("width"), "h": ii.get("height"),
+                    "core": " ".join([p.get("title", ""), strip((meta.get("ImageDescription") or {}).get("value", "")),
+                                      strip((meta.get("ObjectName") or {}).get("value", ""))]).lower(),
                     "text": " ".join([p.get("title", ""), strip((meta.get("ImageDescription") or {}).get("value", "")),
                                       strip((meta.get("ObjectName") or {}).get("value", "")),
                                       strip((meta.get("Categories") or {}).get("value", "")).replace("|", " ")]).lower()})
@@ -132,7 +134,7 @@ def relevant(c, query):
             toks.append(t)
     if not toks:
         return False
-    text = c.get("text", "")
+    text = c.get("core", c.get("text", ""))  # title + description; categories are too loose to prove the subject
 
     def has(t):  # whole words only: 'pig' must not match 'pigment'
         return bool(re.search(r"\b" + re.escape(t.rstrip("s") if len(t) > 3 else t) + r"s?\b", text))
@@ -141,8 +143,35 @@ def relevant(c, query):
     names = {n.lower() for n in re.findall(r"\b[A-Z][a-z]{5,}\b", query or "")}
     if any(has(n) for n in names):
         return True
+    if len(toks) >= 2:  # 'Ethylene sulfide' is not 'hydrogen sulfide': the phrase, or the head word in the TITLE, must be there
+        phrase = " ".join(re.findall(r"[a-z]{3,}", (query or "").lower()))
+        if phrase not in re.sub(r"[^a-z ]+", " ", text) and not re.search(r"\b" + re.escape(head) + r"", (c.get("title") or text).lower()):
+            return False
     need = 1.0 if len(toks) <= 3 else 0.75  # precision over recall: no photo beats a wrong photo
     return has(head) and sum(has(t) for t in toks) / len(toks) >= need
+
+
+NOT_A_PHOTO = re.compile(r"\b(illustrations?|drawings?|engravings?|lithographs?|plates?|sketch(?:es)?|paintings?|diagrams?|maps?|"
+                         r"charts?|logos?|scans?|stamps?|posters?|cartoons?|clip ?art|schematics?|reconstructions?|renderings?|icons?|models?)\b")
+MUSEUM_SHOT = re.compile(r"\b(usnm|nmnh|specimens?|holotypes?|syntypes?|paratypes?|preserved|catalogue?|accession)\b")
+TOP_PICK = re.compile(r"featured pictures|quality images|valued images|picture of the day")
+
+
+def quality(c):
+    """Higher is better. Prefers real, striking photographs (featured/quality pictures, large) over drawings, plates,
+    diagrams and scans, which read as dull and are often not photographs of the real animal at all."""
+    text, score = c.get("text", ""), 0
+    if NOT_A_PHOTO.search(text):
+        score -= 6
+    if MUSEUM_SHOT.search(text):  # a dead specimen next to a ruler and a label: a real photo, but a dull one
+        score -= 3
+    if re.search(r"noaa|mbari|okeanos|nasa|esa\b|eso\b|usgs", (c.get("creator") or "").lower()):
+        score += 2  # field/science photographers: live animals in their habitat, real telescope and satellite images
+    if TOP_PICK.search(text):
+        score += 4
+    if (c.get("w") or 0) >= 2000:
+        score += 1
+    return score
 
 
 def variants(query):
@@ -174,27 +203,27 @@ def find(query, prefer="commons", used=(), fetch=get_json):
     return None
 
 
-def find_many(query, n=3, prefer="commons", fetch=get_json):
-    """Up to n distinct relevant photos of ONE subject (used for the cover and a few slides of the same post)."""
+def find_many(query, n=3, prefer="commons", fetch=get_json, pool=None):
+    """Up to `pool` (default n) distinct relevant photos of ONE subject, best quality first (real photos before drawings)."""
     if not enabled() or not query:
         return []
+    want = pool or n
     order = [nasa_search, commons_search] if prefer == "nasa" else [commons_search]  # NASA only for space topics
     got, urls = [], set()
     for q in variants(query):
         for search in order:
             try:
-                for c in search(q, fetch=fetch):
+                for c in search(q, fetch=fetch, **({"limit": 40} if pool else {})):
                     if c["url"] and c["url"] not in urls and relevant(c, q):
                         urls.add(c["url"])
                         got.append(c)
-                        if len(got) == n:
-                            return got
             except Exception as e:
                 ERRORS.append(f"{search.__name__}({q!r}): {type(e).__name__}: {str(e)[:80]}")
                 continue
         if got:  # a shorter, looser query must not add photos once the specific one produced some
             break
-    return got
+    got.sort(key=lambda c: -quality(c))  # stable: search order is kept among equals
+    return got[:want]
 
 
 def credit(c):
