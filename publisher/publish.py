@@ -55,12 +55,30 @@ def call(method, path, retries=2, **params):
             raise RuntimeError(f"network error: {e}") from None
 
 
+VIDEO_EXT = (".mp4", ".mov")
+
+
+def is_reel(urls):
+    return len(urls) == 1 and urls[0].lower().split("?")[0].endswith(VIDEO_EXT)
+
+
+def purge_cdn(url):
+    """jsDelivr caches branch names for hours: ask it to refresh a just-added file before Instagram fetches it."""
+    if "cdn.jsdelivr.net/" in url:
+        try:
+            urllib.request.urlopen(url.replace("https://cdn.jsdelivr.net/", "https://purge.jsdelivr.net/"), timeout=30).read()
+        except Exception:
+            pass
+
+
 def check_media(url):
-    """Fail early, with a clear message, if Instagram would not be able to fetch the image."""
+    """Fail early, with a clear message, if Instagram would not be able to fetch the image or video."""
+    video = url.lower().split("?")[0].endswith(VIDEO_EXT)
     try:
         with urllib.request.urlopen(urllib.request.Request(url, method="HEAD"), timeout=30) as r:
             ctype = r.headers.get("Content-Type", "")
-            if r.status != 200 or not ctype.startswith("image/"):
+            ok = ctype.startswith("video/") or ctype == "application/octet-stream" if video else ctype.startswith("image/")
+            if r.status != 200 or not ok:
                 raise RuntimeError(f"media not usable ({r.status}, {ctype}): {url}")
     except urllib.error.HTTPError as e:
         raise RuntimeError(f"media not reachable ({e.code}): {url}") from None
@@ -68,14 +86,14 @@ def check_media(url):
         raise RuntimeError(f"media not reachable ({e.reason}): {url}") from None
 
 
-def wait_ready(container_id):
-    for _ in range(30):
+def wait_ready(container_id, tries=30, pause=4):
+    for _ in range(tries):
         status = call("GET", container_id, fields="status_code").get("status_code")
         if status == "FINISHED":
             return
         if status in ("ERROR", "EXPIRED"):
             raise RuntimeError(f"container {container_id} status {status}")
-        time.sleep(4)
+        time.sleep(pause)
     raise RuntimeError(f"container {container_id} not ready in time")
 
 
@@ -109,7 +127,13 @@ def validate(row):
 def publish(row, uid):
     urls = validate(row)
     for u in urls:
+        purge_cdn(u)
         check_media(u)
+    if is_reel(urls):
+        parent = call("POST", f"{uid}/media", media_type="REELS", video_url=urls[0], caption=row["caption"],
+                      share_to_feed="true", thumb_offset=1200)["id"]
+        wait_ready(parent, tries=90, pause=5)  # video processing takes a while
+        return call("POST", f"{uid}/media_publish", retries=0, creation_id=parent)["id"]
     if len(urls) == 1:
         parent = call("POST", f"{uid}/media", image_url=urls[0], caption=row["caption"])["id"]
     else:
