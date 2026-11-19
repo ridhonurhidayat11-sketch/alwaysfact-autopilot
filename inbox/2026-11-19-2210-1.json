@@ -1,0 +1,183 @@
+{
+ "topic_id": "t8693248f",
+ "source_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+ "risk": "low",
+ "post": {
+  "topic": "Asap dapur restoran jadi sumber polusi terbesar di London saat jam makan",
+  "image_query": "Commercial kitchen frying",
+  "pillar": "Benda sehari-hari yang rumit",
+  "hook_options": [
+   "Saat jam makan, dapur ternyata bikin udara kota paling kotor",
+   "Polusi kota bukan cuma dari knalpot"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Saat jam makan, dapur ternyata bikin udara kota paling kotor",
+    "body": "Bukan knalpot. Di London, yang mendominasi adalah asap masakan.",
+    "icon": "flame"
+   },
+   {
+    "type": "fact",
+    "title": "Asap masak mengalahkan lalu lintas",
+    "body": "Analisis baru menemukan **asap dapur restoran** jadi sumber utama partikel halus di London saat siang dan sore.",
+    "takeaway": "Jam makan = puncak polusi dari dapur.",
+    "icon": "cloud",
+    "image_query": "London skyline"
+   },
+   {
+    "type": "fact",
+    "title": "Angkanya besar",
+    "body": "Saat tengah hari, masakan menyumbang **hingga 83 persen** partikel sangat halus. Menjelang malam, hingga 87 persen.",
+    "takeaway": "Hampir seluruhnya dari dapur.",
+    "icon": "gas",
+    "viz": {
+     "kind": "stat",
+     "value": "83%",
+     "label": "polusi partikel halus siang hari",
+     "note": "dari asap masak, hingga"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Penyebab utamanya: minyak goreng",
+    "body": "Para peneliti menduga sebagian besar berasal dari **menggoreng** dengan minyak di dapur komersial.",
+    "takeaway": "Gorengan di dapur besar menghasilkan asap halus.",
+    "icon": "flame",
+    "image_query": "Deep fryer"
+   },
+   {
+    "type": "fact",
+    "title": "Kenapa baru sekarang terlihat?",
+    "body": "Emisi partikel dari kendaraan di Inggris sudah turun **lebih dari 90 persen** sejak 1996. Jadi asap masak jadi lebih menonjol.",
+    "takeaway": "Lalu lintas makin bersih, dapur jadi terlihat.",
+    "icon": "globe",
+    "viz": {
+     "kind": "stat",
+     "value": ">90%",
+     "label": "turunnya emisi partikel kendaraan",
+     "note": "di Inggris sejak 1996"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Kota lain mirip",
+    "body": "Di Beijing, masakan menyumbang hingga 61 persen di siang hari dan 76 persen menjelang malam.",
+    "takeaway": "Pola ini juga ada di kota besar lain.",
+    "icon": "globe",
+    "viz": {
+     "kind": "compare",
+     "items": [
+      {
+       "label": "London siang",
+       "value": 83
+      },
+      {
+       "label": "Beijing siang",
+       "value": 61
+      }
+     ],
+     "unit": "%",
+     "caption": "Sumbangan masakan pada partikel halus saat tengah hari (hingga)"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Catatan penting",
+    "body": "Ini hanya sumber yang dikeluarkan kota itu sendiri. Udara yang kita hirup bisa berbeda, karena sebagian terbawa dari tempat lain.",
+    "takeaway": "Bukan berarti semua udara kota berasal dari dapur.",
+    "icon": "magnifier"
+   },
+   {
+    "type": "cta",
+    "title": "Kirim ke teman yang suka jajan",
+    "body": "Ikuti @alwaysfact_ untuk fakta sains yang sering terlewat. Kirim ke temanmu, simpan buat nanti!",
+    "icon": "heart"
+   }
+  ],
+  "caption": "Kita sering mengira polusi kota cuma dari knalpot. Di London, saat jam makan, asap dapur restoran ternyata jadi sumber terbesar partikel halus yang dikeluarkan kota itu sendiri. Para peneliti menduga penyebab utamanya menggoreng dengan minyak. Tapi catatan: ini hanya emisi lokal, bukan semua udara yang kita hirup. Kirim ke temanmu yang suka gorengan!\n\nSumber: New Scientist (analisis di npj Climate and Atmospheric Science)",
+  "hashtags": [
+   "sainsfakta",
+   "alwaysfact",
+   "faktaunik",
+   "sains",
+   "tahukahkamu",
+   "polusiudara",
+   "masak"
+  ],
+  "music_suggestions": [
+   "santai, tempo sedang, rasa penasaran",
+   "akustik ringan, tempo lambat",
+   "elektronik lembut, tempo sedang"
+  ],
+  "claims": [
+   {
+    "text": "Memasak menyumbang hingga 83 persen emisi partikel sangat halus di London saat tengah hari dan 87 persen menjelang malam.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "Emisi partikel dari kendaraan di Inggris turun lebih dari 90 persen sejak 1996.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "Di Beijing, masakan menyumbang hingga 61 persen emisi siang hari dan 76 persen emisi menjelang malam.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "Para peneliti menduga emisi masak didominasi menggoreng dengan minyak di dapur komersial.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "Studi hanya melihat sumber emisi lokal; udara yang dihirup di London belum tentu berasal dari emisi lokal.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   }
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "contributing up to 83 per cent of midday emissions and 87 per cent in the early evening",
+   "note": "ok"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "particulate matter emissions for road transport have fallen by more than 90 per cent in the UK since 1996",
+   "note": "ok"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "cooking emissions contributed up to 61 per cent of midday emissions and 76 per cent of early-evening emissions",
+   "note": "ok"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "This is likely dominated by emissions from shallow and deep-frying cooking oil in commercial kitchens, the researchers say.",
+   "note": "ok"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "A lot of what you breathe in in London is not necessarily what’s emitted locally",
+   "note": "ok"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}

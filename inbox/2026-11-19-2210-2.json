@@ -1,0 +1,148 @@
+{
+ "topic_id": "t78c630c5",
+ "source_url": "https://www.newscientist.com/article/2599610-otherworldly-image-of-a-porcelain-crab-wins-ocean-photography-contest/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+ "risk": "low",
+ "post": {
+  "topic": "Kepiting porselen ternyata bukan kepiting",
+  "image_query": "Porcelain crab",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+   "Hewan yang dipanggil kepiting ini ternyata bukan kepiting",
+   "Namanya kepiting, tapi bukan kepiting"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Hewan yang dipanggil kepiting ini ternyata bukan kepiting",
+    "body": "Namanya kepiting porselen. Tapi menurut sains, ini bukan kepiting.",
+    "icon": "bulb",
+    "image_query": "Porcelain crab"
+   },
+   {
+    "type": "fact",
+    "title": "Mirip, tapi bukan",
+    "body": "Walau namanya dan bentuknya seperti kepiting, kepiting porselen **bukan kepiting**.",
+    "takeaway": "Nama dan bentuk bisa menipu.",
+    "icon": "magnifier",
+    "image_query": "Porcelain crab"
+   },
+   {
+    "type": "fact",
+    "title": "Lalu kenapa mirip?",
+    "body": "Kemiripannya muncul lewat **evolusi konvergen**: makhluk berbeda sama-sama berbentuk mirip kepiting.",
+    "takeaway": "Bentuk yang mirip belum tentu satu keluarga.",
+    "icon": "dna"
+   },
+   {
+    "type": "fact",
+    "title": "Cara makannya unik",
+    "body": "Foto pemenang kontes fotografi laut menangkap kepiting porselen yang sedang menjaring plankton sambil setengah bersembunyi di anemon.",
+    "takeaway": "Makan sambil ngumpet di anemon.",
+    "icon": "fish",
+    "image_query": "Sea anemone"
+   },
+   {
+    "type": "fact",
+    "title": "Dipotret di Indonesia",
+    "body": "Foto itu diambil di terumbu karang dekat Pulau Gili Air, Indonesia.",
+    "takeaway": "Hewan ini hidup di laut kita.",
+    "icon": "globe",
+    "viz": {
+     "kind": "steps",
+     "items": [
+      "Terumbu karang",
+      "Gili Air",
+      "Indonesia"
+     ],
+     "caption": "Lokasi pengambilan foto pemenang"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Kontes yang sama juga memotret sarden",
+    "body": "Salah satu foto menangkap sarden yang dikejar burung. Miliaran sarden bermigrasi ke utara, dan alasannya belum dipahami.",
+    "takeaway": "Alam masih menyimpan teka-teki.",
+    "icon": "fish",
+    "image_query": "Sardine run"
+   },
+   {
+    "type": "cta",
+    "title": "Kirim ke temanmu yang suka laut",
+    "body": "Ikuti @alwaysfact_ untuk fakta sains yang sering terlewat. Kirim ke temanmu, simpan buat nanti!",
+    "icon": "heart"
+   }
+  ],
+  "caption": "Kepiting porselen kelihatan seperti kepiting, tapi ternyata bukan kepiting. Kemiripannya hasil evolusi konvergen. Fotonya, kepiting porselen menjaring plankton setengah bersembunyi di anemon, memenangkan kontes foto laut dan diambil di dekat Pulau Gili Air, Indonesia. Kirim ke temanmu!\n\nSumber: New Scientist",
+  "hashtags": [
+   "sainsfakta",
+   "alwaysfact",
+   "faktaunik",
+   "sains",
+   "tahukahkamu",
+   "hewanlaut",
+   "kepiting"
+  ],
+  "music_suggestions": [
+   "santai, tempo sedang, rasa penasaran",
+   "akustik ringan, tempo lambat",
+   "elektronik lembut, tempo sedang"
+  ],
+  "claims": [
+   {
+    "text": "Kepiting porselen bukan kepiting; kemiripannya hasil evolusi konvergen.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2599610-otherworldly-image-of-a-porcelain-crab-wins-ocean-photography-contest/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "Foto pemenang kontes memperlihatkan kepiting porselen menangkap plankton sambil setengah bersembunyi di anemon.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2599610-otherworldly-image-of-a-porcelain-crab-wins-ocean-photography-contest/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "Foto kepiting porselen itu diambil di terumbu karang dekat Pulau Gili Air, Indonesia.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2599610-otherworldly-image-of-a-porcelain-crab-wins-ocean-photography-contest/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "Miliaran sarden bermigrasi ke utara menyusuri pantai, dengan alasan yang masih belum dipahami.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2599610-otherworldly-image-of-a-porcelain-crab-wins-ocean-photography-contest/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   }
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2599610-otherworldly-image-of-a-porcelain-crab-wins-ocean-photography-contest/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "Despite the name and appearance, porcelain crabs aren’t crabs – the similarity is a result of convergent evolution.",
+   "note": "ok"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2599610-otherworldly-image-of-a-porcelain-crab-wins-ocean-photography-contest/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "This exquisite photo of a porcelain crab catching plankton while half-hidden in an anemone",
+   "note": "ok"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2599610-otherworldly-image-of-a-porcelain-crab-wins-ocean-photography-contest/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "The photo of the small crustacean was taken on a coral reef off Gili Air Island in Indonesia",
+   "note": "ok"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2599610-otherworldly-image-of-a-porcelain-crab-wins-ocean-photography-contest/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "when billions of sardines migrate north along the coast, for reasons that are still not understood",
+   "note": "ok"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}
