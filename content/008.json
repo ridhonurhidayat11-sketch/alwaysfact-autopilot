@@ -155,29 +155,53 @@
   "image_query": "whale skull fossil",
   "format": "reel",
   "reel": {
+    "central_question": "Kenapa tengkorak paus purba ini miring sampai ilmuwan mengira fosilnya rusak?",
+    "titles": [
+      "Wajah Paus Miring: Cacat atau Senjata Rahasia?",
+      "Paus Purba dengan Wajah Paling Miring di Bumi",
+      "Ilmuwan Kira Fosil Ini Rusak, Ternyata Mereka Salah"
+    ],
     "hook": "Wajah paus ini miring. Ilmuwan kira fosilnya rusak",
     "mood": "curious",
     "beats": [
       {
-        "say": "Tengkorak paus ini miring sampai ilmuwan mengira fosilnya rusak. Ternyata bukan.",
-        "text": "Wajah paus miring",
+        "act": "hook",
+        "say": "Bagaimana kalau wajah seekor paus miring sampai ilmuwan mengira fosilnya rusak?",
+        "text": "Wajah paus miring?",
         "image_query": "whale skull fossil",
-        "icon": "magnifier"
+        "icon": "magnifier",
+        "camera": "push_in"
       },
       {
-        "say": "Namanya Scaphokogia huachafo, paus kecil dari Peru sepanjang sekitar dua koma tujuh meter.",
+        "act": "context",
+        "say": "Fosil ini ditemukan di Peru. Namanya Scaphokogia huachafo, paus kecil sepanjang sekitar dua koma tujuh meter.",
         "text": "Paus kecil dari Peru",
+        "claim": 1,
+        "icon": "fish",
+        "camera": "static",
+        "transition": "slide",
         "viz": {
-          "kind": "stat",
-          "value": "2.7 m",
-          "label": "panjang tubuhnya",
-          "note": "hidup 6.3 sampai 5.6 juta tahun lalu"
-        },
-        "icon": "fish"
+          "kind": "timeline",
+          "items": [
+            {
+              "label": "6.3 juta tahun lalu",
+              "text": "Paus ini mulai hidup"
+            },
+            {
+              "label": "5.6 juta tahun lalu",
+              "text": "Panjangnya sekitar 2.7 meter"
+            }
+          ],
+          "caption": "Masa hidup menurut studi"
+        }
       },
       {
-        "say": "Kedua lubang hidungnya bergeser seluruhnya ke sisi kiri tengkorak.",
+        "act": "stakes",
+        "say": "Dan ini bukan miring biasa. Kedua lubang hidung tulangnya bergeser seluruhnya ke sisi kiri tengkorak.",
         "text": "Hidung ke kiri",
+        "claim": 2,
+        "camera": "static",
+        "transition": "wipe",
         "viz": {
           "kind": "steps",
           "items": [
@@ -188,8 +212,12 @@
         }
       },
       {
-        "say": "Peneliti awalnya curiga tengkoraknya rusak setelah mati, tapi bentuk miring itu ternyata alami.",
-        "text": "Dikira rusak?",
+        "act": "evidence",
+        "say": "Para peneliti awalnya curiga tengkoraknya rusak setelah mati. Tapi bentuk miring itu ternyata alami.",
+        "text": "Dikira rusak",
+        "claim": 3,
+        "camera": "static",
+        "transition": "fade",
         "viz": {
           "kind": "steps",
           "items": [
@@ -200,8 +228,12 @@
         }
       },
       {
+        "act": "evidence",
         "say": "Moncongnya menunduk tiga puluh satu derajat, dan kepalanya bisa menunduk sampai lima puluh lima derajat.",
-        "text": "Moncong menunduk",
+        "text": "31 dan 55 derajat",
+        "claim": 4,
+        "camera": "zoom_to_detail",
+        "transition": "slide",
         "viz": {
           "kind": "compare",
           "items": [
@@ -219,19 +251,27 @@
         }
       },
       {
-        "say": "Menurut peneliti, bentuk aneh ini kemungkinan membantu sonarnya mendeteksi mangsa yang bersembunyi di bawah sedimen.",
+        "act": "reveal",
+        "say": "Jadi ini bukan cacat. Menurut peneliti, bentuk aneh ini kemungkinan membantu sonarnya mendeteksi mangsa yang bersembunyi di bawah sedimen.",
         "text": "Bukan cacat, tapi adaptasi",
         "image_query": "fossil whale",
-        "icon": "bulb"
+        "icon": "bulb",
+        "camera": "pan_right",
+        "transition": "wipe"
       },
       {
+        "act": "conclusion",
+        "say": "Kadang yang tampak rusak ternyata cara alam memecahkan masalah.",
+        "text": "Aneh, tapi cerdas",
+        "icon": "bulb",
+        "camera": "static",
+        "transition": "fade"
+      },
+      {
+        "act": "cta",
         "say": "Kirim ini ke temanmu yang suka bilang masa sih, dan ikuti alwaysfact untuk fakta sains lainnya.",
         "text": "Ikuti dan bagikan"
       }
     ]
-  },
-  "image_credits": [
-    "TheUltimateGrass / CC0 (Wikimedia Commons)",
-    "Kurt Kaiser / CC0 (Wikimedia Commons)"
-  ]
+  }
 }
