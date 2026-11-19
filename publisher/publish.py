@@ -183,9 +183,19 @@ def limit_reached(rows, now, max_per_day, min_gap_min):
     return None
 
 
+def backend():
+    """Who actually posts: Buffer when BUFFER_API_KEY is set, otherwise Meta's Graph API (this module)."""
+    if os.environ.get("BUFFER_API_KEY"):
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import buffer_backend
+        return buffer_backend
+    return sys.modules[__name__]
+
+
 def run(rows, uid, now=None, save=lambda rows: None, dry=False, max_per_day=0, min_gap_min=0):
     """Process one run. Returns (posted_id_or_None, had_error)."""
     now = now or datetime.now(timezone.utc)
+    be = backend()
     why = limit_reached(rows, now, max_per_day, min_gap_min)
     if why:
         print(why + "; nothing posted this run")
@@ -204,14 +214,14 @@ def run(rows, uid, now=None, save=lambda rows: None, dry=False, max_per_day=0, m
         if dry:
             print(f"[dry run] would post {row['id']}: {row['media_urls']}")
             return None, False
-        if not quota_left(uid):
+        if not be.quota_left(uid):
             print("daily publishing quota used up; will retry on a later run")
             return None, False
         try:
-            if already_live(uid, row["caption"]):
+            if be.already_live(uid, row["caption"]):
                 row["status"], row["result"] = "posted", "already-live"
             else:
-                row["result"] = publish(row, uid)
+                row["result"] = be.publish(row, uid)
                 row["status"] = "posted"
                 row["posted_at"] = now.strftime("%Y-%m-%dT%H:%M:%SZ")
         except Exception as e:
@@ -238,8 +248,8 @@ def main():
         print(f"not posting: mode={c.get('mode')} paused={c.get('paused')} {c.get('pause_reason', '')}")
         sys.exit(0)
     shadow = c.get("mode") == "shadow"
-    if not shadow and not (os.environ.get("IG_USER_ID") and os.environ.get("IG_TOKEN")):
-        print("mode is live but IG_USER_ID or IG_TOKEN is missing (Settings > Secrets and variables > Actions)", file=sys.stderr)
+    if not shadow and not (os.environ.get("BUFFER_API_KEY") or (os.environ.get("IG_USER_ID") and os.environ.get("IG_TOKEN"))):
+        print("mode is live but there is no BUFFER_API_KEY (or IG_USER_ID and IG_TOKEN) in the secrets (Settings > Secrets and variables > Actions)", file=sys.stderr)
         sys.exit(1)  # loud on purpose: live mode without credentials is a misconfiguration
     uid = os.environ.get("IG_USER_ID", "")
     rows = read_queue()
