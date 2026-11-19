@@ -50,9 +50,9 @@ def judge(data, tier1, fetcher, history):
     verified_nums = set()
     for v in checked:  # numbers inside quotes that really exist on the live source page are as good as the claim text
         if v.get("evidence_url"):
-            verified_nums |= evidence.numbers(v.get("quote", ""))
+            verified_nums |= writer._numbers(v.get("quote", ""))
         if v.get("second_evidence_url"):
-            verified_nums |= evidence.numbers(v.get("second_quote", ""))
+            verified_nums |= writer._numbers(v.get("second_quote", ""))
     viz_bad = writer.viz_problems(post, verified_nums)
     if viz_bad:
         return False, viz_bad, checked

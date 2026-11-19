@@ -34,8 +34,34 @@ def build_prompt(topic, feedback=None):
     )
 
 
+_UNITS = {"nol": 0, "satu": 1, "dua": 2, "tiga": 3, "empat": 4, "lima": 5, "enam": 6, "tujuh": 7, "delapan": 8, "sembilan": 9,
+          "sepuluh": 10, "sebelas": 11, "seratus": 100, "seribu": 1000,
+          "zero": 0, "one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10,
+          "eleven": 11, "twelve": 12, "thirteen": 13, "fourteen": 14, "fifteen": 15, "sixteen": 16, "seventeen": 17,
+          "eighteen": 18, "nineteen": 19, "twenty": 20, "thirty": 30, "forty": 40, "fifty": 50, "sixty": 60, "seventy": 70,
+          "eighty": 80, "ninety": 90, "hundred": 100, "thousand": 1000}
+
+
+def _word_numbers(text):
+    """Numbers written as words (Indonesian and English) as digit strings: 'tujuh' -> 7, 'dua belas' -> 12, 'dua puluh' -> 20."""
+    toks = re.findall(r"[a-zA-Z]+", (text or "").lower())
+    out = set()
+    for i, t in enumerate(toks):
+        if t in _UNITS:
+            out.add(str(_UNITS[t]))
+        nxt = toks[i + 1] if i + 1 < len(toks) else ""
+        if t in _UNITS and _UNITS[t] < 10 and nxt == "belas":
+            out.add(str(_UNITS[t] + 10))
+        if t in _UNITS and _UNITS[t] < 10 and nxt == "puluh":
+            base = _UNITS[t] * 10
+            out.add(str(base))
+            if i + 2 < len(toks) and toks[i + 2] in _UNITS and _UNITS[toks[i + 2]] < 10:
+                out.add(str(base + _UNITS[toks[i + 2]]))
+    return out
+
+
 def _numbers(text):
-    return {re.sub(r"[.,]", "", n) for n in re.findall(r"\d[\d.,]*\d|\d", text or "")}
+    return {re.sub(r"[.,]", "", n) for n in re.findall(r"\d[\d.,]*\d|\d", text or "")} | _word_numbers(text)
 
 
 def _viz_texts(viz):
