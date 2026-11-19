@@ -464,6 +464,11 @@ def render_reel_row(r, post):
     r["caption"] = caption_with_credits(r["caption"], credits)
     post["image_credits"] = credits
     (CONTENT / f"{post['id']}.json").write_text(json.dumps(post, ensure_ascii=False, indent=2), encoding="utf-8")
+    try:
+        import reel_sheet
+        (CONTENT / f"{post['id']}-produksi.md").write_text(reel_sheet.sheet(post, info.get("timings"), credits), encoding="utf-8")
+    except Exception as e:  # noqa: BLE001 - the sheet is documentation: never block a finished video
+        print(f"production sheet skipped: {type(e).__name__}: {e}")
     print(f"rendered reel {r['id']}: {info['seconds']} s, {info['scenes']} scenes, {len(photos)} photo(s)")
 
 

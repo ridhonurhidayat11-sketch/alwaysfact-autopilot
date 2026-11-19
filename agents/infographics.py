@@ -7,6 +7,7 @@ Slide spec:  "viz": {"kind": "stat|share|compare|dots|steps", ...}
   compare {"items": [{"label": "Manusia", "value": 14}, {"label": "...", "value": 20}], "unit": "kali", "caption": "..."}
   dots    {"total": 100, "highlight": 1, "label": "1 dari sejuta", "caption": "..."}
   steps   {"items": ["Makanan", "Bakteri usus", "Gas berbau"], "caption": "..."}
+  timeline {"items": [{"label": "6,3 juta tahun lalu", "text": "Paus hidup di Peru"}, ...2-4 items], "caption": "..."}
 The same code draws a panel of any size, so it works for the carousel and for Reel frames.
 """
 import math
@@ -19,7 +20,7 @@ PANEL, PANEL_EDGE = (236, 236, 247), (214, 214, 236)
 TEXT, MUTED, DIM = (34, 34, 42), (92, 92, 112), (210, 210, 230)
 AMBER, MAGENTA, TEAL, BLUE, PURPLE = (255, 160, 40), (233, 100, 160), (31, 175, 140), (116, 130, 250), (107, 99, 200)
 PALETTE = [PURPLE, MAGENTA, TEAL, AMBER, BLUE]
-KINDS = ("stat", "share", "compare", "dots", "steps")
+KINDS = ("stat", "share", "compare", "dots", "steps", "timeline")
 
 
 def font(weight, size):
@@ -205,7 +206,33 @@ def steps(spec, w, h, p=1.0):
     return img
 
 
-_DRAW = {"stat": stat, "share": share, "compare": compare, "dots": dots, "steps": steps}
+def timeline(spec, w, h, p=1.0):
+    img = _panel(w, h)
+    d = ImageDraw.Draw(img)
+    items = [i for i in spec.get("items", []) if isinstance(i, dict)][:4]
+    n = max(1, len(items))
+    x0, top = 120, int(h * 0.12)
+    span = int(h * 0.62)
+    d.line([x0, top, x0, top + span], fill=DIM, width=10)
+    d.line([x0, top, x0, top + int(span * clamp01(p * 1.15))], fill=PURPLE, width=10)
+    for k, it in enumerate(items):
+        y = top + int(span * (k / max(1, n - 1))) if n > 1 else top
+        if p * 1.15 < (k / max(1, n - 1)) - 0.02:
+            continue
+        col = PALETTE[k % len(PALETTE)]
+        d.ellipse([x0 - 26, y - 26, x0 + 26, y + 26], fill=col, outline=(255, 255, 255), width=6)
+        d.text((x0 + 62, y - 30), str(it.get("label", "")), font=font("Bold", 38), fill=col)
+        for j, ln in enumerate(wrap(d, it.get("text", ""), font("Medium", 32), w - x0 - 110)[:2]):
+            d.text((x0 + 62, y + 18 + j * 40), ln, font=font("Medium", 32), fill=TEXT)
+    _caption(d, spec.get("caption", ""), w, min(h - 80, top + span + 70), 28)
+    return img
+
+
+def clamp01(x):
+    return max(0.0, min(1.0, x))
+
+
+_DRAW = {"timeline": timeline, "stat": stat, "share": share, "compare": compare, "dots": dots, "steps": steps}
 
 
 def valid(spec):
@@ -223,6 +250,9 @@ def valid(spec):
         return _num(spec.get("total")) is not None and _num(spec.get("highlight")) is not None
     if k == "steps":
         return isinstance(spec.get("items"), list) and 2 <= len(spec["items"]) <= 4
+    if k == "timeline":
+        its = spec.get("items")
+        return isinstance(its, list) and 2 <= len(its) <= 4 and all(isinstance(i, dict) and i.get("label") for i in its)
     return False
 
 
