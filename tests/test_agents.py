@@ -280,3 +280,26 @@ class PipelineTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class HookForLayReadersTests(unittest.TestCase):
+    def test_everyday_hooks_pass(self):
+        import writer
+        for h in ("Bagian kentut yang bikin bau cuma sebutir jagung di satu truk",
+                  "Kenapa kita selalu menguap kalau melihat orang lain menguap?",
+                  "Kepala kuda raksasa ada di langit, bukan lukisan"):
+            self.assertEqual(writer.hook_problems(h), [], h)
+
+    def test_jargon_is_rejected(self):
+        import writer
+        self.assertTrue(writer.hook_problems("Natrium di udara mengubah warna api hidrogen"))
+        self.assertTrue(writer.hook_problems("Molekul aneh ini ditemukan di awan"))
+
+    def test_too_many_foreign_names_are_rejected(self):
+        import writer
+        self.assertTrue(writer.hook_problems("Kata Adelaide dan Stonehenge dan Salisbury tentang batu"))
+
+    def test_a_hanging_ini_is_rejected(self):
+        import writer
+        self.assertTrue(writer.hook_problems("Hewan laut dalam ini menyimpan rahasia"))
+        self.assertEqual(writer.hook_problems("Ikan lele menyimpan rahasia"), [])

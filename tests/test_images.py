@@ -154,3 +154,21 @@ class CaptionTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class IncidentalTests(unittest.TestCase):
+    def cand(self, title, text=None):
+        t = (text or title).lower()
+        return {"title": title, "text": t, "core": t, "url": "u"}
+
+    def test_a_place_that_shares_the_name_is_not_the_animal(self):
+        self.assertFalse(images.relevant(self.cand("Orcas Island aerial view"), "Orca skull teeth"))
+
+    def test_a_plaque_or_memorial_is_not_the_monument(self):
+        self.assertFalse(images.relevant(self.cand("Memorial plaque at Stonehenge"), "Stonehenge"))
+
+    def test_a_real_photo_of_the_subject_still_passes(self):
+        self.assertTrue(images.relevant(self.cand("Stonehenge at sunrise"), "Stonehenge"))
+
+    def test_the_query_can_ask_for_the_incidental_word(self):
+        self.assertTrue(images.relevant(self.cand("Orcas Island ferry"), "Orcas Island"))
