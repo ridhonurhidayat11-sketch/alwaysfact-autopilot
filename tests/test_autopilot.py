@@ -266,13 +266,21 @@ class DressRehearsal(PlanTests):
 
         with mock.patch.object(render_slides, "QUEUE", qp), mock.patch.object(render_slides, "CONTENT", d / "content"), \
                 mock.patch.object(render_slides, "MEDIA", d / "media"), \
-                mock.patch.dict(os.environ, {"MEDIA_BASE_URL": "https://raw.githubusercontent.com/o/r/main/media"}):
+                mock.patch.dict(os.environ, {"MEDIA_BASE_URL": "https://raw.githubusercontent.com/o/r/main/media", "NO_IMAGES": "1"}):
             render_slides.main()
         rows = P.read_queue(str(qp))
         self.assertEqual(rows[0]["status"], "pending_media")
         self.assertEqual(len(rows[0]["media_urls"].split()), len(good_post()["slides"]))
         self.assertEqual(len(list((d / "media").glob("*.jpg"))), len(good_post()["slides"]))
 
+        # a forced re-render redoes the slides of a row that already has media, and leaves other rows alone
+        with mock.patch.object(render_slides, "QUEUE", qp), mock.patch.object(render_slides, "CONTENT", d / "content"), \
+                mock.patch.object(render_slides, "MEDIA", d / "media"), \
+                mock.patch.dict(os.environ, {"MEDIA_BASE_URL": "https://raw.githubusercontent.com/o/r/main/media", "NO_IMAGES": "1", "RERENDER": "001"}):
+            before = (d / "media" / "001-1.jpg").stat().st_mtime_ns
+            render_slides.main()
+            self.assertNotEqual((d / "media" / "001-1.jpg").stat().st_mtime_ns, before)
+        rows = P.read_queue(str(qp))
         self.assertEqual(autopilot.finalize(rows), 1)
         api = FakeApi()
         later = P.parse_time(rows[0]["scheduled_at"]) + timedelta(minutes=1)
