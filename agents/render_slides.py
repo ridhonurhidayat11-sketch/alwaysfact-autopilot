@@ -233,6 +233,8 @@ def main():
         post["image_credits"] = [images.credit(c) for _, _, c in found]
         src.write_text(json.dumps(post, ensure_ascii=False, indent=2), encoding="utf-8")
         print(f"rendered {len(names)} slides for {r['id']} with {len(found)} photo(s)")
+        if not found:
+            print(f"  no photo for {r['id']} (query: {post.get('image_query')!r}); reasons: {images.ERRORS[-3:] or 'no relevant licensed result'}")
     with open(QUEUE, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=FIELDS)
         w.writeheader()

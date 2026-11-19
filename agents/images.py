@@ -10,6 +10,8 @@ import html
 import json
 import os
 import re
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -25,13 +27,33 @@ def enabled():
     return not os.environ.get("NO_IMAGES")
 
 
+ERRORS = []  # why a search or download failed, printed by the renderer so a missing photo is never a mystery
+
+
+def _open(url, timeout, tries=4):
+    """urlopen with polite retries: shared CI addresses are sometimes throttled (429) for a moment."""
+    for attempt in range(tries):
+        try:
+            return urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=timeout)
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 500, 502, 503, 504) and attempt < tries - 1:
+                time.sleep(3 * (attempt + 1))
+                continue
+            raise
+        except (urllib.error.URLError, TimeoutError):
+            if attempt < tries - 1:
+                time.sleep(2 * (attempt + 1))
+                continue
+            raise
+
+
 def get_json(url, timeout=20):
-    with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=timeout) as r:
+    with _open(url, timeout) as r:
         return json.load(r)
 
 
 def get_bytes(url, limit=9_000_000, timeout=30):
-    with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=timeout) as r:
+    with _open(url, timeout) as r:
         data = r.read(limit + 1)
     if len(data) > limit:
         raise ValueError("image too large")
@@ -137,7 +159,8 @@ def find(query, prefer="commons", used=(), fetch=get_json):
                 for c in search(q, fetch=fetch):
                     if c["url"] and c["url"] not in used and relevant(c, q):
                         return c
-            except Exception:
+            except Exception as e:
+                ERRORS.append(f"{search.__name__}({q!r}): {type(e).__name__}: {str(e)[:80]}")
                 continue
     return None
 
@@ -157,7 +180,8 @@ def find_many(query, n=3, prefer="commons", fetch=get_json):
                         got.append(c)
                         if len(got) == n:
                             return got
-            except Exception:
+            except Exception as e:
+                ERRORS.append(f"{search.__name__}({q!r}): {type(e).__name__}: {str(e)[:80]}")
                 continue
         if got:  # a shorter, looser query must not add photos once the specific one produced some
             break
