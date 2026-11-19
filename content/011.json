@@ -1,0 +1,164 @@
+{
+  "topic": "Kepala kuda di langit yang terbuat dari debu dan gas",
+  "image_query": "Horsehead Nebula",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+    "Kepala kuda raksasa ini ada di langit, bukan lukisan",
+    "Ada kepala kuda sungguhan di langit malam"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Kepala kuda raksasa ini ada di langit, bukan lukisan",
+      "body": "Foto ini terlihat seperti lukisan. Padahal ini awan debu dan gas di luar angkasa.",
+      "image_query": "Horsehead Nebula",
+      "icon": "planet"
+    },
+    {
+      "type": "fact",
+      "title": "Tingginya sekitar lima tahun cahaya",
+      "body": "Nebula Kepala Kuda **sekitar lima tahun cahaya tinggi** dan berjarak sekitar 1.500 tahun cahaya dari kita.",
+      "takeaway": "Bentuk kecil di foto itu ternyata luar biasa besar.",
+      "icon": "planet",
+      "viz": {
+        "kind": "stat",
+        "value": "1.500",
+        "label": "tahun cahaya jauhnya",
+        "note": "sekitar lima tahun cahaya tingginya"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Bayangan, bukan benda padat",
+      "body": "Sosok kuda itu adalah **debu dan gas yang menutupi cahaya merah** di belakangnya.",
+      "takeaway": "Kita melihat siluet awan, bukan patung.",
+      "icon": "cloud",
+      "image_query": "Horsehead Nebula"
+    },
+    {
+      "type": "fact",
+      "title": "Cahaya merahnya dari gas hidrogen",
+      "body": "Cahaya merah di belakang kuda berasal dari gas hidrogen yang terionisasi oleh bintang terang Sigma Orionis di bagian atas.",
+      "takeaway": "Bintang terang membuat gas hidrogen menyala.",
+      "icon": "flame",
+      "image_query": "Flame Nebula Orion"
+    },
+    {
+      "type": "fact",
+      "title": "Bintang paling terang: Alnitak",
+      "body": "Bintang biru paling terang di foto adalah **Alnitak**, sistem tiga bintang di ujung timur sabuk Orion.",
+      "takeaway": "Alnitak adalah bintang di sabuk Orion.",
+      "icon": "bulb",
+      "image_query": "Alnitak Orion Belt"
+    },
+    {
+      "type": "fact",
+      "title": "Difoto dari jarak 2.000 km",
+      "body": "Datanya dikumpulkan hampir enam jam di Utah, dengan teleskop yang **dikendalikan jarak jauh** dari rumah fotografernya di Illinois, lebih dari 2.000 km.",
+      "takeaway": "Fotografer tidak perlu ada di lokasi teleskop.",
+      "icon": "globe",
+      "viz": {
+        "kind": "stat",
+        "value": "2.000 km",
+        "label": "jarak fotografer ke teleskop",
+        "note": "Illinois ke Utah"
+      }
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti dan kirim ke temanmu",
+      "body": "Ikuti @alwaysfact_ untuk fakta sains yang sering terlewat, dan kirim ke temanmu yang suka penasaran."
+    }
+  ],
+  "caption": "Foto ini terlihat seperti lukisan, tapi itu awan debu dan gas sungguhan. Nebula Kepala Kuda sekitar lima tahun cahaya tingginya dan berjarak sekitar 1.500 tahun cahaya. Bentuk kudanya adalah siluet debu dan gas di depan cahaya merah hidrogen. Kirim ke temanmu yang suka langit malam dan ikuti @alwaysfact_.\n\nSumber: NASA Astronomy Picture of the Day, 19 November 2026 (Mark E. Killion).",
+  "hashtags": [
+    "sains",
+    "astronomi",
+    "nebula",
+    "luarangkasa",
+    "faktasains",
+    "nasa",
+    "alwaysfact"
+  ],
+  "claims": [
+    {
+      "text": "Nebula Kepala Kuda sekitar lima tahun cahaya tingginya dan berjarak sekitar 1.500 tahun cahaya dari kita.",
+      "source_name": "NASA APOD",
+      "source_url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/"
+    },
+    {
+      "text": "Bentuk kuda adalah debu dan gas yang menutupi cahaya merah di belakangnya; cahaya merah itu berasal dari gas hidrogen yang terionisasi oleh bintang terang Sigma Orionis.",
+      "source_name": "NASA APOD",
+      "source_url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/"
+    },
+    {
+      "text": "Bintang biru paling terang di foto adalah Alnitak, sistem tiga bintang yang dikenal sebagai bintang paling timur di sabuk Orion.",
+      "source_name": "NASA APOD",
+      "source_url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/"
+    },
+    {
+      "text": "Peralatan teleskop dikendalikan jarak jauh oleh fotografer dari rumahnya di Illinois, lebih dari 2.000 km jauhnya.",
+      "source_name": "NASA APOD",
+      "source_url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/"
+    }
+  ],
+  "music_suggestions": [
+    "tenang misterius, tempo pelan",
+    "ambient luas, tempo lambat",
+    "sinematik lembut, tempo sedang"
+  ],
+  "id": "011",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+      "quote": "It is about five light-years tall and lies approximately 1,500 light-years away.",
+      "note": "Tinggi dan jarak disebut eksplisit",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+      "quote": "It is made of dust and gas that obscure the red glow behind it, which is caused by hydrogen gas being ionized by the bright star Sigma Orionis at the top.",
+      "note": "Debu menutupi cahaya merah hidrogen",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+      "quote": "The brightest star, left of the center, is blue Alnitak (the Girdle): a triple star system best known for being the easternmost star in Orion's Belt",
+      "note": "Alnitak disebut eksplisit",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+      "quote": "but the equipment was remotely controlled by the astrophotographer from his home, over 2,000 km away in Illinois",
+      "note": "Kendali jarak jauh dari Illinois",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+  "topic_id": "t41b2424f",
+  "image_credits": [
+    "ESA/Euclid/Euclid Consortium/NASA image processing by J.-C.  / CC BY-SA 3.0 igo (Wikimedia Commons)",
+    "NASA/ESA/Hubble Heritage Team / CC BY 4.0 (Wikimedia Commons)",
+    "Ken Crawford / CC BY-SA 3.0 (Wikimedia Commons)",
+    "Rogelio Bernal Andreo / CC BY-SA 3.0 (Wikimedia Commons)",
+    "Lviatour / CC BY-SA 4.0 (Wikimedia Commons)",
+    "ESA/Euclid/Euclid Consortium/NASA image processing by J.-C.  / CC BY-SA 3.0 igo (Wikimedia Commons)",
+    "ESO/J. Emerson/VISTA. Acknowledgment: Cambridge Astronomical / CC BY 4.0 (Wikimedia Commons)",
+    "Rogelio Bernal Andreo / CC BY-SA 3.0 (Wikimedia Commons)"
+  ]
+}
