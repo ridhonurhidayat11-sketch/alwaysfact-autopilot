@@ -20,14 +20,19 @@ from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont, ImageOps
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import images  # noqa: E402
+import elements  # noqa: E402
+import infographics  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 QUEUE, CONTENT, MEDIA = ROOT / "queue.csv", ROOT / "content", ROOT / "media"
 FONT_DIR = ROOT / "assets" / "fonts"
 FIELDS = ["id", "scheduled_at", "media_urls", "caption", "status", "result", "posted_at"]
 W, H = 1080, 1350
-BG, TEXT, MUTED = (17, 17, 26), (246, 244, 250), (190, 184, 204)
-AMBER, MAGENTA = (255, 196, 61), (224, 96, 168)
+BG, TEXT, MUTED = (17, 17, 26), (246, 244, 250), (190, 184, 204)  # BG/TEXT/MUTED: legacy dark theme names, still used by fade()
+WHITE, INK, SOFT = (255, 255, 255), (34, 34, 42), (92, 92, 112)
+LAV, LAV_D, CARD, CALL = (233, 233, 244), (189, 185, 230), (234, 234, 242), (230, 230, 253)
+PURPLE, CHEV, YELLOW, NAVY = (107, 99, 200), (139, 139, 245), (255, 235, 0), (31, 26, 92)
+AMBER, MAGENTA, TEAL = (255, 196, 61), (224, 96, 168), (72, 205, 190)
 HANDLE = "@alwaysfact_"
 MAX_PHOTOS = 5
 
@@ -95,196 +100,291 @@ def rounded(img, radius):
     return out
 
 
-def shadow_text(img, xy, text, fnt, fill, offset=3, alpha=150):
-    """Text with a soft dark shadow so it stays readable on any photo."""
-    layer = Image.new("RGBA", img.size, (0, 0, 0, 0))
-    ImageDraw.Draw(layer).text((xy[0] + offset, xy[1] + offset + 1), text, font=fnt, fill=(0, 0, 0, alpha))
-    layer = layer.filter(ImageFilter.GaussianBlur(5))
-    base = Image.alpha_composite(img.convert("RGBA"), layer)
-    ImageDraw.Draw(base).text(xy, text, font=fnt, fill=fill)
-    return base.convert("RGB")
+# ---------------------------------------------------------------- light design system (white, lavender, ink)
+def rich_lines(d, text, size, max_w):
+    """Words with a bold flag. `**key phrase**` is bold and underlined; with no markup, the first short clause is."""
+    if "**" not in text:
+        m = re.match(r"^(.{12,60}?)([,:;.]|\s[-\u2013\u2014]\s)\s", text)
+        if m and 2 <= len(m.group(1).split()) <= 8:
+            text = "**" + m.group(1) + "**" + text[len(m.group(1)):]
+    words, bold = [], False
+    for part in re.split(r"(\*\*)", text):
+        if part == "**":
+            bold = not bold
+        else:
+            toks = part.split()
+            if toks and words and not part[:1].isspace() and toks[0][:1] in ",.;:!?)":
+                words[-1] = (words[-1][0] + toks.pop(0), words[-1][1])  # punctuation sticks to the word before it
+            words += [(w, bold) for w in toks]
+    reg, bld = font("Regular", size), font("Bold", size)
+    lines, cur, cw = [], [], 0.0
+    space = d.textlength(" ", font=reg)
+    for w, b in words:
+        ww = d.textlength(w, font=bld if b else reg)
+        if cur and cw + space + ww > max_w:
+            lines.append(cur)
+            cur, cw = [], 0.0
+        cw += (space if cur else 0) + ww
+        cur.append((w, b))
+    return lines + ([cur] if cur else [])
 
 
-def backdrop():
-    """Dark gradient with soft colour glows, used when there is no photo."""
-    img = Image.new("RGB", (W, H), BG)
-    glow = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    g = ImageDraw.Draw(glow)
-    g.ellipse([-260, -220, 620, 660], fill=MAGENTA + (70,))
-    g.ellipse([560, 780, 1420, 1600], fill=AMBER + (46,))
-    return Image.alpha_composite(img.convert("RGBA"), glow.filter(ImageFilter.GaussianBlur(120))).convert("RGB")
-
-
-def progress(img, idx, total):
-    d = ImageDraw.Draw(img)
-    d.rectangle([0, H - 10, W, H], fill=(38, 38, 54))
-    d.rectangle([0, H - 10, int(W * (idx + 1) / total), H], fill=AMBER)
-
-
-def footer(img, idx, total, credit_text=None):
-    d = ImageDraw.Draw(img)
-    d.text((70, H - 96), HANDLE, font=font("Medium", 30), fill=AMBER)
-    label = f"{idx + 1}/{total}"
-    d.text((W - 70 - d.textlength(label, font=font("Medium", 30)), H - 96), label, font=font("Medium", 30), fill=MUTED)
-    if credit_text:
-        d.text((70, H - 140), credit_text[:80], font=font("Regular", 21), fill=(176, 172, 194))
-    progress(img, idx, total)
-
-
-def badge(img, cx, cy, text, r=50):
-    d = ImageDraw.Draw(img)
-    d.ellipse([cx - r - 6, cy - r - 6, cx + r + 6, cy + r + 6], fill=BG)
-    d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=AMBER)
-    d.text((cx, cy - 3), text, font=font("Bold", 46), fill=BG, anchor="mm")
-
-
-def fit_text(d, title, body, max_w, max_h, tsize=58, bsize=38):
-    """Largest title/body sizes that fit in max_h, so long Indonesian sentences never run off the slide."""
-    while True:
-        tf, bf = font("Bold", tsize), font("Regular", bsize)
-        h = len(wrap(d, title, tf, max_w)) * int(tsize * 1.2) + 24 + len(wrap(d, body or "", bf, max_w)) * int(bsize * 1.38)
-        if h <= max_h or tsize <= 40:
-            return tf, bf, h
-        tsize, bsize = tsize - 3, max(28, bsize - 2)
-
-
-def slide_cover(s, idx, total, photo, credit_text):
-    if photo:
-        img = photo_fit(photo, W, H, cy=0.55).convert("RGBA")
-        img = Image.alpha_composite(img, Image.new("RGBA", (W, H), (0, 0, 0, 28)))
-        img.alpha_composite(fade(W, 330, BG, 150, 0), (0, 0))        # keeps the handle readable
-        img.alpha_composite(fade(W, 900, BG, 0, 245), (0, H - 900))  # keeps the title readable
-        img = img.convert("RGB")
-    else:
-        img = backdrop()
-    d = ImageDraw.Draw(img)
-    d.rounded_rectangle([60, 60, 60 + d.textlength(HANDLE, font=font("Medium", 30)) + 56, 122], radius=31, fill=(24, 24, 36))
-    d.text((88, 74), HANDLE, font=font("Medium", 30), fill=AMBER)
-    fnt = font("Bold", 84 if len(s["title"]) < 60 else 70)
-    lines = wrap(d, s["title"], fnt, W - 150)
-    step = int(fnt.size * 1.2)
-    y = H - 230 - step * len(lines)
-    d.rounded_rectangle([75, y - 92, 75 + d.textlength("FAKTA SAINS", font=font("Bold", 26)) + 44, y - 44], radius=24, fill=AMBER)
-    d.text((97, y - 85), "FAKTA SAINS", font=font("Bold", 26), fill=BG)
+def draw_rich(d, lines, x, y, size, gap, color=INK):
+    reg, bld = font("Regular", size), font("Bold", size)
+    space = d.textlength(" ", font=reg)
     for ln in lines:
-        img = shadow_text(img, (75, y), ln, fnt, TEXT)
+        cx = x
+        for k, (w, b) in enumerate(ln):
+            f = bld if b else reg
+            d.text((cx, y), w, font=f, fill=color)
+            wl = d.textlength(w, font=f)
+            if b:
+                end = cx + wl + (space if k + 1 < len(ln) and ln[k + 1][1] else 0)
+                d.line([cx, y + int(size * 1.24), end, y + int(size * 1.24)], fill=color, width=3)
+            cx += wl + space
+        y += gap
+    return y
+
+
+def header(img, idx, total, last=False):
+    d = ImageDraw.Draw(img)
+    d.text((50, 56), HANDLE, font=font("Bold", 32), fill=INK)
+    if last:
+        return
+    lab = f"{idx}/{total - 1}"
+    d.text((W - 50 - 60 - d.textlength(lab, font=font("Regular", 27)), 62), lab, font=font("Regular", 27), fill=SOFT)
+    cx, cy = W - 75, 76
+    d.ellipse([cx - 25, cy - 25, cx + 25, cy + 25], fill=CHEV)
+    for dx in (-9, 3):  # double chevron = swipe hint
+        d.line([cx + dx - 5, cy - 11, cx + dx + 6, cy, cx + dx - 5, cy + 11], fill=WHITE, width=5, joint="curve")
+
+
+def credit_chip(img, text, x, y_bottom):
+    if not text:
+        return
+    d = ImageDraw.Draw(img)
+    f = font("Regular", 19)
+    t = text[:70]
+    w = int(d.textlength(t, font=f)) + 28
+    d.rounded_rectangle([x, y_bottom - 40, x + w, y_bottom - 8], radius=16, fill=WHITE)
+    d.text((x + 14, y_bottom - 35), t, font=f, fill=SOFT)
+
+
+def art_from(photo, art_img):
+    """Returns a function (w, h) -> RGBA picture for either a photo or a drawn infographic, or None."""
+    if art_img is not None:
+        return lambda w, h: art_img(w, h)
+    if photo:
+        return lambda w, h: rounded(photo_fit(photo, w, h, cy=0.5), 40)
+    return None
+
+
+def icon_for(s):
+    name = s.get("icon")
+    return name if name in elements.ICONS else elements.pick_icon((s.get("title") or "") + " " + (s.get("body") or ""))
+
+
+def put(img, el, x, y):
+    img.paste(el, (int(x), int(y)), el)
+
+
+def slide_fact(s, idx, total, art_fn, credit_text=None):
+    img = Image.new("RGB", (W, H), WHITE)
+    d = ImageDraw.Draw(img)
+    header(img, idx, total)
+    ic = icon_for(s)
+    st = elements.rotated(elements.sticker(ic, 132), 8)
+    put(img, st, W - 50 - st.width + 24, 40)                    # sticker in the free band right of the big number
+    put(img, elements.sparkle(54), 520, 150)
+    put(img, elements.sparkle(34, (243, 190, 220)), 610, 232)
+    put(img, elements.sparkle(40, (189, 185, 230)), 400, 214)
+    d = ImageDraw.Draw(img)
+    m, tw, bottom = 50, W - 100, 1296
+    d.text((m - 4, 112), f"{idx:02d}", font=font("Bold", 150), fill=LAV_D)
+    hs = 66 if len(wrap(d, s["title"], font("Bold", 66), tw)) <= 3 else 56
+    hl = wrap(d, s["title"], font("Bold", hs), tw)
+    y = 276
+    for ln in hl:
+        d.text((m, y), ln, font=font("Bold", hs), fill=INK)
+        y += int(hs * 1.2)
+    y += 14
+    take = (s.get("takeaway") or "").strip()
+    bs = 32 if art_fn else 42
+
+    def blocks(bs):
+        bl = rich_lines(d, s.get("body") or "", bs, tw - 70)
+        card_h = len(bl) * int(bs * 1.45) + 56 if bl else 0
+        tl = wrap(d, take, font("Bold", 31), tw - 60) if take else []
+        call_h = len(tl) * 44 + 40 if tl else 0
+        return bl, card_h, tl, call_h
+    bl, card_h, tl, call_h = blocks(bs)
+    art_h = bottom - y - card_h - 24 - ((call_h + 24 + 26) if call_h else 0)
+    if art_fn and art_h < 300 and bs > 28:
+        bs = 28
+        bl, card_h, tl, call_h = blocks(bs)
+        art_h = bottom - y - card_h - 24 - ((call_h + 24 + 26) if call_h else 0)
+    if art_fn and art_h >= 300:
+        ah = min(art_h, 540)
+        art = art_fn(tw, ah)
+        img.paste(art, (m, y), art)
+        credit_chip(img, credit_text, m + 18, y + ah - 4)
+        y += ah + 24
+    elif not art_fn:  # typographic slide: a big doodle fills the free space between headline and text
+        free = bottom - y - card_h - ((call_h + 50) if call_h else 0)
+        if free > 260:
+            size = min(440, free - 50)
+            big = elements.sticker(ic, size)
+            put(img, big, (W - big.width) // 2, y + (free - big.height) // 2 + 10)
+            put(img, elements.sparkle(60), (W - big.width) // 2 - 70, y + 30)
+            put(img, elements.sparkle(44, (243, 190, 220)), (W + big.width) // 2 + 10, y + free - 90)
+            y += free
+        else:
+            y += max(0, int(free * 0.35))
+    d = ImageDraw.Draw(img)
+    if bl:
+        d.rounded_rectangle([m, y, m + tw, y + card_h], radius=24, fill=CARD)
+        draw_rich(d, bl, m + 35, y + 26, bs, int(bs * 1.45))
+        y += card_h + 24
+    if tl:
+        d.rectangle([m, y, m + int(tw * 0.92), y + call_h], fill=CALL)
+        d.polygon([(m, y + call_h), (m + 70, y + call_h), (m, y + call_h + 28)], fill=CALL)
+        yy = y + 20
+        for ln in tl:
+            d.text((m + 30, yy), ln, font=font("Bold", 31), fill=NAVY)
+            yy += 44
+    return img
+
+
+def slide_cover(s, idx, total, art_fn, credit_text=None):
+    img = Image.new("RGB", (W, H), WHITE)
+    d = ImageDraw.Draw(img)
+    d.ellipse([-260, 700, W + 260, 1900], fill=LAV)  # lavender arc rising behind the picture
+    d.text((W // 2, 80), HANDLE, font=font("Bold", 34), fill=INK, anchor="mm")
+    fnt = font("Bold", 84 if len(s["title"]) < 55 else 70)
+    lines = wrap(d, s["title"], fnt, W - 120)
+    step = int(fnt.size * 1.14)
+    y = 150
+    for ln in lines:
+        d.text((W // 2, y), ln, font=fnt, fill=INK, anchor="ma")
         y += step
+    pill = "FAKTA SAINS  \u2022  geser untuk lanjut"
+    pf = font("Medium", 27)
+    pw = int(d.textlength(pill, font=pf)) + 60
+    py = y + 26
+    d.rounded_rectangle([(W - pw) // 2, py, (W + pw) // 2, py + 62], radius=31, fill=WHITE, outline=INK, width=2)
+    d.text((W // 2, py + 31), pill, font=pf, fill=INK, anchor="mm")
+    top = py + 100
+    ah = H - top - 70
+    aw = W - 140
     d = ImageDraw.Draw(img)
-    label = "Geser"
-    lw = d.textlength(label, font=font("Medium", 32))
-    ax = W - 75
-    d.text((ax - 70 - lw, H - 98), label, font=font("Medium", 32), fill=AMBER)
-    d.line([ax - 52, H - 80, ax - 8, H - 80], fill=AMBER, width=5)           # arrow shaft
-    d.polygon([(ax - 8, H - 94), (ax + 8, H - 80), (ax - 8, H - 66)], fill=AMBER)  # arrow head
-    if credit_text:
-        d.text((75, H - 96), credit_text[:60], font=font("Regular", 21), fill=(200, 196, 214))
-    progress(img, idx, total)
+    if art_fn:
+        art = art_fn(aw, ah)
+        halo = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        ImageDraw.Draw(halo).rounded_rectangle([70 + 14, top + 18, 70 + aw + 14, top + ah + 18], radius=44, fill=PURPLE + (70,))
+        img = Image.alpha_composite(img.convert("RGBA"), halo.filter(ImageFilter.GaussianBlur(2))).convert("RGB")
+        img.paste(art, (70, top), art)
+        credit_chip(img, credit_text, 90, top + ah - 4)
+    else:  # no picture: a bold question-mark sticker as the hero
+        cx, cy, r = W // 2, top + ah // 2, min(ah, aw) // 2 - 20
+        d.ellipse([cx - r - 16, cy - r - 16, cx + r + 16, cy + r + 16], fill=CHEV)
+        d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=WHITE, outline=INK, width=6)
+        d.text((cx, cy - 10), "?", font=font("Bold", int(r * 1.5)), fill=PURPLE, anchor="mm")
+    d = ImageDraw.Draw(img)
+    conf = elements.confetti(W, H, seed=sum(ord(c) for c in s["title"]), n=16, avoid=(40, 130, 1040, 560))
+    img = Image.alpha_composite(img.convert("RGBA"), conf).convert("RGB")
+    st = elements.rotated(elements.sticker(icon_for(s), 210), 10)
+    put(img, st, W - st.width - 10, top - 70)
+    mk = elements.rotated(elements.mascot(230, "wow"), -8)
+    put(img, mk, 6, top - 60)
     return img
 
 
-def slide_card(s, idx, total, photo, credit_text):
-    """Photo as a framed card on top, text below."""
-    img = backdrop()
-    card = rounded(photo_fit(photo, 960, 640, cy=0.5), 44)
-    frame = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    ImageDraw.Draw(frame).rounded_rectangle([64, 74, 1016, 726], radius=44, fill=(0, 0, 0, 120))
-    img = Image.alpha_composite(img.convert("RGBA"), frame.filter(ImageFilter.GaussianBlur(18)))
-    img.alpha_composite(card, (60, 60))
-    img = img.convert("RGB")
-    d = ImageDraw.Draw(img)
-    d.rounded_rectangle([60, 60, 1020, 700], radius=44, outline=AMBER, width=4)
-    badge(img, 150, 700, f"{idx:02d}" if idx < 100 else str(idx), r=48)
-    tf, bf, _ = fit_text(d, s["title"], s.get("body") or "", W - 150, H - 190 - 790)
-    y = draw_block(d, s["title"], tf, 75, 790, W - 150, TEXT, 1.2) + 24
-    if s.get("body"):
-        draw_block(d, s["body"], bf, 75, y, W - 150, MUTED, 1.38)
-    footer(img, idx, total, credit_text)
-    return img
+def _icon(d, kind, cx, cy, r, fill):
+    if kind == "plane":
+        d.polygon([(cx - r, cy - r * 0.1), (cx + r, cy - r), (cx + r * 0.3, cy + r), (cx - r * 0.05, cy + r * 0.2)], fill=fill)
+    elif kind == "bookmark":
+        d.polygon([(cx - r * 0.6, cy - r), (cx + r * 0.6, cy - r), (cx + r * 0.6, cy + r), (cx, cy + r * 0.45), (cx - r * 0.6, cy + r)], fill=fill)
+    elif kind == "comment":
+        d.rounded_rectangle([cx - r, cy - r * 0.8, cx + r, cy + r * 0.55], radius=int(r * 0.35), fill=fill)
+        d.polygon([(cx - r * 0.5, cy + r * 0.4), (cx - r * 0.55, cy + r), (cx + r * 0.05, cy + r * 0.4)], fill=fill)
+    elif kind == "plus":
+        d.rectangle([cx - r, cy - r * 0.18, cx + r, cy + r * 0.18], fill=fill)
+        d.rectangle([cx - r * 0.18, cy - r, cx + r * 0.18, cy + r], fill=fill)
 
 
-def slide_full(s, idx, total, photo, credit_text):
-    """Full-bleed photo with the text laid over a gradient."""
-    img = photo_fit(photo, W, H, cy=0.5).convert("RGBA")
-    img.alpha_composite(fade(W, 1000, BG, 0, 238), (0, H - 1000))
-    img.alpha_composite(fade(W, 260, BG, 130, 0), (0, 0))
-    img = img.convert("RGB")
-    d = ImageDraw.Draw(img)
-    d.rounded_rectangle([60, 60, 60 + d.textlength(HANDLE, font=font("Medium", 30)) + 56, 122], radius=31, fill=(24, 24, 36))
-    d.text((88, 74), HANDLE, font=font("Medium", 30), fill=AMBER)
-    badge(img, W - 120, 92, f"{idx:02d}", r=44)
-    tf, bf, h = fit_text(d, s["title"], s.get("body") or "", W - 150, 700, tsize=62, bsize=38)
-    y = H - 200 - h
-    d.rounded_rectangle([75, y - 30, 75 + 90, y - 22], radius=4, fill=AMBER)
-    for ln in wrap(d, s["title"], tf, W - 150):
-        img = shadow_text(img, (75, y), ln, tf, TEXT)
-        y += int(tf.size * 1.2)
-    d = ImageDraw.Draw(img)
-    y += 24
-    if s.get("body"):
-        draw_block(d, s["body"], bf, 75, y, W - 150, (226, 222, 236), 1.38)
-    footer(img, idx, total, credit_text)
-    return img
-
-
-def slide_text(s, idx, total):
-    """Typographic slide (no photo): big ghost number, accent bar."""
-    img = backdrop()
-    ghost = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    ImageDraw.Draw(ghost).text((W - 60, 40), f"{idx:02d}", font=font("Bold", 400), fill=(255, 255, 255, 24), anchor="ra")
-    img = Image.alpha_composite(img.convert("RGBA"), ghost).convert("RGB")
-    d = ImageDraw.Draw(img)
-    tf, bf, h = fit_text(d, s["title"], s.get("body") or "", W - 150, 760, tsize=64, bsize=40)
-    y = max(380, int((H - h) / 2) + 20)
-    d.rounded_rectangle([75, y - 40, 75 + 90, y - 32], radius=4, fill=AMBER)
-    y = draw_block(d, s["title"], tf, 75, y, W - 150, TEXT, 1.2) + 24
-    if s.get("body"):
-        draw_block(d, s["body"], bf, 75, y, W - 150, MUTED, 1.38)
-    footer(img, idx, total)
-    return img
+CTA_COPY = [
+    ("Seru, kan?", "Masih banyak fakta yang bikin melongo.",
+     ("Kirim ke temanmu", "yang sering bilang \"masa sih?\""), ("Simpan dulu", "biar tidak lupa saat ditanya orang"),
+     ("Tulis di komentar", "fakta apa yang mau kamu bahas?")),
+    ("Baru tahu, ya?", "Besok ada fakta baru yang tak kalah aneh.",
+     ("Bagikan ke grup", "supaya ada yang ikut kaget"), ("Simpan postingan ini", "untuk bahan ngobrol nanti"),
+     ("Komentar angka 1-10", "seberapa kaget kamu tadi?")),
+    ("Jangan berhenti di sini", "Tiap hari ada fakta sains yang jarang dibahas.",
+     ("Kirim ke satu orang", "yang pasti penasaran"), ("Simpan buat nanti", "kamu pasti ingin baca lagi"),
+     ("Tebak di komentar", "fakta besok soal apa?")),
+]
 
 
 def slide_cta(s, idx, total):
-    img = Image.new("RGB", (W, H), BG)
-    px = img.load()
-    for yy in range(H):  # diagonal-ish vertical gradient, magenta to amber
-        t = yy / H
-        for xx in range(0, W, 1):
-            u = min(1.0, max(0.0, 0.65 * t + 0.35 * xx / W))
-            px[xx, yy] = (int(120 + 135 * u), int(28 + 150 * u), int(96 - 36 * u))
+    """Call to action: follow, share, save, comment. Copy rotates between three variants."""
+    copy = CTA_COPY[sum(ord(c) for c in (s.get("title") or "")) % len(CTA_COPY)]
+    img = Image.new("RGB", (W, H), LAV)
     d = ImageDraw.Draw(img)
-    d.text((75, 360), "Suka fakta yang", font=font("Medium", 48), fill=(255, 255, 255))
-    d.text((75, 425), "bikin melongo?", font=font("Medium", 48), fill=(255, 255, 255))
-    d.text((75, 540), "Ikuti", font=font("Bold", 120), fill=(255, 255, 255))
-    d.text((75, 670), HANDLE, font=font("Bold", 92), fill=(255, 255, 255))
-    body = re.sub(r"^\s*Ikuti\s+@alwaysfact_\s*(dan\s+)?", "", s.get("body") or "", flags=re.I).strip()
-    body = (body[:1].upper() + body[1:]) if body else "Fakta sains baru setiap hari."
-    draw_block(d, body, font("Regular", 38), 75, 820, W - 150, (255, 244, 230), 1.4)
-    d.text((75, H - 96), "Simpan dan bagikan ke temanmu", font=font("Medium", 30), fill=(255, 244, 230))
-    progress(img, idx, total)
+    d.ellipse([W - 420, -200, W + 200, 420], fill=(243, 213, 230))
+    tf = font("Bold", 84 if len(copy[0]) < 16 else 70)
+    ty = 100
+    for ln in wrap(d, copy[0], tf, 690):
+        d.text((60, ty), ln, font=tf, fill=NAVY)
+        ty += int(tf.size * 1.12)
+    draw_block(d, copy[1], font("Medium", 36), 62, ty + 14, 660, SOFT, 1.35)
+    top = 390
+    d.rounded_rectangle([50, top, W - 50, top + 200], radius=48, fill=PURPLE)
+    d.ellipse([84, top + 38, 208, top + 162], fill=WHITE)
+    d.text((146, top + 100), "A", font=font("Bold", 66), fill=PURPLE, anchor="mm")
+    d.text((238, top + 44), HANDLE, font=font("Bold", 50), fill=WHITE)
+    d.text((238, top + 112), "Fakta sains yang bikin melongo", font=font("Medium", 28), fill=(224, 222, 250))
+    bw = 200
+    d.rounded_rectangle([W - 50 - bw - 28, top + 58, W - 78, top + 142], radius=42, fill=YELLOW)
+    _icon(d, "plus", W - 78 - bw + 44, top + 100, 15, INK)
+    d.text((W - 78 - bw // 2 + 18, top + 100), "IKUTI", font=font("Bold", 33), fill=INK, anchor="mm")
+    y = top + 250
+    for kind, (head, sub), col in (("plane", copy[2], PURPLE), ("bookmark", copy[3], (31, 175, 115)), ("comment", copy[4], (233, 100, 160))):
+        d.rounded_rectangle([50, y, W - 50, y + 160], radius=80, fill=WHITE)
+        d.rounded_rectangle([76, y + 26, 184, y + 134], radius=30, fill=col)
+        _icon(d, kind, 130, y + 80, 28, WHITE)
+        d.text((216, y + 32), head, font=font("Bold", 42), fill=NAVY)
+        d.text((216, y + 94), sub, font=font("Regular", 29), fill=SOFT)
+        y += 190
+    d.text((W // 2, H - 70), "Satu fakta baru setiap hari", font=font("Medium", 28), fill=SOFT, anchor="mm")
+    mk = elements.rotated(elements.mascot(250, "happy"), 8)
+    put(img, mk, W - mk.width - 20, 60)
+    put(img, elements.sparkle(60), W - 430, 120)
+    put(img, elements.sparkle(40, (255, 255, 255)), W - 380, 300)
     return img
 
 
 def render_post(post, out_dir, photos, slide_photos=None):
     """Writes <id>-<n>.jpg for every slide. `photos` = list of (bytes, credit_text) of the main subject: the first is the
-    cover, the rest go to the fact slides in order (alternating framed card and full-bleed). `slide_photos` maps a slide
-    index to its own (bytes, credit_text). Slides left without a photo get the typographic design."""
+    cover, the rest go to the fact slides in order. `slide_photos` maps a slide index to its own (bytes, credit_text).
+    A slide with a `viz` spec gets that drawn infographic; slides left with nothing get the typographic design."""
     out_dir = Path(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
     slides, total, names = post["slides"][:10], len(post["slides"][:10]), []
-    spare, own, used = list(photos or []), dict(slide_photos or {}), 0
+    spare, own = list(photos or []), dict(slide_photos or {})
     for i, s in enumerate(slides):
+        art_img = (lambda spec: (lambda w, h: infographics.render(spec, w, h)))(s["viz"]) if s.get("viz") and infographics.valid(s["viz"]) else None
         if s["type"] == "hook":
-            photo, credit = (own.get(i) or (spare.pop(0) if spare else (None, None)))
-            img = slide_cover(s, i, total, photo, credit)
+            pick = own.get(i) or (spare.pop(0) if spare else None)
+            if not pick and not art_img:  # no photo: borrow the most striking infographic of the post as the hero
+                hero = next((x["viz"] for x in slides if x.get("viz") and x["viz"].get("kind") in ("stat", "dots") and infographics.valid(x["viz"])), None)
+                art_img = (lambda spec: (lambda w, h: infographics.render(spec, w, h)))(hero) if hero else None
+            fn = art_from(pick[0] if pick else None, art_img)
+            img = slide_cover(s, i, total, fn, pick[1] if pick and art_img is None else None)
         elif s["type"] == "cta":
             img = slide_cta(s, i, total)
         else:
-            pick = own.get(i) or (spare.pop(0) if spare else None)
-            if pick:
-                img = (slide_card if used % 2 == 0 else slide_full)(s, i, total, pick[0], pick[1])
-                used += 1
-            else:
-                img = slide_text(s, i, total)
+            pick = None if art_img else (own.get(i) or (spare.pop(0) if spare else None))
+            img = slide_fact(s, i, total, art_from(pick[0] if pick else None, art_img), pick[1] if pick else None)
         name = f"{post['id']}-{i + 1}.jpg"
         img.convert("RGB").save(out_dir / name, "JPEG", quality=92)
         names.append(name)
@@ -349,6 +449,24 @@ def caption_with_credits(caption, credits):
     return f"{head}\n\n{line}{sep}{tags}" if sep else f"{caption}\n\n{line}"
 
 
+def render_reel_row(r, post):
+    """Renders a Reel (mp4) for this queue row. A failure leaves media_urls empty, so the next run simply tries again."""
+    import reel
+    base = (os.environ.get("REEL_MEDIA_BASE_URL") or os.environ.get("MEDIA_BASE_URL", "")).rstrip("/")
+    try:
+        photos = reel.gather_beat_photos(post["reel"]["beats"])
+        info = reel.render_reel(post, MEDIA / f"{post['id']}.mp4", photos=photos)
+    except Exception as e:  # noqa: BLE001 - network (voice service, photos) or encoder trouble: retry on the next run
+        print(f"reel {r['id']} NOT rendered, will retry: {type(e).__name__}: {str(e)[:160]}")
+        return
+    credits = [t.replace("Foto ilustrasi: ", "") for _, t in photos.values()]
+    r["media_urls"] = f"{base}/{post['id']}.mp4"
+    r["caption"] = caption_with_credits(r["caption"], credits)
+    post["image_credits"] = credits
+    (CONTENT / f"{post['id']}.json").write_text(json.dumps(post, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"rendered reel {r['id']}: {info['seconds']} s, {info['scenes']} scenes, {len(photos)} photo(s)")
+
+
 def main():
     base = os.environ.get("MEDIA_BASE_URL", "").rstrip("/")
     with open(QUEUE, newline="", encoding="utf-8") as f:
@@ -361,6 +479,9 @@ def main():
             continue
         post = json.loads(src.read_text(encoding="utf-8"))
         post.setdefault("id", r["id"])
+        if post.get("format") == "reel":
+            render_reel_row(r, post)
+            continue
         found = gather_photos(post)
         mine = gather_slide_photos(post, {c["url"] for _, _, c in found})
         names = render_post(post, MEDIA, [(b, t) for b, t, _ in found], {i: (b, t) for i, (b, t, _) in mine.items()})

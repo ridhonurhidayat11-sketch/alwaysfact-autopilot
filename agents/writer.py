@@ -1,4 +1,5 @@
 """Writer: turns one approved topic into a carousel post. The model writes; plain code validates the structure."""
+import re
 from urllib.parse import urlparse
 
 from common import ROOT, SONNET, extract_json
@@ -33,8 +34,59 @@ def build_prompt(topic, feedback=None):
     )
 
 
+def _numbers(text):
+    return {re.sub(r"[.,]", "", n) for n in re.findall(r"\d[\d.,]*\d|\d", text or "")}
+
+
+def _viz_texts(viz):
+    """Every string of an infographic spec that a reader sees (scale-only fields such as dots.total are not claims)."""
+    if not isinstance(viz, dict):
+        return []
+    out = [str(viz.get(k, "")) for k in ("value", "label", "note", "caption", "unit")]
+    for it in viz.get("items") or []:
+        out += [str(x) for x in it.values()] if isinstance(it, dict) else [str(it)]
+    return out
+
+
+def viz_problems(p):
+    """A number drawn in an infographic must be a number the verified claims contain. The picture can't say more than the claims."""
+    claim_nums = set()
+    for c in p.get("claims") or []:
+        claim_nums |= _numbers(c.get("text", ""))
+    vizs = [("slide %d" % i, s.get("viz")) for i, s in enumerate(p.get("slides") or [], 1) if s.get("viz")]
+    vizs += [("beat %d" % i, b.get("viz")) for i, b in enumerate(((p.get("reel") or {}).get("beats")) or [], 1) if isinstance(b, dict) and b.get("viz")]
+    bad = []
+    for where, v in vizs:
+        extra = _numbers(" ".join(_viz_texts(v))) - claim_nums
+        if extra:
+            bad.append(f"{where}: infographic shows numbers {sorted(extra)} that no claim contains")
+    return bad
+
+
+def _common_problems(p):
+    bad = []
+    if not p.get("caption") or len(p["caption"]) > LIMITS["caption"]:
+        bad.append(f"caption missing or over {LIMITS['caption']} chars")
+    elif "sumber" not in p["caption"].lower():
+        bad.append("caption must end with a Sumber: line")
+    lo, hi = LIMITS["hashtags"]
+    if not lo <= len(p.get("hashtags") or []) <= hi:
+        bad.append(f"need {lo}-{hi} hashtags")
+    claims = p.get("claims") or []
+    if len(claims) < LIMITS["claims_min"]:
+        bad.append(f"need at least {LIMITS['claims_min']} claims")
+    for i, c in enumerate(claims, 1):
+        u = urlparse(c.get("source_url", ""))
+        if u.scheme != "https" or not u.netloc:
+            bad.append(f"claim {i}: source_url must be a real https URL")
+    return bad
+
+
 def validate_post(p):
     """Returns a list of problems; an empty list means the structure is acceptable."""
+    if p.get("format") == "reel":
+        import reel
+        return reel.validate_reel(p) + _common_problems(p) + viz_problems(p)
     bad = []
     slides = p.get("slides") or []
     lo, hi = LIMITS["slides"]
@@ -57,21 +109,14 @@ def validate_post(p):
             bad.append(f"slide {i}: visual source must be one of {sorted(VISUAL_SOURCES)}")
     if len(p.get("hook_options") or []) < 2:
         bad.append("need 2 hook_options")
-    if not p.get("caption") or len(p["caption"]) > LIMITS["caption"]:
-        bad.append(f"caption missing or over {LIMITS['caption']} chars")
-    elif "sumber" not in p["caption"].lower():
-        bad.append("caption must end with a Sumber: line")
-    lo, hi = LIMITS["hashtags"]
-    if not lo <= len(p.get("hashtags") or []) <= hi:
-        bad.append(f"need {lo}-{hi} hashtags")
-    claims = p.get("claims") or []
-    if len(claims) < LIMITS["claims_min"]:
-        bad.append(f"need at least {LIMITS['claims_min']} claims")
-    for i, c in enumerate(claims, 1):
-        u = urlparse(c.get("source_url", ""))
-        if u.scheme != "https" or not u.netloc:
-            bad.append(f"claim {i}: source_url must be a real https URL")
-    return bad
+    for i, s in enumerate(slides, 1):
+        if len(s.get("takeaway", "") or "") > 110:
+            bad.append(f"slide {i}: takeaway over 110 chars")
+        if s.get("viz"):
+            import infographics
+            if not infographics.valid(s["viz"]):
+                bad.append(f"slide {i}: viz is not drawable")
+    return bad + _common_problems(p) + viz_problems(p)
 
 
 def write_post(llm, topic, feedback=None):

@@ -43,9 +43,38 @@ SCHEMA = """Write each proposal to inbox/<YYYY-MM-DD>-<n>.json as exactly this J
     {"claim": 0, "verdict": "supported", "note": "slides and caption say nothing stronger than the claims"}
   ]
 }
-Rules: 6-8 slides; slide 1 type hook with title equal to hook_options[0]; last slide type cta; every factual
+Rules (carousel): 6-8 slides; slide 1 type hook with title equal to hook_options[0]; last slide type cta; every factual
 statement in slides or caption must appear in claims; claim numbers in verdicts follow the order of claims;
-every number in a claim must also appear in its quote."""
+every number in a claim must also appear in its quote.
+
+VISUAL FIELDS on a fact slide (all optional but strongly wanted, so every slide EXPLAINS itself with a picture):
+  "takeaway": "<one plain sentence, max 100 chars: the point of the slide>",
+  "icon": "<one of: bulb magnifier atom flask cloud gas fish bacteria dna planet rocket flame droplet bolt leaf heart burst clock globe>",
+  "image_query": "<English words for a real photo of the concrete thing on THIS slide, or leave out>",
+  "viz": ONE infographic, drawn by code, used when there is no photographable subject (numbers, shares, comparisons, processes):
+     {"kind":"stat","value":"14-20x","label":"kali per hari","note":"pada orang sehat"}
+     {"kind":"share","items":[{"label":"Nitrogen","pct":60},{"label":"Lainnya","pct":40}],"caption":"..."}
+     {"kind":"compare","items":[{"label":"A","value":3},{"label":"B","value":5}],"unit":"cm","caption":"..."}
+     {"kind":"dots","total":100,"highlight":1,"label":"1 dari 1 juta","caption":"Satu titik = ..."}
+     {"kind":"steps","items":["langkah 1","langkah 2","langkah 3"],"caption":"..."}
+  A number in a viz MUST also appear in a claim (code checks this). Do not draw anything the claims do not say.
+  In body text you may mark the key phrase with **double asterisks** (bold + underline).
+
+REEL FORMAT (when the brief asks for reels): same object, but set "post.format": "reel", "post.slides": [] and add
+  "post.reel": {"hook": "<8-70 chars, shown on screen in the first second>", "mood": "curious|calm|energetic",
+    "beats": [ {"say": "<ONE narrated Indonesian sentence, 12-190 chars, max ~25 words>",
+                "text": "<2-5 word on-screen headline>", "viz": {...as above...} OR "image_query": "<English>", "icon": "<optional>"} ]}
+  5-8 beats, 45-140 narrated words in total (about 25-45 seconds). Beat 1 is the hook (a question or surprising fact),
+  the LAST beat is the call to action: ask to send it to a friend and to follow @alwaysfact_ (the code draws that scene).
+  Spell numbers in words inside "say" (the voice reads it), and keep digits in "text"/"viz". Caption, hashtags, claims and
+  verdicts work exactly as for a carousel. Reels follow the same fact rules: nothing is said that a verified claim does not support."""
+
+
+def _format(post_id):
+    try:
+        return load_json(ROOT / "content" / f"{post_id}.json", {}).get("format", "carousel")
+    except Exception:
+        return "carousel"
 
 
 def brief(now=None, queue_path=None):
@@ -55,7 +84,11 @@ def brief(now=None, queue_path=None):
         return {"go": False, "reason": f"mode={c['mode']} paused={c['paused']} {c['pause_reason']}".strip()}
     qpath = Path(queue_path or autopilot.QUEUE)
     rows = publish.read_queue(str(qpath)) if qpath.exists() else []
-    need = c["posts_per_day"] * c["buffer_days"] - len(autopilot.ready_rows(rows, now))
+    ready = autopilot.ready_rows(rows, now)
+    reels_ready = sum(1 for r in ready if _format(r["id"]) == "reel")
+    need_reels = max(0, c.get("reels_per_day", 0) * c["buffer_days"] - reels_ready)
+    need_carousels = max(0, (c["posts_per_day"] - c.get("reels_per_day", 0)) * c["buffer_days"] - (len(ready) - reels_ready))
+    need = need_reels + need_carousels
     if need <= 0:
         return {"go": False, "reason": "the queue already holds enough posts"}
     used = load_json(STATE / "used.json", [])
@@ -68,6 +101,8 @@ def brief(now=None, queue_path=None):
     return {
         "go": True,
         "need_posts": need,
+        "need_carousels": need_carousels,
+        "need_reels": need_reels,
         "propose_at_most": control.topics_needed(need, cap=c["max_topics_per_run"]),
         "posts_per_day": c["posts_per_day"],
         "how_to_verify": ("This session may have NO internet for opening pages. Candidates with a text_file have their full "

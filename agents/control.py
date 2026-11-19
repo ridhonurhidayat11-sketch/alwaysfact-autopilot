@@ -18,7 +18,7 @@ PATH = CONFIG / "control.json"
 DEFAULT = {
     "mode": "off", "posts_per_day": 5, "slots_wib": ["07:30", "10:30", "13:30", "17:30", "20:30"],
     "buffer_days": 2, "max_usd_per_day": 1.0, "max_topics_per_run": 10, "min_score": 55,
-    "max_per_pillar_per_day": 2, "paused": False, "pause_reason": "", "max_consecutive_failures": 3,
+    "max_per_pillar_per_day": 2, "reels_per_day": 2, "reel_slots_wib": ["12:00", "19:30"], "paused": False, "pause_reason": "", "max_consecutive_failures": 3,
 }
 MODES = ("off", "shadow", "live")
 

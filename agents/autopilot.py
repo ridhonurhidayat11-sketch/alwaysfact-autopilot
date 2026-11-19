@@ -72,15 +72,40 @@ def caption_with_tags(post):
 
 
 def enqueue(rows, posts, c, now):
-    """Add one `pending_media` row per ready post, in the next free slots. Returns the number added."""
+    """Add one `pending_media` row per ready post. Reels take the prime-time reel slots, carousels the other slots."""
     taken = {r["scheduled_at"] for r in rows}
-    slots = control.next_slots(c, now, taken, len(posts))
+    reel_slots = [x for x in c.get("reel_slots_wib", []) if x in c["slots_wib"]]
+    other = [x for x in c["slots_wib"] if x not in reel_slots] or list(c["slots_wib"])
+    groups = [([p for p in posts if p.get("format") == "reel"], {**c, "slots_wib": reel_slots or c["slots_wib"]}),
+              ([p for p in posts if p.get("format") != "reel"], {**c, "slots_wib": other})]
     added = 0
-    for post, when in zip(posts, slots):
-        rows.append({"id": post["id"], "scheduled_at": when, "media_urls": "", "caption": caption_with_tags(post),
-                     "status": "pending_media", "result": "", "posted_at": ""})
-        added += 1
+    for group, cfg in groups:
+        slots = control.next_slots(cfg, now, taken, len(group))
+        for post, when in zip(group, slots):
+            taken.add(when)
+            rows.append({"id": post["id"], "scheduled_at": when, "media_urls": "", "caption": caption_with_tags(post),
+                         "status": "pending_media", "result": "", "posted_at": ""})
+            added += 1
+    rows.sort(key=lambda r: r.get("scheduled_at") or "")
     return added
+
+
+def prune_media(rows, now, media_dir, keep_days=3):
+    """Delete the picture/video files of posts that went live more than `keep_days` ago, so the repository stays small.
+    The queue row and content/<id>.json stay as the permanent record. Returns the number of files removed."""
+    media_dir, removed = Path(media_dir), 0
+    for r in rows:
+        if r.get("status") != "posted" or not r.get("posted_at"):
+            continue
+        try:
+            age = now - publish.parse_time(r["posted_at"])
+        except Exception:
+            continue
+        if age.days >= keep_days:
+            for f in list(media_dir.glob(f"{r['id']}-*.jpg")) + list(media_dir.glob(f"{r['id']}.mp4")):
+                f.unlink()
+                removed += 1
+    return removed
 
 
 def finalize(rows):
@@ -179,7 +204,7 @@ def run_watchdog(c, now=None):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["plan", "finalize", "watchdog"])
+    ap.add_argument("cmd", choices=["plan", "finalize", "watchdog", "prune"])
     a = ap.parse_args()
     c = control.load()
     if a.cmd == "plan":
@@ -189,6 +214,9 @@ def main():
         n = finalize(rows)
         publish.write_queue(rows, str(QUEUE))
         print(f"approved {n} rows with finished slides")
+    elif a.cmd == "prune":
+        rows = publish.read_queue(str(QUEUE))
+        print(f"removed {prune_media(rows, datetime.now(timezone.utc), ROOT / 'media')} old media files")
     else:
         alerts = run_watchdog(c)
         for x in alerts:
