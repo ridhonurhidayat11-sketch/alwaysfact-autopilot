@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * *"   # 07:00 WIB, after the planner and before the first slot
   workflow_dispatch: {}
-  # Woken by the Claude routine "tick" (pushes an empty claude/tick-* branch): GitHub cron proved unreliable here.
-  push:
-    branches: ["claude/tick-**"]
 
 permissions:
   contents: write
@@ -24,8 +21,6 @@ jobs:
       IG_TOKEN_ISSUED: ${{ vars.IG_TOKEN_ISSUED }}
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: main          # a tick branch only wakes this workflow up; the data always lives on main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"

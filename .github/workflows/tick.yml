@@ -1,0 +1,102 @@
+name: Tick (publish, scout, watchdog in one ordered run)
+
+# Woken by the Claude routine "alwaysfact_ publish tick": it pushes an empty branch claude/tick-*, which starts this run.
+# GitHub's own cron never fired for this repository, Anthropic's scheduler does. One workflow, one ordered job, so the
+# three duties can never cancel each other in the shared `queue` concurrency group.
+on:
+  push:
+    branches: ["claude/tick-**"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: queue
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_TOKEN: ${{ secrets.IG_TOKEN }}
+      IG_GRAPH_BASE: ${{ vars.IG_GRAPH_BASE }}
+      BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+      BUFFER_CHANNEL_ID: ${{ vars.BUFFER_CHANNEL_ID }}
+      IG_TOKEN_ISSUED: ${{ vars.IG_TOKEN_ISSUED }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main          # a tick branch only wakes this workflow up; the data always lives on main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install what the test suite imports
+        run: pip install pillow numpy
+      - name: Run tests first (a broken publisher must never post)
+        run: python -m unittest discover -s tests
+      # 1. Publish: the time-critical duty goes first. Reads config/control.json (off/paused = nothing, shadow = dry run).
+      - name: Post the next due, approved row
+        id: post
+        continue-on-error: true
+        run: python publisher/publish.py
+      # 2. Scout: fresh article text for the Claude content routine (plain code, no AI, no cost).
+      - name: Fetch real science feeds and store the article text
+        id: scout
+        continue-on-error: true
+        run: python agents/pipeline.py scout
+      # 3. Watchdog: health check, may pause posting by itself; prune old media.
+      - name: Check health
+        id: dog
+        continue-on-error: true
+        run: python agents/autopilot.py watchdog
+      - name: Remove pictures and videos of posts that went live 3+ days ago
+        continue-on-error: true
+        run: python agents/autopilot.py prune
+      - name: Save everything in one commit (retries if the branch moved)
+        if: always()
+        run: |
+          git config user.name "ig-autopilot"
+          git config user.email "actions@users.noreply.github.com"
+          git add queue.csv state/candidates.json state/sources state/health.json config/control.json 2>/dev/null || true
+          git add -A media 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "tick: queue, candidates, health"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          echo "could not push tick results" >&2; exit 1
+      - name: Remove the tick branch
+        if: always() && github.event_name == 'push'
+        run: git push origin --delete "${GITHUB_REF_NAME}" || true
+      - name: Alert me when posting failed
+        if: steps.post.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          [ "$(gh issue list --state open --search 'Instagram post failed in:title' --json number -q length)" = "0" ] || exit 0
+          gh issue create --title "Instagram post failed" \
+            --body "The publisher reported an error. See queue.csv (status=error, result column) and the run log: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}. The watchdog pauses posting by itself after repeated failures."
+      - name: Alert me when scouting failed
+        if: steps.scout.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          [ "$(gh issue list --state open --search 'Scout failed in:title' --json number -q length)" = "0" ] || exit 0
+          gh issue create --title "Scout failed" \
+            --body "Fetching the science feeds failed, so the Claude routine may run out of fresh topics. Run log: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+      - name: Tell me when something needs attention
+        if: steps.dog.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          [ "$(gh issue list --state open --search 'Autopilot needs attention in:title' --json number -q length)" = "0" ] || exit 0
+          gh issue create --title "Autopilot needs attention" \
+            --body "The watchdog found a problem. Open state/health.json for the list, and config/control.json to see whether posting was paused. Run log: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+      - name: Mark the run failed when posting failed
+        if: steps.post.outcome == 'failure'
+        run: exit 1

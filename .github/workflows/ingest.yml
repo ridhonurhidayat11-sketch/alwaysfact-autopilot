@@ -2,7 +2,7 @@ name: Ingest (referee for posts proposed by the Claude routine)
 
 on:
   push:
-    branches: ["claude/**"]
+    branches: ["claude/**", "!claude/tick-**"]   # tick branches belong to tick.yml
   workflow_dispatch:
     inputs:
       branch:

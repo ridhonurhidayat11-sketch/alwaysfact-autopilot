@@ -1,8 +1,6 @@
-name: Autopilot plan (fill the queue)
+name: "Autopilot plan (legacy, manual only: the Claude routine + ingest.yml now fill the queue)"
 
 on:
-  schedule:
-    - cron: "0 22 * * *"   # 05:00 WIB every day, before the first slot at 07:30
   workflow_dispatch: {}
 
 permissions:

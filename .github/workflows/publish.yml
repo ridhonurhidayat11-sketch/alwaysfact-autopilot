@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "12,42 * * * *"   # every 30 min around the clock (off the busy :00/:30 minutes, where GitHub delays cron); only due rows are ever posted
   workflow_dispatch: {}
-  # The Claude routine "tick" pushes an empty branch claude/tick-*: GitHub cron proved unreliable here, Anthropic's scheduler is not.
-  push:
-    branches: ["claude/tick-**"]
 
 permissions:
   contents: write
@@ -29,8 +26,6 @@ jobs:
       BUFFER_CHANNEL_ID: ${{ vars.BUFFER_CHANNEL_ID }}
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: main          # a tick branch only wakes this workflow up; the queue always lives on main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -55,9 +50,6 @@ jobs:
             sleep 5
           done
           echo "could not push queue.csv" >&2; exit 1
-      - name: Remove the tick branch
-        if: always() && github.event_name == 'push'
-        run: git push origin --delete "${GITHUB_REF_NAME}" || true
       - name: Alert me when posting failed
         if: failure() && steps.post.outcome == 'failure'
         env:

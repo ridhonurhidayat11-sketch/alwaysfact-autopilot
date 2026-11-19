@@ -1,4 +1,4 @@
-name: Refresh the Instagram token (every 60 days it would expire)
+name: "Refresh the Instagram token (legacy, manual only: posting goes through Buffer, no Instagram token is used)"
 
 # The Instagram long-lived token lives 60 days and can be refreshed once it is at least 24 hours old.
 # This workflow refreshes it twice a month and stores the new value back as the IG_TOKEN secret.
@@ -7,8 +7,6 @@ name: Refresh the Instagram token (every 60 days it would expire)
 # Without GH_PAT this workflow only reports; refresh the token by hand then (the watchdog warns you in time).
 
 on:
-  schedule:
-    - cron: "0 3 1,15 * *"
   workflow_dispatch: {}
 
 permissions:

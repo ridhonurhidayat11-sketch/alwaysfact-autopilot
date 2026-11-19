@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "47 3,9,15,21 * * *"   # 10:47, 16:47, 22:47, 04:47 WIB: fresh news 20 minutes before each Claude routine run (minute 47 avoids the busy :00/:30)
   workflow_dispatch: {}
-  # Woken by the Claude routine "tick" (pushes an empty claude/tick-* branch): GitHub cron proved unreliable here.
-  push:
-    branches: ["claude/tick-**"]
 
 permissions:
   contents: write
@@ -21,8 +18,6 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: main          # a tick branch only wakes this workflow up; the data always lives on main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
