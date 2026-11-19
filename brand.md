@@ -19,6 +19,21 @@ Aturan mutlak:
 Pilar topik: Tubuh manusia; Alam semesta dan fisika; Benda sehari-hari yang rumit; Hewan dan alam; Sains yang disepelekan.
 
 
+## Judul yang dipahami orang awam (WAJIB, diperiksa kode)
+- Tes: apakah anak SMP yang sedang menggulir bisa mengerti judul itu dalam 3 detik TANPA mencari artinya? Kalau tidak, tulis ulang.
+- Judul memakai benda dan kejadian yang semua orang kenal: makanan, tubuh, tidur, hewan peliharaan, cuaca, HP, uang, jalan raya,
+  sekolah, kota di Indonesia. Bandingkan angka dengan benda sehari-hari (bus, lapangan bola, sebutir beras, galon).
+- DILARANG di judul: istilah teknis (molekul, protein, isotop, spektrum, hipotesis, spesies, sulfida, natrium, dsb.), nama ilmiah
+  Latin, lebih dari dua nama diri asing, dan kata "ini" yang menggantung ("Hewan ini ...", "Batu ini ..."): sebut bendanya.
+  Istilah ilmiah boleh muncul di isi slide SESUDAH penjelasan sederhana.
+- Pilih topik yang relatable atau benar-benar bikin melongo. Lewati topik yang hanya menarik bagi spesialis (asal-usul batu purba,
+  kimia nyala api di laboratorium, fosil yang tidak dikenal publik) kecuali ada sudut keseharian yang jelas.
+- Contoh buruk -> baik:
+  "Api bisa nyaris tak terlihat, padahal kompor tidak diubah" -> "Kenapa api kompor kadang sulit terlihat?" (hanya jika topiknya memang kompor)
+  "Hewan laut dalam ini menyimpan bakteri yang baru ketahuan" -> "Hewan ini hidup bareng bakteri yang dulu kita kira tidak ada" (sebut hewannya)
+  "Satu batu Stonehenge asalnya masih jadi teka-teki" -> lewati, kecuali ada sudut yang dekat dengan pembaca.
+  "Bagian kentut yang bikin bau cuma sebutir jagung di satu truk" -> sudah bagus: benda sehari-hari, angka yang bisa dibayangkan.
+
 ## Playbook engagement (dari riset; hipotesis untuk diuji, bukan data pasti)
 - Prioritaskan fakta yang relate dengan hidup sehari-hari (tubuh, makanan, tidur, cuaca, HP, hewan peliharaan) atau
   "hal yang tidak pernah kamu sadari". Rancang setiap postingan supaya enak DIKIRIM ke teman (sinyal terkuat Instagram).
