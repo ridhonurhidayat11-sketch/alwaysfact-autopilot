@@ -21,11 +21,12 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 BASE = "https://graph.facebook.com/v21.0"
 QUEUE = os.environ.get("QUEUE_FILE") or os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "queue.csv")
-FIELDS = ["id", "scheduled_at", "media_urls", "caption", "status", "result"]
+FIELDS = ["id", "scheduled_at", "media_urls", "caption", "status", "result", "posted_at"]
+CONTROL = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "config", "control.json")
 MAX_CAPTION = 2200
 
 
@@ -140,9 +141,29 @@ def parse_time(s):
     return datetime.fromisoformat(s.strip().replace("Z", "+00:00"))
 
 
-def run(rows, uid, now=None, save=lambda rows: None, dry=False):
+def limit_reached(rows, now, max_per_day, min_gap_min):
+    """Returns a reason string when posting now would break the daily cap or the minimum gap, else None."""
+    times = []
+    for r in rows:
+        if r.get("status") == "posted" and r.get("posted_at"):
+            try:
+                times.append(parse_time(r["posted_at"]))
+            except ValueError:
+                continue
+    if max_per_day and sum(1 for t in times if now - t < timedelta(hours=24)) >= max_per_day:
+        return f"daily cap of {max_per_day} posts reached"
+    if min_gap_min and any(now - t < timedelta(minutes=min_gap_min) for t in times):
+        return f"last post was under {min_gap_min} minutes ago"
+    return None
+
+
+def run(rows, uid, now=None, save=lambda rows: None, dry=False, max_per_day=0, min_gap_min=0):
     """Process one run. Returns (posted_id_or_None, had_error)."""
     now = now or datetime.now(timezone.utc)
+    why = limit_reached(rows, now, max_per_day, min_gap_min)
+    if why:
+        print(why + "; nothing posted this run")
+        return None, False
     for row in rows:
         if row.get("status") != "approved":
             continue
@@ -166,6 +187,7 @@ def run(rows, uid, now=None, save=lambda rows: None, dry=False):
             else:
                 row["result"] = publish(row, uid)
                 row["status"] = "posted"
+                row["posted_at"] = now.strftime("%Y-%m-%dT%H:%M:%SZ")
         except Exception as e:
             row["status"], row["result"] = "error", str(e)[:300]
             save(rows)
@@ -175,10 +197,28 @@ def run(rows, uid, now=None, save=lambda rows: None, dry=False):
     return None, False
 
 
+def load_control():
+    try:
+        with open(CONTROL, encoding="utf-8") as f:
+            c = json.load(f)
+    except (OSError, ValueError):
+        return {"mode": "off", "paused": True, "pause_reason": "config/control.json missing or unreadable"}
+    return c
+
+
 def main():
-    uid = os.environ["IG_USER_ID"]
+    c = load_control()
+    if c.get("paused") or c.get("mode") not in ("live", "shadow"):
+        print(f"not posting: mode={c.get('mode')} paused={c.get('paused')} {c.get('pause_reason', '')}")
+        sys.exit(0)
+    shadow = c.get("mode") == "shadow"
+    if not shadow and not (os.environ.get("IG_USER_ID") and os.environ.get("IG_TOKEN")):
+        print("mode is live but IG_USER_ID or IG_TOKEN is missing (Settings > Secrets and variables > Actions)", file=sys.stderr)
+        sys.exit(1)  # loud on purpose: live mode without credentials is a misconfiguration
+    uid = os.environ.get("IG_USER_ID", "")
     rows = read_queue()
-    posted, failed = run(rows, uid, save=write_queue, dry=bool(os.environ.get("DRY_RUN")))
+    posted, failed = run(rows, uid, save=write_queue, dry=shadow or bool(os.environ.get("DRY_RUN")),
+                         max_per_day=int(c.get("posts_per_day", 5)), min_gap_min=60)
     if posted:
         print(f"posted -> {posted}")
     if failed:
