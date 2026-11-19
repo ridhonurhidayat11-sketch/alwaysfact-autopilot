@@ -1,41 +1,41 @@
 # alwaysfact-autopilot
 
-Instagram automation for @alwaysfact_. An AI agent drafts a week of carousel posts, you approve them, and plain scripts publish them. Slides and publishing use no AI tokens.
+Fully automatic Instagram account @alwaysfact_ (mind-blowing science facts). It runs in GitHub's cloud, so no laptop has to be on.
+**Nothing runs or posts until `config/control.json` says so** (default `"mode": "off"`).
 
-## How it works
-1. **Sunday 08:00 WIB** `generate.yml` calls Claude once, drafts 7 posts into `queue.csv` (status `pending`), renders slides into `media/`, and opens an issue asking for approval.
-2. **You** read the drafts, edit captions if needed, and change `status` from `pending` to `approved`.
-3. **Every 30 minutes (07:00-22:59 WIB)** `publish.yml` runs the tests, then posts at most one approved row whose `scheduled_at` has passed, and records `posted` or `error`.
+## How a day works
+| Time (WIB) | Workflow | What happens |
+|---|---|---|
+| 05:00 | `plan.yml` | Tops the queue up to 2 days of posts: picks topics, writes, fact-checks, renders slides, queues. |
+| 07:00 | `watchdog.yml` | Health check. Pauses posting by itself if something looks wrong, and opens an issue. |
+| 07:00-22:59, every 30 min | `publish.yml` | Posts the next due post (max 5 per 24 h, min 60 min apart). |
 
-Only rows with status `approved` are ever posted.
+Posting slots (WIB): 07:30, 10:30, 13:30, 17:30, 20:30.
 
-## One-time setup (values are typed by you, never shared in chat or code)
-Repo -> Settings -> Secrets and variables -> Actions -> New repository secret:
-- `IG_USER_ID`: Instagram Business account id
-- `IG_TOKEN`: long-lived access token (about 60 days, renew before it expires)
-- `ANTHROPIC_API_KEY`: key for the weekly drafting agent
+## The control file `config/control.json` (edit it from the GitHub mobile site)
+- `"mode": "off"`: nothing runs. `"shadow"`: everything runs and the queue fills, but nothing is posted (use it to judge quality). `"live"`: posts for real.
+- `"paused": true`: stops posting immediately. The watchdog sets this by itself on 3 failed posts in a row, or when the fact-checker rejects 80%+ of topics.
+- `posts_per_day`, `slots_wib`, `max_usd_per_day` (token spending cap), `min_score`, and more.
 
-Until `IG_USER_ID` and `IG_TOKEN` exist, `publish.yml` runs the tests and skips posting. The repo must stay public so Instagram can fetch images from `raw.githubusercontent.com`.
+## Quality gates (no human in the loop, so they are strict)
+1. Only low-risk topics are auto-selected. High risk (medical, politics, disasters, named people) is rejected, medium risk is held for a human and never auto-posted.
+2. A separate fact-checker with web search must support EVERY claim, with a tier-1 source (`config/trusted_sources.json`) or two independent sites. Max 2 rewrites, then the topic is dropped.
+3. Structure checks (slide count, lengths, licensed visual sources, real source links).
+4. Duplicate topic and duplicate caption detection.
+5. Publisher checks the media URLs, the daily quota and the daily cap, and never double-posts.
+Rows only become `approved` after their slides exist (`pending_media` -> `approved`).
 
-## Safety
-Anti double-post (same caption already live), one bad row never blocks the others, queue saved right after posting, media URLs checked first, daily quota respected, issue opened when posting fails. 12 tests in `tests/`.
+## One-time setup (values typed by you, never shared in chat)
+Repo -> Settings -> Secrets and variables -> Actions:
+- Secrets: `ANTHROPIC_API_KEY`, `IG_USER_ID`, `IG_TOKEN`
+- Variable `IG_TOKEN_ISSUED` = date the token was created (YYYY-MM-DD), so the watchdog warns before the 60-day expiry
+Then set `"mode": "shadow"`, watch a few days of drafts, and only then `"live"`.
 
 ## Local commands
 ```
 python -m unittest discover -s tests
-DRY_RUN=1 IG_USER_ID=x IG_TOKEN=x python publisher/publish.py
+python agents/pipeline.py report      # tokens and cost per agent
+python agents/autopilot.py watchdog
 ```
-
+Hand-written drafts 001-007 are marked `held` in `queue.csv`: their facts were never verified.
 Explainer deck: `docs/alwaysfact-autopilot.pptx`.
-
-## Content agents (Phase 1)
-```
-python agents/pipeline.py scout [--brainstorm 2]   # candidates from 8 real science feeds (+ evergreen ideas)
-python agents/pipeline.py score --top 10           # rate, dedupe -> state/topics.csv  (Gate 1)
-# Gate 1: you set decision=select in state/topics.json
-python agents/pipeline.py write                    # write + fact-check (web search); max 2 rewrites
-python agents/pipeline.py report                   # tokens and cost per agent
-```
-Needs `ANTHROPIC_API_KEY` and `pip install anthropic`. Spending per run is capped by `MAX_USD_PER_RUN` (default 0.50).
-A post is saved to `content/` only if every claim passed the fact-checker with a real source. Rubric: `config/rubric.json`. Voice: `brand.md`.
-Posts 001-007 were drafted by hand before this pipeline existed and have NOT been fact-checked: run them through the fact-checker before posting.
