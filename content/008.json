@@ -153,11 +153,81 @@
   "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
   "topic_id": "t8b988991",
   "image_query": "whale skull fossil",
-  "image_credits": [
-    "TheUltimateGrass / CC0 (Wikimedia Commons)",
-    "James St. John / CC BY 2.0 (Wikimedia Commons)",
-    "James St. John / CC BY 2.0 (Wikimedia Commons)",
-    "James St. John / CC BY 2.0 (Wikimedia Commons)",
-    "James St. John / CC BY 2.0 (Wikimedia Commons)"
-  ]
+  "format": "reel",
+  "reel": {
+    "hook": "Wajah paus ini miring. Ilmuwan kira fosilnya rusak",
+    "mood": "curious",
+    "beats": [
+      {
+        "say": "Tengkorak paus ini miring sampai ilmuwan mengira fosilnya rusak. Ternyata bukan.",
+        "text": "Wajah paus miring",
+        "image_query": "whale skull fossil",
+        "icon": "magnifier"
+      },
+      {
+        "say": "Namanya Scaphokogia huachafo, paus kecil dari Peru sepanjang sekitar dua koma tujuh meter.",
+        "text": "Paus kecil dari Peru",
+        "viz": {
+          "kind": "stat",
+          "value": "2.7 m",
+          "label": "panjang tubuhnya",
+          "note": "hidup 6.3 sampai 5.6 juta tahun lalu"
+        },
+        "icon": "fish"
+      },
+      {
+        "say": "Kedua lubang hidungnya bergeser seluruhnya ke sisi kiri tengkorak.",
+        "text": "Hidung ke kiri",
+        "viz": {
+          "kind": "steps",
+          "items": [
+            "Lubang hidung tulang",
+            "Bergeser ke sisi kiri",
+            "Wajah jadi tidak simetris"
+          ]
+        }
+      },
+      {
+        "say": "Peneliti awalnya curiga tengkoraknya rusak setelah mati, tapi bentuk miring itu ternyata alami.",
+        "text": "Dikira rusak?",
+        "viz": {
+          "kind": "steps",
+          "items": [
+            "Dugaan awal: fosil rusak",
+            "Dicek: tanpa retakan",
+            "Kesimpulan: bentuk aslinya"
+          ]
+        }
+      },
+      {
+        "say": "Moncongnya menunduk tiga puluh satu derajat, dan kepalanya bisa menunduk sampai lima puluh lima derajat.",
+        "text": "Moncong menunduk",
+        "viz": {
+          "kind": "compare",
+          "items": [
+            {
+              "label": "Moncong",
+              "value": 31
+            },
+            {
+              "label": "Kepala (maks.)",
+              "value": 55
+            }
+          ],
+          "unit": "derajat",
+          "caption": "Sudut menunduk"
+        }
+      },
+      {
+        "say": "Menurut peneliti, bentuk aneh ini kemungkinan membantu sonarnya mendeteksi mangsa yang bersembunyi di bawah sedimen.",
+        "text": "Bukan cacat, tapi adaptasi",
+        "image_query": "fossil whale",
+        "icon": "bulb"
+      },
+      {
+        "say": "Kirim ini ke temanmu yang suka bilang masa sih, dan ikuti alwaysfact untuk fakta sains lainnya.",
+        "text": "Ikuti dan bagikan"
+      }
+    ]
+  }
 }

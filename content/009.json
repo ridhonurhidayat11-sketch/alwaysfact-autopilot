@@ -21,7 +21,14 @@
       "visual": {
         "source": "pexels",
         "keywords": "stomach digestion illustration"
-      }
+      },
+      "viz": {
+        "kind": "stat",
+        "value": "14-20x",
+        "label": "kali kentut per hari",
+        "note": "pada orang sehat"
+      },
+      "takeaway": "Jadi kentut itu normal banget, bahkan sehat."
     },
     {
       "type": "fact",
@@ -30,7 +37,14 @@
       "visual": {
         "source": "pexels",
         "keywords": "air nitrogen"
-      }
+      },
+      "viz": {
+        "kind": "stat",
+        "value": "20-90%",
+        "label": "isi kentut adalah nitrogen",
+        "note": "gas yang sama yang mendominasi udara"
+      },
+      "takeaway": "Gas utamanya sama dengan yang kamu hirup tiap detik."
     },
     {
       "type": "fact",
@@ -40,7 +54,16 @@
         "source": "pexels",
         "keywords": "sulfur molecule"
       },
-      "image_query": "sulfur crystals"
+      "image_query": "sulfur crystals",
+      "viz": {
+        "kind": "steps",
+        "items": [
+          "Isi kentut: sebagian besar tak berbau",
+          "Sebagian kecil: gas berbelerang (sulfur)",
+          "Hasilnya: bau yang menyengat"
+        ]
+      },
+      "takeaway": "Pelakunya cuma sedikit, tapi efeknya besar."
     },
     {
       "type": "fact",
@@ -49,7 +72,15 @@
       "visual": {
         "source": "pexels",
         "keywords": "nose smell"
-      }
+      },
+      "viz": {
+        "kind": "dots",
+        "total": 100,
+        "highlight": 1,
+        "label": "1 dari 1 juta molekul",
+        "caption": "Satu titik merah muda = molekul penyebab bau"
+      },
+      "takeaway": "Hidungmu super sensitif terhadap gas ini."
     },
     {
       "type": "fact",
@@ -58,7 +89,16 @@
       "visual": {
         "source": "pexels",
         "keywords": "nose evolution"
-      }
+      },
+      "viz": {
+        "kind": "steps",
+        "items": [
+          "Gas berbelerang ada di udara",
+          "Hidung menangkapnya (sensor kimia)",
+          "Sinyal: ada yang busuk atau berbahaya"
+        ]
+      },
+      "takeaway": "Baunya itu alarm alami, bukan gangguan."
     },
     {
       "type": "cta",
@@ -166,8 +206,5 @@
   "origin": "routine",
   "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
   "topic_id": "t73c78aa6",
-  "image_query": "",
-  "image_credits": [
-    "AlexmarPh AH oto / CC BY 4.0 (Wikimedia Commons)"
-  ]
+  "image_query": ""
 }

@@ -21,7 +21,8 @@
       "visual": {
         "source": "pexels",
         "keywords": "sea cucumber deep ocean"
-      }
+      },
+      "takeaway": "Jadi, babi laut bukan babi: dia teripang."
     },
     {
       "type": "fact",
@@ -31,7 +32,8 @@
         "source": "pexels",
         "keywords": "bacteria microscope"
       },
-      "image_query": "bacteria microscope"
+      "image_query": "bacteria microscope",
+      "takeaway": "Satu bakteri mendominasi di dinding tubuhnya."
     },
     {
       "type": "fact",
@@ -41,7 +43,8 @@
         "source": "pexels",
         "keywords": "dna genome"
       },
-      "image_query": "Escherichia coli"
+      "image_query": "Escherichia coli",
+      "takeaway": "Genomnya sangat kecil dibanding E. coli."
     },
     {
       "type": "fact",
@@ -50,7 +53,8 @@
       "visual": {
         "source": "pexels",
         "keywords": "protein structure"
-      }
+      },
+      "takeaway": "Sebagian besar DNA-nya untuk protein permukaan."
     },
     {
       "type": "fact",
@@ -59,7 +63,8 @@
       "visual": {
         "source": "pexels",
         "keywords": "deep sea mystery"
-      }
+      },
+      "takeaway": "Peran bakteri ini bagi babi laut masih misteri."
     },
     {
       "type": "cta",
@@ -167,12 +172,5 @@
   "origin": "routine",
   "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
   "topic_id": "t93aa0cf8",
-  "image_query": "Scotoplanes sea pig",
-  "image_credits": [
-    "NOAA/MBARI / CC BY-SA 3.0 (Wikimedia Commons)",
-    "Smithsonian National Museum Of Natural History / CC0 (Wikimedia Commons)",
-    "Sunjana Supekar / CC0 (Wikimedia Commons)",
-    "Korinna / CC BY 4.0 (Wikimedia Commons)",
-    "Gene Drendel / CC BY 4.0 (Wikimedia Commons)"
-  ]
+  "image_query": "Scotoplanes sea pig"
 }
