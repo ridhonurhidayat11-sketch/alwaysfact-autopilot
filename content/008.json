@@ -166,18 +166,31 @@
     "beats": [
       {
         "act": "hook",
-        "say": "Bagaimana kalau wajah seekor paus miring sampai ilmuwan mengira fosilnya rusak?",
-        "text": "Wajah paus miring?",
+        "say": "Bayangkan, ada paus purba yang wajahnya miring banget. Sampai ilmuwan mengira fosilnya rusak.",
+        "text": "Wajah paus *miring?*",
         "image_query": "whale skull fossil",
-        "icon": "magnifier",
-        "camera": "push_in"
+        "camera": "push_in",
+        "delivery": "antusias"
       },
       {
         "act": "context",
-        "say": "Fosil ini ditemukan di Peru. Namanya Scaphokogia huachafo, paus kecil sepanjang sekitar dua koma tujuh meter.",
-        "text": "Paus kecil dari Peru",
+        "say": "Fosilnya ditemukan di Peru. Panggil saja paus kecil.",
+        "text": "Ditemukan di *Peru*",
+        "camera": "static",
+        "transition": "wipe",
+        "viz": {
+          "kind": "map",
+          "lat": -14.0,
+          "lon": -75.0,
+          "label": "Peru",
+          "zoom": 3.2
+        }
+      },
+      {
+        "act": "context",
+        "say": "Panjangnya cuma dua koma tujuh meter, dan hidup enam koma tiga sampai lima koma enam juta tahun lalu.",
+        "text": "Paus *kecil*, hidup *6,3 juta* tahun lalu",
         "claim": 1,
-        "icon": "fish",
         "camera": "static",
         "transition": "slide",
         "viz": {
@@ -191,14 +204,13 @@
               "label": "5.6 juta tahun lalu",
               "text": "Panjangnya sekitar 2.7 meter"
             }
-          ],
-          "caption": "Masa hidup menurut studi"
+          ]
         }
       },
       {
         "act": "stakes",
-        "say": "Dan ini bukan miring biasa. Kedua lubang hidung tulangnya bergeser seluruhnya ke sisi kiri tengkorak.",
-        "text": "Hidung ke kiri",
+        "say": "Nah, yang aneh bukan cuma miringnya. Kedua lubang hidung tulangnya bergeser ke kiri!",
+        "text": "Semua lubang hidung di *kiri*",
         "claim": 2,
         "camera": "static",
         "transition": "wipe",
@@ -209,30 +221,28 @@
             "Bergeser ke sisi kiri",
             "Wajah jadi tidak simetris"
           ]
-        }
+        },
+        "delivery": "antusias"
       },
       {
         "act": "evidence",
-        "say": "Para peneliti awalnya curiga tengkoraknya rusak setelah mati. Tapi bentuk miring itu ternyata alami.",
-        "text": "Dikira rusak",
+        "say": "Peneliti pun curiga fosilnya rusak setelah mati. Ternyata, itu memang bentuk aslinya.",
+        "text": "Dikira *rusak*",
         "claim": 3,
+        "clip": true,
         "camera": "static",
         "transition": "fade",
-        "viz": {
-          "kind": "steps",
-          "items": [
-            "Dugaan awal: fosil rusak",
-            "Dicek: tanpa retakan",
-            "Kesimpulan: bentuk aslinya"
-          ]
-        }
+        "highlight": [
+          "suspected",
+          "distorted"
+        ]
       },
       {
         "act": "evidence",
-        "say": "Moncongnya menunduk tiga puluh satu derajat, dan kepalanya bisa menunduk sampai lima puluh lima derajat.",
-        "text": "31 dan 55 derajat",
+        "say": "Moncongnya menunduk tiga puluh satu derajat, kepalanya sampai lima puluh lima. Ekstrem, kan?",
+        "text": "*31* dan *55* derajat",
         "claim": 4,
-        "camera": "zoom_to_detail",
+        "camera": "static",
         "transition": "slide",
         "viz": {
           "kind": "compare",
@@ -252,30 +262,28 @@
       },
       {
         "act": "reveal",
-        "say": "Jadi ini bukan cacat. Menurut peneliti, bentuk aneh ini kemungkinan membantu sonarnya mendeteksi mangsa yang bersembunyi di bawah sedimen.",
-        "text": "Bukan cacat, tapi adaptasi",
+        "say": "Jadi bukan cacat. Menurut peneliti, bentuk ini kemungkinan membantu sonarnya menemukan mangsa di bawah sedimen.",
+        "text": "Bukan cacat, tapi *adaptasi*",
         "image_query": "fossil whale",
-        "icon": "bulb",
         "camera": "pan_right",
-        "transition": "wipe"
+        "transition": "wipe",
+        "delivery": "serius"
       },
       {
         "act": "conclusion",
-        "say": "Kadang yang tampak rusak ternyata cara alam memecahkan masalah.",
-        "text": "Aneh, tapi cerdas",
-        "icon": "bulb",
+        "say": "Kadang yang kelihatan rusak justru cara alam memecahkan masalah.",
+        "text": "Aneh, tapi *cerdas*",
+        "sub": "Yang tampak seperti kerusakan bisa jadi desain.",
         "camera": "static",
-        "transition": "fade"
+        "transition": "fade",
+        "delivery": "santai"
       },
       {
         "act": "cta",
-        "say": "Kirim ini ke temanmu yang suka bilang masa sih, dan ikuti alwaysfact untuk fakta sains lainnya.",
+        "say": "Kirim ke temanmu yang suka bilang masa sih. Ikuti alwaysfact buat fakta sains lainnya.",
         "text": "Ikuti dan bagikan"
       }
-    ]
-  },
-  "image_credits": [
-    "TheUltimateGrass / CC0 (Wikimedia Commons)",
-    "Kurt Kaiser / CC0 (Wikimedia Commons)"
-  ]
+    ],
+    "voice": "ardi"
+  }
 }
