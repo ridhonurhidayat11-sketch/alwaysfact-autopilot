@@ -1,0 +1,50 @@
+name: Queue edit (hold, release, reschedule)
+
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "hold | release | at | only-formats"
+        required: true
+        default: "hold"
+      target:
+        description: "hold/release: ids like 008,013 | at: one id | only-formats: carousel or reel"
+        required: true
+      extra:
+        description: "hold/only-formats: a short reason | at: UTC time like 2026-11-20T08:30:00Z"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: queue
+  cancel-in-progress: false
+
+jobs:
+  edit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Apply the change
+        env:
+          ACTION: ${{ github.event.inputs.action }}
+          TARGET: ${{ github.event.inputs.target }}
+          EXTRA: ${{ github.event.inputs.extra }}
+        run: python agents/queue_edit.py "$ACTION" "$TARGET" "$EXTRA"
+      - name: Save
+        run: |
+          git config user.name "ig-autopilot"
+          git config user.email "actions@users.noreply.github.com"
+          git add queue.csv
+          git diff --cached --quiet && exit 0
+          git commit -m "queue: manual change"
+          for i in 1 2 3; do git pull --rebase -X theirs origin main && git push origin HEAD:main && exit 0; sleep 5; done
+          echo "could not push" >&2; exit 1
