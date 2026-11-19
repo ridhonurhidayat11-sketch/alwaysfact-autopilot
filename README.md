@@ -27,3 +27,15 @@ DRY_RUN=1 IG_USER_ID=x IG_TOKEN=x python publisher/publish.py
 ```
 
 Explainer deck: `docs/alwaysfact-autopilot.pptx`.
+
+## Content agents (Phase 1)
+```
+python agents/pipeline.py scout [--brainstorm 2]   # candidates from 8 real science feeds (+ evergreen ideas)
+python agents/pipeline.py score --top 10           # rate, dedupe -> state/topics.csv  (Gate 1)
+# Gate 1: you set decision=select in state/topics.json
+python agents/pipeline.py write                    # write + fact-check (web search); max 2 rewrites
+python agents/pipeline.py report                   # tokens and cost per agent
+```
+Needs `ANTHROPIC_API_KEY` and `pip install anthropic`. Spending per run is capped by `MAX_USD_PER_RUN` (default 0.50).
+A post is saved to `content/` only if every claim passed the fact-checker with a real source. Rubric: `config/rubric.json`. Voice: `brand.md`.
+Posts 001-007 were drafted by hand before this pipeline existed and have NOT been fact-checked: run them through the fact-checker before posting.
