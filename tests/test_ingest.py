@@ -188,6 +188,45 @@ class RunTests(unittest.TestCase):
         self.assertIn("paused", ingest.run(d / "inbox", ctl(paused=True, pause_reason="x"), NOW, fetcher, queue_path=qp)["skipped"])
 
 
+class SourceTextTests(unittest.TestCase):
+    def cands(self, n=8, source="NASA"):
+        return [{"id": f"t{source[:2]}{i}", "origin": "feed", "source": source, "url": f"https://x.org/{i}", "title": "t"} for i in range(n)]
+
+    def test_saves_text_for_good_pages_and_caps_per_source(self):
+        import scout
+        d = Path(tempfile.mkdtemp()) / "sources"
+        d.mkdir()
+        (d / "stale.txt").write_text("yesterday")
+        c = self.cands(8)
+        ok, bad = scout.attach_sources(c, d, per_source=5, page_fetcher=lambda u: "word " * 400)
+        self.assertEqual((ok, bad), (5, 0))
+        self.assertFalse((d / "stale.txt").exists())  # old files are wiped so the repo does not grow forever
+        self.assertEqual(sum("text_file" in x for x in c), 5)
+        self.assertTrue((d / f"{c[0]['id']}.txt").read_text().startswith("word"))
+
+    def test_short_pages_and_errors_are_marked_not_saved(self):
+        import scout
+        d = Path(tempfile.mkdtemp()) / "sources"
+        c = self.cands(3)
+
+        def page(u):
+            if u.endswith("/0"):
+                return "too short"
+            if u.endswith("/1"):
+                raise OSError("403")
+            return "ok " * 500
+        ok, bad = scout.attach_sources(c, d, page_fetcher=page)
+        self.assertEqual((ok, bad), (1, 2))
+        self.assertIn("fetch_error", c[0])
+        self.assertIn("fetch_error", c[1])
+        self.assertIn("text_file", c[2])
+
+    def test_brain_stormed_ideas_are_never_fetched(self):
+        import scout
+        c = [{"id": "b1", "origin": "brainstorm", "source": "brainstorm", "url": "", "title": "t"}]
+        self.assertEqual(scout.attach_sources(c, Path(tempfile.mkdtemp()) / "s", page_fetcher=lambda u: 1 / 0), (0, 0))
+
+
 class BriefTests(unittest.TestCase):
     def test_off_mode_says_stop(self):
         with mock.patch.object(control, "load", return_value=ctl(mode="off")):
@@ -210,6 +249,7 @@ class BriefTests(unittest.TestCase):
         self.assertTrue(b["go"])
         self.assertEqual(b["need_posts"], 2)
         self.assertEqual({c["id"] for c in b["candidates"]}, {"t1", "t3"})
+        self.assertIn("NO internet", b["how_to_verify"])
         self.assertIn("claims", b["schema"])
 
 
