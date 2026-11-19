@@ -30,7 +30,8 @@
       "visual": {
         "source": "pexels",
         "keywords": "bacteria microscope"
-      }
+      },
+      "image_query": "bacteria microscope"
     },
     {
       "type": "fact",
@@ -39,7 +40,8 @@
       "visual": {
         "source": "pexels",
         "keywords": "dna genome"
-      }
+      },
+      "image_query": "Escherichia coli"
     },
     {
       "type": "fact",
@@ -165,9 +167,5 @@
   "origin": "routine",
   "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
   "topic_id": "t93aa0cf8",
-  "image_query": "Scotoplanes sea pig",
-  "image_credits": [
-    "Lindberg (????—????) / Public domain (Wikimedia Commons)",
-    "NOAA/MBARI / CC BY-SA 3.0 (Wikimedia Commons)"
-  ]
+  "image_query": "Scotoplanes sea pig"
 }

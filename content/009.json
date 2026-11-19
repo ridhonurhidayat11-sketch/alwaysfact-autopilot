@@ -39,7 +39,8 @@
       "visual": {
         "source": "pexels",
         "keywords": "sulfur molecule"
-      }
+      },
+      "image_query": "sulfur crystals"
     },
     {
       "type": "fact",
@@ -165,8 +166,5 @@
   "origin": "routine",
   "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
   "topic_id": "t73c78aa6",
-  "image_query": "hydrogen sulfide",
-  "image_credits": [
-    "Ljeto / CC BY 4.0 (Wikimedia Commons)"
-  ]
+  "image_query": ""
 }
