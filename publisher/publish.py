@@ -23,7 +23,9 @@ import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
-BASE = "https://graph.facebook.com/v21.0"
+# Default: "Instagram API with Instagram Login" (no Facebook Page needed). For a Facebook-Login token set the repository
+# variable IG_GRAPH_BASE to https://graph.facebook.com/v21.0
+BASE = (os.environ.get("IG_GRAPH_BASE") or "https://graph.instagram.com/v21.0").rstrip("/")
 QUEUE = os.environ.get("QUEUE_FILE") or os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "queue.csv")
 FIELDS = ["id", "scheduled_at", "media_urls", "caption", "status", "result", "posted_at"]
 CONTROL = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "config", "control.json")
