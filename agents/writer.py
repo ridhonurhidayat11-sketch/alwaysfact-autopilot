@@ -48,9 +48,10 @@ def _viz_texts(viz):
     return out
 
 
-def viz_problems(p):
-    """A number drawn in an infographic must be a number the verified claims contain. The picture can't say more than the claims."""
-    claim_nums = set()
+def viz_problems(p, extra_numbers=()):
+    """A number drawn in an infographic must be a number the verified claims (or their verified source quotes) contain.
+    The picture can't say more than the claims."""
+    claim_nums = set(extra_numbers)
     for c in p.get("claims") or []:
         claim_nums |= _numbers(c.get("text", ""))
     vizs = [("slide %d" % i, s.get("viz")) for i, s in enumerate(p.get("slides") or [], 1) if s.get("viz")]
@@ -82,11 +83,11 @@ def _common_problems(p):
     return bad
 
 
-def validate_post(p):
+def validate_post(p, check_viz=True):
     """Returns a list of problems; an empty list means the structure is acceptable."""
     if p.get("format") == "reel":
         import reel
-        return reel.validate_reel(p) + _common_problems(p) + viz_problems(p)
+        return reel.validate_reel(p) + _common_problems(p) + (viz_problems(p) if check_viz else [])
     bad = []
     slides = p.get("slides") or []
     lo, hi = LIMITS["slides"]
@@ -117,7 +118,7 @@ def validate_post(p):
             import infographics
             if not infographics.valid(s["viz"]):
                 bad.append(f"slide {i}: viz is not drawable")
-    return bad + _common_problems(p) + viz_problems(p)
+    return bad + _common_problems(p) + (viz_problems(p) if check_viz else [])
 
 
 def write_post(llm, topic, feedback=None):

@@ -41,12 +41,21 @@ def judge(data, tier1, fetcher, history):
         return False, ["malformed proposal"], []
     if data.get("risk") != "low":
         return False, [f"risk is {data.get('risk')!r}; only 'low' is posted automatically"], []
-    problems = writer.validate_post(post)
+    problems = writer.validate_post(post, check_viz=False)  # infographic numbers are checked after the evidence is verified
     if problems:
         return False, problems, []
     if is_duplicate(post.get("topic", ""), history):
         return False, ["topic repeats an earlier post"], []
     checked, notes = evidence.verify_verdicts(post, verdicts, fetcher)
+    verified_nums = set()
+    for v in checked:  # numbers inside quotes that really exist on the live source page are as good as the claim text
+        if v.get("evidence_url"):
+            verified_nums |= evidence.numbers(v.get("quote", ""))
+        if v.get("second_evidence_url"):
+            verified_nums |= evidence.numbers(v.get("second_quote", ""))
+    viz_bad = writer.viz_problems(post, verified_nums)
+    if viz_bad:
+        return False, viz_bad, checked
     ok, fc = factcheck.passes(post, checked, tier1)
     return (ok, fc + notes, checked)
 
