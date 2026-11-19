@@ -2,12 +2,41 @@
   "version": 1,
   "note": "Starting hypothesis, not a fact. The analyst agent will adjust weights from real insight data.",
   "criteria": [
-    {"key": "surprise", "weight": 0.30, "question": "Would most people say 'masa sih?' (disbelief) on hearing it?"},
-    {"key": "simple", "weight": 0.20, "question": "Can it be told in 1 hook sentence plus 3 short slides?"},
-    {"key": "shareable", "weight": 0.20, "question": "Would someone send it to a friend?"},
-    {"key": "source", "weight": 0.15, "question": "Is there a primary source with clear numbers?"},
-    {"key": "visual", "weight": 0.10, "question": "Is there a strong image, chart or comparison for it?"},
-    {"key": "fresh", "weight": 0.05, "question": "Is it new to this account?"}
+    {
+      "key": "relatable",
+      "weight": 0.25,
+      "question": "Does it touch something most Indonesians know or do every day (body, food, sleep, pets, weather, phone, money, traffic, kids' questions)? A topic only specialists care about (rock provenance, chemistry of a lab flame, obscure fossils) scores 0 here and must be skipped unless a plain everyday comparison carries it."
+    },
+    {
+      "key": "surprise",
+      "weight": 0.25,
+      "question": "Would most people say 'masa sih?' (disbelief) on hearing it?"
+    },
+    {
+      "key": "simple",
+      "weight": 0.15,
+      "question": "Can a 15-year-old understand the hook with NO googling? Can it be told in 1 hook sentence plus 3 short slides?"
+    },
+    {
+      "key": "shareable",
+      "weight": 0.15,
+      "question": "Would someone send it to a friend?"
+    },
+    {
+      "key": "source",
+      "weight": 0.1,
+      "question": "Is there a primary source with clear numbers?"
+    },
+    {
+      "key": "visual",
+      "weight": 0.05,
+      "question": "Is there a strong image, chart or comparison for it?"
+    },
+    {
+      "key": "fresh",
+      "weight": 0.05,
+      "question": "Is it new to this account?"
+    }
   ],
   "pillars": [
     "Tubuh manusia",
