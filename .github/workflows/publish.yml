@@ -1,0 +1,53 @@
+name: Publish approved Instagram posts
+
+on:
+  schedule:
+    - cron: "*/30 0-15 * * *"   # every 30 min, 07:00-22:59 WIB; keeps a private repo under 2,000 free minutes/month
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+# One writer to queue.csv at a time, shared with the weekly drafting workflow.
+concurrency:
+  group: queue
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run tests first (a broken publisher must never post)
+        run: python -m unittest discover -s tests
+      - name: Post the next approved, due row
+        id: post
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: python publisher/publish.py
+      - name: Save queue changes (retries if the branch moved)
+        if: always()
+        run: |
+          git config user.name "ig-autopilot"
+          git config user.email "actions@users.noreply.github.com"
+          git add queue.csv
+          git diff --cached --quiet && exit 0
+          git commit -m "queue: update post status"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep 5
+          done
+          echo "could not push queue.csv" >&2; exit 1
+      - name: Alert me when posting failed
+        if: failure() && steps.post.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --title "Instagram post failed" \
+            --body "The publisher reported an error. See queue.csv (status=error, result column) and the run log: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}. A common cause is an expired IG_TOKEN."

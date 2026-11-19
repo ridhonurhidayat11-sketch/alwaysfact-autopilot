@@ -1,0 +1,51 @@
+name: Draft next week's posts
+
+on:
+  schedule:
+    - cron: "0 1 * * 0"   # Sunday 01:00 UTC = 08:00 WIB
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: queue
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install anthropic pillow
+      - name: Draft posts (one Claude call)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python agents/generate_week.py
+      - name: Render slides (no AI)
+        env:
+          MEDIA_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/media
+        run: python agents/render_slides.py
+      - name: Save drafts
+        run: |
+          git config user.name "ig-autopilot"
+          git config user.email "actions@users.noreply.github.com"
+          git add queue.csv content media
+          git diff --cached --quiet && exit 0
+          git commit -m "drafts: next week posts (pending approval)"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep 5
+          done
+          echo "could not push drafts" >&2; exit 1
+      - name: Ask for approval
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --title "Approve next week's posts" \
+            --body "New drafts are in queue.csv with status=pending. Open the file, review captions and media/, change status to approved for the ones you want posted. Nothing posts until you do."
