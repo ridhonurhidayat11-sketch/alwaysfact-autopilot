@@ -2,7 +2,7 @@ name: Publish due posts
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 min around the clock; only rows that are due are ever posted
+    - cron: "12,42 * * * *"   # every 30 min around the clock (off the busy :00/:30 minutes, where GitHub delays cron); only due rows are ever posted
   workflow_dispatch: {}
 
 permissions:
