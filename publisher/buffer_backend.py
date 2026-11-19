@@ -76,13 +76,14 @@ def quota_left(uid=None):
 
 
 def already_live(uid, caption):
-    """True when this caption is already in Buffer (scheduled, sent or draft): protects against double posting."""
+    """True when this caption is already scheduled or sent in Buffer (a draft does not count): protects against double posting."""
     try:
         org, ch = instagram_channel()
         data = gql(f'query {{ posts(first: 30, input: {{ organizationId: {lit(org)}, filter: {{ channelIds: [{lit(ch)}] }} }}) '
-                   f'{{ edges {{ node {{ id text }} }} }} }}')
+                   f'{{ edges {{ node {{ id text status }} }} }} }}')
         key = caption.strip()[:120]
-        return any((e["node"].get("text") or "").strip()[:120] == key for e in (data.get("posts") or {}).get("edges", []))
+        return any((e["node"].get("text") or "").strip()[:120] == key and str(e["node"].get("status") or "").lower() != "draft"
+                   for e in (data.get("posts") or {}).get("edges", []))
     except Exception:   # the duplicate check must never block posting; the queue itself also records what was posted
         return False
 
