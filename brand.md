@@ -44,14 +44,28 @@ percakapan tetapi cerdas (bukan akademis atau kaku), maksimum 60 detik, untuk In
 2. Naskah: hook kuat di 3-5 detik pertama, penjelasan jelas, kemajuan cerita, fakta mengejutkan, transisi mulus, kesimpulan
    yang diingat. Susun beat berurutan dengan `act`: hook (pertanyaan) -> context (konteks) -> stakes (kenapa penting) ->
    evidence (bukti, boleh 2x) -> reveal (kejutan/penjelasan) -> conclusion -> cta (beat terakhir, digambar kode).
-3. Visual: tipografi bergerak (judul `text` per beat), ilustrasi 2D vektor dan stiker, infografis data (`viz`: stat, share,
-   compare, dots, steps, timeline), foto dokumenter asli (`image_query`), gerak kamera (`camera`: push_in, pull_out, pan_left,
-   pan_right, zoom_to_detail, static), transisi (`transition`: wipe, slide, fade, cut), dan lapisan parallax (otomatis).
-   Setiap visual harus MENJELASKAN narasi; jangan memakai animasi hanya sebagai hiasan. Peta animasi, kliping koran, dan footage
-   arsip bergerak belum tersedia: jangan memintanya.
+3. Visual (gaya jurnalisme visual editorial, bukan template kartu): latar biru navy dan putih gading hangat, aksen merah,
+   tipografi tebal huruf kapital, tata letak asimetris, ruang kosong, garis tipis, tanpa kartu/stiker/maskot. Adegan yang
+   tersedia, pilih sesuai isi beat (bukan hiasan): foto arsip dupleks dengan gerak kamera (`image_query`, `camera`: push_in,
+   pull_out, pan_left, pan_right, zoom_to_detail, static); PETA animasi zoom ke lokasi (`viz` kind `map` dengan `lat`, `lon`,
+   `label`, `zoom` 2-8); grafik data (`viz`: stat/angka raksasa, compare/batang, share/proporsi, dots/barisan orang,
+   steps/proses, timeline/garis waktu); KLIPING kutipan sumber asli (`"clip": true` bersama `claim`: kalimat terverifikasi dari
+   sumber ditampilkan seperti kliping koran, `highlight` = kata kunci yang disorot); tipografi kinetik (`text` dengan *kata
+   aksen* di antara tanda bintang, `sub` kalimat pendukung). Transisi: `wipe`, `slide`, `fade`, `cut`. Setiap visual harus
+   MENJELASKAN narasi. Footage arsip bergerak belum tersedia; judul berita tidak boleh dikarang (hanya kutipan terverifikasi).
 4. Akurasi: jangan mengarang statistik, kutipan, atau peristiwa. Bedakan fakta terverifikasi dari interpretasi (pakai kata
    "menurut peneliti", "kemungkinan" untuk interpretasi). Isi `claim` (nomor klaim) di beat yang memuat fakta agar sumbernya
    tampil di layar. Jangan menampilkan visual data yang menyesatkan. Angka di `viz` HARUS persis ada di klaim atau kutipan
    (jangan hitung angka turunan seperti 100 dikurangi 83).
 5. Keluaran tambahan: `reel.titles` (tiga alternatif judul), `reel.hook`, `reel.central_question`. Kode membuat lembar produksi
    (storyboard, instruksi animasi, aset, tempo) dari data ini.
+
+## Gaya suara (VO) untuk Reels: tidak kaku
+Naskah `say` ditulis untuk DIUCAPKAN, seperti bercerita ke teman, bukan dibacakan. Aturan:
+- Kalimat pendek (maksimum 14 kata), panjang-pendek bergantian. Boleh kalimat potongan: "Susah disebut, ya?"
+- Sapa penonton: "Bayangkan...", "Nah,", "Ternyata...", "kan?", "ya?", "banget", "cuma", "buat" (santai tapi tetap sopan dan jelas).
+  Hindari kata baku kaku seperti "tersebut", "merupakan", "dikarenakan", "adapun".
+- Sisipkan satu pertanyaan retoris per video dan satu kejutan dengan tanda seru; jangan menderet fakta tanpa jeda.
+- Baca naskah dalam hati: bila terdengar seperti artikel, tulis ulang. Angka ditulis dengan kata di `say` agar terbaca natural.
+- Kode mengatur intonasi per kalimat (tanya naik, penutup turun, jeda alami). Opsional per beat: `delivery`: antusias, serius,
+  santai, tanya. Opsional untuk video: `reel.voice`: ardi (pria, bawaan) atau gadis (wanita).
