@@ -1,0 +1,109 @@
+"""Scout: gathers topic candidates.
+
+1. News items come from real RSS/Atom feeds fetched by plain code, so every link is real (no AI-invented URLs).
+2. Optionally, a cheap model brainstorms evergreen ideas per pillar. These carry no URL and MUST pass the fact-checker.
+"""
+import hashlib
+import html
+import re
+import urllib.request
+import xml.etree.ElementTree as ET
+
+from common import CONFIG, HAIKU, STATE, extract_json, load_json, save_json
+
+MAX_FEED_BYTES = 2_000_000
+UA = "Mozilla/5.0 (compatible; alwaysfact-scout/1.0)"
+
+
+def tid(seed):
+    return "t" + hashlib.sha1(seed.encode("utf-8")).hexdigest()[:8]
+
+
+def fetch(url):
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        data = r.read(MAX_FEED_BYTES + 1)
+    if len(data) > MAX_FEED_BYTES:
+        raise ValueError("feed too large")
+    return data.decode("utf-8", "replace")
+
+
+def clean(text, limit=400):
+    t = html.unescape(re.sub(r"<[^>]+>", " ", text or ""))
+    return re.sub(r"\s+", " ", t).strip()[:limit]
+
+
+def parse_feed(xml_text, source):
+    """RSS or Atom -> list of {title, url, summary, source}. Rejects DTD/entity tricks before parsing."""
+    head = xml_text[:4096].upper()
+    if "<!DOCTYPE" in head or "<!ENTITY" in xml_text[:20000].upper():
+        raise ValueError("feed rejected: contains DOCTYPE/ENTITY")
+    root = ET.fromstring(xml_text)
+    items = []
+    for el in root.iter():
+        name = el.tag.split("}")[-1]
+        if name not in ("item", "entry"):
+            continue
+        f = {}
+        for c in el:
+            n = c.tag.split("}")[-1]
+            if n == "link":
+                f["url"] = (c.attrib.get("href") or (c.text or "")).strip()
+            elif n in ("title", "description", "summary", "content") and n not in f:
+                f[n] = c.text or ""
+        title = clean(f.get("title"), 200)
+        url = f.get("url", "")
+        if title and url.startswith("http"):
+            summary = clean(f.get("description") or f.get("summary") or f.get("content"))
+            items.append({"title": title, "url": url, "summary": summary, "source": source})
+    return items
+
+
+def collect(feeds, per_feed=8, fetcher=fetch):
+    """Never fails as a whole: a dead feed is reported and skipped."""
+    out, errors, seen = [], [], set()
+    for feed in feeds:
+        try:
+            items = parse_feed(fetcher(feed["url"]), feed["name"])[:per_feed]
+        except Exception as e:
+            errors.append(f"{feed['name']}: {type(e).__name__}: {str(e)[:80]}")
+            continue
+        for it in items:
+            if it["url"] in seen:
+                continue
+            seen.add(it["url"])
+            out.append({"id": tid(it["url"]), "origin": "feed", **it})
+    return out, errors
+
+
+BRAINSTORM_SYSTEM = (
+    "You propose evergreen science topics for an Indonesian Instagram account about mind-blowing facts "
+    "people overlook. Reply with JSON only."
+)
+
+
+def brainstorm(llm, pillars, per_pillar, avoid):
+    user = (
+        f"For each pillar propose {per_pillar} topics that are well established in science textbooks or major "
+        "institutions (not rumours, not myths). Skip anything similar to these already used:\n"
+        + "\n".join(f"- {a}" for a in avoid[:40])
+        + "\n\nPillars:\n" + "\n".join(f"- {p}" for p in pillars)
+        + '\n\nReturn a JSON array of {"title": str (Indonesian, max 90 chars), "summary": str (1-2 sentences, '
+        'Indonesian, the surprising core), "pillar": str}.'
+    )
+    items = extract_json(llm.call("scout.brainstorm", HAIKU, BRAINSTORM_SYSTEM, user, max_tokens=4000))
+    return [{"id": tid("brainstorm:" + it["title"]), "origin": "brainstorm", "url": "", "source": "brainstorm",
+             "title": it["title"], "summary": it.get("summary", ""), "pillar": it.get("pillar", "")}
+            for it in items if it.get("title")]
+
+
+def run(llm=None, fetcher=fetch, per_pillar=0):
+    cfg = load_json(CONFIG / "sources.json", {"feeds": [], "per_feed": 8})
+    rubric = load_json(CONFIG / "rubric.json", {"pillars": []})
+    cands, errors = collect(cfg["feeds"], cfg.get("per_feed", 8), fetcher)
+    if llm and per_pillar:
+        from common import history_titles
+
+        cands += brainstorm(llm, rubric["pillars"], per_pillar, history_titles())
+    save_json(STATE / "candidates.json", cands)
+    return cands, errors
