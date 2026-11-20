@@ -188,6 +188,43 @@ class RunTests(unittest.TestCase):
         self.assertIn("paused", ingest.run(d / "inbox", ctl(paused=True, pause_reason="x"), NOW, fetcher, queue_path=qp)["skipped"])
 
 
+class CheckTests(unittest.TestCase):
+    """The routine's dry run: same judge as the referee, but it must never write anything."""
+
+    def setUp(self):
+        self.d = Path(tempfile.mkdtemp())
+        (self.d / "inbox").mkdir()
+        for name, data in {"a.json": proposal(), "b.json": proposal()}.items():  # b repeats a's topic
+            (self.d / "inbox" / name).write_text(json.dumps(data), encoding="utf-8")
+        p = mock.patch.object(ingest, "load_json", side_effect=lambda path, default: (
+            {"tier1": ["nasa.gov"]} if str(path).endswith("trusted_sources.json") else default))
+        p.start()
+        self.addCleanup(p.stop)
+        p = mock.patch.object(ingest.factcheck, "load_json", return_value={"tier1": ["nasa.gov"]})
+        p.start()
+        self.addCleanup(p.stop)
+
+    def test_reports_each_file_and_catches_a_repeat_inside_the_same_batch(self):
+        out = ingest.check(self.d / "inbox", fetcher=fetcher, history=[])
+        self.assertEqual((out["would_accept"], out["rejected"]), (1, 1))
+        self.assertEqual(out["report"][0]["result"], "would be accepted")
+        self.assertIn("topic repeats", out["report"][1]["reasons"][0])
+
+    def test_writes_nothing(self):
+        before = sorted(p.name for p in self.d.rglob("*"))
+        ingest.check(self.d / "inbox", fetcher=fetcher, history=[])
+        self.assertEqual(sorted(p.name for p in self.d.rglob("*")), before)
+
+    def test_stored_article_text_is_used_instead_of_the_network(self):
+        (self.d / "state" / "sources").mkdir(parents=True)
+        (self.d / "state" / "sources" / "t1.txt").write_text(f"intro. {Q1}. more", encoding="utf-8")
+        f = ingest.stored_fetcher([{"url": "https://science.nasa.gov/venus", "text_file": "state/sources/t1.txt"}], root=self.d)
+        self.assertIn(Q1, f("https://science.nasa.gov/venus"))
+        with mock.patch.object(evidence, "fetch_text", side_effect=OSError("offline")):
+            with self.assertRaises(OSError):
+                f("https://other.example/x")
+
+
 class SourceTextTests(unittest.TestCase):
     def cands(self, n=8, source="NASA"):
         return [{"id": f"t{source[:2]}{i}", "origin": "feed", "source": source, "url": f"https://x.org/{i}", "title": "t"} for i in range(n)]
