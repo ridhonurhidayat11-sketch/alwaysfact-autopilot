@@ -1,5 +1,25 @@
 [
   {
+    "id": "t8e50b87b",
+    "origin": "feed",
+    "title": "Innovative technology offers a bold new vision for monitoring ocean health",
+    "url": "https://phys.org/news/2026-11-technology-bold-vision-ocean-health.html",
+    "summary": "On an early October morning, as MBARI's research vessel Paragon left Moss Landing with three robots loaded on its deck, Monterey Bay was showing off.",
+    "source": "Phys.org",
+    "published": "2026-11-20T02:20:06+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t8613064a",
+    "origin": "feed",
+    "title": "New mondo grass species found in Yunnan",
+    "url": "https://phys.org/news/2026-11-mondo-grass-species-yunnan.html",
+    "summary": "Botanists have described a new Ophiopogon species from the Yunnan Wenshan National Nature Reserve in southeastern China. They named it Ophiopogon longiscapus for its unusually long flowering stalk, or scape.",
+    "source": "Phys.org",
+    "published": "2026-11-20T02:00:06+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
     "id": "tfe212e65",
     "origin": "feed",
     "title": "Organizational science offers new lens for studying extremism",
@@ -66,8 +86,7 @@
     "url": "https://phys.org/news/2026-11-ai-companions-loneliness.html",
     "summary": "AI companions could help reduce loneliness by creating a greater sense of belonging and improving self-esteem, according to new research from Durham University Business School.",
     "source": "Phys.org",
-    "published": "2026-11-20T00:20:06+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T00:20:06+00:00"
   },
   {
     "id": "t875652e0",
@@ -76,8 +95,7 @@
     "url": "https://phys.org/news/2026-11-qa-hydrogen-peroxide-precious-metals.html",
     "summary": "Hydrogen peroxide is used in many industrial processes, with several million tons of it being manufactured worldwide every year. Whereas the standard production method requires rare precious metals, chemists from Rutgers University–Newark in the US and the University of Bonn have now described an alternative technique that does away with these metals, making it potentially cheaper and more sustain",
     "source": "Phys.org",
-    "published": "2026-11-20T00:20:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T00:20:01+00:00"
   },
   {
     "id": "tbf367e0a",
@@ -135,24 +153,6 @@
     "summary": "Scientists have created hollow capsules with single openings that can selectively filter particles thanks to the turbulence in surrounding waters—at times, ingesting particles like PAC-MAN eating up dots.",
     "source": "Phys.org",
     "published": "2026-11-19T23:40:09+00:00"
-  },
-  {
-    "id": "t2818390d",
-    "origin": "feed",
-    "title": "Britain should treat healthy seas as essential infrastructure, say scientists",
-    "url": "https://phys.org/news/2026-11-britain-healthy-seas-essential-infrastructure.html",
-    "summary": "Researchers are calling for lasting investment in healthy seas to support food security, protect coastlines and strengthen economic resilience.",
-    "source": "Phys.org",
-    "published": "2026-11-19T23:40:02+00:00"
-  },
-  {
-    "id": "t3644badf",
-    "origin": "feed",
-    "title": "The secret of 'strange metals' may lie in quantum statistics, not collisions",
-    "url": "https://phys.org/news/2026-11-secret-strange-metals-quantum-statistics.html",
-    "summary": "In an ordinary metal, electrons behave like well-defined particles that occasionally bump into imperfections or vibrations of the crystal. Many materials with strong electron–electron interactions, including the copper-oxide (cuprate) superconductors, break these rules. In these \"strange metals,\" electrical resistance rises in a straight line with temperature over a very wide range. Electrons seem",
-    "source": "Phys.org",
-    "published": "2026-11-19T23:20:11+00:00"
   },
   {
     "id": "t6e15cb24",
