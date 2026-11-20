@@ -1,5 +1,145 @@
 [
   {
+    "id": "tf4443879",
+    "origin": "feed",
+    "title": "Analysis of the 7-8 August 2025 landslide event at Yuzhong County, Gansu Province, China",
+    "url": "https://eos.org/thelandslideblog/yuzhong-county-2",
+    "summary": "A new paper analyses the cluster of landslides triggered by an exceptional rainfall event. In total, 43 people were killed in this terrible set of failures. On 7-8 August 2025, an intense rainfall event triggered a remarkable cluster of landslides in Yuzhong County in Gansu Province, China. I blogged about this at the time, and […]",
+    "source": "Eos (AGU)",
+    "published": "2026-11-20T09:16:07+00:00",
+    "text_file": "state/sources/tf4443879.txt"
+  },
+  {
+    "id": "t063ff91a",
+    "origin": "feed",
+    "title": "The secret maths problems hidden throughout Japan",
+    "url": "https://www.newscientist.com/article/2599802-the-secret-maths-problems-hidden-throughout-japan/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "Hundreds of years ago, Japanese mathematicians enshrined their work onto painted wooden tablets displayed throughout the country. Columnist Jacob Aron explores the history of the practice of sangaku and the effort to digitally preserve these artefacts",
+    "source": "New Scientist",
+    "published": "2026-11-20T09:00:00+00:00",
+    "text_file": "state/sources/t063ff91a.txt"
+  },
+  {
+    "id": "tb22232fa",
+    "origin": "feed",
+    "title": "UN climate talks enter crunch time with no deal in sight",
+    "url": "https://phys.org/news/2026-11-climate-crunch-sight.html",
+    "summary": "The U.N.'s COP31 climate talks enter their endgame Friday, with countries sharply divided over a draft deal lacking any mention of planet-heating fossil fuels, threatening to push the negotiations into overtime.",
+    "source": "Phys.org",
+    "published": "2026-11-20T08:43:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t0d1756fb",
+    "origin": "feed",
+    "title": "Fiona the hippo dies after failed effort to remove swallowed hat",
+    "url": "https://phys.org/news/2026-11-fiona-hippo-dies-effort-swallowed.html",
+    "summary": "World-famous hippopotamus Fiona has died after several failed attempts by vets to remove a woolly hat that she accidentally swallowed, the Cincinnati Zoo announced Thursday.",
+    "source": "Phys.org",
+    "published": "2026-11-20T08:40:24+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t2fe412bc",
+    "origin": "feed",
+    "title": "Nature's multilayered defenses against crop pests and viruses revealed",
+    "url": "https://phys.org/news/2026-11-nature-multilayered-defenses-crop-pests.html",
+    "summary": "Researchers from the University of Nottingham, in collaboration with Syngenta and Keele University, have discovered how a commercial barley hybrid uses three complementary natural defenses to protect itself against aphids and the damaging viruses they spread. The findings could help breeders develop crops with stronger natural protection against pests and diseases.",
+    "source": "Phys.org",
+    "published": "2026-11-20T08:10:02+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t3d02766e",
+    "origin": "feed",
+    "title": "The BepiColombo spacecraft is finally entering orbit around Mercury",
+    "url": "https://www.newscientist.com/article/2599799-the-bepicolombo-spacecraft-is-finally-entering-orbit-around-mercury/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "After an eight-year voyage towards the sun, the BepiColombo spacecraft can finally begin its mission to unpick the many mysteries of our solar system's smallest planet",
+    "source": "New Scientist",
+    "published": "2026-11-20T08:00:00+00:00",
+    "text_file": "state/sources/t3d02766e.txt"
+  },
+  {
+    "id": "t1bbcd095",
+    "origin": "feed",
+    "title": "Wildlife conservation cash targets ex-colliery sites",
+    "url": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss",
+    "summary": "The project aims to create and restore habitats for amphibians and lizards at sites in Yorkshire.",
+    "source": "BBC Science",
+    "published": "2026-11-20T06:21:50+00:00",
+    "text_file": "state/sources/t1bbcd095.txt"
+  },
+  {
+    "id": "tf3a74cd5",
+    "origin": "feed",
+    "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
+    "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+    "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+    "source": "BBC Science",
+    "published": "2026-11-20T05:59:56+00:00",
+    "text_file": "state/sources/tf3a74cd5.txt"
+  },
+  {
+    "id": "t8b29b476",
+    "origin": "feed",
+    "title": "As Nepal celebrates the crow, urban sprawl and waste drive strain",
+    "url": "https://news.mongabay.com/short-article/2026/11/as-nepal-celebrates-the-crow-urban-sprawl-and-waste-drive-strain/",
+    "summary": "Every year around the Hindu festival of Diwali, or Deepavali, residents in Nepal observe Kaag Tihar, an annual festival day dedicated to worshipping house crows as divine messengers. However, in the country’s capital, rapid urban sprawl, habitat degradation and changing perceptions toward the bird are testing human-crow relations, reports Mongabay’s Gobinda Pokharel. Satellite analysis shows […]",
+    "source": "Mongabay",
+    "published": "2026-11-20T05:33:03+00:00",
+    "text_file": "state/sources/t8b29b476.txt"
+  },
+  {
+    "id": "t03e2fb8f",
+    "origin": "feed",
+    "title": "Data centers damage air quality long-distance, study reveals",
+    "url": "https://phys.org/news/2026-11-centers-air-quality-distance-reveals.html",
+    "summary": "The rapid expansion of data centers for artificial intelligence causes negative health and air quality impacts in regions far from where the brick-and-mortar facilities are located, according to a new study by MIT researchers.",
+    "source": "Phys.org",
+    "published": "2026-11-20T05:13:51+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t7d625a5c",
+    "origin": "feed",
+    "title": "APOD: 2026 November 20 – V-G-R",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
+    "summary": "APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, […]",
+    "source": "NASA",
+    "published": "2026-11-20T05:05:00+00:00",
+    "text_file": "state/sources/t7d625a5c.txt"
+  },
+  {
+    "id": "tfddde9ec",
+    "origin": "feed",
+    "title": "More climate money for Africa? Europe says use what's already pledged",
+    "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+    "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+    "source": "BBC Science",
+    "published": "2026-11-20T05:03:43+00:00",
+    "text_file": "state/sources/tfddde9ec.txt"
+  },
+  {
+    "id": "tea6f6bfd",
+    "origin": "feed",
+    "title": "The Stormy Southwest Pacific",
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+    "summary": "Tropical Cyclone Xavier launched the basin’s storm season with a bang.",
+    "source": "NASA",
+    "published": "2026-11-20T05:01:00+00:00",
+    "text_file": "state/sources/tea6f6bfd.txt"
+  },
+  {
+    "id": "tac0fec71",
+    "origin": "feed",
+    "title": "computor: AI tutor as a programming learning aid",
+    "url": "https://phys.org/news/2026-11-computor-ai-aid.html",
+    "summary": "Artificial intelligence is now capable of writing entire computer programs. This poses a challenge for university education. How can students still learn to program for themselves if an AI can do the work for them? Students should be able to use AI tools effectively, but they must also understand how programs work and how to troubleshoot errors. At the Institute of Theoretical and Computational Ph",
+    "source": "Phys.org",
+    "published": "2026-11-20T04:40:02+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
     "id": "t5ac4b7e6",
     "origin": "feed",
     "title": "How nature-based solutions are failing informal settlements",
@@ -26,8 +166,7 @@
     "url": "https://phys.org/news/2026-11-ai-virtual-cell-technology-reveal.html",
     "summary": "Today's artificial intelligence models can predict whether someone with a genetic change will develop a disease, but cannot answer two critical questions: Why did the disease occur, and how do we design a treatment?",
     "source": "Phys.org",
-    "published": "2026-11-20T03:00:06+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T03:00:06+00:00"
   },
   {
     "id": "tc59309e9",
@@ -36,8 +175,7 @@
     "url": "https://phys.org/news/2026-11-dimensions.html",
     "summary": "Structured light has become an important tool across modern optics. By shaping properties such as amplitude, phase, polarization and spatial mode, researchers can create light fields with capabilities beyond those of conventional laser beams. These engineered light fields are finding applications in communications, imaging, sensing, optical computing and quantum photonics. However, many structured",
     "source": "Phys.org",
-    "published": "2026-11-20T02:40:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T02:40:01+00:00"
   },
   {
     "id": "t8e50b87b",
@@ -46,8 +184,7 @@
     "url": "https://phys.org/news/2026-11-technology-bold-vision-ocean-health.html",
     "summary": "On an early October morning, as MBARI's research vessel Paragon left Moss Landing with three robots loaded on its deck, Monterey Bay was showing off.",
     "source": "Phys.org",
-    "published": "2026-11-20T02:20:06+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T02:20:06+00:00"
   },
   {
     "id": "t8613064a",
@@ -56,8 +193,7 @@
     "url": "https://phys.org/news/2026-11-mondo-grass-species-yunnan.html",
     "summary": "Botanists have described a new Ophiopogon species from the Yunnan Wenshan National Nature Reserve in southeastern China. They named it Ophiopogon longiscapus for its unusually long flowering stalk, or scape.",
     "source": "Phys.org",
-    "published": "2026-11-20T02:00:06+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T02:00:06+00:00"
   },
   {
     "id": "tfe212e65",
@@ -66,63 +202,7 @@
     "url": "https://phys.org/news/2026-11-organizational-science-lens-extremism.html",
     "summary": "Accepting the Republican nomination for president in 1964, Barry Goldwater declared, \"I would remind you that extremism in the defense of liberty is no vice!\" His statement illustrates how the cause being defended can shape judgments about the actions taken in its name.",
     "source": "Phys.org",
-    "published": "2026-11-20T01:40:04+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "tbb2a9edb",
-    "origin": "feed",
-    "title": "New study: The last bird to go extinct in NZ has lessons for saving other species",
-    "url": "https://phys.org/news/2026-11-bird-extinct-nz-lessons-species.html",
-    "summary": "The last bird to go extinct in Aotearoa New Zealand was a tiny wren that disappeared from a small island off the southern tip of Rakiura Stewart Island around 1972.",
-    "source": "Phys.org",
-    "published": "2026-11-20T01:20:06+00:00"
-  },
-  {
-    "id": "t77e911f3",
-    "origin": "feed",
-    "title": "Climate communication that resonates must be based on empathy",
-    "url": "https://phys.org/news/2026-11-climate-communication-resonates-based-empathy.html",
-    "summary": "Climate change is a global reality, but people often encounter it through different local realities. For some, it enters everyday life through social media feeds, news reports, scientific findings and public discussion. For others, it is through water scarcity, food insecurity, floods, heat waves, wildfires or the loss of a home or a loved one.",
-    "source": "Phys.org",
-    "published": "2026-11-20T01:00:01+00:00"
-  },
-  {
-    "id": "tfddde9ec",
-    "origin": "feed",
-    "title": "More climate money for Africa? Europe says use what's already pledged",
-    "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-    "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-    "source": "BBC Science",
-    "published": "2026-11-20T00:54:50+00:00",
-    "text_file": "state/sources/tfddde9ec.txt"
-  },
-  {
-    "id": "tee6c271d",
-    "origin": "feed",
-    "title": "NEPTUNE poised to replace Navy's global weather model, improving forecasts over open ocean",
-    "url": "https://phys.org/news/2026-11-neptune-poised-navy-global-weather.html",
-    "summary": "The U.S. Naval Research Laboratory-developed Navy Environmental Prediction sysTem Utilizing a Nonhydrostatic Engine, known as NEPTUNE, is poised to become an operational Navy weather prediction capability, providing improved environmental forecasts to support naval operations around the globe.",
-    "source": "Phys.org",
-    "published": "2026-11-20T00:40:07+00:00"
-  },
-  {
-    "id": "t761e89f1",
-    "origin": "feed",
-    "title": "Putting Google's AI hurricane model to the test",
-    "url": "https://phys.org/news/2026-11-google-ai-hurricane.html",
-    "summary": "A week before Hurricane Melissa slammed into Jamaica last fall, the forecast models couldn't agree on where it was headed or how strong it would get. One got it right—an AI model from Google DeepMind, which called both the storm's path and its Category 5 strength.",
-    "source": "Phys.org",
-    "published": "2026-11-20T00:40:01+00:00"
-  },
-  {
-    "id": "t3232ad2b",
-    "origin": "feed",
-    "title": "AI companions could help reduce loneliness, study finds",
-    "url": "https://phys.org/news/2026-11-ai-companions-loneliness.html",
-    "summary": "AI companions could help reduce loneliness by creating a greater sense of belonging and improving self-esteem, according to new research from Durham University Business School.",
-    "source": "Phys.org",
-    "published": "2026-11-20T00:20:06+00:00"
+    "published": "2026-11-20T01:40:04+00:00"
   },
   {
     "id": "tbf367e0a",
@@ -145,6 +225,16 @@
     "text_file": "state/sources/t14d658a3.txt"
   },
   {
+    "id": "t8bc06533",
+    "origin": "feed",
+    "title": "Lifting weights reduces muscle loss from obesity drugs",
+    "url": "https://www.nature.com/articles/d41586-026-03751-3",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-20T00:00:00+00:00",
+    "text_file": "state/sources/t8bc06533.txt"
+  },
+  {
     "id": "t37c7f374",
     "origin": "feed",
     "title": "Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone",
@@ -153,6 +243,16 @@
     "source": "Space.com",
     "published": "2026-11-19T23:42:03+00:00",
     "text_file": "state/sources/t37c7f374.txt"
+  },
+  {
+    "id": "ta9056f83",
+    "origin": "feed",
+    "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
+    "url": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
+    "summary": "Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wall Get our breaking news email , free app or daily news podcast Australian scientists have used gravity as a means of communication, in a proof-of-concept experiment involving a snail-paced 1950s elevator, a brick wall and a men’s bathroom. Physicists at the University of Queensland have used gravity to trans",
+    "source": "The Guardian Science",
+    "published": "2026-11-19T23:30:26+00:00",
+    "text_file": "state/sources/ta9056f83.txt"
   },
   {
     "id": "t6e15cb24",
@@ -235,14 +335,14 @@
     "text_file": "state/sources/t4dda2a82.txt"
   },
   {
-    "id": "t934285e4",
+    "id": "t71212526",
     "origin": "feed",
     "title": "BBC Inside Science",
-    "url": "https://www.bbc.co.uk/sounds/play/w3ct978m?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
     "summary": "SpaceX is on the verge of making space affordable.",
     "source": "BBC Science",
     "published": "2026-11-19T21:00:00+00:00",
-    "text_file": "state/sources/t934285e4.txt"
+    "text_file": "state/sources/t71212526.txt"
   },
   {
     "id": "t06fa35df",
@@ -405,6 +505,16 @@
     "text_file": "state/sources/tdcfa3f19.txt"
   },
   {
+    "id": "t6b344312",
+    "origin": "feed",
+    "title": "Spuds in space: scientists say potatoes could be key food source for future moon base",
+    "url": "https://www.theguardian.com/science/2026/nov/19/potatoes-moon-base-nasa",
+    "summary": "New report details how potatoes were successfully cultivated in simulated lunar soil The humble potato could be the key to sustaining human life on the moon , according to a new scientific report asserting that prolonged lunar exploration will depend on life support systems capable of producing food there. Potatoes are an ideal candidate for farming on the moon, scientists on a project backed by t",
+    "source": "The Guardian Science",
+    "published": "2026-11-19T18:49:54+00:00",
+    "text_file": "state/sources/t6b344312.txt"
+  },
+  {
     "id": "tc885634c",
     "origin": "feed",
     "title": "There is no going back ‘to the way it was before’ the Iran war’s energy shock, IEA says",
@@ -486,7 +596,7 @@
   {
     "id": "tea40f5fa",
     "origin": "feed",
-    "title": "Don't miss Saturn shine close to the moon on Nov. 20",
+    "title": "Don't miss Saturn shine close to the moon tonight",
     "url": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20",
     "summary": "The moon shines with Saturn in the constellation Pisces after sunset on Nov. 20",
     "source": "Space.com",
@@ -675,8 +785,7 @@
     "url": "https://news.mongabay.com/short-article/2026/11/how-one-tiny-island-made-conservation-work/",
     "summary": "Out in the Bristol Channel, nestled between Wales and England, the rugged island of Lundy is one of the UK’s most pioneering conservation stories. Watch the full story.",
     "source": "Mongabay",
-    "published": "2026-11-19T12:34:42+00:00",
-    "text_file": "state/sources/t123e8d26.txt"
+    "published": "2026-11-19T12:34:42+00:00"
   },
   {
     "id": "tf3198f4b",
@@ -799,8 +908,7 @@
     "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
     "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
     "source": "BBC Science",
-    "published": "2026-11-19T09:21:54+00:00",
-    "text_file": "state/sources/t1b143fda.txt"
+    "published": "2026-11-19T09:21:54+00:00"
   },
   {
     "id": "t17a1db22",
@@ -809,8 +917,7 @@
     "url": "https://www.newscientist.com/article/2599527-the-28-best-popular-science-books-of-2026/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "From space-time to saunas, here are the very best popular science books published this year that you should be adding to your Christmas list",
     "source": "New Scientist",
-    "published": "2026-11-19T09:00:00+00:00",
-    "text_file": "state/sources/t17a1db22.txt"
+    "published": "2026-11-19T09:00:00+00:00"
   },
   {
     "id": "t3c9480ea",
@@ -832,24 +939,13 @@
     "published": "2026-11-19T06:52:26+00:00"
   },
   {
-    "id": "tdf26cfe1",
-    "origin": "feed",
-    "title": "Developer accused of 'environmental vandalism'",
-    "url": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
-    "summary": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
-    "source": "BBC Science",
-    "published": "2026-11-19T06:09:25+00:00",
-    "text_file": "state/sources/tdf26cfe1.txt"
-  },
-  {
     "id": "t86e9d96b",
     "origin": "feed",
     "title": "How aquanauts could help save Florida’s reefs",
     "url": "https://www.newscientist.com/article/2599340-how-aquanauts-could-help-save-floridas-reefs/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "With Florida’s coral facing unprecedented thermal stress, a new subsea research station gives scientists a front-row seat to monitor, protect and restore struggling ecosystems day and night",
     "source": "New Scientist",
-    "published": "2026-11-19T05:57:00+00:00",
-    "text_file": "state/sources/t86e9d96b.txt"
+    "published": "2026-11-19T05:57:00+00:00"
   },
   {
     "id": "t07e6ce0b",
@@ -868,8 +964,7 @@
     "url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
     "summary": "APODScienceAPODAPOD: 2026 November 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The Horsehead and Flame Nebulas Explanation: Today’s image",
     "source": "NASA",
-    "published": "2026-11-19T05:05:00+00:00",
-    "text_file": "state/sources/t41b2424f.txt"
+    "published": "2026-11-19T05:05:00+00:00"
   },
   {
     "id": "tb6a46e31",
@@ -888,8 +983,7 @@
     "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
     "summary": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
     "source": "NASA",
-    "published": "2026-11-19T05:00:00+00:00",
-    "text_file": "state/sources/t0c57e789.txt"
+    "published": "2026-11-19T05:00:00+00:00"
   },
   {
     "id": "t15842642",
@@ -900,15 +994,6 @@
     "source": "ScienceDaily",
     "published": "2026-11-19T03:11:22+00:00",
     "text_file": "state/sources/t15842642.txt"
-  },
-  {
-    "id": "td412c50d",
-    "origin": "feed",
-    "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-    "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-    "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "source": "BBC Science",
-    "published": "2026-11-19T02:59:06+00:00"
   },
   {
     "id": "tb7e52b65",
@@ -1006,8 +1091,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03753-1",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00",
-    "text_file": "state/sources/t2b675cf3.txt"
+    "published": "2026-11-19T00:00:00+00:00"
   },
   {
     "id": "t232d138c",
@@ -1044,33 +1128,6 @@
     "summary": "",
     "source": "Nature",
     "published": "2026-11-19T00:00:00+00:00"
-  },
-  {
-    "id": "t8234664f",
-    "origin": "feed",
-    "title": "Bacteria and viruses team up to hasten the demise of algal blooms",
-    "url": "https://www.nature.com/articles/d41586-026-03606-x",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00"
-  },
-  {
-    "id": "tb7ed276b",
-    "origin": "feed",
-    "title": "The seven Anthropic founders who are about to become multi-billionaires",
-    "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-    "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "source": "BBC Science",
-    "published": "2026-11-18T23:42:07+00:00"
-  },
-  {
-    "id": "tc96c15be",
-    "origin": "feed",
-    "title": "Borneo Indigenous groups turn land rights victory into warning for future generations",
-    "url": "https://news.mongabay.com/2026/11/borneo-indigenous-groups-turn-land-rights-victory-into-warning-for-future-generations/",
-    "summary": "Indigenous communities in Malaysian Borneo gathered on Nov. 4 to place a memorial stone in commemoration of their three-year battle with an oil palm plantation that threatened their native customary land rights and also endangered a UNESCO World Heritage Site. Placing the Ba Besanan Memorial Stone in the forest was partly a celebration by the […]",
-    "source": "Mongabay",
-    "published": "2026-11-18T23:34:38+00:00"
   },
   {
     "id": "t6a992e18",
@@ -1118,42 +1175,6 @@
     "published": "2026-11-18T21:21:48+00:00"
   },
   {
-    "id": "taf5d0c95",
-    "origin": "feed",
-    "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
-    "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/",
-    "summary": "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”. Everyone has stress about something – some people […]",
-    "source": "NASA",
-    "published": "2026-11-18T18:58:27+00:00"
-  },
-  {
-    "id": "t0e229a79",
-    "origin": "feed",
-    "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
-    "summary": "NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep […]",
-    "source": "NASA",
-    "published": "2026-11-18T18:12:32+00:00"
-  },
-  {
-    "id": "t1e8f6a10",
-    "origin": "feed",
-    "title": "The real reasons we keep seeing big tech outages – it isn’t just hackers",
-    "url": "https://www.newscientist.com/article/2599523-the-real-reasons-we-keep-seeing-big-tech-outages-its-not-just-hackers/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "In a single week, banks, an air traffic control system, millions of email accounts and spy agency systems have suffered outages. But speculation about an AI hacking spree or a coordinated attack by a foreign power are wide of the mark",
-    "source": "New Scientist",
-    "published": "2026-11-18T18:00:00+00:00"
-  },
-  {
-    "id": "tdeb28888",
-    "origin": "feed",
-    "title": "New Scientist is 70 years old – join us in celebrating",
-    "url": "https://www.newscientist.com/article/2599308-new-scientist-is-70-years-old-join-us-in-celebrating/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "From a look back at the past 70 years of scientific discovery to a flash forward to the end of the century, we have a host of celebrations for our 70th anniversary",
-    "source": "New Scientist",
-    "published": "2026-11-18T18:00:00+00:00"
-  },
-  {
     "id": "t2559e1ab",
     "origin": "feed",
     "title": "Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s",
@@ -1170,8 +1191,7 @@
     "url": "https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee",
     "summary": "Committee chair Bill Cassidy, a Republican, said Jim O’Neill ‘did not do enough to stand up for science’ in previous posts Jim O’Neill will not undergo a confirmation hearing on Wednesday to head he National Science Foundation (NSF) because he “did not do enough to stand up for science” in his previous position, said Bill Cassidy, a Republican from Louisiana who is chair of the Senate committee on",
     "source": "The Guardian Science",
-    "published": "2026-11-18T17:46:34+00:00",
-    "text_file": "state/sources/t421fe2bd.txt"
+    "published": "2026-11-18T17:46:34+00:00"
   },
   {
     "id": "ta96bbee6",
@@ -1287,25 +1307,6 @@
     "published": "2026-11-18T11:55:21+00:00"
   },
   {
-    "id": "tcb99e6ae",
-    "origin": "feed",
-    "title": "After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? | Kim Heacox",
-    "url": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
-    "summary": "Since the spacecraft’s 1977 launch, our wonderful and terrible species has done great damage to our planet. Voyager has offered us a clear view of ourselves Imagine traveling nonstop for 49 years, alone in the dark with no destination in sight, powered by curiosity and engineering. Further imagine making that journey not at bullet train or jet plane speed, but much faster: at 37,800 miles per hour",
-    "source": "The Guardian Science",
-    "published": "2026-11-18T11:00:56+00:00",
-    "text_file": "state/sources/tcb99e6ae.txt"
-  },
-  {
-    "id": "t3e631a02",
-    "origin": "feed",
-    "title": "Nasa’s Voyager 1 just reached a massive milestone in space - video",
-    "url": "https://www.theguardian.com/science/video/2026/nov/18/nasas-voyager-1-just-reached-a-massive-milestone-in-space-video",
-    "summary": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our planet. To find out more about its astonishing journey, Madeleine Finlay hears from Jim Bell, a planetary scientist and professor at Arizona State University’s scho",
-    "source": "The Guardian Science",
-    "published": "2026-11-18T10:39:51+00:00"
-  },
-  {
     "id": "ta66e7faf",
     "origin": "feed",
     "title": "Body found in Derry bog decapitated more than 2,000 years ago, coroner finds",
@@ -1321,8 +1322,7 @@
     "url": "https://eos.org/thelandslideblog/fatal-landslides-in-september-2026",
     "summary": "In September 2026 I recorded 82 fatal landslides causing 173 fatalities. This year continues to show a higher than average trend in fatal landslide occurrence. This is my regular update for the number of fatal global landslides, focusing on September 2026. As usual, this data has been collected in line with the methodology described in Froude […]",
     "source": "Eos (AGU)",
-    "published": "2026-11-18T07:57:30+00:00",
-    "text_file": "state/sources/t5d3f6fbe.txt"
+    "published": "2026-11-18T07:57:30+00:00"
   },
   {
     "id": "tf0f608db",
@@ -1332,15 +1332,6 @@
     "summary": "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16s Countries around the world are considering social media bans for children, but whether this would work in practice has been hotly debated. Now researchers are seeking answers through a major scientific study led by Wellcome, which will be the first of its kind. Ten research projects will explore",
     "source": "The Guardian Science",
     "published": "2026-11-18T07:00:36+00:00"
-  },
-  {
-    "id": "t0f1eec22",
-    "origin": "feed",
-    "title": "Pill that mimics Viagra can slow Alzheimer’s progression, study suggests",
-    "url": "https://www.theguardian.com/science/2026/nov/18/pill-mimics-viagra-can-slow-alzheimers-progression-by-third-study",
-    "summary": "Experts call trial results of medication that slowed cognitive decline by almost a third ‘very promising’ A pill that mimics Viagra by relaxing blood vessels and increasing blood flow to the brain can slow cognitive decline in people with Alzheimer’s disease by almost a third, a global study suggests. Alzheimer’s is the most common form of dementia, a condition that is forecast to affect 153 milli",
-    "source": "The Guardian Science",
-    "published": "2026-11-18T05:00:33+00:00"
   },
   {
     "id": "t77ab65f3",
@@ -1406,13 +1397,13 @@
     "published": "2026-11-17T13:00:00+00:00"
   },
   {
-    "id": "t90f0db16",
+    "id": "tc78fde43",
     "origin": "feed",
-    "title": "The Hidden Greenhouse Gas Emissions Woven into Braided Rivers",
-    "url": "https://eos.org/editor-highlights/the-hidden-greenhouse-gas-emissions-woven-into-braided-rivers",
-    "summary": "Slow-moving backwaters and smaller rivers can be hotspots of nitrous oxide emissions, revealing how channel complexity and nitrogen availability shape the climate footprint of braided rivers.",
-    "source": "Eos (AGU)",
-    "published": "2026-11-16T19:31:40+00:00"
+    "title": "Would more hands-on dads create a more peaceful world? This pioneering scientist thinks so",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/nov/17/would-more-hands-on-dads-create-a-more-peaceful-world-this-pioneering-scientist-thinks-so",
+    "summary": "Sarah Blaffer Hrdy unpicked Darwinian sexism to rewrite the story of evolution. Now, she’s turned her attention to the nature of fatherhood ‘Spit here, dear,” Sarah Blaffer Hrdy said to her husband, Dan, handing him a vial when he arrived in New York after the birth of the couple’s first grandchild. It was 2014 and Hrdy was conducting an experiment. Having recorded a 63% jump in oxytocin in her sa",
+    "source": "The Guardian Science",
+    "published": "2026-11-17T10:00:10+00:00"
   },
   {
     "id": "t3032b776",
