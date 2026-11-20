@@ -1,7 +1,5 @@
 {
-  "at": "2026-11-20T03:41:51.739814+00:00",
+  "at": "2026-11-20T05:41:26.055496+00:00",
   "mode": "live",
-  "alerts": [
-    "queue is low: 1 upcoming posts, need at least 5"
-  ]
+  "alerts": []
 }
