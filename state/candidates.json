@@ -1,5 +1,45 @@
 [
   {
+    "id": "t5ac4b7e6",
+    "origin": "feed",
+    "title": "How nature-based solutions are failing informal settlements",
+    "url": "https://phys.org/news/2026-11-nature-based-solutions-settlements.html",
+    "summary": "New research from UCT says nature-based solutions for climate adaptation must move beyond participation to power-sharing partnerships that recognize lived experiences and relationships with nature.",
+    "source": "Phys.org",
+    "published": "2026-11-20T03:40:02+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t1a47aed3",
+    "origin": "feed",
+    "title": "Extreme weather poses growing risks to global oil and natural gas shipping, new IEA report finds",
+    "url": "https://phys.org/news/2026-11-extreme-weather-poses-global-oil.html",
+    "summary": "Extreme weather events are posing significant risks to international oil and natural gas shipping, with the potential to damage critical infrastructure, disrupt major trade routes and threaten energy security, according to a new IEA report.",
+    "source": "Phys.org",
+    "published": "2026-11-20T03:20:06+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tf5435c32",
+    "origin": "feed",
+    "title": "AI virtual cell technology could reveal how genetic changes and drugs alter cells",
+    "url": "https://phys.org/news/2026-11-ai-virtual-cell-technology-reveal.html",
+    "summary": "Today's artificial intelligence models can predict whether someone with a genetic change will develop a disease, but cannot answer two critical questions: Why did the disease occur, and how do we design a treatment?",
+    "source": "Phys.org",
+    "published": "2026-11-20T03:00:06+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tc59309e9",
+    "origin": "feed",
+    "title": "Building structured-light systems in three dimensions",
+    "url": "https://phys.org/news/2026-11-dimensions.html",
+    "summary": "Structured light has become an important tool across modern optics. By shaping properties such as amplitude, phase, polarization and spatial mode, researchers can create light fields with capabilities beyond those of conventional laser beams. These engineered light fields are finding applications in communications, imaging, sensing, optical computing and quantum photonics. However, many structured",
+    "source": "Phys.org",
+    "published": "2026-11-20T02:40:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
     "id": "t8e50b87b",
     "origin": "feed",
     "title": "Innovative technology offers a bold new vision for monitoring ocean health",
@@ -36,8 +76,7 @@
     "url": "https://phys.org/news/2026-11-bird-extinct-nz-lessons-species.html",
     "summary": "The last bird to go extinct in Aotearoa New Zealand was a tiny wren that disappeared from a small island off the southern tip of Rakiura Stewart Island around 1972.",
     "source": "Phys.org",
-    "published": "2026-11-20T01:20:06+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T01:20:06+00:00"
   },
   {
     "id": "t77e911f3",
@@ -46,8 +85,7 @@
     "url": "https://phys.org/news/2026-11-climate-communication-resonates-based-empathy.html",
     "summary": "Climate change is a global reality, but people often encounter it through different local realities. For some, it enters everyday life through social media feeds, news reports, scientific findings and public discussion. For others, it is through water scarcity, food insecurity, floods, heat waves, wildfires or the loss of a home or a loved one.",
     "source": "Phys.org",
-    "published": "2026-11-20T01:00:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T01:00:01+00:00"
   },
   {
     "id": "tfddde9ec",
@@ -66,8 +104,7 @@
     "url": "https://phys.org/news/2026-11-neptune-poised-navy-global-weather.html",
     "summary": "The U.S. Naval Research Laboratory-developed Navy Environmental Prediction sysTem Utilizing a Nonhydrostatic Engine, known as NEPTUNE, is poised to become an operational Navy weather prediction capability, providing improved environmental forecasts to support naval operations around the globe.",
     "source": "Phys.org",
-    "published": "2026-11-20T00:40:07+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T00:40:07+00:00"
   },
   {
     "id": "t761e89f1",
@@ -76,8 +113,7 @@
     "url": "https://phys.org/news/2026-11-google-ai-hurricane.html",
     "summary": "A week before Hurricane Melissa slammed into Jamaica last fall, the forecast models couldn't agree on where it was headed or how strong it would get. One got it right—an AI model from Google DeepMind, which called both the storm's path and its Category 5 strength.",
     "source": "Phys.org",
-    "published": "2026-11-20T00:40:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T00:40:01+00:00"
   },
   {
     "id": "t3232ad2b",
@@ -87,15 +123,6 @@
     "summary": "AI companions could help reduce loneliness by creating a greater sense of belonging and improving self-esteem, according to new research from Durham University Business School.",
     "source": "Phys.org",
     "published": "2026-11-20T00:20:06+00:00"
-  },
-  {
-    "id": "t875652e0",
-    "origin": "feed",
-    "title": "Q&A: Making hydrogen peroxide without using precious metals",
-    "url": "https://phys.org/news/2026-11-qa-hydrogen-peroxide-precious-metals.html",
-    "summary": "Hydrogen peroxide is used in many industrial processes, with several million tons of it being manufactured worldwide every year. Whereas the standard production method requires rare precious metals, chemists from Rutgers University–Newark in the US and the University of Bonn have now described an alternative technique that does away with these metals, making it potentially cheaper and more sustain",
-    "source": "Phys.org",
-    "published": "2026-11-20T00:20:01+00:00"
   },
   {
     "id": "tbf367e0a",
@@ -108,15 +135,6 @@
     "text_file": "state/sources/tbf367e0a.txt"
   },
   {
-    "id": "td9a2ab05",
-    "origin": "feed",
-    "title": "Can AI save peer review from AI?",
-    "url": "https://phys.org/news/2026-11-ai-peer.html",
-    "summary": "Academic journals are flooded with papers. At publishing giant Elsevier, the number of submissions rose 56% in just three years—from 2.7 million in 2022 to 4.2 million in 2025. That's a lot more papers. And peer reviewers, who generally volunteer their time, were already stretched thin.",
-    "source": "Phys.org",
-    "published": "2026-11-20T00:10:01+00:00"
-  },
-  {
     "id": "t14d658a3",
     "origin": "feed",
     "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
@@ -127,15 +145,6 @@
     "text_file": "state/sources/t14d658a3.txt"
   },
   {
-    "id": "t599019c9",
-    "origin": "feed",
-    "title": "Mercury-bound X-ray telescope delivers first images after eight years in space",
-    "url": "https://phys.org/news/2026-11-mercury-bound-ray-telescope-images.html",
-    "summary": "The first data from a U.K.-built instrument heading to Mercury have provided observations of one of the brightest X-ray sources in the sky from aboard the ESA/JAXA BepiColombo spacecraft in the inner solar system.",
-    "source": "Phys.org",
-    "published": "2026-11-20T00:00:10+00:00"
-  },
-  {
     "id": "t37c7f374",
     "origin": "feed",
     "title": "Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone",
@@ -144,15 +153,6 @@
     "source": "Space.com",
     "published": "2026-11-19T23:42:03+00:00",
     "text_file": "state/sources/t37c7f374.txt"
-  },
-  {
-    "id": "t33a3aceb",
-    "origin": "feed",
-    "title": "'PAC-MAN' capsules that gobble up particles in turbulent water show promise for filtration and drug delivery",
-    "url": "https://phys.org/news/2026-11-pac-capsules-gobble-particles-turbulent.html",
-    "summary": "Scientists have created hollow capsules with single openings that can selectively filter particles thanks to the turbulence in surrounding waters—at times, ingesting particles like PAC-MAN eating up dots.",
-    "source": "Phys.org",
-    "published": "2026-11-19T23:40:09+00:00"
   },
   {
     "id": "t6e15cb24",
