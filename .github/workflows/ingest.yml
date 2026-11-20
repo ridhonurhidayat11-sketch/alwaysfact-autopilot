@@ -62,6 +62,19 @@ jobs:
           git commit -m "ingest: referee results"
           for i in 1 2 3; do git pull --rebase -X theirs origin main && git push origin HEAD:main && exit 0; sleep 5; done
           echo "could not push results" >&2; exit 1
+      # Independent watcher: this workflow has its own trigger (the content routine), so it can notice when the publish ticks died.
+      - name: Are the publish ticks still alive? (state/health.json is written on every tick)
+        id: ticks
+        continue-on-error: true
+        run: python agents/autopilot.py stale --hours 4
+      - name: Alert me when the publish ticks stopped
+        if: steps.ticks.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          [ "$(gh issue list --state open --search 'Publish ticks stopped in:title' --json number -q length)" = "0" ] || exit 0
+          gh issue create --title "Publish ticks stopped" \
+            --body "No tick has updated state/health.json for over 4 hours, so approved posts are not being published. Check the Routine 'alwaysfact_ publish tick' at https://claude.ai/code/routines (paused, usage limit, or failed runs). Run log: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
       - name: Alert me when ingest failed
         if: failure()
         env:
