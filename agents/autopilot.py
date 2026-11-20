@@ -202,11 +202,32 @@ def run_watchdog(c, now=None):
     return alerts
 
 
+def ticks_stale(now=None, hours=4, health_path=None):
+    """None when the publish ticks are alive, else a sentence saying why not. The watchdog writes state/health.json on every
+    tick, so an old (or missing) file means the ticks stopped. Run from the ingest workflow, which has its own trigger."""
+    now = now or datetime.now(timezone.utc)
+    try:
+        at = datetime.fromisoformat(load_json(health_path or (STATE / "health.json"), {})["at"])
+    except (KeyError, ValueError, TypeError):
+        return "state/health.json has no readable timestamp: no tick has run yet"
+    if at.tzinfo is None:
+        at = at.replace(tzinfo=timezone.utc)
+    age = now - at
+    if age > timedelta(hours=hours):
+        return f"the last tick ran {age.total_seconds() / 3600:.1f} hours ago (limit {hours}): publishing may have stopped"
+    return None
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["plan", "finalize", "watchdog", "prune"])
+    ap.add_argument("cmd", choices=["plan", "finalize", "watchdog", "prune", "stale"])
+    ap.add_argument("--hours", type=float, default=4)
     a = ap.parse_args()
     c = control.load()
+    if a.cmd == "stale":
+        why = ticks_stale(hours=a.hours)
+        print(why or "ticks are alive")
+        sys.exit(1 if why else 0)
     if a.cmd == "plan":
         print(plan(Llm(), c))
     elif a.cmd == "finalize":
