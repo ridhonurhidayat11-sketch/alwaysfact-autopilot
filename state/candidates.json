@@ -1,5 +1,55 @@
 [
   {
+    "id": "td098fa98",
+    "origin": "feed",
+    "title": "A fish as old as Montana—the blue sucker discovered to live well over 100 years",
+    "url": "https://phys.org/news/2026-11-fish-montana-blue-sucker-years.html",
+    "summary": "Using bomb radiocarbon dating on microscopic otoliths (earstones), researchers have found that a native species of fish in the Upper Missouri River in Montana is living up to 130 years—more than triple the previous estimate of around 40 years—and some blue suckers alive today hatched in the late 1800s, around the dawn of the automobile and when Montana officially became a state.",
+    "source": "Phys.org",
+    "published": "2026-11-20T22:20:06+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tcfeb5a58",
+    "origin": "feed",
+    "title": "US leases American Samoan seabed for mining in auction deemed illegal by court",
+    "url": "https://news.mongabay.com/2026/11/us-leases-american-samoan-seabed-for-mining-in-auction-deemed-illegal-by-court/",
+    "summary": "The U.S. government has auctioned off 12.7 million hectares (31.5 million acres) of the American Samoan seabed, despite public opposition and a federal court ruling that found the sale to be illegal. The sale marks the first time a country has completed an auction of seabed mineral leases that grant the right to explore for […]",
+    "source": "Mongabay",
+    "published": "2026-11-20T22:18:33+00:00",
+    "text_file": "state/sources/tcfeb5a58.txt"
+  },
+  {
+    "id": "ta6cfb2f9",
+    "origin": "feed",
+    "title": "Caribbean corals are in crisis. Fossil reefs can help point to where corals may persist",
+    "url": "https://phys.org/news/2026-11-caribbean-corals-crisis-fossil-reefs.html",
+    "summary": "The fossilized remains of ancient coral reefs often sit just meters from living corals in the Caribbean, where reefs have declined sharply over the past 70 years. Those fossils could help show where corals might survive a warming future. In two new papers, researchers at The University of Texas at Austin identify which coral species dominated ancient reefs in northeastern Jamaica and suggest how t",
+    "source": "Phys.org",
+    "published": "2026-11-20T22:00:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tf6e77b71",
+    "origin": "feed",
+    "title": "Quantum effect could reverse gravity and violate Einstein’s theory of relativity",
+    "url": "https://www.newscientist.com/article/2599897-quantum-effect-could-reverse-gravity-and-violate-einsteins-theory-of-relativity/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "Two mathematical investigations devised a way to possibly make gravity produce repulsion between objects, breaking away from a long-standing understanding of this force",
+    "source": "New Scientist",
+    "published": "2026-11-20T22:00:00+00:00",
+    "text_file": "state/sources/tf6e77b71.txt"
+  },
+  {
+    "id": "t83f43803",
+    "origin": "feed",
+    "title": "Brains of people with PTSD have unique epigenetic marks, study finds",
+    "url": "https://www.livescience.com/health/genetics/brains-of-people-with-ptsd-have-unique-epigenetic-marks-study-finds",
+    "summary": "The brains of people with PTSD bear molecular changes that differ from those in people with other conditions, like depression, a new study finds.",
+    "source": "Live Science",
+    "published": "2026-11-20T21:50:00+00:00",
+    "text_file": "state/sources/t83f43803.txt"
+  },
+  {
     "id": "t0a97871d",
     "origin": "feed",
     "title": "Ancient bison hunting site in Texas challenges long-held assumptions",
@@ -84,7 +134,7 @@
     "origin": "feed",
     "title": "The AI Riemann hypothesis proof is almost certainly true, independent mathematicians attest",
     "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
-    "summary": "Researchers are near completing their verification of a claimed solution to the most important unsolved problem in math",
+    "summary": "Researchers are near to completing their verification of a claimed solution to the most important unsolved problem in math",
     "source": "Scientific American",
     "published": "2026-11-20T21:00:00+00:00",
     "text_file": "state/sources/tb4458eaf.txt"
@@ -116,8 +166,7 @@
     "url": "https://phys.org/news/2026-11-hemp-thc-potentially-crop-destruction.html",
     "summary": "Scientists at Texas A&M AgriLife Research, a member of The Texas A&M University System, have developed a hemp plant that produces no detectable cannabinoids, including THC.",
     "source": "Phys.org",
-    "published": "2026-11-20T20:40:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T20:40:01+00:00"
   },
   {
     "id": "t6d83a268",
@@ -146,8 +195,7 @@
     "url": "https://phys.org/news/2026-11-mushrooms-ai-potential-crop-stress.html",
     "summary": "A new artificial intelligence (AI) model can detect stress in agricultural crops using a nondestructive imaging technique, allowing changes in crop health to be monitored over time. Developed by a team of researchers at Penn State, the new model shows promise for accurately detecting crop stress caused by drought, disease, nutrient deficiency and other causes while using less computing power than ",
     "source": "Phys.org",
-    "published": "2026-11-20T20:20:11+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T20:20:11+00:00"
   },
   {
     "id": "t6206406e",
@@ -205,24 +253,6 @@
     "source": "Space.com",
     "published": "2026-11-20T19:50:15+00:00",
     "text_file": "state/sources/td46e89bc.txt"
-  },
-  {
-    "id": "t7f174d50",
-    "origin": "feed",
-    "title": "People wade through floodwater because they underestimate danger—how to avoid risk",
-    "url": "https://phys.org/news/2026-11-people-wade-floodwater-underestimate-danger.html",
-    "summary": "A footpath home disappears beneath brown water. The other side is only a few meters away and someone has already crossed. Turning back means a long detour and you will be late. Would you wade through? This is the kind of everyday decision that flood safety advice must address.",
-    "source": "Phys.org",
-    "published": "2026-11-20T19:40:06+00:00"
-  },
-  {
-    "id": "t1912c912",
-    "origin": "feed",
-    "title": "Global analysis reveals how lakes amplify glacier ice loss",
-    "url": "https://phys.org/news/2026-11-global-analysis-reveals-lakes-amplify.html",
-    "summary": "Glacial lakes can accelerate the retreat of glaciers. If glaciers border a lake, the water can melt the ice from underneath; furthermore, chunks of ice can break off and fall into the lake. The extent to which these processes influence the situation, compared with other factors, had not been sufficiently clarified at a global level until now.",
-    "source": "Phys.org",
-    "published": "2026-11-20T19:40:01+00:00"
   },
   {
     "id": "t6b4cce5b",
@@ -331,8 +361,7 @@
     "url": "https://news.mongabay.com/2026/11/could-a-short-tail-mean-a-new-monkey-species-in-laos-some-scientists-think-so/",
     "summary": "There is no body. No genetic evidence — yet. There are just photos, but some scientists say those photos show a distinct enough primate to declare it a new species: the short-tailed langur, or Trachypithecus brevicaudus. The proposed species was described in the Vietnamese Journal of Primatology and lives in the Annamite Mountains of Laos. […]",
     "source": "Mongabay",
-    "published": "2026-11-20T17:30:56+00:00",
-    "text_file": "state/sources/tbcd996ad.txt"
+    "published": "2026-11-20T17:30:56+00:00"
   },
   {
     "id": "tb1e154ad",
@@ -569,15 +598,6 @@
     "text_file": "state/sources/t1f7371d3.txt"
   },
   {
-    "id": "t04731e38",
-    "origin": "feed",
-    "title": "Last Javan rhino habitat caught between mining plans and relocation debate",
-    "url": "https://news.mongabay.com/2026/11/last-javan-rhino-habitat-caught-between-mining-plans-and-relocation-debate/",
-    "summary": "JAKARTA — Indonesian lawmakers and environmental groups are urging the government to revoke a mining map covering part of the waters around Ujung Kulon National Park, home to the world’s last surviving Javan rhinos. The calls were in response to a proposal by Hashim Djojohadikusumo, a mining and energy tycoon and the brother of President […]",
-    "source": "Mongabay",
-    "published": "2026-11-20T12:30:07+00:00"
-  },
-  {
     "id": "tb9c4b08f",
     "origin": "feed",
     "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
@@ -730,8 +750,7 @@
     "url": "https://www.newscientist.com/article/2599802-the-secret-maths-problems-hidden-throughout-japan/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "Hundreds of years ago, Japanese mathematicians enshrined their work onto painted wooden tablets displayed throughout the country. Columnist Jacob Aron explores the history of the practice of sangaku and the effort to digitally preserve these artefacts",
     "source": "New Scientist",
-    "published": "2026-11-20T09:00:00+00:00",
-    "text_file": "state/sources/t063ff91a.txt"
+    "published": "2026-11-20T09:00:00+00:00"
   },
   {
     "id": "t3d02766e",
@@ -893,14 +912,23 @@
     "text_file": "state/sources/t19fc4c47.txt"
   },
   {
+    "id": "t7c4ed481",
+    "origin": "feed",
+    "title": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
+    "url": "https://www.nature.com/articles/d41586-026-03789-3",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-20T00:00:00+00:00",
+    "text_file": "state/sources/t7c4ed481.txt"
+  },
+  {
     "id": "t468e4050",
     "origin": "feed",
     "title": "Sleuth finds ‘impossible proteins’ in hundreds of research papers",
     "url": "https://www.nature.com/articles/d41586-026-03799-1",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-20T00:00:00+00:00",
-    "text_file": "state/sources/t468e4050.txt"
+    "published": "2026-11-20T00:00:00+00:00"
   },
   {
     "id": "t5ef96005",
@@ -934,15 +962,6 @@
     "origin": "feed",
     "title": "Claude, find me a planet: amateur astronomers are using AI with mixed results",
     "url": "https://www.nature.com/articles/d41586-026-03790-w",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-20T00:00:00+00:00"
-  },
-  {
-    "id": "t88266f14",
-    "origin": "feed",
-    "title": "How to turn impostor syndrome into a superpower",
-    "url": "https://www.nature.com/articles/d41586-026-03465-6",
     "summary": "",
     "source": "Nature",
     "published": "2026-11-20T00:00:00+00:00"
@@ -984,8 +1003,7 @@
     "url": "https://www.livescience.com/space/space-exploration/computer-glitch-prevents-voyager-1-from-sharing-science-data-on-its-light-day-milestone",
     "summary": "NASA's Voyager 1 spacecraft just reached 1 light-day from our planet, but a newfound glitch in the probe's onboard computer is preventing it from sharing science data with Earth.",
     "source": "Live Science",
-    "published": "2026-11-19T21:49:56+00:00",
-    "text_file": "state/sources/t0e9c8861.txt"
+    "published": "2026-11-19T21:49:56+00:00"
   },
   {
     "id": "tf1e64ba0",
@@ -1137,24 +1155,6 @@
     "summary": "Astronomers have found two rare asteroids trailing Neptune in Vera C. Rubin Observatory data. The rocks, called Neptune's L5 Trojans, could illuminate the conditions of the infant solar system.",
     "source": "Live Science",
     "published": "2026-11-19T18:27:15+00:00"
-  },
-  {
-    "id": "t58851156",
-    "origin": "feed",
-    "title": "Huge extinct orca may have eaten other whales",
-    "url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "A nearly 8-metre-long species of orca lived in the North Sea over 2 million years ago. Its discovery suggests orcas evolved a diet of marine mammals earlier than scientists thought",
-    "source": "New Scientist",
-    "published": "2026-11-19T18:00:00+00:00"
-  },
-  {
-    "id": "t11eb2ab5",
-    "origin": "feed",
-    "title": "Dinosaur quiz: Can you name these 12 dinosaurs?",
-    "url": "https://www.livescience.com/animals/dinosaurs/dinosaur-quiz-can-you-name-these-12-dinosaurs",
-    "summary": "Can you name all 12 dinosaurs in this science quiz?",
-    "source": "Live Science",
-    "published": "2026-11-19T17:57:11+00:00"
   },
   {
     "id": "tfdbd9587",
