@@ -6,21 +6,25 @@
   python agents/queue_edit.py retry 009
   python agents/queue_edit.py at 009 2026-11-20T08:30:00Z
   python agents/queue_edit.py only-formats carousel "reels are on hold today"
+  python agents/queue_edit.py reslot 2026-11-20T18:30:00Z
 
 hold    approved / pending_media rows become `held` (the publisher never touches held rows)
 release held rows that have media become `approved` again
 retry   a row wrongly marked posted by the duplicate check (result already-live) goes back to approved
 at      change the publishing time (UTC ISO) of a not-yet-posted row
 only-formats  hold every waiting row whose format (carousel or reel) is not the one given
+reslot  give every waiting row the next free slot from slots_wib after the given UTC time, keeping their order (held rows are skipped)
 Posted rows are never modified.
 """
 import json
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "publisher"))
+sys.path.insert(0, str(ROOT / "agents"))
+import control  # noqa: E402
 import publish  # noqa: E402
 
 WAITING = ("approved", "pending_media")
@@ -79,6 +83,17 @@ def only_formats(rows, keep, reason="", content_dir=ROOT / "content"):
     return n
 
 
+def reslot(rows, c, start):
+    """Waiting rows (approved / pending_media, not held) get the next free posting slots after `start`, in their current order."""
+    start_dt = datetime.strptime(start, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+    waiting = sorted((r for r in rows if r["status"] in WAITING), key=lambda r: (r.get("scheduled_at") or "", r["id"]))
+    slots = control.next_slots(c, start_dt, set(), len(waiting))
+    for r, when in zip(waiting, slots):
+        r["scheduled_at"] = when
+    rows.sort(key=lambda r: r.get("scheduled_at") or "")
+    return min(len(waiting), len(slots))
+
+
 def main(argv):
     if len(argv) < 2:
         print(__doc__)
@@ -96,6 +111,8 @@ def main(argv):
         n = reschedule(rows, argv[1], argv[2])
     elif cmd == "only-formats":
         n = only_formats(rows, argv[1], argv[2] if len(argv) > 2 else "")
+    elif cmd == "reslot":
+        n = reslot(rows, control.load(), argv[1])
     else:
         print(__doc__)
         return 2
