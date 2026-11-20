@@ -1,0 +1,162 @@
+{
+ "topic_id": "tea40f5fa",
+ "source_url": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20",
+ "risk": "low",
+ "post": {
+  "topic": "Saturnus bisa kamu ukur dengan tiga jari saat dekat Bulan",
+  "image_query": "Saturn planet",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+   "Jarak Bulan ke Saturnus bisa diukur pakai tiga jari",
+   "Tiga jarimu cukup untuk mengukur jarak di langit"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Jarak Bulan ke Saturnus bisa diukur pakai tiga jari",
+    "body": "Tanpa alat apa pun. Cukup tangan yang diluruskan ke depan.",
+    "image_query": "Saturn planet",
+    "icon": "magnifier"
+   },
+   {
+    "type": "fact",
+    "title": "Bulan dan Saturnus berdekatan",
+    "body": "Pada **20 November**, Saturnus tampak dekat Bulan setelah matahari terbenam. Jaraknya **sedikit di atas 5 derajat** di langit tenggara.",
+    "image_query": "Moon and Saturn conjunction",
+    "takeaway": "Dua benda langit tampak bersebelahan.",
+    "icon": "planet",
+    "viz": {
+     "kind": "stat",
+     "value": "5°",
+     "label": "jarak di langit",
+     "note": "antara Bulan dan Saturnus"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Ukur dengan tiga jari",
+    "body": "Jarak sekitar itu kira-kira selebar **tiga jari tengahmu** saat tangan diluruskan ke depan.",
+    "takeaway": "Tangan kosong jadi penggaris langit.",
+    "icon": "bulb",
+    "viz": {
+     "kind": "steps",
+     "items": [
+      "Luruskan tangan",
+      "Rapatkan tiga jari",
+      "Lebarnya sekitar 5 derajat"
+     ],
+     "caption": "Tanpa teleskop"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Bulan 82% terang",
+    "body": "Bulan malam itu **82% tersinari** sehingga cahayanya menyembunyikan bintang yang lebih redup.",
+    "image_query": "Waxing gibbous Moon",
+    "takeaway": "Cahaya Bulan menutupi bintang redup.",
+    "icon": "bulb",
+    "viz": {
+     "kind": "stat",
+     "value": "82%",
+     "label": "permukaan Bulan tersinari",
+     "note": "fase Bulan malam itu"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Cincin Saturnus makin jelas",
+    "body": "Cincin Saturnus **makin terlihat** sejak ia melintasi bidang cincin pada **Maret 2025**.",
+    "image_query": "Rings of Saturn",
+    "takeaway": "Cincinnya kembali tampak lebih lebar.",
+    "icon": "planet"
+   },
+   {
+    "type": "fact",
+    "title": "Titik kecil di sekitarnya",
+    "body": "Lewat teleskop, kamu mungkin melihat **titik-titik kecil** di sekitar Saturnus. Itu bulan-bulan besarnya, seperti Titan dan Rhea.",
+    "image_query": "Titan moon of Saturn",
+    "takeaway": "Saturnus punya bulan yang bisa terlihat.",
+    "icon": "planet"
+   },
+   {
+    "type": "cta",
+    "title": "Ikuti @alwaysfact_",
+    "body": "Suka fakta sains yang bikin melongo? **Ikuti @alwaysfact_** dan kirim postingan ini ke temanmu yang penasaran.",
+    "takeaway": "Ikuti dan kirim ke teman.",
+    "icon": "heart"
+   }
+  ],
+  "caption": "Pada 20 November, Saturnus tampak sedikit di atas 5 derajat dari Bulan, kira-kira selebar tiga jari tengah yang diluruskan ke depan. Cincin Saturnus pun makin terlihat sejak melintasi bidang cincin pada Maret 2025. Kirim ke temanmu yang suka melihat langit!\n\nSumber: Space.com.",
+  "hashtags": [
+   "saturnus",
+   "bulan",
+   "langit",
+   "luarangkasa",
+   "sains",
+   "faktaunik",
+   "alwaysfact"
+  ],
+  "claims": [
+   {
+    "text": "Saturnus tampak sedikit di atas 5 derajat dari Bulan yang 82% tersinari.",
+    "source_name": "Space.com",
+    "source_url": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20"
+   },
+   {
+    "text": "Jarak itu kira-kira selebar tiga jari tengah saat tangan diluruskan ke depan.",
+    "source_name": "Space.com",
+    "source_url": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20"
+   },
+   {
+    "text": "Cincin Saturnus makin terlihat setelah melintasi bidang cincin pada Maret 2025.",
+    "source_name": "Space.com",
+    "source_url": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20"
+   },
+   {
+    "text": "Teleskop dapat memperlihatkan titik terang kecil di sekitar Saturnus yang merupakan bulan-bulan besarnya.",
+    "source_name": "Space.com",
+    "source_url": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20"
+   }
+  ],
+  "music_suggestions": [
+   "tenang, tempo lambat",
+   "kagum, tempo sedang",
+   "santai, tempo sedang"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20",
+   "quote": "a little over 5 degrees from the 82%-lit moon in the southeastern sky",
+   "note": "kutipan langsung dari artikel sumber"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20",
+   "quote": "roughly the width of your three middle fingers held at arm's length",
+   "note": "kutipan langsung dari artikel sumber"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20",
+   "quote": "gradually becoming more visible following its ring plane crossing in March 2025",
+   "note": "kutipan langsung dari artikel sumber"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20",
+   "quote": "a shoal of bright, star-like points of light surrounding Saturn's disk",
+   "note": "kutipan langsung dari artikel sumber"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}
