@@ -1,30 +1,285 @@
 [
   {
-    "id": "tf4a4c64a",
+    "id": "te83db9f9",
     "origin": "feed",
-    "title": "Lab-hatched turtle survives in the wild, offering hope for Perth populations",
-    "url": "https://phys.org/news/2026-11-lab-hatched-turtle-survives-wild.html",
-    "summary": "Researchers at Murdoch University have found the first evidence that artificially incubated southwestern snake-necked turtles can survive in the wild for more than a year after release, offering hope for struggling populations in Perth's urban wetlands.",
+    "title": "Misinformation perception shapes support of democracy in Australia",
+    "url": "https://phys.org/news/2026-11-misinformation-perception-democracy-australia.html",
+    "summary": "A new study by Adelaide University researchers has found that the more often people perceived they had encountered misinformation, the less positive their views of Australian democracy tended to be. The experience-sampling study from the School of Psychology asked 123 eligible voters to track their perceived exposure to misinformation in the lead-up to the 2025 Australian federal election and meas",
     "source": "Phys.org",
-    "published": "2026-11-20T12:10:01+00:00",
+    "published": "2026-11-20T15:40:10+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-    "id": "tbeb957e6",
+    "id": "t5f52d2d1",
     "origin": "feed",
-    "title": "Why are some galaxies more lopsided than others? A catalog offers clues to the imbalance",
-    "url": "https://phys.org/news/2026-11-galaxies-lopsided-clues-imbalance.html",
-    "summary": "Some spiral galaxies look heavier or more elongated on one side than the other. Why galaxies get lopsided is not fully understood. It could be due to collisions or gravitational tugs, uneven gas infall, or instabilities within the disk that drag the gas and stars off-center. In a new study, astronomers combined measurements of galaxies from 37 studies to create a big catalog and analyzed it to che",
+    "title": "Low-viscosity lavas reveal a key to Mars's past",
+    "url": "https://phys.org/news/2026-11-viscosity-lavas-reveal-key-mars.html",
+    "summary": "Since 2021, the Mars Perseverance rover has been roaming Jezero Crater, gathering details about the red planet's geology and hints about its past. On its journey, the rover took close-up images of the Séítah formation, a nearly 4-billion-year-old layer of rock at the base of the crater.",
     "source": "Phys.org",
-    "published": "2026-11-20T12:00:01+00:00",
+    "published": "2026-11-20T15:40:05+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t85910524",
+    "origin": "feed",
+    "title": "Mobile streaming habits offer global societal insights",
+    "url": "https://phys.org/news/2026-11-mobile-streaming-habits-global-societal.html",
+    "summary": "Researchers from the University of the Sunshine Coast observed how a total of 959 consumers in the U.S., South Korea and Germany used mobile streaming services.",
+    "source": "Phys.org",
+    "published": "2026-11-20T15:20:08+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "te07a649d",
+    "origin": "feed",
+    "title": "A star's last gasps: ALMA reveals a giant gas ring and budding hourglass around a star in transition",
+    "url": "https://phys.org/news/2026-11-star-gasps-alma-reveals-giant.html",
+    "summary": "Stars like our sun don't die quietly. In their final act, they swell into red giants, shed their outer layers into space and leave behind a glowing, often strikingly sculpted cloud of gas called a planetary nebula. That transformation is thought to take only a few thousand years, a blink in the life of a star, so catching one in the act is rare.",
+    "source": "Phys.org",
+    "published": "2026-11-20T15:20:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t0abed500",
+    "origin": "feed",
+    "title": "Anthropic mathematician claims AI-assisted proof of the Riemann hypothesis",
+    "url": "https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "The Riemann hypothesis is one of the most difficult problems in mathematics, having stood for 167 years. It may have just been settled with the help of AI",
+    "source": "New Scientist",
+    "published": "2026-11-20T15:20:01+00:00",
+    "text_file": "state/sources/t0abed500.txt"
+  },
+  {
+    "id": "t7283e0f3",
+    "origin": "feed",
+    "title": "Floating wind is building ‘A lot of momentum’ toward commercialization",
+    "url": "https://news.mongabay.com/2026/11/floating-wind-is-building-a-lot-of-momentum-toward-commercialization/",
+    "summary": "It’s a little-known, nascent sustainable technology on the verge of commercialization: Floating wind turbines deployed across deep ocean waters could unlock vast amounts of renewable energy in the coming decades. For some countries (including China, Japan, South Korea, the U.K. and EU), floating wind is already playing a role in plans to decarbonize national economies, […]",
+    "source": "Mongabay",
+    "published": "2026-11-20T15:18:42+00:00",
+    "text_file": "state/sources/t7283e0f3.txt"
+  },
+  {
+    "id": "t2ba13ff0",
+    "origin": "feed",
+    "title": "Charting the course on recreational fishing data: A message from NOAA's Laura Grimm",
+    "url": "https://www.noaa.gov/stories/charting-course-on-recreational-fishing-data-message-from-noaas-laura-grimm",
+    "summary": "Charting the course on recreational fishing data: A message from NOAA's Laura Grimm People recreational fishing from a small ocean boat in Florida Keys National Marine Sanctuary. (Image credit: NOAA) Download Image November 20, 2026 Fisheries NOAA leadership recreational fishing economic data 0 Off",
+    "source": "NOAA",
+    "published": "2026-11-20T15:18:32+00:00",
+    "text_file": "state/sources/t2ba13ff0.txt"
+  },
+  {
+    "id": "t05079fe4",
+    "origin": "feed",
+    "title": "Low oxygen at high altitudes may protect honey bees from deadly parasites",
+    "url": "https://phys.org/news/2026-11-oxygen-high-altitudes-honey-bees.html",
+    "summary": "Honey bees (Apis mellifera) are the most important managed pollinator of agricultural crops globally. A study published Nov. 19 in the open-access journal PLOS Biology by Huoqing Zheng at Zhejiang University, Hangzhou, China, and colleagues suggests that parasitic mites causing honey bee colony collapse have less reproductive success at high altitudes.",
+    "source": "Phys.org",
+    "published": "2026-11-20T15:00:14+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tc87f1661",
+    "origin": "feed",
+    "title": "We found a seaweed that hadn't been spotted in 90 years—and discovered vast underwater forests",
+    "url": "https://phys.org/news/2026-11-seaweed-hadnt-years-vast-underwater.html",
+    "summary": "A tangle of long, caramel-colored seaweed. That's what botanist A.H.S. Lucas found in 1935 while conducting research near Lord Howe Island, a World Heritage–listed site known for its unique biodiversity. After collecting some large adult specimens of this previously unidentified seaweed, Lucas named it Sargassum howeanum.",
+    "source": "Phys.org",
+    "published": "2026-11-20T15:00:08+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tafdc57f4",
+    "origin": "feed",
+    "title": "The Book Lover’s Gift Guide",
+    "url": "https://www.sciencenews.org/article/books-favorite-read-holiday-2026-review",
+    "summary": "These science books from 2026 are our favorites of the year.",
+    "source": "Science News",
+    "published": "2026-11-20T15:00:00+00:00",
+    "text_file": "state/sources/tafdc57f4.txt"
+  },
+  {
+    "id": "t3abea75e",
+    "origin": "feed",
+    "title": "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026",
+    "url": "https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026",
+    "summary": "The Himalayas tower below the clouds, capped in icy snow in new snapshots captured from aboard the International Space Station.",
+    "source": "Space.com",
+    "published": "2026-11-20T15:00:00+00:00",
+    "text_file": "state/sources/t3abea75e.txt"
+  },
+  {
+    "id": "t488f394a",
+    "origin": "feed",
+    "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+    "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+    "summary": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame. The post Network Researchers Nail Down Theory of ‘Perfect Resilience’ first appeared on Quanta Magazine",
+    "source": "Quanta Magazine",
+    "published": "2026-11-20T14:50:41+00:00",
+    "text_file": "state/sources/t488f394a.txt"
+  },
+  {
+    "id": "t2c4d0a20",
+    "origin": "feed",
+    "title": "From paper to rayon: The wood pulp behind everyday goods is putting Indonesia's forests at risk",
+    "url": "https://phys.org/news/2026-11-paper-rayon-wood-pulp-everyday.html",
+    "summary": "Rayon, the soft, breathable fabric many people have come to love, is often derived from wood pulp. Wood pulp is made by breaking wood down into its fibers, which can then be pressed into paper or spun into thread. Much of that pulp comes from plantations in Indonesia, where it becomes common household goods sold around the world: paper, tissue, packaging and, yes, clothing.",
+    "source": "Phys.org",
+    "published": "2026-11-20T14:40:12+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tef4899ea",
+    "origin": "feed",
+    "title": "New model predicts critical temperature of superconductors",
+    "url": "https://phys.org/news/2026-11-critical-temperature-superconductors.html",
+    "summary": "Superconductivity, the ability to carry current with no resistance, has been found in materials ranging from metals to oxides. Conventional Bardeen–Cooper–Schrieffer (BCS) theory explains low-temperature metal superconductors well, but struggles with high-temperature oxide superconductors.",
+    "source": "Phys.org",
+    "published": "2026-11-20T14:40:02+00:00"
+  },
+  {
+    "id": "t525bdced",
+    "origin": "feed",
+    "title": "US, Russia and China look set to block ban on autonomous weapons",
+    "url": "https://www.newscientist.com/article/2599904-us-russia-and-china-look-set-to-block-ban-on-autonomous-weapons/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "More than 70 countries are ready to begin negotiations on prohibiting lethal autonomous weapons, but large militarised nations are expected to obstruct efforts to agree a ban",
+    "source": "New Scientist",
+    "published": "2026-11-20T14:38:10+00:00",
+    "text_file": "state/sources/t525bdced.txt"
+  },
+  {
+    "id": "t942e427f",
+    "origin": "feed",
+    "title": "With AI blamed for mass layoffs, here's how we can ensure workers get a fairer deal",
+    "url": "https://phys.org/news/2026-11-ai-blamed-mass-layoffs-workers.html",
+    "summary": "Is artificial intelligence (AI) finally coming for Australian jobs?",
+    "source": "Phys.org",
+    "published": "2026-11-20T14:20:20+00:00"
+  },
+  {
+    "id": "t0cb35778",
+    "origin": "feed",
+    "title": "Illustrated guide shines a light on Australia's lanternfish",
+    "url": "https://phys.org/news/2026-11-australia-lanternfish.html",
+    "summary": "These glow-in-the-dark, googly-eyed fishes perform the biggest daily migration of any animal on the planet and are among the most abundant and important fishes in our oceans. But they are also among the most mysterious. Now, Australian researchers finally have access to a comprehensive guide to aid in the identification of Australian lanternfishes.",
+    "source": "Phys.org",
+    "published": "2026-11-20T14:20:14+00:00"
+  },
+  {
+    "id": "t52973e09",
+    "origin": "feed",
+    "title": "Seven Ways to Use LLMs in the Earth and Space Sciences",
+    "url": "https://eos.org/opinions/seven-ways-to-use-llms-in-the-earth-and-space-sciences",
+    "summary": "Large language models can participate in every stage of the scientific process because each stage is connected through language.",
+    "source": "Eos (AGU)",
+    "published": "2026-11-20T14:12:55+00:00",
+    "text_file": "state/sources/t52973e09.txt"
+  },
+  {
+    "id": "t9e792e98",
+    "origin": "feed",
+    "title": "Quake Traced to a Fault Deep Below Mars’s Largest Canyon",
+    "url": "https://eos.org/articles/quake-traced-to-a-fault-deep-below-marss-largest-canyon",
+    "summary": "A seismic event from Valles Marineris spotted by the InSight lander has been identified as an actual marsquake, with implications for seismicity on worlds without tectonic plates.",
+    "source": "Eos (AGU)",
+    "published": "2026-11-20T14:11:45+00:00",
+    "text_file": "state/sources/t9e792e98.txt"
+  },
+  {
+    "id": "t42b11440",
+    "origin": "feed",
+    "title": "With Little Time Before Lead Azide Detonation, Iowa Scientists and Residents Assemble Monitoring Plans",
+    "url": "https://eos.org/research-and-developments/with-little-time-before-lead-azide-detonation-iowa-scientists-and-residents-assemble-monitoring-plans",
+    "summary": "Scientists and Iowa residents are planning to independently monitor lead levels in the air and soil in the days before and after a planned detonation of lead azide, a military explosive, near Middletown, Iowa on Monday.",
+    "source": "Eos (AGU)",
+    "published": "2026-11-20T14:03:46+00:00",
+    "text_file": "state/sources/t42b11440.txt"
+  },
+  {
+    "id": "t45bfce7d",
+    "origin": "feed",
+    "title": "Astronomers reveal the oceanic origin of Europa's sodium cloud",
+    "url": "https://phys.org/news/2026-11-astronomers-reveal-oceanic-europa-sodium.html",
+    "summary": "Jupiter's moon Europa is a world of scientific intrigue, with a global ocean believed to lie beneath its icy crust. Now, observations from W. M. Keck Observatory on Maunakea, Hawaiʻi Island, reveal something unexpected: the enormous, diffuse cloud of sodium surrounding Europa has remained remarkably stable across more than two decades of observations, despite the dynamic environment surrounding Ju",
+    "source": "Phys.org",
+    "published": "2026-11-20T14:00:06+00:00"
+  },
+  {
+    "id": "tcea7ec2a",
+    "origin": "feed",
+    "title": "Reef fish aren't so vulnerable to ocean acidification, after all",
+    "url": "https://phys.org/news/2026-11-reef-fish-vulnerable-ocean-acidification.html",
+    "summary": "In 2016, biologist Sandra A. Binning and a group of young researchers traveled to Australia's Lizard Island Research Station, at the northern end of the Great Barrier Reef in the Coral Sea.",
+    "source": "Phys.org",
+    "published": "2026-11-20T14:00:01+00:00"
+  },
+  {
+    "id": "t0b5d0afa",
+    "origin": "feed",
+    "title": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math",
+    "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+    "summary": "An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion",
+    "source": "Scientific American",
+    "published": "2026-11-20T14:00:00+00:00",
+    "text_file": "state/sources/t0b5d0afa.txt"
+  },
+  {
+    "id": "t39197d6b",
+    "origin": "feed",
+    "title": "A fast-growing heart is good for the Grinch. People are another story",
+    "url": "https://www.sciencenews.org/article/growing-heart-grinch-people-christmas",
+    "summary": "In the classic Dr. Seuss tale, the rapid growth signals an emotional change of heart. In real life, a swollen heart can be a sign of stress or disease.",
+    "source": "Science News",
+    "published": "2026-11-20T13:00:00+00:00",
+    "text_file": "state/sources/t39197d6b.txt"
+  },
+  {
+    "id": "tca34120f",
+    "origin": "feed",
+    "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
+    "url": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
+    "summary": "SpaceX invited media on an unprecedented behind-the-scenes tour of its Starfactory facility, where it manufactures and assembles both stages of its massive Starship rocket.",
+    "source": "Space.com",
+    "published": "2026-11-20T13:00:00+00:00",
+    "text_file": "state/sources/tca34120f.txt"
+  },
+  {
+    "id": "t1f7371d3",
+    "origin": "feed",
+    "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
+    "summary": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be strengthened, but the technology could transform how humans construct permanent settlements beyond Earth.",
+    "source": "ScienceDaily",
+    "published": "2026-11-20T12:34:56+00:00",
+    "text_file": "state/sources/t1f7371d3.txt"
+  },
+  {
+    "id": "t04731e38",
+    "origin": "feed",
+    "title": "Last Javan rhino habitat caught between mining plans and relocation debate",
+    "url": "https://news.mongabay.com/2026/11/last-javan-rhino-habitat-caught-between-mining-plans-and-relocation-debate/",
+    "summary": "JAKARTA — Indonesian lawmakers and environmental groups are urging the government to revoke a mining map covering part of the waters around Ujung Kulon National Park, home to the world’s last surviving Javan rhinos. The calls were in response to a proposal by Hashim Djojohadikusumo, a mining and energy tycoon and the brother of President […]",
+    "source": "Mongabay",
+    "published": "2026-11-20T12:30:07+00:00",
+    "text_file": "state/sources/t04731e38.txt"
+  },
+  {
+    "id": "tb9c4b08f",
+    "origin": "feed",
+    "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
+    "summary": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles. The breakthrough could help physicists explore a mysterious microscopic realm where unknown particles and forces may be hiding.",
+    "source": "ScienceDaily",
+    "published": "2026-11-20T12:23:23+00:00",
+    "text_file": "state/sources/tb9c4b08f.txt"
   },
   {
     "id": "t6dd09b43",
     "origin": "feed",
     "title": "Unexpected stone tools from Israel raise questions about cultural evolution",
     "url": "https://www.newscientist.com/article/2599953-unexpected-stone-tools-from-israel-raise-questions-about-cultural-evolution/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "Ancient humans in south-west Asia first began producing advanced stone blades 100,000 years before the tools became widely used, indicating that new technologies weren't automatically adopted by communities",
+    "summary": "Ancient humans in the eastern Mediterranean first began producing advanced stone blades 100,000 years before the tools became widely used, indicating that new technologies weren't automatically adopted by communities",
     "source": "New Scientist",
     "published": "2026-11-20T12:00:00+00:00",
     "text_file": "state/sources/t6dd09b43.txt"
@@ -52,7 +307,7 @@
   {
     "id": "t73cbb556",
     "origin": "feed",
-    "title": "Measles is officially back in the USA. Will MAHA pay the price? - video",
+    "title": "Measles is officially back in the USA. Will Maha pay the price? - video",
     "url": "https://www.theguardian.com/science/video/2026/nov/20/measles-is-officially-back-in-the-usa-will-maha-pay-the-price-video",
     "summary": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years. To find out what this means in practical terms for citizens, Ian Sample hears from the Guardian US health reporter Jessica Glenza. She explains why it comes at an already difficult time for the health secretary, Robert F Kennedy Jr",
     "source": "The Guardian Science",
@@ -72,7 +327,7 @@
   {
     "id": "tab7b4803",
     "origin": "feed",
-    "title": "I handpicked every Star Trek Blu-Ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
+    "title": "I handpicked every Star Trek Blu-ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
     "url": "https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now",
     "summary": "From The Original Series through The Next Generation to Starfleet Academy, beam up our favorite Black Friday 2026 Star Trek deals available at Amazon.",
     "source": "Space.com",
@@ -160,26 +415,6 @@
     "text_file": "state/sources/taf5be0af.txt"
   },
   {
-    "id": "t6c3f806b",
-    "origin": "feed",
-    "title": "Galactic shock: Discovery challenges our understanding of the Milky Way's structure",
-    "url": "https://phys.org/news/2026-11-galactic-discovery-milky.html",
-    "summary": "A University of Sydney Ph.D. student has uncovered evidence that the Milky Way is unusual in terms of where its new stars are born compared with nearby galaxies.",
-    "source": "Phys.org",
-    "published": "2026-11-20T10:00:07+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "te5b2cae7",
-    "origin": "feed",
-    "title": "A two-layer flat lens uses nanoscale pillars to guard against unwanted reflections",
-    "url": "https://phys.org/news/2026-11-layer-flat-lens-nanoscale-pillars.html",
-    "summary": "Researchers in the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) have engineered an advancement in metasurface design and processing that now includes a built-in, intentionally designed antireflective coating—a potentially critical step toward greatly expanding the incorporation of metasurfaces into practical devices.",
-    "source": "Phys.org",
-    "published": "2026-11-20T10:00:04+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
     "id": "tc17b4c00",
     "origin": "feed",
     "title": "Dark Eden author Chris Beckett on how sci-fi needs ‘surface plausibility’",
@@ -220,36 +455,6 @@
     "text_file": "state/sources/t063ff91a.txt"
   },
   {
-    "id": "tb22232fa",
-    "origin": "feed",
-    "title": "UN climate talks enter crunch time with no deal in sight",
-    "url": "https://phys.org/news/2026-11-climate-crunch-sight.html",
-    "summary": "The U.N.'s COP31 climate talks enter their endgame Friday, with countries sharply divided over a draft deal lacking any mention of planet-heating fossil fuels, threatening to push the negotiations into overtime.",
-    "source": "Phys.org",
-    "published": "2026-11-20T08:43:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "t0d1756fb",
-    "origin": "feed",
-    "title": "Fiona the hippo dies after failed effort to remove swallowed hat",
-    "url": "https://phys.org/news/2026-11-fiona-hippo-dies-effort-swallowed.html",
-    "summary": "World-famous hippopotamus Fiona has died after several failed attempts by vets to remove a woolly hat that she accidentally swallowed, the Cincinnati Zoo announced Thursday.",
-    "source": "Phys.org",
-    "published": "2026-11-20T08:40:24+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "t2fe412bc",
-    "origin": "feed",
-    "title": "Nature's multilayered defenses against crop pests and viruses revealed",
-    "url": "https://phys.org/news/2026-11-nature-multilayered-defenses-crop-pests.html",
-    "summary": "Researchers from the University of Nottingham, in collaboration with Syngenta and Keele University, have discovered how a commercial barley hybrid uses three complementary natural defenses to protect itself against aphids and the damaging viruses they spread. The findings could help breeders develop crops with stronger natural protection against pests and diseases.",
-    "source": "Phys.org",
-    "published": "2026-11-20T08:10:02+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
     "id": "t3d02766e",
     "origin": "feed",
     "title": "The BepiColombo spacecraft is finally entering orbit around Mercury",
@@ -280,6 +485,16 @@
     "text_file": "state/sources/tf3a74cd5.txt"
   },
   {
+    "id": "t85eb8837",
+    "origin": "feed",
+    "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
+    "summary": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity and the growth of cosmic giants.",
+    "source": "ScienceDaily",
+    "published": "2026-11-20T05:41:16+00:00",
+    "text_file": "state/sources/t85eb8837.txt"
+  },
+  {
     "id": "t8b29b476",
     "origin": "feed",
     "title": "As Nepal celebrates the crow, urban sprawl and waste drive strain",
@@ -288,15 +503,6 @@
     "source": "Mongabay",
     "published": "2026-11-20T05:33:03+00:00",
     "text_file": "state/sources/t8b29b476.txt"
-  },
-  {
-    "id": "t03e2fb8f",
-    "origin": "feed",
-    "title": "Data centers damage air quality long-distance, study reveals",
-    "url": "https://phys.org/news/2026-11-centers-air-quality-distance-reveals.html",
-    "summary": "The rapid expansion of data centers for artificial intelligence causes negative health and air quality impacts in regions far from where the brick-and-mortar facilities are located, according to a new study by MIT researchers.",
-    "source": "Phys.org",
-    "published": "2026-11-20T05:13:51+00:00"
   },
   {
     "id": "t7d625a5c",
@@ -329,40 +535,14 @@
     "text_file": "state/sources/tea6f6bfd.txt"
   },
   {
-    "id": "tac0fec71",
+    "id": "t47da8a8d",
     "origin": "feed",
-    "title": "computor: AI tutor as a programming learning aid",
-    "url": "https://phys.org/news/2026-11-computor-ai-aid.html",
-    "summary": "Artificial intelligence is now capable of writing entire computer programs. This poses a challenge for university education. How can students still learn to program for themselves if an AI can do the work for them? Students should be able to use AI tools effectively, but they must also understand how programs work and how to troubleshoot errors. At the Institute of Theoretical and Computational Ph",
-    "source": "Phys.org",
-    "published": "2026-11-20T04:40:02+00:00"
-  },
-  {
-    "id": "t5ac4b7e6",
-    "origin": "feed",
-    "title": "How nature-based solutions are failing informal settlements",
-    "url": "https://phys.org/news/2026-11-nature-based-solutions-settlements.html",
-    "summary": "New research from UCT says nature-based solutions for climate adaptation must move beyond participation to power-sharing partnerships that recognize lived experiences and relationships with nature.",
-    "source": "Phys.org",
-    "published": "2026-11-20T03:40:02+00:00"
-  },
-  {
-    "id": "t1a47aed3",
-    "origin": "feed",
-    "title": "Extreme weather poses growing risks to global oil and natural gas shipping, new IEA report finds",
-    "url": "https://phys.org/news/2026-11-extreme-weather-poses-global-oil.html",
-    "summary": "Extreme weather events are posing significant risks to international oil and natural gas shipping, with the potential to damage critical infrastructure, disrupt major trade routes and threaten energy security, according to a new IEA report.",
-    "source": "Phys.org",
-    "published": "2026-11-20T03:20:06+00:00"
-  },
-  {
-    "id": "tf5435c32",
-    "origin": "feed",
-    "title": "AI virtual cell technology could reveal how genetic changes and drugs alter cells",
-    "url": "https://phys.org/news/2026-11-ai-virtual-cell-technology-reveal.html",
-    "summary": "Today's artificial intelligence models can predict whether someone with a genetic change will develop a disease, but cannot answer two critical questions: Why did the disease occur, and how do we design a treatment?",
-    "source": "Phys.org",
-    "published": "2026-11-20T03:00:06+00:00"
+    "title": "A 3-million-year-old child just made human evolution far more complicated",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
+    "summary": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary family tree. The discovery challenges a century of assumptions and reveals how dramatic climate changes helped shape a surprisingly complex story of human origins.",
+    "source": "ScienceDaily",
+    "published": "2026-11-20T03:17:52+00:00",
+    "text_file": "state/sources/t47da8a8d.txt"
   },
   {
     "id": "tbf367e0a",
@@ -385,6 +565,16 @@
     "text_file": "state/sources/t14d658a3.txt"
   },
   {
+    "id": "t7b38ae8c",
+    "origin": "feed",
+    "title": "How AI is affecting science careers",
+    "url": "https://www.nature.com/articles/d41586-026-03680-1",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-20T00:00:00+00:00",
+    "text_file": "state/sources/t7b38ae8c.txt"
+  },
+  {
     "id": "t8bc06533",
     "origin": "feed",
     "title": "Lifting weights reduces muscle loss from obesity drugs",
@@ -395,6 +585,16 @@
     "text_file": "state/sources/t8bc06533.txt"
   },
   {
+    "id": "t11df84c4",
+    "origin": "feed",
+    "title": "Fraud helps little fire ants to survive and conquer",
+    "url": "https://www.nature.com/articles/d41586-026-03776-8",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-20T00:00:00+00:00",
+    "text_file": "state/sources/t11df84c4.txt"
+  },
+  {
     "id": "t0d9c1362",
     "origin": "feed",
     "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
@@ -403,6 +603,26 @@
     "source": "Nature",
     "published": "2026-11-20T00:00:00+00:00",
     "text_file": "state/sources/t0d9c1362.txt"
+  },
+  {
+    "id": "t19fc4c47",
+    "origin": "feed",
+    "title": "‘Incredibly frustrating’: prestigious fellowship applications close in just 21 hours",
+    "url": "https://www.nature.com/articles/d41586-026-03805-6",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-20T00:00:00+00:00",
+    "text_file": "state/sources/t19fc4c47.txt"
+  },
+  {
+    "id": "t5ef96005",
+    "origin": "feed",
+    "title": "US science academy urges journals to fix errors more quickly",
+    "url": "https://www.nature.com/articles/d41586-026-03787-5",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-20T00:00:00+00:00",
+    "text_file": "state/sources/t5ef96005.txt"
   },
   {
     "id": "taa22478d",
@@ -421,8 +641,16 @@
     "url": "https://www.nature.com/articles/d41586-026-03519-9",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-20T00:00:00+00:00",
-    "text_file": "state/sources/t84506e76.txt"
+    "published": "2026-11-20T00:00:00+00:00"
+  },
+  {
+    "id": "t81bb2fc4",
+    "origin": "feed",
+    "title": "Claude, find me a planet: amateur astronomers are using AI with mixed results",
+    "url": "https://www.nature.com/articles/d41586-026-03790-w",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-20T00:00:00+00:00"
   },
   {
     "id": "t88266f14",
@@ -431,8 +659,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03465-6",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-20T00:00:00+00:00",
-    "text_file": "state/sources/t88266f14.txt"
+    "published": "2026-11-20T00:00:00+00:00"
   },
   {
     "id": "t37c7f374",
@@ -491,8 +718,7 @@
     "url": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
     "summary": "A new set of slo-mo videos gives us a tower's-eye view of the first-ever catch of a Starship upper stage, a milestone SpaceX achieved last weekend.",
     "source": "Space.com",
-    "published": "2026-11-19T22:00:00+00:00",
-    "text_file": "state/sources/tc7695e50.txt"
+    "published": "2026-11-19T22:00:00+00:00"
   },
   {
     "id": "t0e9c8861",
@@ -571,8 +797,7 @@
     "url": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
     "summary": "Japan's space agency has decided to switch destinations and objectives for the final act of its Hayabusa2 asteroid mission, due to problems with the spacecraft's ion thrusters.",
     "source": "Space.com",
-    "published": "2026-11-19T20:00:00+00:00",
-    "text_file": "state/sources/t79eeb97f.txt"
+    "published": "2026-11-19T20:00:00+00:00"
   },
   {
     "id": "tad3e73c0",
@@ -611,8 +836,7 @@
     "url": "https://news.mongabay.com/2026/11/catching-more-plastic-than-fish-in-sierra-leones-coastal-mahera/",
     "summary": "PORT LOKO, Sierra Leone — On a rainy Saturday morning, 57-year-old fisher Sheriff Kamara sat among other community members inside a wooden makeshift shelter in Sierra Leone’s Mahera Beach, waiting for the weather to improve. Along the shoreline, discarded plastic bottles, water sachets, bags and food wrappers lay scattered among old footwear and foam. For […]",
     "source": "Mongabay",
-    "published": "2026-11-19T19:22:12+00:00",
-    "text_file": "state/sources/t7d258996.txt"
+    "published": "2026-11-19T19:22:12+00:00"
   },
   {
     "id": "t7240dec6",
@@ -641,8 +865,7 @@
     "url": "https://news.mongabay.com/short-article/2026/11/peruvian-officials-reportedly-increase-tally-to-more-than-12000-tarantulas-in-recent-seizure/",
     "summary": "Peruvian authorities have updated the number of tarantulas seized in a recent wildlife trafficking case from 3,000 to more than 12,000, according to South American media reports. The final count of 12,796 seized spiders was reportedly announced by the Peruvian National Police (PNP). The authorities said they believe these arachnids are worth more than half […]",
     "source": "Mongabay",
-    "published": "2026-11-19T19:11:03+00:00",
-    "text_file": "state/sources/t91e76207.txt"
+    "published": "2026-11-19T19:11:03+00:00"
   },
   {
     "id": "t61fdcee2",
@@ -680,8 +903,7 @@
     "url": "https://www.scientificamerican.com/article/weve-been-wrong-about-how-language-is-produced-in-the-brain-for-150-years/",
     "summary": "A new study has upended the classic story of how language is produced in the brain",
     "source": "Scientific American",
-    "published": "2026-11-19T19:00:00+00:00",
-    "text_file": "state/sources/tfda996bc.txt"
+    "published": "2026-11-19T19:00:00+00:00"
   },
   {
     "id": "t2e880d58",
@@ -755,8 +977,7 @@
     "url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "A nearly 8-metre-long species of orca lived in the North Sea over 2 million years ago. Its discovery suggests orcas evolved a diet of marine mammals earlier than scientists thought",
     "source": "New Scientist",
-    "published": "2026-11-19T18:00:00+00:00",
-    "text_file": "state/sources/t58851156.txt"
+    "published": "2026-11-19T18:00:00+00:00"
   },
   {
     "id": "t11eb2ab5",
@@ -820,8 +1041,7 @@
     "url": "https://www.newscientist.com/article/2599918-woman-entered-hibernation-like-state-during-winter-for-more-than-30-years/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "Researchers studying brains donated for scientific research stumbled upon the remarkable case of a woman who went through prolonged periods of reduced activity in which her body temperature dropped to as low as 31°C",
     "source": "New Scientist",
-    "published": "2026-11-19T16:24:26+00:00",
-    "text_file": "state/sources/tb01e0d13.txt"
+    "published": "2026-11-19T16:24:26+00:00"
   },
   {
     "id": "t5773e6a4",
@@ -832,15 +1052,6 @@
     "source": "Science News",
     "published": "2026-11-19T16:00:00+00:00",
     "text_file": "state/sources/t5773e6a4.txt"
-  },
-  {
-    "id": "tda290f85",
-    "origin": "feed",
-    "title": "Netflix's '3 Body Problem' season 2 trailer gives us a release date and a chilling warning: 'They are coming to exterminate us'",
-    "url": "https://www.space.com/entertainment/space-movies-shows/netflixs-3-body-problem-season-2-trailer-gives-us-a-release-date-and-a-chilling-warning-they-are-coming-to-exterminate-us",
-    "summary": "'They haven’t traveled 24 trillion miles to negotiate. They are coming to exterminate us.'",
-    "source": "Space.com",
-    "published": "2026-11-19T16:00:00+00:00"
   },
   {
     "id": "t230e1560",
@@ -870,15 +1081,6 @@
     "summary": "LONDON — On Nov. 10, Mongabay went to the site of the annual meeting of the body that regulates fishing in the northeastern Atlantic, where a little-known geopolitical dispute over marine resources was playing out behind closed doors. The North-East Atlantic Fisheries Commission (NEAFC), a multilateral body, governs the fishing of three major stocks of fish […]",
     "source": "Mongabay",
     "published": "2026-11-19T15:13:44+00:00"
-  },
-  {
-    "id": "tf10308fd",
-    "origin": "feed",
-    "title": "Empire State Building glows gold for NASA's Voyager spacecraft | Space photo of the day for Nov. 19, 2026",
-    "url": "https://www.space.com/space-exploration/voyager/empire-state-building-glows-gold-for-nasas-voyager-spacecraft-space-photo-of-the-day-for-nov-19-2026",
-    "summary": "The Empire State Building is illuminated in gold to celebrate Voyager 1 hitting one light-day from Earth.",
-    "source": "Space.com",
-    "published": "2026-11-19T15:00:00+00:00"
   },
   {
     "id": "t634743bc",
@@ -936,26 +1138,7 @@
     "url": "https://eos.org/articles/changing-arctic-waters-reshape-life-from-the-seafloor-to-the-coastlines",
     "summary": "More than a decade of observations has revealed the many ways that the Arctic Ocean’s chemistry is changing, affecting the marine life and human communities that rely on its resources.",
     "source": "Eos (AGU)",
-    "published": "2026-11-19T13:49:11+00:00",
-    "text_file": "state/sources/t24a3ad85.txt"
-  },
-  {
-    "id": "t123e8d26",
-    "origin": "feed",
-    "title": "How one tiny island made conservation work",
-    "url": "https://news.mongabay.com/short-article/2026/11/how-one-tiny-island-made-conservation-work/",
-    "summary": "Out in the Bristol Channel, nestled between Wales and England, the rugged island of Lundy is one of the UK’s most pioneering conservation stories. Watch the full story.",
-    "source": "Mongabay",
-    "published": "2026-11-19T12:34:42+00:00"
-  },
-  {
-    "id": "tf3198f4b",
-    "origin": "feed",
-    "title": "Central-north Amazonia has experienced an ‘alarming’ increase in temperatures: Study",
-    "url": "https://news.mongabay.com/2026/11/central-north-amazonia-has-experienced-an-alarming-increase-in-temperatures-study/",
-    "summary": "A small team of scientists was counting plants for a forest census near Manaus in northern Brazil when fire season started in October 2023. Some days the smoke was too thick to see; on other days it was too hot to wear conventional masks, so Aretha Guimarães, a biologist with Brazil’s National Institute of Amazonian […]",
-    "source": "Mongabay",
-    "published": "2026-11-19T12:00:27+00:00"
+    "published": "2026-11-19T13:49:11+00:00"
   },
   {
     "id": "t8693248f",
@@ -965,15 +1148,6 @@
     "summary": "Particulate matter from kitchens is the largest source of air pollution during lunch and dinner in the city of London, an analysis shows",
     "source": "New Scientist",
     "published": "2026-11-19T12:00:00+00:00"
-  },
-  {
-    "id": "t4d6c1d72",
-    "origin": "feed",
-    "title": "El Niño and King Tides will tear up California’s coast this winter",
-    "url": "https://www.scientificamerican.com/article/el-nino-and-king-tides-will-tear-up-californias-coast-this-winter/",
-    "summary": "Ocean waters off California are already at record heights, setting the stage for a winter of severe flooding",
-    "source": "Scientific American",
-    "published": "2026-11-19T11:30:00+00:00"
   },
   {
     "id": "tcced664d",
@@ -1002,8 +1176,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
     "summary": "Scientists have discovered a strange bacterium hiding beneath the skin of deep-sea creatures known as sea pigs, revealing an unexpected biological partnership. The microbe has an unusually tiny genome, yet more than a quarter of its DNA is devoted to making surface proteins, some of them exceptionally large. Researchers suspect it depends heavily on its host for survival, but what the sea pigs gai",
     "source": "ScienceDaily",
-    "published": "2026-11-19T10:33:03+00:00",
-    "text_file": "state/sources/t93aa0cf8.txt"
+    "published": "2026-11-19T10:33:03+00:00"
   },
   {
     "id": "t98f0f0a5",
@@ -1012,26 +1185,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
     "summary": "Hydrogen flames can shift from bright orange to nearly invisible depending on something unexpected: tiny amounts of sodium floating in the air. Scientists say this discovery could help make future hydrogen-powered stoves and ovens safer by replacing visual flame detection with specialized sensors.",
     "source": "ScienceDaily",
-    "published": "2026-11-19T10:10:24+00:00",
-    "text_file": "state/sources/t98f0f0a5.txt"
-  },
-  {
-    "id": "t78c630c5",
-    "origin": "feed",
-    "title": "Otherworldly image of a porcelain crab wins ocean photography contest",
-    "url": "https://www.newscientist.com/article/2599610-otherworldly-image-of-a-porcelain-crab-wins-ocean-photography-contest/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "Tammy Nicholas's stunning photo took the top slot in the Oceania Photo Contest, with shots of sperm whales, water lilies and sardines also highly commended by the awards",
-    "source": "New Scientist",
-    "published": "2026-11-19T10:00:00+00:00"
-  },
-  {
-    "id": "t17a1db22",
-    "origin": "feed",
-    "title": "The 28 best popular science books of 2026",
-    "url": "https://www.newscientist.com/article/2599527-the-28-best-popular-science-books-of-2026/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "From space-time to saunas, here are the very best popular science books published this year that you should be adding to your Christmas list",
-    "source": "New Scientist",
-    "published": "2026-11-19T09:00:00+00:00"
+    "published": "2026-11-19T10:10:24+00:00"
   },
   {
     "id": "t3c9480ea",
@@ -1087,8 +1241,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
     "summary": "A major new investigation into Stonehenge’s mysterious six-ton Altar Stone has uncovered fresh clues while ruling out several suspected sources. Once thought to have originated in Wales, the massive sandstone slab is now believed to have come from northeastern Scotland, although researchers have yet to find an exact match.",
     "source": "ScienceDaily",
-    "published": "2026-11-19T03:11:22+00:00",
-    "text_file": "state/sources/t15842642.txt"
+    "published": "2026-11-19T03:11:22+00:00"
   },
   {
     "id": "tb7e52b65",
@@ -1097,8 +1250,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
     "summary": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still shape what we choose.",
     "source": "ScienceDaily",
-    "published": "2026-11-19T01:21:35+00:00",
-    "text_file": "state/sources/tb7e52b65.txt"
+    "published": "2026-11-19T01:21:35+00:00"
   },
   {
     "id": "t313ed210",
@@ -1117,60 +1269,13 @@
     "url": "https://www.nature.com/articles/s41586-026-11388-5",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00",
-    "text_file": "state/sources/t7c82c519.txt"
+    "published": "2026-11-19T00:00:00+00:00"
   },
   {
     "id": "t37773501",
     "origin": "feed",
     "title": "Calcium catalysed nucleophilic fluorination",
     "url": "https://www.nature.com/articles/s41586-026-11445-z",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00",
-    "text_file": "state/sources/t37773501.txt"
-  },
-  {
-    "id": "t2a2f5abe",
-    "origin": "feed",
-    "title": "More tropical cyclones hit peak fury at the worst possible time",
-    "url": "https://www.nature.com/articles/d41586-026-03748-y",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00"
-  },
-  {
-    "id": "tb6898e08",
-    "origin": "feed",
-    "title": "People entering old age now have better memory than their parents did",
-    "url": "https://www.nature.com/articles/d41586-026-03783-9",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00"
-  },
-  {
-    "id": "tc60921ab",
-    "origin": "feed",
-    "title": "University students are biggest spreaders of COVID",
-    "url": "https://www.nature.com/articles/d41586-026-03746-0",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00"
-  },
-  {
-    "id": "t2ecc608c",
-    "origin": "feed",
-    "title": "Sore throat? The brain has surprising control over how ill you feel",
-    "url": "https://www.nature.com/articles/d41586-026-03774-w",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00"
-  },
-  {
-    "id": "t2b675cf3",
-    "origin": "feed",
-    "title": "AI is ditching hallucinated references — and other bad habits",
-    "url": "https://www.nature.com/articles/d41586-026-03753-1",
     "summary": "",
     "source": "Nature",
     "published": "2026-11-19T00:00:00+00:00"
@@ -1203,15 +1308,6 @@
     "published": "2026-11-18T21:31:24+00:00"
   },
   {
-    "id": "te23ee2ff",
-    "origin": "feed",
-    "title": "Too much exercise could leave your brain stuck in overdrive",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
-    "summary": "Exercising too much without adequate recovery may disrupt brain chemistry in surprising ways. Scientists found that mice subjected to prolonged, intense training had elevated dopamine levels in a brain region linked to memory and emotions, even 48 hours after exercising. The discovery could help explain why overtrained athletes sometimes struggle with insomnia, anxiety, and persistent fatigue, alt",
-    "source": "ScienceDaily",
-    "published": "2026-11-18T21:28:29+00:00"
-  },
-  {
     "id": "t8f006f4f",
     "origin": "feed",
     "title": "Neanderthal genes linked to lower risk of schizophrenia in modern humans",
@@ -1236,8 +1332,7 @@
     "url": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao",
     "summary": "The finding offers clues to why some pairs of stars combine while others stay separate.",
     "source": "Science News",
-    "published": "2026-11-18T16:00:00+00:00",
-    "text_file": "state/sources/te7b1fb34.txt"
+    "published": "2026-11-18T16:00:00+00:00"
   },
   {
     "id": "ta8c81f68",
@@ -1256,8 +1351,7 @@
     "url": "https://www.sciencenews.org/article/public-health-2026-outbreaks-measles",
     "summary": "Outbreaks of measles, cyclosporiasis, Ebola and hantavirus exposed a weakened U.S. public health response.",
     "source": "Science News",
-    "published": "2026-11-18T14:00:00+00:00",
-    "text_file": "state/sources/t3b512e5d.txt"
+    "published": "2026-11-18T14:00:00+00:00"
   },
   {
     "id": "t78c2ab84",
@@ -1266,8 +1360,7 @@
     "url": "https://eos.org/articles/low-viscosity-lavas-reveal-a-key-to-marss-past",
     "summary": "Geochemistry data from the Perseverance rover show how similarly Mars’s and Earth’s interiors evolved.",
     "source": "Eos (AGU)",
-    "published": "2026-11-18T13:36:16+00:00",
-    "text_file": "state/sources/t78c2ab84.txt"
+    "published": "2026-11-18T13:36:16+00:00"
   },
   {
     "id": "t1ec85b64",
@@ -1276,35 +1369,7 @@
     "url": "https://eos.org/editor-highlights/rethinking-where-rivers-begin",
     "summary": "A national analysis identifies seven types of headwater systems in the contiguous United States, revealing that only about 30% fit the familiar perception of steep, forested landscapes.",
     "source": "Eos (AGU)",
-    "published": "2026-11-18T13:00:00+00:00",
-    "text_file": "state/sources/t1ec85b64.txt"
-  },
-  {
-    "id": "td6d7c981",
-    "origin": "feed",
-    "title": "New discovery reveals what may be holding back room-temperature superconductors",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
-    "summary": "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature. Scientists discovered that electrons can form stable pairs at much higher temperatures than previously understood, suggesting that a different obstacle may be preventing room-temperature superconductivity.",
-    "source": "ScienceDaily",
-    "published": "2026-11-18T12:16:46+00:00"
-  },
-  {
-    "id": "tf9401287",
-    "origin": "feed",
-    "title": "MIT discovers that aging weakens the brain’s nighttime cleaning system",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
-    "summary": "MIT researchers have discovered that the brain’s natural waste-removal system becomes significantly less effective during sleep as people age. The decline is linked to weaker deep-sleep brain waves and changes in blood flow, potentially offering new clues about why aging increases the risk of Alzheimer's disease and dementia. Surprisingly, some older adults retain the same powerful cleansing waves",
-    "source": "ScienceDaily",
-    "published": "2026-11-18T12:06:44+00:00"
-  },
-  {
-    "id": "t73c78aa6",
-    "origin": "feed",
-    "title": "Why do farts smell so bad? The secret is brewing in your gut",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
-    "summary": "The secret behind truly terrible-smelling farts lies in tiny amounts of sulfur-containing gases produced by gut bacteria as they digest food. Scientists reveal why some foods make farts smell worse, why loud farts aren't always the stinkiest, and how our noses evolved to detect these powerful odors.",
-    "source": "ScienceDaily",
-    "published": "2026-11-18T11:55:21+00:00"
+    "published": "2026-11-18T13:00:00+00:00"
   },
   {
     "id": "ta66e7faf",
@@ -1361,33 +1426,6 @@
     "published": "2026-11-17T14:33:07+00:00"
   },
   {
-    "id": "td129a93f",
-    "origin": "feed",
-    "title": "Scientists Have Discovered a Thriving Reef That Was Once an Ancient Forest",
-    "url": "https://eos.org/articles/scientists-have-discovered-a-thriving-reef-that-was-once-an-ancient-forest",
-    "summary": "Carbon-rich peat reefs in Mozambique host significant biodiversity, yet they are often overlooked in carbon and climate mapping.",
-    "source": "Eos (AGU)",
-    "published": "2026-11-17T14:04:17+00:00"
-  },
-  {
-    "id": "t15fbbc28",
-    "origin": "feed",
-    "title": "Soil Water Content Determined by Elastic Wave Dispersion",
-    "url": "https://eos.org/editor-highlights/soil-water-content-determined-by-elastic-wave-dispersion",
-    "summary": "Soil water content is a crucial parameter for the stability of civil engineering structures; estimating it by exploiting the dispersion of compressional waves now appears feasible.",
-    "source": "Eos (AGU)",
-    "published": "2026-11-17T14:00:00+00:00"
-  },
-  {
-    "id": "t6d070656",
-    "origin": "feed",
-    "title": "Rapid-Scan Satellite Data Offer Clues to Typhoon Intensity",
-    "url": "https://eos.org/research-spotlights/rapid-scan-satellite-data-offer-clues-to-typhoon-intensity",
-    "summary": "High-frequency wind estimates derived from Fengyun-4B satellite images reveal changing typhoon structure and may improve short-term intensity predictions.",
-    "source": "Eos (AGU)",
-    "published": "2026-11-17T13:59:57+00:00"
-  },
-  {
     "id": "t200e11e7",
     "origin": "feed",
     "title": "What to know about kratom and its powerful derivatives",
@@ -1406,15 +1444,6 @@
     "published": "2026-11-16T18:30:00+00:00"
   },
   {
-    "id": "tcf45dc23",
-    "origin": "feed",
-    "title": "We know how to stop computer worms. But what if AI helps them persist?",
-    "url": "https://www.sciencenews.org/article/ai-computer-worm-cyberattack-octopus",
-    "summary": "AI worms aren't real-world threats yet. But tests show they can adapt and spread like octopuses or slime molds, exploiting each device's weaknesses.",
-    "source": "Science News",
-    "published": "2026-11-16T16:00:00+00:00"
-  },
-  {
     "id": "t7cdbe86b",
     "origin": "feed",
     "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
@@ -1423,15 +1452,6 @@
     "source": "Quanta Magazine",
     "published": "2026-11-16T15:15:33+00:00",
     "text_file": "state/sources/t7cdbe86b.txt"
-  },
-  {
-    "id": "t69cec503",
-    "origin": "feed",
-    "title": "Most transgender youth satisfied after choosing hormone therapy",
-    "url": "https://www.sciencenews.org/article/hormone-therapy-transgender-youth",
-    "summary": "In the largest such study yet, 97 percent of U.S. transgender and gender diverse young people say taking hormone therapy was the right decision.",
-    "source": "Science News",
-    "published": "2026-11-16T14:00:00+00:00"
   },
   {
     "id": "t3fa6e64b",
