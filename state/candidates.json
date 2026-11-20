@@ -1,5 +1,15 @@
 [
   {
+    "id": "tfe212e65",
+    "origin": "feed",
+    "title": "Organizational science offers new lens for studying extremism",
+    "url": "https://phys.org/news/2026-11-organizational-science-lens-extremism.html",
+    "summary": "Accepting the Republican nomination for president in 1964, Barry Goldwater declared, \"I would remind you that extremism in the defense of liberty is no vice!\" His statement illustrates how the cause being defended can shape judgments about the actions taken in its name.",
+    "source": "Phys.org",
+    "published": "2026-11-20T01:40:04+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
     "id": "tbb2a9edb",
     "origin": "feed",
     "title": "New study: The last bird to go extinct in NZ has lessons for saving other species",
@@ -18,6 +28,16 @@
     "source": "Phys.org",
     "published": "2026-11-20T01:00:01+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tfddde9ec",
+    "origin": "feed",
+    "title": "More climate money for Africa? Europe says use what's already pledged",
+    "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+    "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+    "source": "BBC Science",
+    "published": "2026-11-20T00:54:50+00:00",
+    "text_file": "state/sources/tfddde9ec.txt"
   },
   {
     "id": "tee6c271d",
@@ -76,8 +96,17 @@
     "url": "https://phys.org/news/2026-11-ai-peer.html",
     "summary": "Academic journals are flooded with papers. At publishing giant Elsevier, the number of submissions rose 56% in just three years—from 2.7 million in 2022 to 4.2 million in 2025. That's a lot more papers. And peer reviewers, who generally volunteer their time, were already stretched thin.",
     "source": "Phys.org",
-    "published": "2026-11-20T00:10:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T00:10:01+00:00"
+  },
+  {
+    "id": "t14d658a3",
+    "origin": "feed",
+    "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+    "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+    "summary": "BepiColombo double probe will map planet’s surface and study its interior to shed light on its unusually large core After a voyage of more than eight years and 6bn miles, a joint European-Japanese space mission has arrived at Mercury and is preparing to swing into orbit around the tiny, barely explored world. The BepiColombo mission will become only the second in history to circle the first rock f",
+    "source": "The Guardian Science",
+    "published": "2026-11-20T00:01:15+00:00",
+    "text_file": "state/sources/t14d658a3.txt"
   },
   {
     "id": "t599019c9",
@@ -124,15 +153,6 @@
     "summary": "In an ordinary metal, electrons behave like well-defined particles that occasionally bump into imperfections or vibrations of the crystal. Many materials with strong electron–electron interactions, including the copper-oxide (cuprate) superconductors, break these rules. In these \"strange metals,\" electrical resistance rises in a straight line with temperature over a very wide range. Electrons seem",
     "source": "Phys.org",
     "published": "2026-11-19T23:20:11+00:00"
-  },
-  {
-    "id": "t8b6fad81",
-    "origin": "feed",
-    "title": "Euclid's hunt for strong gravitational lenses is off to a strong start",
-    "url": "https://phys.org/news/2026-11-euclid-strong-gravitational-lenses.html",
-    "summary": "If dark matter and dark energy were a part of our everyday lives, we would live in a perpetual state of dumbfoundedness. Imagine living in a world where 95% of the matter and energy were invisible and undetectable. It would be impossible to make sense of our surroundings.",
-    "source": "Phys.org",
-    "published": "2026-11-19T23:20:06+00:00"
   },
   {
     "id": "t6e15cb24",
@@ -195,6 +215,46 @@
     "text_file": "state/sources/t9115d4a0.txt"
   },
   {
+    "id": "tf1e64ba0",
+    "origin": "feed",
+    "title": "The U.S. Army is about to blow up a cache of dangerous lead azide in Iowa—here’s what to know",
+    "url": "https://www.scientificamerican.com/article/the-u-s-army-is-about-to-blow-up-a-cache-of-dangerous-lead-azide-in-iowa-heres-what-to-know/",
+    "summary": "Lead azide is used to make explosives, but it can also form unstable crystals that can detonate spontaneously",
+    "source": "Scientific American",
+    "published": "2026-11-19T21:20:00+00:00",
+    "text_file": "state/sources/tf1e64ba0.txt"
+  },
+  {
+    "id": "t4dda2a82",
+    "origin": "feed",
+    "title": "印度学生助力大规模水质监测",
+    "url": "https://eos.org/research-spotlights/students-enable-widespread-water-monitoring-in-india-chinese",
+    "summary": "高中生及其他志愿者在监测水体污染物方面的表现，与专业人员不相上下。",
+    "source": "Eos (AGU)",
+    "published": "2026-11-19T21:16:29+00:00",
+    "text_file": "state/sources/t4dda2a82.txt"
+  },
+  {
+    "id": "t934285e4",
+    "origin": "feed",
+    "title": "BBC Inside Science",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct978m?at_medium=RSS&at_campaign=rss",
+    "summary": "SpaceX is on the verge of making space affordable.",
+    "source": "BBC Science",
+    "published": "2026-11-19T21:00:00+00:00",
+    "text_file": "state/sources/t934285e4.txt"
+  },
+  {
+    "id": "t06fa35df",
+    "origin": "feed",
+    "title": "FAA ground stop suggests how risky air traffic control upgrades can be",
+    "url": "https://www.scientificamerican.com/article/faa-ground-stop-suggests-how-risky-air-traffic-control-upgrades-can-be/",
+    "summary": "A nationwide ground stop offered one answer. With Thanksgiving days away, experts still aren’t satisfied with the official explanation",
+    "source": "Scientific American",
+    "published": "2026-11-19T20:30:00+00:00",
+    "text_file": "state/sources/t06fa35df.txt"
+  },
+  {
     "id": "t2bc850c5",
     "origin": "feed",
     "title": "New study rewrites the role of a major speech hub in the brain",
@@ -213,6 +273,26 @@
     "source": "Space.com",
     "published": "2026-11-19T20:00:00+00:00",
     "text_file": "state/sources/t79eeb97f.txt"
+  },
+  {
+    "id": "tad3e73c0",
+    "origin": "feed",
+    "title": "Oil firm fined for breaking environmental rules hundreds of times",
+    "url": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Ten charges involved oil, cyanide and other pollutants entering local waterways.",
+    "source": "BBC Science",
+    "published": "2026-11-19T19:58:27+00:00",
+    "text_file": "state/sources/tad3e73c0.txt"
+  },
+  {
+    "id": "t472edcef",
+    "origin": "feed",
+    "title": "Challenge: Public Input on Life and the World in 2075",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+    "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in […]",
+    "source": "NASA",
+    "published": "2026-11-19T19:34:20+00:00",
+    "text_file": "state/sources/t472edcef.txt"
   },
   {
     "id": "t94bd7406",
@@ -265,6 +345,16 @@
     "text_file": "state/sources/t91e76207.txt"
   },
   {
+    "id": "t61fdcee2",
+    "origin": "feed",
+    "title": "Voyager 1 is a light-day away. What now?",
+    "url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/",
+    "summary": "NASA scientists gathered on Thursday to discuss the mission’s past, present and future",
+    "source": "Scientific American",
+    "published": "2026-11-19T19:02:00+00:00",
+    "text_file": "state/sources/t61fdcee2.txt"
+  },
+  {
     "id": "t7389df7e",
     "origin": "feed",
     "title": "A brain region known for listening helps us speak",
@@ -285,6 +375,36 @@
     "text_file": "state/sources/t35b435c2.txt"
   },
   {
+    "id": "tfda996bc",
+    "origin": "feed",
+    "title": "We’ve been wrong about how language is produced in the brain for 150 years",
+    "url": "https://www.scientificamerican.com/article/weve-been-wrong-about-how-language-is-produced-in-the-brain-for-150-years/",
+    "summary": "A new study has upended the classic story of how language is produced in the brain",
+    "source": "Scientific American",
+    "published": "2026-11-19T19:00:00+00:00",
+    "text_file": "state/sources/tfda996bc.txt"
+  },
+  {
+    "id": "t2e880d58",
+    "origin": "feed",
+    "title": "Bringing Python Solutions to Earth Science Challenges",
+    "url": "https://eos.org/editors-vox/bringing-python-solutions-to-earth-science-challenges",
+    "summary": "Python enables geoscientists to analyze and display datasets, with applications including natural hazard and climate monitoring. AGU is back with the 2 nd edition of a popular Python programming workbook.",
+    "source": "Eos (AGU)",
+    "published": "2026-11-19T18:52:04+00:00",
+    "text_file": "state/sources/t2e880d58.txt"
+  },
+  {
+    "id": "tdcfa3f19",
+    "origin": "feed",
+    "title": "‘A watershed moment’: Researchers unveil first-of-its-kind blood test for CTE",
+    "url": "https://www.scientificamerican.com/article/a-watershed-moment-researchers-unveil-first-of-its-kind-blood-test-for-cte/",
+    "summary": "If validated in larger trials, the test could help doctors diagnose the neurodegenerative disease before death",
+    "source": "Scientific American",
+    "published": "2026-11-19T18:50:00+00:00",
+    "text_file": "state/sources/tdcfa3f19.txt"
+  },
+  {
     "id": "tc885634c",
     "origin": "feed",
     "title": "There is no going back ‘to the way it was before’ the Iran war’s energy shock, IEA says",
@@ -303,6 +423,16 @@
     "source": "Live Science",
     "published": "2026-11-19T18:27:15+00:00",
     "text_file": "state/sources/t2941a850.txt"
+  },
+  {
+    "id": "t1c5ec896",
+    "origin": "feed",
+    "title": "Chinese AI models reveal clues pointing to restricted Blackwell chips",
+    "url": "https://www.scientificamerican.com/article/chinese-ai-models-reveal-clues-pointing-to-restricted-blackwell-chips/",
+    "summary": "The clues are hidden in the random numbers that form an AI model’s starting point—and hint at a new way to trace its origins",
+    "source": "Scientific American",
+    "published": "2026-11-19T18:20:00+00:00",
+    "text_file": "state/sources/t1c5ec896.txt"
   },
   {
     "id": "ta8fac4e9",
@@ -364,6 +494,26 @@
     "text_file": "state/sources/tea40f5fa.txt"
   },
   {
+    "id": "t68fc3814",
+    "origin": "feed",
+    "title": "Astronomers just witnessed a dying star gobble up its neighbor in real time",
+    "url": "https://www.scientificamerican.com/article/astronomers-just-witnessed-a-dying-star-gobble-up-its-neighbor-in-real-time/",
+    "summary": "The stellar collision of a dying star with its smaller companion may have left behind a single, rejuvenated remnant, astronomers say",
+    "source": "Scientific American",
+    "published": "2026-11-19T17:00:00+00:00",
+    "text_file": "state/sources/t68fc3814.txt"
+  },
+  {
+    "id": "tfdbd9587",
+    "origin": "feed",
+    "title": "Rare rhino's first steps captured on video at zoo",
+    "url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Zookeepers say the rhino's birth is a \"special moment\" for the under-threat one horned species.",
+    "source": "BBC Science",
+    "published": "2026-11-19T16:28:41+00:00",
+    "text_file": "state/sources/tfdbd9587.txt"
+  },
+  {
     "id": "tb01e0d13",
     "origin": "feed",
     "title": "Woman entered hibernation-like state during winter for more than 30 years",
@@ -393,6 +543,26 @@
     "published": "2026-11-19T16:00:00+00:00"
   },
   {
+    "id": "t230e1560",
+    "origin": "feed",
+    "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+    "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+    "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
+    "source": "NASA",
+    "published": "2026-11-19T15:33:55+00:00",
+    "text_file": "state/sources/t230e1560.txt"
+  },
+  {
+    "id": "t470f7b58",
+    "origin": "feed",
+    "title": "Lake Pelku",
+    "url": "https://www.nasa.gov/image-article/lake-pelku/",
+    "summary": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real […]",
+    "source": "NASA",
+    "published": "2026-11-19T15:32:39+00:00",
+    "text_file": "state/sources/t470f7b58.txt"
+  },
+  {
     "id": "t2385b938",
     "origin": "feed",
     "title": "Geopolitical tensions hamper efforts to curb overfishing in waters near Europe",
@@ -412,6 +582,26 @@
     "published": "2026-11-19T15:00:00+00:00"
   },
   {
+    "id": "t634743bc",
+    "origin": "feed",
+    "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+    "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+    "summary": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot […]",
+    "source": "NASA",
+    "published": "2026-11-19T14:44:39+00:00",
+    "text_file": "state/sources/t634743bc.txt"
+  },
+  {
+    "id": "t4cc59e84",
+    "origin": "feed",
+    "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+    "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+    "summary": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:16 a.m. EST) Nov. 18. Voyager team […]",
+    "source": "NASA",
+    "published": "2026-11-19T14:31:15+00:00",
+    "text_file": "state/sources/t4cc59e84.txt"
+  },
+  {
     "id": "tde9900e9",
     "origin": "feed",
     "title": "American science is broken. Meet the people fixing it",
@@ -422,6 +612,15 @@
     "text_file": "state/sources/tde9900e9.txt"
   },
   {
+    "id": "t14a754ca",
+    "origin": "feed",
+    "title": "The AI ‘supertelescope’ that could transform the universe",
+    "url": "https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/",
+    "summary": "Astronomers want to combine data from three new giant telescope surveys into a fourth virtual observatory",
+    "source": "Scientific American",
+    "published": "2026-11-19T14:00:00+00:00"
+  },
+  {
     "id": "t8ea2724e",
     "origin": "feed",
     "title": "Leonid meteor shower thrills stargazers worldwide with colorful sky show (photos/video)",
@@ -429,6 +628,36 @@
     "summary": "From colorful meteors to lingering trails, the Leonids put on a great show this year.",
     "source": "Space.com",
     "published": "2026-11-19T13:58:47+00:00"
+  },
+  {
+    "id": "t69e37879",
+    "origin": "feed",
+    "title": "Detecting Blocked Rain Gauges for Reliable Weather Data",
+    "url": "https://eos.org/articles/detecting-blocked-rain-gauges-for-reliable-weather-data",
+    "summary": "When rain gauges are blocked or broken, they present faulty data. Various methods to detect faulty instruments may work better in different regions, according to new research.",
+    "source": "Eos (AGU)",
+    "published": "2026-11-19T13:50:20+00:00",
+    "text_file": "state/sources/t69e37879.txt"
+  },
+  {
+    "id": "t24a3ad85",
+    "origin": "feed",
+    "title": "Changing Arctic Waters Reshape Life from the Seafloor to the Coastlines",
+    "url": "https://eos.org/articles/changing-arctic-waters-reshape-life-from-the-seafloor-to-the-coastlines",
+    "summary": "More than a decade of observations has revealed the many ways that the Arctic Ocean’s chemistry is changing, affecting the marine life and human communities that rely on its resources.",
+    "source": "Eos (AGU)",
+    "published": "2026-11-19T13:49:11+00:00",
+    "text_file": "state/sources/t24a3ad85.txt"
+  },
+  {
+    "id": "tb0ce29ae",
+    "origin": "feed",
+    "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
+    "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
+    "summary": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
+    "source": "BBC Science",
+    "published": "2026-11-19T13:35:29+00:00",
+    "text_file": "state/sources/tb0ce29ae.txt"
   },
   {
     "id": "t3334349e",
@@ -469,6 +698,15 @@
     "text_file": "state/sources/t8693248f.txt"
   },
   {
+    "id": "t4d6c1d72",
+    "origin": "feed",
+    "title": "El Niño and King Tides will tear up California’s coast this winter",
+    "url": "https://www.scientificamerican.com/article/el-nino-and-king-tides-will-tear-up-californias-coast-this-winter/",
+    "summary": "Ocean waters off California are already at record heights, setting the stage for a winter of severe flooding",
+    "source": "Scientific American",
+    "published": "2026-11-19T11:30:00+00:00"
+  },
+  {
     "id": "tcced664d",
     "origin": "feed",
     "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
@@ -486,6 +724,15 @@
     "summary": "The Voyager 1 probe continues to fly out into interstellar space after its historic distance milestone. NASA expects it to keep working until at least 2027.",
     "source": "Space.com",
     "published": "2026-11-19T11:02:37+00:00"
+  },
+  {
+    "id": "t18df5a24",
+    "origin": "feed",
+    "title": "Ancient Maya site uncovered with ‘vibe archaeology’ ignites firestorm over AI in science",
+    "url": "https://www.scientificamerican.com/article/ancient-maya-site-uncovered-with-vibe-archaeology-ignites-firestorm-over-ai-in-science/",
+    "summary": "Contrary to online claims, AI did not discover an ancient Maya site. But it did spark a clash over how the technology should be used in science",
+    "source": "Scientific American",
+    "published": "2026-11-19T11:00:00+00:00"
   },
   {
     "id": "t8b988991",
@@ -546,6 +793,16 @@
     "text_file": "state/sources/t78c630c5.txt"
   },
   {
+    "id": "t1b143fda",
+    "origin": "feed",
+    "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+    "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+    "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
+    "source": "BBC Science",
+    "published": "2026-11-19T09:21:54+00:00",
+    "text_file": "state/sources/t1b143fda.txt"
+  },
+  {
     "id": "t17a1db22",
     "origin": "feed",
     "title": "The 28 best popular science books of 2026",
@@ -556,6 +813,16 @@
     "text_file": "state/sources/t17a1db22.txt"
   },
   {
+    "id": "t3c9480ea",
+    "origin": "feed",
+    "title": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
+    "url": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
+    "summary": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at risk Climate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts to delay new scientific reports threaten global cooperation on tackling the crisis, one of the world’s leading climate scientists has warned. Johan Rockström, the ",
+    "source": "The Guardian Science",
+    "published": "2026-11-19T07:16:45+00:00",
+    "text_file": "state/sources/t3c9480ea.txt"
+  },
+  {
     "id": "ta0155566",
     "origin": "feed",
     "title": "World Anteater Day: Rewilding and restoration offer hope for enigmatic species",
@@ -563,6 +830,16 @@
     "summary": "World Anteater Day falls on Nov. 19, in recognition of the tube-nosed, ant- and termite-eating animals living across Central and South America. Closely related to sloths, anteaters generally live in trees. The largest species, the giant anteater (Myrmecophaga tridactyla), lives on the ground, though, where it rips open anthills and termite nests with its razor-sharp […]",
     "source": "Mongabay",
     "published": "2026-11-19T06:52:26+00:00"
+  },
+  {
+    "id": "tdf26cfe1",
+    "origin": "feed",
+    "title": "Developer accused of 'environmental vandalism'",
+    "url": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
+    "source": "BBC Science",
+    "published": "2026-11-19T06:09:25+00:00",
+    "text_file": "state/sources/tdf26cfe1.txt"
   },
   {
     "id": "t86e9d96b",
@@ -575,6 +852,46 @@
     "text_file": "state/sources/t86e9d96b.txt"
   },
   {
+    "id": "t07e6ce0b",
+    "origin": "feed",
+    "title": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking",
+    "url": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
+    "summary": "HMCS Spitfire was commissioned by colonial government to protect against Russian warships during the Crimean war The wreck of Australia’s first locally built warship has been discovered 128 years after sinking off the coast of far north Queensland. Marine archaeologists found the remains of Ex HMCS Spitfire on 21 August, the anniversary of its sinking in 1898. Continue reading...",
+    "source": "The Guardian Science",
+    "published": "2026-11-19T05:22:38+00:00",
+    "text_file": "state/sources/t07e6ce0b.txt"
+  },
+  {
+    "id": "t41b2424f",
+    "origin": "feed",
+    "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+    "summary": "APODScienceAPODAPOD: 2026 November 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The Horsehead and Flame Nebulas Explanation: Today’s image",
+    "source": "NASA",
+    "published": "2026-11-19T05:05:00+00:00",
+    "text_file": "state/sources/t41b2424f.txt"
+  },
+  {
+    "id": "tb6a46e31",
+    "origin": "feed",
+    "title": "Could measles and midterms bring down Maha? – podcast",
+    "url": "https://www.theguardian.com/science/audio/2026/nov/19/could-measles-and-midterms-bring-down-maha-podcast",
+    "summary": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years. To find out what this means in practical terms for citizens, Ian Sample hears from the Guardian US health reporter Jessica Glenza. She explains why it comes at an already difficult time for the health secretary, Robert F Kennedy Jr",
+    "source": "The Guardian Science",
+    "published": "2026-11-19T05:00:19+00:00",
+    "text_file": "state/sources/tb6a46e31.txt"
+  },
+  {
+    "id": "t0c57e789",
+    "origin": "feed",
+    "title": "El Niño Rains Paint the Atacama",
+    "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+    "summary": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
+    "source": "NASA",
+    "published": "2026-11-19T05:00:00+00:00",
+    "text_file": "state/sources/t0c57e789.txt"
+  },
+  {
     "id": "t15842642",
     "origin": "feed",
     "title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
@@ -583,6 +900,15 @@
     "source": "ScienceDaily",
     "published": "2026-11-19T03:11:22+00:00",
     "text_file": "state/sources/t15842642.txt"
+  },
+  {
+    "id": "td412c50d",
+    "origin": "feed",
+    "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+    "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+    "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+    "source": "BBC Science",
+    "published": "2026-11-19T02:59:06+00:00"
   },
   {
     "id": "tb7e52b65",
@@ -729,6 +1055,15 @@
     "published": "2026-11-19T00:00:00+00:00"
   },
   {
+    "id": "tb7ed276b",
+    "origin": "feed",
+    "title": "The seven Anthropic founders who are about to become multi-billionaires",
+    "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+    "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+    "source": "BBC Science",
+    "published": "2026-11-18T23:42:07+00:00"
+  },
+  {
     "id": "tc96c15be",
     "origin": "feed",
     "title": "Borneo Indigenous groups turn land rights victory into warning for future generations",
@@ -745,6 +1080,15 @@
     "summary": "More than 300 million years ago, long before dinosaurs roamed Earth, the Chicago area was a steamy, swampy landscape teeming with bizarre creatures. Now, scientists at the Field Museum have identified a previously unrecognized species of ancient amphibian ancestor, revealing new clues about the evolution of frogs and salamanders.",
     "source": "ScienceDaily",
     "published": "2026-11-18T23:24:05+00:00"
+  },
+  {
+    "id": "t2b43fabf",
+    "origin": "feed",
+    "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+    "summary": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus […]",
+    "source": "NASA",
+    "published": "2026-11-18T22:19:17+00:00"
   },
   {
     "id": "tf4cc2f5e",
@@ -774,6 +1118,24 @@
     "published": "2026-11-18T21:21:48+00:00"
   },
   {
+    "id": "taf5d0c95",
+    "origin": "feed",
+    "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
+    "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/",
+    "summary": "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”. Everyone has stress about something – some people […]",
+    "source": "NASA",
+    "published": "2026-11-18T18:58:27+00:00"
+  },
+  {
+    "id": "t0e229a79",
+    "origin": "feed",
+    "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
+    "summary": "NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep […]",
+    "source": "NASA",
+    "published": "2026-11-18T18:12:32+00:00"
+  },
+  {
     "id": "t1e8f6a10",
     "origin": "feed",
     "title": "The real reasons we keep seeing big tech outages – it isn’t just hackers",
@@ -790,6 +1152,44 @@
     "summary": "From a look back at the past 70 years of scientific discovery to a flash forward to the end of the century, we have a host of celebrations for our 70th anniversary",
     "source": "New Scientist",
     "published": "2026-11-18T18:00:00+00:00"
+  },
+  {
+    "id": "t2559e1ab",
+    "origin": "feed",
+    "title": "Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s",
+    "url": "https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s",
+    "summary": "Scientists tell Commons exposure to colibactin in early life is potential driver of early-onset colorectal cancer Exposure to a bacterial toxin in early life has emerged as a leading suspect in the rise of bowel cancer among those under 50, MPs have heard. Cases of early-onset bowel cancer have doubled in many countries in the past two decades, and while rising obesity and a fall in physical activ",
+    "source": "The Guardian Science",
+    "published": "2026-11-18T17:55:14+00:00",
+    "text_file": "state/sources/t2559e1ab.txt"
+  },
+  {
+    "id": "t421fe2bd",
+    "origin": "feed",
+    "title": "Senate committee rejects Trump nominee to lead National Science Foundation",
+    "url": "https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee",
+    "summary": "Committee chair Bill Cassidy, a Republican, said Jim O’Neill ‘did not do enough to stand up for science’ in previous posts Jim O’Neill will not undergo a confirmation hearing on Wednesday to head he National Science Foundation (NSF) because he “did not do enough to stand up for science” in his previous position, said Bill Cassidy, a Republican from Louisiana who is chair of the Senate committee on",
+    "source": "The Guardian Science",
+    "published": "2026-11-18T17:46:34+00:00",
+    "text_file": "state/sources/t421fe2bd.txt"
+  },
+  {
+    "id": "ta96bbee6",
+    "origin": "feed",
+    "title": "The Vulcan rocket failure could haunt U.S. spaceflight for years to come",
+    "url": "https://www.scientificamerican.com/article/the-vulcan-rocket-failure-could-haunt-u-s-spaceflight-for-years-to-come/",
+    "summary": "The latest setback for Vulcan, a next-generation rocket built by United Launch Alliance, is a heavy blow for the company and its customers—including Amazon, NASA and the U.S. Space Force",
+    "source": "Scientific American",
+    "published": "2026-11-18T17:30:00+00:00"
+  },
+  {
+    "id": "tfa782661",
+    "origin": "feed",
+    "title": "Bernie Sanders previews Democratic investigations into RFK, Jr., amid nationwide measles outbreaks",
+    "url": "https://www.scientificamerican.com/article/bernie-sanders-previews-democratic-investigations-into-rfk-jr-amid-nationwide-measles-outbreaks/",
+    "summary": "Sanders, an Independent who caucuses with the Democrats, told reporters on Wednesday that congressional investigations into the Trump administration’s actions could be coming in 2027",
+    "source": "Scientific American",
+    "published": "2026-11-18T17:30:00+00:00"
   },
   {
     "id": "t93ff98cb",
@@ -840,6 +1240,26 @@
     "text_file": "state/sources/t3b512e5d.txt"
   },
   {
+    "id": "t78c2ab84",
+    "origin": "feed",
+    "title": "Low-Viscosity Lavas Reveal a Key to Mars’s Past",
+    "url": "https://eos.org/articles/low-viscosity-lavas-reveal-a-key-to-marss-past",
+    "summary": "Geochemistry data from the Perseverance rover show how similarly Mars’s and Earth’s interiors evolved.",
+    "source": "Eos (AGU)",
+    "published": "2026-11-18T13:36:16+00:00",
+    "text_file": "state/sources/t78c2ab84.txt"
+  },
+  {
+    "id": "t1ec85b64",
+    "origin": "feed",
+    "title": "Rethinking Where Rivers Begin",
+    "url": "https://eos.org/editor-highlights/rethinking-where-rivers-begin",
+    "summary": "A national analysis identifies seven types of headwater systems in the contiguous United States, revealing that only about 30% fit the familiar perception of steep, forested landscapes.",
+    "source": "Eos (AGU)",
+    "published": "2026-11-18T13:00:00+00:00",
+    "text_file": "state/sources/t1ec85b64.txt"
+  },
+  {
     "id": "td6d7c981",
     "origin": "feed",
     "title": "New discovery reveals what may be holding back room-temperature superconductors",
@@ -867,6 +1287,71 @@
     "published": "2026-11-18T11:55:21+00:00"
   },
   {
+    "id": "tcb99e6ae",
+    "origin": "feed",
+    "title": "After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? | Kim Heacox",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
+    "summary": "Since the spacecraft’s 1977 launch, our wonderful and terrible species has done great damage to our planet. Voyager has offered us a clear view of ourselves Imagine traveling nonstop for 49 years, alone in the dark with no destination in sight, powered by curiosity and engineering. Further imagine making that journey not at bullet train or jet plane speed, but much faster: at 37,800 miles per hour",
+    "source": "The Guardian Science",
+    "published": "2026-11-18T11:00:56+00:00",
+    "text_file": "state/sources/tcb99e6ae.txt"
+  },
+  {
+    "id": "t3e631a02",
+    "origin": "feed",
+    "title": "Nasa’s Voyager 1 just reached a massive milestone in space - video",
+    "url": "https://www.theguardian.com/science/video/2026/nov/18/nasas-voyager-1-just-reached-a-massive-milestone-in-space-video",
+    "summary": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our planet. To find out more about its astonishing journey, Madeleine Finlay hears from Jim Bell, a planetary scientist and professor at Arizona State University’s scho",
+    "source": "The Guardian Science",
+    "published": "2026-11-18T10:39:51+00:00"
+  },
+  {
+    "id": "ta66e7faf",
+    "origin": "feed",
+    "title": "Body found in Derry bog decapitated more than 2,000 years ago, coroner finds",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/18/ballymacombs-more-woman-derry-bog-decapitated-2000-years-ago",
+    "summary": "Inquest-style inquiry concludes iron age remains are of 15- to 22-year-old female who may have been ritually sacrificed A coroner’s investigation into Northern Ireland ’s most venerable cold case has concluded that the victim was decapitated more than 2,000 years ago. The inquest-style inquiry determined that Ballymacombs More Woman – the name given to iron age remains found in a County Derry bog ",
+    "source": "The Guardian Science",
+    "published": "2026-11-18T08:00:36+00:00"
+  },
+  {
+    "id": "t5d3f6fbe",
+    "origin": "feed",
+    "title": "Fatal landslides in September 2026",
+    "url": "https://eos.org/thelandslideblog/fatal-landslides-in-september-2026",
+    "summary": "In September 2026 I recorded 82 fatal landslides causing 173 fatalities. This year continues to show a higher than average trend in fatal landslide occurrence. This is my regular update for the number of fatal global landslides, focusing on September 2026. As usual, this data has been collected in line with the methodology described in Froude […]",
+    "source": "Eos (AGU)",
+    "published": "2026-11-18T07:57:30+00:00",
+    "text_file": "state/sources/t5d3f6fbe.txt"
+  },
+  {
+    "id": "tf0f608db",
+    "origin": "feed",
+    "title": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
+    "summary": "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16s Countries around the world are considering social media bans for children, but whether this would work in practice has been hotly debated. Now researchers are seeking answers through a major scientific study led by Wellcome, which will be the first of its kind. Ten research projects will explore",
+    "source": "The Guardian Science",
+    "published": "2026-11-18T07:00:36+00:00"
+  },
+  {
+    "id": "t0f1eec22",
+    "origin": "feed",
+    "title": "Pill that mimics Viagra can slow Alzheimer’s progression, study suggests",
+    "url": "https://www.theguardian.com/science/2026/nov/18/pill-mimics-viagra-can-slow-alzheimers-progression-by-third-study",
+    "summary": "Experts call trial results of medication that slowed cognitive decline by almost a third ‘very promising’ A pill that mimics Viagra by relaxing blood vessels and increasing blood flow to the brain can slow cognitive decline in people with Alzheimer’s disease by almost a third, a global study suggests. Alzheimer’s is the most common form of dementia, a condition that is forecast to affect 153 milli",
+    "source": "The Guardian Science",
+    "published": "2026-11-18T05:00:33+00:00"
+  },
+  {
+    "id": "t77ab65f3",
+    "origin": "feed",
+    "title": "US loses measles elimination status amid worst outbreak since 1991",
+    "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+    "summary": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US has lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endemic in the US after being eliminated for 26 years. The announcement comes as the US endures the worst measles outbreak since 1991, with more ",
+    "source": "The Guardian Science",
+    "published": "2026-11-17T22:18:53+00:00"
+  },
+  {
     "id": "tae6a5154",
     "origin": "feed",
     "title": "The U.S. just lost its measles elimination status. What now?",
@@ -876,6 +1361,42 @@
     "published": "2026-11-17T16:09:29+00:00"
   },
   {
+    "id": "tef9a93cf",
+    "origin": "feed",
+    "title": "NSF Will Not Change Grantmaking Rules to Align With OMB, for Now",
+    "url": "https://eos.org/research-and-developments/nsf-will-not-change-grantmaking-rules-to-align-with-omb-for-now",
+    "summary": "The National Science Foundation (NSF) has walked back a plan to change its grantmaking process to align with a proposal from the Office of Management and Budget (OMB) released in May.",
+    "source": "Eos (AGU)",
+    "published": "2026-11-17T14:33:07+00:00"
+  },
+  {
+    "id": "td129a93f",
+    "origin": "feed",
+    "title": "Scientists Have Discovered a Thriving Reef That Was Once an Ancient Forest",
+    "url": "https://eos.org/articles/scientists-have-discovered-a-thriving-reef-that-was-once-an-ancient-forest",
+    "summary": "Carbon-rich peat reefs in Mozambique host significant biodiversity, yet they are often overlooked in carbon and climate mapping.",
+    "source": "Eos (AGU)",
+    "published": "2026-11-17T14:04:17+00:00"
+  },
+  {
+    "id": "t15fbbc28",
+    "origin": "feed",
+    "title": "Soil Water Content Determined by Elastic Wave Dispersion",
+    "url": "https://eos.org/editor-highlights/soil-water-content-determined-by-elastic-wave-dispersion",
+    "summary": "Soil water content is a crucial parameter for the stability of civil engineering structures; estimating it by exploiting the dispersion of compressional waves now appears feasible.",
+    "source": "Eos (AGU)",
+    "published": "2026-11-17T14:00:00+00:00"
+  },
+  {
+    "id": "t6d070656",
+    "origin": "feed",
+    "title": "Rapid-Scan Satellite Data Offer Clues to Typhoon Intensity",
+    "url": "https://eos.org/research-spotlights/rapid-scan-satellite-data-offer-clues-to-typhoon-intensity",
+    "summary": "High-frequency wind estimates derived from Fengyun-4B satellite images reveal changing typhoon structure and may improve short-term intensity predictions.",
+    "source": "Eos (AGU)",
+    "published": "2026-11-17T13:59:57+00:00"
+  },
+  {
     "id": "t200e11e7",
     "origin": "feed",
     "title": "What to know about kratom and its powerful derivatives",
@@ -883,6 +1404,15 @@
     "summary": "Scientists and toxicologists are sounding the alarm on the chemicals derived from kratom leaves, which have strong opioid-like properties.",
     "source": "Science News",
     "published": "2026-11-17T13:00:00+00:00"
+  },
+  {
+    "id": "t90f0db16",
+    "origin": "feed",
+    "title": "The Hidden Greenhouse Gas Emissions Woven into Braided Rivers",
+    "url": "https://eos.org/editor-highlights/the-hidden-greenhouse-gas-emissions-woven-into-braided-rivers",
+    "summary": "Slow-moving backwaters and smaller rivers can be hotspots of nitrous oxide emissions, revealing how channel complexity and nitrogen availability shape the climate footprint of braided rivers.",
+    "source": "Eos (AGU)",
+    "published": "2026-11-16T19:31:40+00:00"
   },
   {
     "id": "t3032b776",
