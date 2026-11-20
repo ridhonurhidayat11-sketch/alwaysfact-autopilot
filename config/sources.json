@@ -3,7 +3,7 @@
   "feeds": [
     {
       "name": "NASA",
-      "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+      "url": "https://www.nasa.gov/news-release/feed/"
     },
     {
       "name": "NOAA",
@@ -44,6 +44,22 @@
     {
       "name": "Mongabay",
       "url": "https://news.mongabay.com/feed/"
+    },
+    {
+      "name": "Scientific American",
+      "url": "https://www.scientificamerican.com/platform/syndication/rss/"
+    },
+    {
+      "name": "Eos (AGU)",
+      "url": "https://eos.org/feed"
+    },
+    {
+      "name": "BBC Science",
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+    },
+    {
+      "name": "The Guardian Science",
+      "url": "https://www.theguardian.com/science/rss"
     }
   ],
   "max_age_days": 7
