@@ -114,8 +114,48 @@ def run(inbox, c, now=None, fetcher=evidence.fetch_text, rows=None, queue_path=N
             "rejected": sum(r["result"] == "rejected" for r in report), "report": report}
 
 
+def stored_fetcher(candidates, root=ROOT):
+    """Quote checks without internet: candidates the Scout stored article text for are read from the repository,
+    anything else falls back to the live page (which may fail when the routine has no internet)."""
+    texts = {x["url"]: x["text_file"] for x in candidates if x.get("url") and x.get("text_file")}
+
+    def fetch(url):
+        if url in texts:
+            return (Path(root) / texts[url]).read_text(encoding="utf-8")
+        return evidence.fetch_text(url)
+    return fetch
+
+
+def check(inbox, fetcher=None, history=None):
+    """Dry run for the routine: the same judge, but nothing is written, queued or marked as seen.
+    The routine runs this BEFORE pushing, fixes every 'rejected' proposal and writes replacements until
+    enough proposals pass. The real referee (run) stays the only thing that can queue a post."""
+    tier1 = load_json(CONFIG / "trusted_sources.json", {}).get("tier1", [])
+    fetcher = fetcher or stored_fetcher(load_json(STATE / "candidates.json", []))
+    history = list(history if history is not None else history_titles())
+    report = []
+    for path in sorted(Path(inbox).glob("*.json")):
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except ValueError:
+            report.append({"file": path.name, "result": "rejected", "reasons": ["not valid JSON"]})
+            continue
+        ok, reasons, _ = judge(data, tier1, fetcher, history)
+        if ok:
+            history.append(data["post"]["topic"])  # two proposals about the same topic must not both pass
+            report.append({"file": path.name, "result": "would be accepted"})
+        else:
+            report.append({"file": path.name, "result": "rejected", "reasons": reasons[:6]})
+    return {"would_accept": sum(r["result"] == "would be accepted" for r in report),
+            "rejected": sum(r["result"] == "rejected" for r in report), "report": report}
+
+
 def main():
-    inbox = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "inbox"
+    args = [a for a in sys.argv[1:] if a != "--check"]
+    inbox = Path(args[0]) if args else ROOT / "inbox"
+    if "--check" in sys.argv[1:]:
+        print(json.dumps(check(inbox), ensure_ascii=False, indent=2))
+        return
     out = run(inbox, control.load())
     print(json.dumps(out, ensure_ascii=False, indent=2))
 
