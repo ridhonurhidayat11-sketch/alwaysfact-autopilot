@@ -1,7 +1,7 @@
 {
   "mode": "live",
   "min_gap_min": 90,
-  "posts_per_day": 6,
+  "posts_per_day": 5,
   "slots_wib": [
     "07:30",
     "11:30",
