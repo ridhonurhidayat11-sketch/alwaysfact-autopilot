@@ -200,6 +200,28 @@ class HealthTests(unittest.TestCase):
         self.assertEqual(alerts, [])
 
 
+class TickAliveTests(unittest.TestCase):
+    NOW = datetime(2026, 11, 20, 4, 0, tzinfo=timezone.utc)
+
+    def health_file(self, at):
+        d = Path(tempfile.mkdtemp())
+        p = d / "health.json"
+        p.write_text(json.dumps({"at": at}) if at is not None else "{not json", encoding="utf-8")
+        return p
+
+    def test_recent_tick_is_alive(self):
+        p = self.health_file("2026-11-20T03:41:16.502207+00:00")
+        self.assertIsNone(autopilot.ticks_stale(self.NOW, 4, p))
+
+    def test_old_tick_means_publishing_may_have_stopped(self):
+        p = self.health_file("2026-11-20T00:41:16+00:00")
+        self.assertIn("3.3 hours", autopilot.ticks_stale(self.NOW, 3, p))
+
+    def test_missing_or_broken_file_is_reported(self):
+        self.assertIn("no tick", autopilot.ticks_stale(self.NOW, 4, self.health_file(None)))
+        self.assertIn("no tick", autopilot.ticks_stale(self.NOW, 4, Path(tempfile.mkdtemp()) / "nope.json"))
+
+
 class PlanTests(unittest.TestCase):
     def sandbox(self, topics, rows=None):
         d = Path(tempfile.mkdtemp())
