@@ -1,5 +1,205 @@
 [
   {
+    "id": "tf4a4c64a",
+    "origin": "feed",
+    "title": "Lab-hatched turtle survives in the wild, offering hope for Perth populations",
+    "url": "https://phys.org/news/2026-11-lab-hatched-turtle-survives-wild.html",
+    "summary": "Researchers at Murdoch University have found the first evidence that artificially incubated southwestern snake-necked turtles can survive in the wild for more than a year after release, offering hope for struggling populations in Perth's urban wetlands.",
+    "source": "Phys.org",
+    "published": "2026-11-20T12:10:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tbeb957e6",
+    "origin": "feed",
+    "title": "Why are some galaxies more lopsided than others? A catalog offers clues to the imbalance",
+    "url": "https://phys.org/news/2026-11-galaxies-lopsided-clues-imbalance.html",
+    "summary": "Some spiral galaxies look heavier or more elongated on one side than the other. Why galaxies get lopsided is not fully understood. It could be due to collisions or gravitational tugs, uneven gas infall, or instabilities within the disk that drag the gas and stars off-center. In a new study, astronomers combined measurements of galaxies from 37 studies to create a big catalog and analyzed it to che",
+    "source": "Phys.org",
+    "published": "2026-11-20T12:00:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t6dd09b43",
+    "origin": "feed",
+    "title": "Unexpected stone tools from Israel raise questions about cultural evolution",
+    "url": "https://www.newscientist.com/article/2599953-unexpected-stone-tools-from-israel-raise-questions-about-cultural-evolution/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "Ancient humans in south-west Asia first began producing advanced stone blades 100,000 years before the tools became widely used, indicating that new technologies weren't automatically adopted by communities",
+    "source": "New Scientist",
+    "published": "2026-11-20T12:00:00+00:00",
+    "text_file": "state/sources/t6dd09b43.txt"
+  },
+  {
+    "id": "t4b61548f",
+    "origin": "feed",
+    "title": "Ghostly 'sand body' double burial unearthed at Sutton Hoo",
+    "url": "https://www.livescience.com/archaeology/ghostly-sand-body-double-burial-unearthed-at-sutton-hoo",
+    "summary": "During a month-long excavation with the documentary series \"Time Team,\" archaeologists unearthed another mysterious \"sand body\" at Sutton Hoo.",
+    "source": "Live Science",
+    "published": "2026-11-20T12:00:00+00:00",
+    "text_file": "state/sources/t4b61548f.txt"
+  },
+  {
+    "id": "t46da1665",
+    "origin": "feed",
+    "title": "Our solar system’s doomsday may come sooner than we thought",
+    "url": "https://www.scientificamerican.com/article/our-solar-systems-doomsday-may-come-sooner-than-we-thought/",
+    "summary": "Billions of years from now—still far sooner than astronomers had predicted—our dying sun could kick away its outer planets",
+    "source": "Scientific American",
+    "published": "2026-11-20T11:45:00+00:00",
+    "text_file": "state/sources/t46da1665.txt"
+  },
+  {
+    "id": "t73cbb556",
+    "origin": "feed",
+    "title": "Measles is officially back in the USA. Will MAHA pay the price? - video",
+    "url": "https://www.theguardian.com/science/video/2026/nov/20/measles-is-officially-back-in-the-usa-will-maha-pay-the-price-video",
+    "summary": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years. To find out what this means in practical terms for citizens, Ian Sample hears from the Guardian US health reporter Jessica Glenza. She explains why it comes at an already difficult time for the health secretary, Robert F Kennedy Jr",
+    "source": "The Guardian Science",
+    "published": "2026-11-20T11:40:07+00:00",
+    "text_file": "state/sources/t73cbb556.txt"
+  },
+  {
+    "id": "t5a25d206",
+    "origin": "feed",
+    "title": "One in four land reptiles depends on rock habitats. Lack of protection leaves them in a hard place",
+    "url": "https://news.mongabay.com/short-article/2026/11/one-in-four-land-reptiles-depends-on-rock-habitats-lack-of-protection-leaves-them-in-a-hard-place/",
+    "summary": "More than a quarter of the world’s land reptiles depend on rocky habitats, yet these areas are often overlooked in conservation efforts, according to a recent study. For cold-blooded lizards, snakes, and worm lizards (legless lizards), rocks often provide warmth for basking, shelter from predators, and places to hunt, socialize, and breed. However, the number […]",
+    "source": "Mongabay",
+    "published": "2026-11-20T11:04:15+00:00",
+    "text_file": "state/sources/t5a25d206.txt"
+  },
+  {
+    "id": "tab7b4803",
+    "origin": "feed",
+    "title": "I handpicked every Star Trek Blu-Ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
+    "url": "https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now",
+    "summary": "From The Original Series through The Next Generation to Starfleet Academy, beam up our favorite Black Friday 2026 Star Trek deals available at Amazon.",
+    "source": "Space.com",
+    "published": "2026-11-20T11:00:32+00:00",
+    "text_file": "state/sources/tab7b4803.txt"
+  },
+  {
+    "id": "te855a3ad",
+    "origin": "feed",
+    "title": "Quantum entanglement could thwart hackers and scammers, physicists reveal",
+    "url": "https://www.livescience.com/physics-mathematics/quantum-entanglement-could-thwart-hackers-and-scammers-physicists-demonstrate-in-new-experiment",
+    "summary": "In a first-of-its-kind experiment, physicists used pairs of entangled photons to verify a person's location. That's a step toward anchoring digital security to the physical world.",
+    "source": "Live Science",
+    "published": "2026-11-20T11:00:00+00:00",
+    "text_file": "state/sources/te855a3ad.txt"
+  },
+  {
+    "id": "t3e506a63",
+    "origin": "feed",
+    "title": "Einstein was right! Scientists verify 1st image of a black hole ever captured",
+    "url": "https://www.space.com/astronomy/black-holes/einstein-was-right-scientists-verify-1st-image-of-a-black-hole-ever-captured",
+    "summary": "An independent team of researchers has validated the first image of a supermassive black hole captured by humanity, and that verifies Einstein's greatest theory.",
+    "source": "Space.com",
+    "published": "2026-11-20T11:00:00+00:00",
+    "text_file": "state/sources/t3e506a63.txt"
+  },
+  {
+    "id": "tb4e6ebcc",
+    "origin": "feed",
+    "title": "Watch SpaceX Dragon cargo capsule head home to Earth from the ISS today",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
+    "summary": "SpaceX's 35th Dragon cargo mission is scheduled to undock from the International Space Station today (Nov. 20), and you can watch the off-Earth action live.",
+    "source": "Space.com",
+    "published": "2026-11-20T11:00:00+00:00",
+    "text_file": "state/sources/tb4e6ebcc.txt"
+  },
+  {
+    "id": "t134f5fb9",
+    "origin": "feed",
+    "title": "How one lemur species evolved to sing like an opera star",
+    "url": "https://www.scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star/",
+    "summary": "After millions of years of evolution turned these lemurs into showstopping singers, scientists are tuning in with conservation in mind",
+    "source": "Scientific American",
+    "published": "2026-11-20T11:00:00+00:00",
+    "text_file": "state/sources/t134f5fb9.txt"
+  },
+  {
+    "id": "t00831ce6",
+    "origin": "feed",
+    "title": "Two probes are about to arrive at Mercury for an up-close look at this puzzling planet",
+    "url": "https://www.scientificamerican.com/article/two-probes-are-about-to-arrive-at-mercury-for-an-up-close-look-at-this-puzzling-planet/",
+    "summary": "Europe and Japan’s BepiColombo mission has reached our solar system’s innermost planet. It might be the last step before we send a lander",
+    "source": "Scientific American",
+    "published": "2026-11-20T11:00:00+00:00",
+    "text_file": "state/sources/t00831ce6.txt"
+  },
+  {
+    "id": "tf1e494a1",
+    "origin": "feed",
+    "title": "Fossil fuels’ role in Africa’s energy transition contested as UN climate conference closes",
+    "url": "https://news.mongabay.com/2026/11/fossil-fuels-role-in-africas-energy-transition-contested-as-un-climate-conference-closes/",
+    "summary": "As the 2026 edition of the annual U.N. Climate Change Conference reaches its conclusion in Antalya, Türkiye, on Nov. 20, African governments are arguing for increased financial and technical support to respond to climate change. Top priorities include more money for protection of forests and other landscapes, funding to help vulnerable communities and economies adapt […]",
+    "source": "Mongabay",
+    "published": "2026-11-20T10:59:38+00:00",
+    "text_file": "state/sources/tf1e494a1.txt"
+  },
+  {
+    "id": "tbf2161d9",
+    "origin": "feed",
+    "title": "Nickel linked to deforestation in Indonesia traded on London Metal Exchange, says report",
+    "url": "https://news.mongabay.com/short-article/2026/11/nickel-linked-to-deforestation-in-indonesia-traded-on-london-metal-exchange-says-report/",
+    "summary": "Two companies approved for trading nickel on the London Metal Exchange (LME) could be linked to supply chains that have cleared primary rainforest in Indonesia, according to a report published by the NGO Environmental Investigation Agency (EIA). The NGO investigated two LME-approved Indonesian refiners – PT CNGR Ding Xing and PT Eternal Nickel Industry (ENI) […]",
+    "source": "Mongabay",
+    "published": "2026-11-20T10:51:23+00:00",
+    "text_file": "state/sources/tbf2161d9.txt"
+  },
+  {
+    "id": "taf5be0af",
+    "origin": "feed",
+    "title": "What are heat pumps and how much do they cost?",
+    "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
+    "summary": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
+    "source": "BBC Science",
+    "published": "2026-11-20T10:24:52+00:00",
+    "text_file": "state/sources/taf5be0af.txt"
+  },
+  {
+    "id": "t6c3f806b",
+    "origin": "feed",
+    "title": "Galactic shock: Discovery challenges our understanding of the Milky Way's structure",
+    "url": "https://phys.org/news/2026-11-galactic-discovery-milky.html",
+    "summary": "A University of Sydney Ph.D. student has uncovered evidence that the Milky Way is unusual in terms of where its new stars are born compared with nearby galaxies.",
+    "source": "Phys.org",
+    "published": "2026-11-20T10:00:07+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "te5b2cae7",
+    "origin": "feed",
+    "title": "A two-layer flat lens uses nanoscale pillars to guard against unwanted reflections",
+    "url": "https://phys.org/news/2026-11-layer-flat-lens-nanoscale-pillars.html",
+    "summary": "Researchers in the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) have engineered an advancement in metasurface design and processing that now includes a built-in, intentionally designed antireflective coating—a potentially critical step toward greatly expanding the incorporation of metasurfaces into practical devices.",
+    "source": "Phys.org",
+    "published": "2026-11-20T10:00:04+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tc17b4c00",
+    "origin": "feed",
+    "title": "Dark Eden author Chris Beckett on how sci-fi needs ‘surface plausibility’",
+    "url": "https://www.newscientist.com/article/2599932-dark-eden-author-chris-beckett-on-how-sci-fi-needs-surface-plausibility/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "Chris Beckett, author of Dark Eden, November's read for the New Scientist Book Club, talks to Alison Flood about how he wrote his Arthur C Clarke award-winning novel",
+    "source": "New Scientist",
+    "published": "2026-11-20T10:00:00+00:00",
+    "text_file": "state/sources/tc17b4c00.txt"
+  },
+  {
+    "id": "t6784575e",
+    "origin": "feed",
+    "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+    "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+    "summary": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing A pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest breakthrough treatment for the cancer in decades. In one in 12 of the patients given the drug, daraxonrasib , during a trial, the cancer became undetectable, and the tumours stopped ",
+    "source": "The Guardian Science",
+    "published": "2026-11-20T09:36:10+00:00",
+    "text_file": "state/sources/t6784575e.txt"
+  },
+  {
     "id": "tf4443879",
     "origin": "feed",
     "title": "Analysis of the 7-8 August 2025 landslide event at Yuzhong County, Gansu Province, China",
@@ -96,8 +296,7 @@
     "url": "https://phys.org/news/2026-11-centers-air-quality-distance-reveals.html",
     "summary": "The rapid expansion of data centers for artificial intelligence causes negative health and air quality impacts in regions far from where the brick-and-mortar facilities are located, according to a new study by MIT researchers.",
     "source": "Phys.org",
-    "published": "2026-11-20T05:13:51+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T05:13:51+00:00"
   },
   {
     "id": "t7d625a5c",
@@ -136,8 +335,7 @@
     "url": "https://phys.org/news/2026-11-computor-ai-aid.html",
     "summary": "Artificial intelligence is now capable of writing entire computer programs. This poses a challenge for university education. How can students still learn to program for themselves if an AI can do the work for them? Students should be able to use AI tools effectively, but they must also understand how programs work and how to troubleshoot errors. At the Institute of Theoretical and Computational Ph",
     "source": "Phys.org",
-    "published": "2026-11-20T04:40:02+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T04:40:02+00:00"
   },
   {
     "id": "t5ac4b7e6",
@@ -146,8 +344,7 @@
     "url": "https://phys.org/news/2026-11-nature-based-solutions-settlements.html",
     "summary": "New research from UCT says nature-based solutions for climate adaptation must move beyond participation to power-sharing partnerships that recognize lived experiences and relationships with nature.",
     "source": "Phys.org",
-    "published": "2026-11-20T03:40:02+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T03:40:02+00:00"
   },
   {
     "id": "t1a47aed3",
@@ -156,8 +353,7 @@
     "url": "https://phys.org/news/2026-11-extreme-weather-poses-global-oil.html",
     "summary": "Extreme weather events are posing significant risks to international oil and natural gas shipping, with the potential to damage critical infrastructure, disrupt major trade routes and threaten energy security, according to a new IEA report.",
     "source": "Phys.org",
-    "published": "2026-11-20T03:20:06+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T03:20:06+00:00"
   },
   {
     "id": "tf5435c32",
@@ -167,42 +363,6 @@
     "summary": "Today's artificial intelligence models can predict whether someone with a genetic change will develop a disease, but cannot answer two critical questions: Why did the disease occur, and how do we design a treatment?",
     "source": "Phys.org",
     "published": "2026-11-20T03:00:06+00:00"
-  },
-  {
-    "id": "tc59309e9",
-    "origin": "feed",
-    "title": "Building structured-light systems in three dimensions",
-    "url": "https://phys.org/news/2026-11-dimensions.html",
-    "summary": "Structured light has become an important tool across modern optics. By shaping properties such as amplitude, phase, polarization and spatial mode, researchers can create light fields with capabilities beyond those of conventional laser beams. These engineered light fields are finding applications in communications, imaging, sensing, optical computing and quantum photonics. However, many structured",
-    "source": "Phys.org",
-    "published": "2026-11-20T02:40:01+00:00"
-  },
-  {
-    "id": "t8e50b87b",
-    "origin": "feed",
-    "title": "Innovative technology offers a bold new vision for monitoring ocean health",
-    "url": "https://phys.org/news/2026-11-technology-bold-vision-ocean-health.html",
-    "summary": "On an early October morning, as MBARI's research vessel Paragon left Moss Landing with three robots loaded on its deck, Monterey Bay was showing off.",
-    "source": "Phys.org",
-    "published": "2026-11-20T02:20:06+00:00"
-  },
-  {
-    "id": "t8613064a",
-    "origin": "feed",
-    "title": "New mondo grass species found in Yunnan",
-    "url": "https://phys.org/news/2026-11-mondo-grass-species-yunnan.html",
-    "summary": "Botanists have described a new Ophiopogon species from the Yunnan Wenshan National Nature Reserve in southeastern China. They named it Ophiopogon longiscapus for its unusually long flowering stalk, or scape.",
-    "source": "Phys.org",
-    "published": "2026-11-20T02:00:06+00:00"
-  },
-  {
-    "id": "tfe212e65",
-    "origin": "feed",
-    "title": "Organizational science offers new lens for studying extremism",
-    "url": "https://phys.org/news/2026-11-organizational-science-lens-extremism.html",
-    "summary": "Accepting the Republican nomination for president in 1964, Barry Goldwater declared, \"I would remind you that extremism in the defense of liberty is no vice!\" His statement illustrates how the cause being defended can shape judgments about the actions taken in its name.",
-    "source": "Phys.org",
-    "published": "2026-11-20T01:40:04+00:00"
   },
   {
     "id": "tbf367e0a",
@@ -233,6 +393,46 @@
     "source": "Nature",
     "published": "2026-11-20T00:00:00+00:00",
     "text_file": "state/sources/t8bc06533.txt"
+  },
+  {
+    "id": "t0d9c1362",
+    "origin": "feed",
+    "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
+    "url": "https://www.nature.com/articles/d41586-026-03590-2",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-20T00:00:00+00:00",
+    "text_file": "state/sources/t0d9c1362.txt"
+  },
+  {
+    "id": "taa22478d",
+    "origin": "feed",
+    "title": "Author Correction: SARS-CoV-2 mRNA vaccines sensitize tumours to immune checkpoint blockade",
+    "url": "https://www.nature.com/articles/s41586-026-10974-x",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-20T00:00:00+00:00",
+    "text_file": "state/sources/taa22478d.txt"
+  },
+  {
+    "id": "t84506e76",
+    "origin": "feed",
+    "title": "Ruminations on a last movement",
+    "url": "https://www.nature.com/articles/d41586-026-03519-9",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-20T00:00:00+00:00",
+    "text_file": "state/sources/t84506e76.txt"
+  },
+  {
+    "id": "t88266f14",
+    "origin": "feed",
+    "title": "How to turn impostor syndrome into a superpower",
+    "url": "https://www.nature.com/articles/d41586-026-03465-6",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-20T00:00:00+00:00",
+    "text_file": "state/sources/t88266f14.txt"
   },
   {
     "id": "t37c7f374",
@@ -335,14 +535,14 @@
     "text_file": "state/sources/t4dda2a82.txt"
   },
   {
-    "id": "t71212526",
+    "id": "t934285e4",
     "origin": "feed",
     "title": "BBC Inside Science",
-    "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct978m?at_medium=RSS&at_campaign=rss",
     "summary": "SpaceX is on the verge of making space affordable.",
     "source": "BBC Science",
     "published": "2026-11-19T21:00:00+00:00",
-    "text_file": "state/sources/t71212526.txt"
+    "text_file": "state/sources/t934285e4.txt"
   },
   {
     "id": "t06fa35df",
@@ -471,8 +671,7 @@
     "url": "https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video",
     "summary": "China has rolled to the launch pad the rocket and spacecraft for its Shenzhou-24 mission, which will fly the first international astronaut to the nation's Tiangong space station.",
     "source": "Space.com",
-    "published": "2026-11-19T19:00:00+00:00",
-    "text_file": "state/sources/t35b435c2.txt"
+    "published": "2026-11-19T19:00:00+00:00"
   },
   {
     "id": "tfda996bc",
@@ -501,8 +700,7 @@
     "url": "https://www.scientificamerican.com/article/a-watershed-moment-researchers-unveil-first-of-its-kind-blood-test-for-cte/",
     "summary": "If validated in larger trials, the test could help doctors diagnose the neurodegenerative disease before death",
     "source": "Scientific American",
-    "published": "2026-11-19T18:50:00+00:00",
-    "text_file": "state/sources/tdcfa3f19.txt"
+    "published": "2026-11-19T18:50:00+00:00"
   },
   {
     "id": "t6b344312",
@@ -521,8 +719,7 @@
     "url": "https://news.mongabay.com/short-article/2026/11/there-is-no-going-back-to-the-way-it-was-before-the-iran-wars-energy-shock-iea-says/",
     "summary": "The International Energy Agency reports that the energy shock from the Iran war is reshaping global energy strategies. Released Thursday, the report highlights how countries are prioritizing energy security and affordability, benefiting renewable technologies like solar and nuclear power. The IEA warns that the crisis’s effects will deepen the longer it lasts. At the COP31 […]",
     "source": "Mongabay",
-    "published": "2026-11-19T18:36:49+00:00",
-    "text_file": "state/sources/tc885634c.txt"
+    "published": "2026-11-19T18:36:49+00:00"
   },
   {
     "id": "t2941a850",
@@ -531,8 +728,7 @@
     "url": "https://www.livescience.com/space/asteroids/rubin-observatory-finds-ultra-rare-asteroids-from-the-solar-systems-youth-trailing-neptune-around-the-sun",
     "summary": "Astronomers have found two rare asteroids trailing Neptune in Vera C. Rubin Observatory data. The rocks, called Neptune's L5 Trojans, could illuminate the conditions of the infant solar system.",
     "source": "Live Science",
-    "published": "2026-11-19T18:27:15+00:00",
-    "text_file": "state/sources/t2941a850.txt"
+    "published": "2026-11-19T18:27:15+00:00"
   },
   {
     "id": "t1c5ec896",
@@ -541,8 +737,7 @@
     "url": "https://www.scientificamerican.com/article/chinese-ai-models-reveal-clues-pointing-to-restricted-blackwell-chips/",
     "summary": "The clues are hidden in the random numbers that form an AI model’s starting point—and hint at a new way to trace its origins",
     "source": "Scientific American",
-    "published": "2026-11-19T18:20:00+00:00",
-    "text_file": "state/sources/t1c5ec896.txt"
+    "published": "2026-11-19T18:20:00+00:00"
   },
   {
     "id": "ta8fac4e9",
@@ -551,8 +746,7 @@
     "url": "https://news.mongabay.com/2026/11/in-sri-lanka-human-actions-are-driving-wild-animals-into-cities-and-suburbs/",
     "summary": "COLOMBO – It was a surprise for Mohamed Fareed, a resident of Jawatte, an upscale neighborhood in Sri Lanka’s commercial capital Colombo, to find a peacock near his house back in 2020. Today, there are at least 12 peacocks, including peahens roaming the area. “In the mornings and evenings, we hear their loud and piercing […]",
     "source": "Mongabay",
-    "published": "2026-11-19T18:18:34+00:00",
-    "text_file": "state/sources/ta8fac4e9.txt"
+    "published": "2026-11-19T18:18:34+00:00"
   },
   {
     "id": "t58851156",
@@ -571,8 +765,7 @@
     "url": "https://www.livescience.com/animals/dinosaurs/dinosaur-quiz-can-you-name-these-12-dinosaurs",
     "summary": "Can you name all 12 dinosaurs in this science quiz?",
     "source": "Live Science",
-    "published": "2026-11-19T17:57:11+00:00",
-    "text_file": "state/sources/t11eb2ab5.txt"
+    "published": "2026-11-19T17:57:11+00:00"
   },
   {
     "id": "tb5e9d99f",
@@ -581,8 +774,7 @@
     "url": "https://www.space.com/stargazing/skywatching-kit/get-400-off-the-first-vaonis-vespera-pro-model-ahead-of-black-friday-2026",
     "summary": "Amazon is selling the Vaonis Vespera Pro for $2,549, ahead of Black Friday on Nov. 27. It's a great model for professional astrophotography with high-quality imagery of deep space objects.",
     "source": "Space.com",
-    "published": "2026-11-19T17:08:25+00:00",
-    "text_file": "state/sources/tb5e9d99f.txt"
+    "published": "2026-11-19T17:08:25+00:00"
   },
   {
     "id": "ta5361910",
@@ -600,8 +792,7 @@
     "url": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20",
     "summary": "The moon shines with Saturn in the constellation Pisces after sunset on Nov. 20",
     "source": "Space.com",
-    "published": "2026-11-19T17:00:00+00:00",
-    "text_file": "state/sources/tea40f5fa.txt"
+    "published": "2026-11-19T17:00:00+00:00"
   },
   {
     "id": "t68fc3814",
@@ -610,8 +801,7 @@
     "url": "https://www.scientificamerican.com/article/astronomers-just-witnessed-a-dying-star-gobble-up-its-neighbor-in-real-time/",
     "summary": "The stellar collision of a dying star with its smaller companion may have left behind a single, rejuvenated remnant, astronomers say",
     "source": "Scientific American",
-    "published": "2026-11-19T17:00:00+00:00",
-    "text_file": "state/sources/t68fc3814.txt"
+    "published": "2026-11-19T17:00:00+00:00"
   },
   {
     "id": "tfdbd9587",
@@ -679,8 +869,7 @@
     "url": "https://news.mongabay.com/2026/11/geopolitical-tensions-hamper-efforts-to-curb-overfishing-in-waters-near-europe/",
     "summary": "LONDON — On Nov. 10, Mongabay went to the site of the annual meeting of the body that regulates fishing in the northeastern Atlantic, where a little-known geopolitical dispute over marine resources was playing out behind closed doors. The North-East Atlantic Fisheries Commission (NEAFC), a multilateral body, governs the fishing of three major stocks of fish […]",
     "source": "Mongabay",
-    "published": "2026-11-19T15:13:44+00:00",
-    "text_file": "state/sources/t2385b938.txt"
+    "published": "2026-11-19T15:13:44+00:00"
   },
   {
     "id": "tf10308fd",
@@ -731,15 +920,6 @@
     "published": "2026-11-19T14:00:00+00:00"
   },
   {
-    "id": "t8ea2724e",
-    "origin": "feed",
-    "title": "Leonid meteor shower thrills stargazers worldwide with colorful sky show (photos/video)",
-    "url": "https://www.space.com/stargazing/meteor-showers/leonid-meteor-shower-thrills-stargazers-worldwide-with-colorful-sky-show-photos-video",
-    "summary": "From colorful meteors to lingering trails, the Leonids put on a great show this year.",
-    "source": "Space.com",
-    "published": "2026-11-19T13:58:47+00:00"
-  },
-  {
     "id": "t69e37879",
     "origin": "feed",
     "title": "Detecting Blocked Rain Gauges for Reliable Weather Data",
@@ -758,25 +938,6 @@
     "source": "Eos (AGU)",
     "published": "2026-11-19T13:49:11+00:00",
     "text_file": "state/sources/t24a3ad85.txt"
-  },
-  {
-    "id": "tb0ce29ae",
-    "origin": "feed",
-    "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
-    "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
-    "summary": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
-    "source": "BBC Science",
-    "published": "2026-11-19T13:35:29+00:00",
-    "text_file": "state/sources/tb0ce29ae.txt"
-  },
-  {
-    "id": "t3334349e",
-    "origin": "feed",
-    "title": "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027",
-    "url": "https://www.space.com/space-exploration/satellites/nonprofit-common-space-will-launch-1st-humanitarian-satellite-in-2027",
-    "summary": "The nonprofit Common Space plans to assemble a constellation of Earth-observing satellites for humanitarian use, the first of which is scheduled to lift off next year.",
-    "source": "Space.com",
-    "published": "2026-11-19T13:21:27+00:00"
   },
   {
     "id": "t123e8d26",
@@ -803,8 +964,7 @@
     "url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "Particulate matter from kitchens is the largest source of air pollution during lunch and dinner in the city of London, an analysis shows",
     "source": "New Scientist",
-    "published": "2026-11-19T12:00:00+00:00",
-    "text_file": "state/sources/t8693248f.txt"
+    "published": "2026-11-19T12:00:00+00:00"
   },
   {
     "id": "t4d6c1d72",
@@ -826,24 +986,6 @@
     "text_file": "state/sources/tcced664d.txt"
   },
   {
-    "id": "t7c9cb9ba",
-    "origin": "feed",
-    "title": "What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth?",
-    "url": "https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth",
-    "summary": "The Voyager 1 probe continues to fly out into interstellar space after its historic distance milestone. NASA expects it to keep working until at least 2027.",
-    "source": "Space.com",
-    "published": "2026-11-19T11:02:37+00:00"
-  },
-  {
-    "id": "t18df5a24",
-    "origin": "feed",
-    "title": "Ancient Maya site uncovered with ‘vibe archaeology’ ignites firestorm over AI in science",
-    "url": "https://www.scientificamerican.com/article/ancient-maya-site-uncovered-with-vibe-archaeology-ignites-firestorm-over-ai-in-science/",
-    "summary": "Contrary to online claims, AI did not discover an ancient Maya site. But it did spark a clash over how the technology should be used in science",
-    "source": "Scientific American",
-    "published": "2026-11-19T11:00:00+00:00"
-  },
-  {
     "id": "t8b988991",
     "origin": "feed",
     "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
@@ -852,24 +994,6 @@
     "source": "ScienceDaily",
     "published": "2026-11-19T10:59:55+00:00",
     "text_file": "state/sources/t8b988991.txt"
-  },
-  {
-    "id": "t9b11d82b",
-    "origin": "feed",
-    "title": "Threatened species make up half of shark catches at Indonesian fishing port, study finds",
-    "url": "https://news.mongabay.com/2026/11/threatened-species-make-up-half-of-shark-catches-at-indonesian-fishing-port-study-finds/",
-    "summary": "JAKARTA — In Muncar, a busy fishing port on the southeastern coast of Indonesia’s East Java province, sharks can fetch as much as 1.5 million rupiah each, or about $82. However, their value to fishing communities comes at a cost to conservation: Threatened species, including the critically endangered scalloped hammerhead (Sphyrna lewini), made up a […]",
-    "source": "Mongabay",
-    "published": "2026-11-19T10:57:05+00:00"
-  },
-  {
-    "id": "t7835732e",
-    "origin": "feed",
-    "title": "Skinks in boots: How Hong Kong emerges as key hub in Australia’s native reptile trafficking",
-    "url": "https://news.mongabay.com/2026/11/skinks-in-boots-how-hong-kong-emerges-as-key-hub-in-australias-native-reptile-trafficking/",
-    "summary": "HONG KONG — Two days after Christmas last year, customs authorities at Hong Kong International Airport intercepted a consignment from Australia and found 13 live lizards bound and stuffed inside sheepskin winter shoes, popularly known as ugg boots. The air cargo was falsely declared to contain snacks, Hong Kong’s Customs said in a press release […]",
-    "source": "Mongabay",
-    "published": "2026-11-19T10:36:03+00:00"
   },
   {
     "id": "t93aa0cf8",
@@ -898,17 +1022,7 @@
     "url": "https://www.newscientist.com/article/2599610-otherworldly-image-of-a-porcelain-crab-wins-ocean-photography-contest/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "Tammy Nicholas's stunning photo took the top slot in the Oceania Photo Contest, with shots of sperm whales, water lilies and sardines also highly commended by the awards",
     "source": "New Scientist",
-    "published": "2026-11-19T10:00:00+00:00",
-    "text_file": "state/sources/t78c630c5.txt"
-  },
-  {
-    "id": "t1b143fda",
-    "origin": "feed",
-    "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-    "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-    "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
-    "source": "BBC Science",
-    "published": "2026-11-19T09:21:54+00:00"
+    "published": "2026-11-19T10:00:00+00:00"
   },
   {
     "id": "t17a1db22",
@@ -928,24 +1042,6 @@
     "source": "The Guardian Science",
     "published": "2026-11-19T07:16:45+00:00",
     "text_file": "state/sources/t3c9480ea.txt"
-  },
-  {
-    "id": "ta0155566",
-    "origin": "feed",
-    "title": "World Anteater Day: Rewilding and restoration offer hope for enigmatic species",
-    "url": "https://news.mongabay.com/short-article/2026/11/world-anteater-day-rewilding-and-restoration-offer-hope-for-enigmatic-species/",
-    "summary": "World Anteater Day falls on Nov. 19, in recognition of the tube-nosed, ant- and termite-eating animals living across Central and South America. Closely related to sloths, anteaters generally live in trees. The largest species, the giant anteater (Myrmecophaga tridactyla), lives on the ground, though, where it rips open anthills and termite nests with its razor-sharp […]",
-    "source": "Mongabay",
-    "published": "2026-11-19T06:52:26+00:00"
-  },
-  {
-    "id": "t86e9d96b",
-    "origin": "feed",
-    "title": "How aquanauts could help save Florida’s reefs",
-    "url": "https://www.newscientist.com/article/2599340-how-aquanauts-could-help-save-floridas-reefs/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "With Florida’s coral facing unprecedented thermal stress, a new subsea research station gives scientists a front-row seat to monitor, protect and restore struggling ecosystems day and night",
-    "source": "New Scientist",
-    "published": "2026-11-19T05:57:00+00:00"
   },
   {
     "id": "t07e6ce0b",
@@ -973,8 +1069,7 @@
     "url": "https://www.theguardian.com/science/audio/2026/nov/19/could-measles-and-midterms-bring-down-maha-podcast",
     "summary": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years. To find out what this means in practical terms for citizens, Ian Sample hears from the Guardian US health reporter Jessica Glenza. She explains why it comes at an already difficult time for the health secretary, Robert F Kennedy Jr",
     "source": "The Guardian Science",
-    "published": "2026-11-19T05:00:19+00:00",
-    "text_file": "state/sources/tb6a46e31.txt"
+    "published": "2026-11-19T05:00:19+00:00"
   },
   {
     "id": "t0c57e789",
@@ -1004,15 +1099,6 @@
     "source": "ScienceDaily",
     "published": "2026-11-19T01:21:35+00:00",
     "text_file": "state/sources/tb7e52b65.txt"
-  },
-  {
-    "id": "t76c278b2",
-    "origin": "feed",
-    "title": "Turmeric supplements offer little benefit for knee osteoarthritis",
-    "url": "https://www.newscientist.com/article/2599636-turmeric-supplements-offer-little-benefit-for-knee-osteoarthritis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "A comprehensive review of clinical trials indicates that turmeric supplements had no meaningful effect on quality of life for people with knee osteoarthritis",
-    "source": "New Scientist",
-    "published": "2026-11-19T01:00:00+00:00"
   },
   {
     "id": "t313ed210",
@@ -1051,8 +1137,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03748-y",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00",
-    "text_file": "state/sources/t2a2f5abe.txt"
+    "published": "2026-11-19T00:00:00+00:00"
   },
   {
     "id": "tb6898e08",
@@ -1061,8 +1146,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03783-9",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00",
-    "text_file": "state/sources/tb6898e08.txt"
+    "published": "2026-11-19T00:00:00+00:00"
   },
   {
     "id": "tc60921ab",
@@ -1071,8 +1155,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03746-0",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00",
-    "text_file": "state/sources/tc60921ab.txt"
+    "published": "2026-11-19T00:00:00+00:00"
   },
   {
     "id": "t2ecc608c",
@@ -1081,50 +1164,13 @@
     "url": "https://www.nature.com/articles/d41586-026-03774-w",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00",
-    "text_file": "state/sources/t2ecc608c.txt"
+    "published": "2026-11-19T00:00:00+00:00"
   },
   {
     "id": "t2b675cf3",
     "origin": "feed",
     "title": "AI is ditching hallucinated references — and other bad habits",
     "url": "https://www.nature.com/articles/d41586-026-03753-1",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00"
-  },
-  {
-    "id": "t232d138c",
-    "origin": "feed",
-    "title": "What do various cancers have in common?",
-    "url": "https://www.nature.com/articles/d41586-026-03379-3",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00"
-  },
-  {
-    "id": "tfcc72f4a",
-    "origin": "feed",
-    "title": "Author Correction: Pharmacological inhibition of METTL1 as a therapy against solid and blood cancers",
-    "url": "https://www.nature.com/articles/s41586-026-11421-7",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00"
-  },
-  {
-    "id": "t7de7bfd8",
-    "origin": "feed",
-    "title": "Author Correction: Replication-stress-induced chromatin loops protect fork stability",
-    "url": "https://www.nature.com/articles/s41586-026-11436-0",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-19T00:00:00+00:00"
-  },
-  {
-    "id": "t2c2c80a0",
-    "origin": "feed",
-    "title": "AI is turbocharging cyberattacks — can computer scientists catch up?",
-    "url": "https://www.nature.com/articles/d41586-026-03775-9",
     "summary": "",
     "source": "Nature",
     "published": "2026-11-19T00:00:00+00:00"
@@ -1175,16 +1221,6 @@
     "published": "2026-11-18T21:21:48+00:00"
   },
   {
-    "id": "t2559e1ab",
-    "origin": "feed",
-    "title": "Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s",
-    "url": "https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s",
-    "summary": "Scientists tell Commons exposure to colibactin in early life is potential driver of early-onset colorectal cancer Exposure to a bacterial toxin in early life has emerged as a leading suspect in the rise of bowel cancer among those under 50, MPs have heard. Cases of early-onset bowel cancer have doubled in many countries in the past two decades, and while rising obesity and a fall in physical activ",
-    "source": "The Guardian Science",
-    "published": "2026-11-18T17:55:14+00:00",
-    "text_file": "state/sources/t2559e1ab.txt"
-  },
-  {
     "id": "t421fe2bd",
     "origin": "feed",
     "title": "Senate committee rejects Trump nominee to lead National Science Foundation",
@@ -1192,33 +1228,6 @@
     "summary": "Committee chair Bill Cassidy, a Republican, said Jim O’Neill ‘did not do enough to stand up for science’ in previous posts Jim O’Neill will not undergo a confirmation hearing on Wednesday to head he National Science Foundation (NSF) because he “did not do enough to stand up for science” in his previous position, said Bill Cassidy, a Republican from Louisiana who is chair of the Senate committee on",
     "source": "The Guardian Science",
     "published": "2026-11-18T17:46:34+00:00"
-  },
-  {
-    "id": "ta96bbee6",
-    "origin": "feed",
-    "title": "The Vulcan rocket failure could haunt U.S. spaceflight for years to come",
-    "url": "https://www.scientificamerican.com/article/the-vulcan-rocket-failure-could-haunt-u-s-spaceflight-for-years-to-come/",
-    "summary": "The latest setback for Vulcan, a next-generation rocket built by United Launch Alliance, is a heavy blow for the company and its customers—including Amazon, NASA and the U.S. Space Force",
-    "source": "Scientific American",
-    "published": "2026-11-18T17:30:00+00:00"
-  },
-  {
-    "id": "tfa782661",
-    "origin": "feed",
-    "title": "Bernie Sanders previews Democratic investigations into RFK, Jr., amid nationwide measles outbreaks",
-    "url": "https://www.scientificamerican.com/article/bernie-sanders-previews-democratic-investigations-into-rfk-jr-amid-nationwide-measles-outbreaks/",
-    "summary": "Sanders, an Independent who caucuses with the Democrats, told reporters on Wednesday that congressional investigations into the Trump administration’s actions could be coming in 2027",
-    "source": "Scientific American",
-    "published": "2026-11-18T17:30:00+00:00"
-  },
-  {
-    "id": "t93ff98cb",
-    "origin": "feed",
-    "title": "​​Homo erectus and Denisovans may have lived alongside each other in China, study suggests",
-    "url": "https://www.livescience.com/human-behavior/homo-erectus-and-denisovans-may-have-lived-alongside-each-other-in-china-study-suggests",
-    "summary": "Fossil teeth from two caves in southern China are revealing that at least two lineages of early humans were present in the region around 184,000 years ago.",
-    "source": "Live Science",
-    "published": "2026-11-18T16:04:37+00:00"
   },
   {
     "id": "te7b1fb34",
@@ -1229,15 +1238,6 @@
     "source": "Science News",
     "published": "2026-11-18T16:00:00+00:00",
     "text_file": "state/sources/te7b1fb34.txt"
-  },
-  {
-    "id": "t1ce64a0d",
-    "origin": "feed",
-    "title": "Striking photo shows tardigrade laying egg in its discarded skin — 'incredibly beautiful and unexpected'",
-    "url": "https://www.livescience.com/animals/striking-photo-shows-tardigrade-laying-egg-in-its-discarded-skin-incredibly-beautiful-and-unexpected",
-    "summary": "Biologist Gonzalo Quiroga-Artigas lifts the lid on the secret life of tardigrades in stunning detail for the Nikon Small World photography awards.",
-    "source": "Live Science",
-    "published": "2026-11-18T15:59:07+00:00"
   },
   {
     "id": "ta8c81f68",
@@ -1334,13 +1334,13 @@
     "published": "2026-11-18T07:00:36+00:00"
   },
   {
-    "id": "t77ab65f3",
+    "id": "t0f1eec22",
     "origin": "feed",
-    "title": "US loses measles elimination status amid worst outbreak since 1991",
-    "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
-    "summary": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US has lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endemic in the US after being eliminated for 26 years. The announcement comes as the US endures the worst measles outbreak since 1991, with more ",
+    "title": "Pill that mimics Viagra can slow Alzheimer’s progression, study suggests",
+    "url": "https://www.theguardian.com/science/2026/nov/18/pill-mimics-viagra-can-slow-alzheimers-progression-by-third-study",
+    "summary": "Experts call trial results of medication that slowed cognitive decline by almost a third ‘very promising’ A pill that mimics Viagra by relaxing blood vessels and increasing blood flow to the brain can slow cognitive decline in people with Alzheimer’s disease by almost a third, a global study suggests. Alzheimer’s is the most common form of dementia, a condition that is forecast to affect 153 milli",
     "source": "The Guardian Science",
-    "published": "2026-11-17T22:18:53+00:00"
+    "published": "2026-11-18T05:00:33+00:00"
   },
   {
     "id": "tae6a5154",
@@ -1395,15 +1395,6 @@
     "summary": "Scientists and toxicologists are sounding the alarm on the chemicals derived from kratom leaves, which have strong opioid-like properties.",
     "source": "Science News",
     "published": "2026-11-17T13:00:00+00:00"
-  },
-  {
-    "id": "tc78fde43",
-    "origin": "feed",
-    "title": "Would more hands-on dads create a more peaceful world? This pioneering scientist thinks so",
-    "url": "https://www.theguardian.com/lifeandstyle/2026/nov/17/would-more-hands-on-dads-create-a-more-peaceful-world-this-pioneering-scientist-thinks-so",
-    "summary": "Sarah Blaffer Hrdy unpicked Darwinian sexism to rewrite the story of evolution. Now, she’s turned her attention to the nature of fatherhood ‘Spit here, dear,” Sarah Blaffer Hrdy said to her husband, Dan, handing him a vial when he arrived in New York after the birth of the couple’s first grandchild. It was 2014 and Hrdy was conducting an experiment. Having recorded a 63% jump in oxytocin in her sa",
-    "source": "The Guardian Science",
-    "published": "2026-11-17T10:00:10+00:00"
   },
   {
     "id": "t3032b776",
