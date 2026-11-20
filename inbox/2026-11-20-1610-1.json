@@ -1,0 +1,37 @@
+{
+ "topic_id": "t134f5fb9",
+ "source_url": "https://www.scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star/",
+ "risk": "low",
+ "post": {
+  "topic": "Lemur indri: satu-satunya lemur yang benar-benar bernyanyi",
+  "image_query": "Indri indri",
+  "pillar": "Hewan dan alam",
+  "hook_options": ["Dari 100 lebih jenis lemur, cuma satu yang bernyanyi", "Lemur ini membuka mulut seperti penyanyi opera"],
+  "slides": [
+   {"type":"hook","title":"Dari 100 lebih jenis lemur, cuma satu yang bernyanyi","body":"Namanya indri, penghuni hutan hujan Madagaskar. Suaranya keras banget.","image_query":"Indri indri","takeaway":"Hanya satu lemur yang suaranya disebut lagu.","icon":"bulb"},
+   {"type":"fact","title":"Yang lain bersuara, indri bernyanyi","body":"Lebih dari **100 jenis lemur** hidup di Madagaskar. Cuma indri yang suaranya berupa nada berirama dengan naik-turun tinggi rendah.","viz":{"kind":"stat","value":"100+","label":"jenis lemur di Madagaskar","note":"hanya satu yang benar-benar bernyanyi"},"takeaway":"Lagu = nada berirama dengan perubahan tinggi rendah.","icon":"globe"},
+   {"type":"fact","title":"Lagunya seperti papan pengumuman","body":"Tiap kelompok bernyanyi untuk memberi tahu tetangga: **wilayah ini sudah ada yang menempati**. Kelompok lain menyahut.","image_query":"Madagascar rainforest","takeaway":"Nyanyian = tanda wilayah.","icon":"cloud"},
+   {"type":"fact","title":"Trik penyanyi opera","body":"Penyanyi opera membuka mulut lebih lebar untuk nada lebih tinggi. Para peneliti menemukan hubungan yang sama pada indri.","image_query":"opera singer","takeaway":"Makin lebar mulut, makin tinggi nadanya.","icon":"magnifier"},
+   {"type":"fact","title":"Bukan cuma indri yang bernyanyi","body":"Selain manusia dan indri, primata penyanyi lainnya adalah **gibbon, tarsius, dan monyet titi**. Mereka tidak sekerabat dekat, jadi kemampuan ini muncul berkali-kali.","image_query":"gibbon","takeaway":"Bernyanyi muncul berkali-kali dalam evolusi.","icon":"dna"},
+   {"type":"cta","title":"Kirim ke teman yang suka nyanyi di kamar mandi","body":"Ikuti @alwaysfact_ untuk fakta sains yang sering terlewat. Kirim dan simpan postingan ini!","takeaway":"Ikuti dan bagikan.","icon":"heart"}
+  ],
+  "caption": "Dari lebih dari 100 jenis lemur di Madagaskar, cuma indri yang suaranya disebut lagu. Mereka bernyanyi untuk menandai wilayah, dan para peneliti menemukan bahwa mulut mereka bergerak mirip penyanyi opera. Kirim ke temanmu yang suka bernyanyi! Ikuti @alwaysfact_ untuk fakta sains lainnya.\n\nSumber: Scientific American (podcast Science Quickly)",
+  "hashtags": ["faktasains","lemur","indri","madagaskar","hewan","alam","sains","alwaysfact"],
+  "claims": [
+   {"text":"Dari lebih dari 100 jenis lemur di Madagaskar, indri satu-satunya penyanyi sejati.","source_name":"Scientific American","source_url":"https://www.scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star/"},
+   {"text":"Lagu adalah suara panjang dari nada yang tersusun dalam frasa, berirama, dengan perubahan tinggi nada.","source_name":"Scientific American","source_url":"https://www.scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star/"},
+   {"text":"Nyanyian indri dipakai untuk menandakan wilayah yang ditempati kelompok.","source_name":"Scientific American","source_url":"https://www.scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star/"},
+   {"text":"Peneliti menemukan pada indri hubungan antara bukaan mulut dan frekuensi nada, seperti penyanyi opera.","source_name":"Scientific American","source_url":"https://www.scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star/"},
+   {"text":"Selain manusia dan indri, primata penyanyi adalah gibbon, tarsius, dan monyet titi, yang tidak sekerabat dekat.","source_name":"Scientific American","source_url":"https://www.scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star/"}
+  ],
+  "music_suggestions": ["tenang ceria tempo sedang","misterius hutan tempo lambat","hangat akustik tempo sedang"]
+ },
+ "verdicts": [
+  {"claim":1,"verdict":"supported","evidence_url":"https://www.scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star/","quote":"of the more than 100 estimated species of lemurs found on the aforementioned island, the Indri indri is the only true singer.","note":"verbatim"},
+  {"claim":2,"verdict":"supported","evidence_url":"https://www.scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star/","quote":"A song, in this case, is a long vocalization built from notes that are organized into phrases and follow a rhythm, with changes in pitch along the way.","note":"verbatim"},
+  {"claim":3,"verdict":"supported","evidence_url":"https://www.scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star/","quote":"The songs is used for, uh, broadcasting, for, uh, signaling the occupation of a certain territory.","note":"verbatim"},
+  {"claim":4,"verdict":"supported","evidence_url":"https://www.scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star/","quote":"We looked for this kind of relationship exact also in indri, and we found it.","note":"verbatim"},
+  {"claim":5,"verdict":"supported","evidence_url":"https://www.scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star/","quote":"Besides humans and indris, the primates known to create songs are gibbons, tarsiers and titi monkeys—none of which are closely related to lemurs or to each other.","note":"verbatim"},
+  {"claim":0,"verdict":"supported","note":"slides and caption say nothing stronger than the claims"}
+ ]
+}
