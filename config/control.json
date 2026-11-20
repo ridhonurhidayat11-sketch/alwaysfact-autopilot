@@ -1,13 +1,13 @@
 {
   "mode": "live",
-  "min_gap_min": 60,
+  "min_gap_min": 90,
   "posts_per_day": 5,
   "slots_wib": [
-    "06:30",
-    "12:00",
-    "15:30",
+    "07:30",
+    "11:30",
+    "13:30",
     "19:30",
-    "21:00"
+    "21:30"
   ],
   "buffer_days": 2,
   "max_usd_per_day": 1.0,
