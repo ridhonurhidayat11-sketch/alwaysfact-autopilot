@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       action:
-        description: "hold | release | at | only-formats"
+        description: "hold | release | at | only-formats | reslot"
         required: true
         default: "hold"
       target:
-        description: "hold/release: ids like 008,013 | at: one id | only-formats: carousel or reel"
+        description: "hold/release: ids like 008,013 | at: one id | only-formats: carousel or reel | reslot: UTC start time like 2026-11-20T18:30:00Z"
         required: true
       extra:
         description: "hold/only-formats: a short reason | at: UTC time like 2026-11-20T08:30:00Z"
