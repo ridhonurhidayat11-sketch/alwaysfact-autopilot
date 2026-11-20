@@ -1,0 +1,185 @@
+{
+  "topic": "Bayi badak langka lahir setelah ibunya hamil 15 bulan",
+  "image_query": "Indian rhinoceros Rhinoceros unicornis",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+    "Badak hamil 15 bulan, lebih lama dari manusia",
+    "Bayi badak ini baru lahir dan sudah berjalan"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Badak hamil 15 bulan, lebih lama dari manusia",
+      "body": "Baru-baru ini seekor bayi badak langka lahir. Langkah pertamanya terekam kamera.",
+      "image_query": "Rhinoceros unicornis",
+      "icon": "heart"
+    },
+    {
+      "type": "fact",
+      "title": "Langkah pertama terekam",
+      "body": "Di kebun binatang Chester, Inggris, seekor **anak badak bercula satu** lahir minggu ini. Video menangkap langkah pertamanya.",
+      "image_query": "Rhinoceros unicornis calf",
+      "takeaway": "Kelahiran badak langka terekam kamera.",
+      "icon": "heart"
+    },
+    {
+      "type": "fact",
+      "title": "Hamil 15 bulan",
+      "body": "Sang induk, Asha, hamil selama **15 bulan** sebelum melahirkan. Manusia saja cuma sekitar sembilan bulan.",
+      "takeaway": "Kehamilan badak jauh lebih lama.",
+      "icon": "clock",
+      "viz": {
+        "kind": "stat",
+        "value": "15 bulan",
+        "label": "lama kehamilan",
+        "note": "induk badak Asha"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Nyaris punah",
+      "body": "Pada awal **tahun 1900-an**, badak bercula satu hampir punah karena hutannya hilang dan diburu untuk dijadikan trofi.",
+      "takeaway": "Pernah nyaris habis dari alam.",
+      "icon": "burst",
+      "viz": {
+        "kind": "stat",
+        "value": "1900-an",
+        "label": "awal abad lalu",
+        "note": "badak nyaris punah"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Sekarang sekitar 4.000 ekor",
+      "body": "Kini ada sekitar **4.000 badak** bercula satu di rawa, hutan, dan padang rumput **India dan Nepal**. Statusnya tetap rentan punah.",
+      "image_query": "Kaziranga National Park",
+      "takeaway": "Jumlahnya naik, tapi masih rentan.",
+      "icon": "globe",
+      "viz": {
+        "kind": "stat",
+        "value": "4.000",
+        "label": "badak di alam liar",
+        "note": "India dan Nepal"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Terlalu terkumpul di satu tempat",
+      "body": "Banyak badak berkumpul di **satu taman nasional** di India. Itu membuat mereka rentan terhadap penyakit dan perubahan lingkungan.",
+      "takeaway": "Satu tempat saja berisiko.",
+      "icon": "leaf",
+      "image_query": "Kaziranga National Park rhino"
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_",
+      "body": "Suka fakta sains yang bikin melongo? **Ikuti @alwaysfact_** dan kirim postingan ini ke temanmu yang penasaran.",
+      "takeaway": "Ikuti dan kirim ke teman.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Seekor anak badak bercula satu lahir di kebun binatang Chester, Inggris, dan langkah pertamanya terekam video. Induknya hamil 15 bulan. Spesies ini pernah nyaris punah di awal 1900-an dan kini tersisa sekitar 4.000 ekor di India dan Nepal. Kirim ke temanmu pencinta hewan!\n\nSumber: BBC News.",
+  "hashtags": [
+    "badak",
+    "hewan",
+    "konservasi",
+    "sains",
+    "faktaunik",
+    "alwaysfact",
+    "satwa"
+  ],
+  "claims": [
+    {
+      "text": "Seekor anak badak bercula satu yang langka lahir di Chester Zoo dan langkah pertamanya terekam video.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "text": "Induk badak, Asha, hamil selama 15 bulan.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "text": "Badak bercula satu hampir punah pada awal tahun 1900-an karena hilangnya habitat dan perburuan trofi.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "text": "Sekitar 4.000 badak bercula satu hidup di rawa, hutan, dan padang rumput India dan Nepal.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "text": "Banyak badak ini terkonsentrasi di satu taman nasional di India sehingga rentan terhadap penyakit dan perubahan lingkungan.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "music_suggestions": [
+    "hangat dan lembut, tempo lambat",
+    "ceria, tempo sedang",
+    "penasaran, tempo sedang"
+  ],
+  "id": "022",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
+      "quote": "The calf was born at Chester Zoo in Cheshire this week.",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
+      "quote": "after Asha had been pregnant for 15 months",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
+      "quote": "The species was driven to near-extinction in the early 1900s by habitat loss and trophy hunting",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
+      "quote": "around 4,000 greater one-horned rhinos living in the wetlands, forests and grasslands of India and Nepal",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
+      "quote": "many of them are concentrated within one national park in India, which makes them vulnerable to illness and environmental changes",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
+  "topic_id": "tfdbd9587",
+  "image_credits": [
+    "Charles J. Sharp / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Charles J. Sharp / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Charles J. Sharp / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Tisha Mukherjee / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Hans Hillewaert / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Rohit Sharma / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Tisha Mukherjee / CC BY-SA 4.0 (Wikimedia Commons)",
+    "A. J. T. Johnsingh, WWF-India and NCF / CC BY-SA 4.0 (Wikimedia Commons)"
+  ]
+}

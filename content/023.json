@@ -1,0 +1,178 @@
+{
+  "topic": "Setiap kata yang kamu ucapkan dimulai dari satu titik di atas telinga kiri",
+  "image_query": "Wernicke's area brain",
+  "pillar": "Tubuh manusia",
+  "hook_options": [
+    "Setiap kata yang kamu ucapkan dimulai dari satu titik kecil",
+    "Kenapa bagian otak pendengar ikut bikin kita bicara?"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Setiap kata yang kamu ucapkan dimulai dari satu titik kecil",
+      "body": "Titik di otak ini aktif sebelum mulutmu bergerak. Letaknya di atas telinga kiri.",
+      "image_query": "human brain",
+      "icon": "bulb"
+    },
+    {
+      "type": "fact",
+      "title": "Bagian otak 'pendengar'",
+      "body": "Sejak **1874**, ahli saraf Carl Wernicke menjelaskan bagian otak di atas telinga kiri sebagai bagian yang dibutuhkan untuk **memahami ucapan**.",
+      "takeaway": "Dulu dikira hanya untuk mendengar.",
+      "icon": "magnifier",
+      "viz": {
+        "kind": "stat",
+        "value": "1874",
+        "label": "pertama dijelaskan",
+        "note": "oleh Carl Wernicke"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Teka-teki 150 tahun",
+      "body": "Aneh: orang yang area ini rusak **kesulitan bicara** juga. Pertanyaan itu terbuka selama **150 tahun**.",
+      "takeaway": "Kenapa area pendengar mengganggu bicara?",
+      "icon": "clock",
+      "viz": {
+        "kind": "stat",
+        "value": "150",
+        "label": "tahun jadi teka-teki",
+        "note": "sampai sekarang"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Aktif sebelum bicara",
+      "body": "Satu titik kecil di area itu aktif sekitar **seperempat detik** sebelum sebuah kata diucapkan.",
+      "takeaway": "Kata lahir di titik ini dulu.",
+      "icon": "bolt",
+      "image_query": "human brain left hemisphere"
+    },
+    {
+      "type": "fact",
+      "title": "28 orang diteliti",
+      "body": "Ilmuwan merekam aktivitas otak **28 orang** sebelum mereka menjalani operasi epilepsi atau tumor.",
+      "takeaway": "Rekaman langsung dari otak manusia.",
+      "icon": "atom",
+      "viz": {
+        "kind": "stat",
+        "value": "28",
+        "label": "orang diteliti",
+        "note": "sebelum operasi otak"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Kata panjang, lebih sibuk",
+      "body": "Area ini lebih aktif saat akan mengucapkan **'caterpillar'** (ulat) daripada **'cat'** (kucing).",
+      "takeaway": "Kata lebih panjang, kerja lebih berat.",
+      "icon": "bulb",
+      "image_query": "caterpillar"
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_",
+      "body": "Suka fakta sains yang bikin melongo? **Ikuti @alwaysfact_** dan kirim postingan ini ke temanmu yang penasaran.",
+      "takeaway": "Ikuti dan kirim ke teman.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Setiap kata yang kamu ucapkan hari ini diawali dari satu titik kecil di otak, di atas telinga kiri, sekitar seperempat detik sebelum kamu mengucapkannya. Selama 150 tahun, ilmuwan bingung kenapa bagian pendengar ikut mengatur bicara. Studi baru pada 28 orang memberi jawabannya. Kirim ke temanmu yang cerewet!\n\nSumber: Science News.",
+  "hashtags": [
+    "otak",
+    "tubuhmanusia",
+    "sains",
+    "faktaunik",
+    "bicara",
+    "alwaysfact",
+    "neurosains"
+  ],
+  "claims": [
+    {
+      "text": "Bagian otak di atas telinga kiri pertama kali dijelaskan tahun 1874 oleh Carl Wernicke sebagai bagian yang dibutuhkan untuk memahami ucapan.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie"
+    },
+    {
+      "text": "Pertanyaan mengapa kerusakan area pendengar mengganggu bicara terbuka selama 150 tahun.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie"
+    },
+    {
+      "text": "Setiap kata yang diucapkan dimulai di titik kecil itu sekitar seperempat detik sebelum diucapkan.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie"
+    },
+    {
+      "text": "Ilmuwan mengukur aktivitas otak 28 orang sebelum mereka menjalani operasi epilepsi atau tumor.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie"
+    },
+    {
+      "text": "Area itu lebih aktif saat akan mengucapkan kata caterpillar daripada kata cat.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie"
+    }
+  ],
+  "music_suggestions": [
+    "rasa ingin tahu, tempo sedang",
+    "sains santai, tempo sedang",
+    "misterius, tempo lambat"
+  ],
+  "id": "023",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie",
+      "quote": "just above the left ear, was first described in 1874",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie",
+      "quote": "That question has been open for 150 years.",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie",
+      "quote": "Every word that you have said today began in that small part above your left ear about a quarter of a second before you said it",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie",
+      "quote": "measured brain activity in 28 people before they had surgery",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie",
+      "quote": "It’s more active when you’re about to say the word caterpillar than when you’re about to say the word cat",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie",
+  "topic_id": "t7389df7e",
+  "image_credits": [
+    "unknown / CC BY 4.0 (Wikimedia Commons)",
+    "JLPC / CC BY-SA 3.0 (Wikimedia Commons)"
+  ]
+}

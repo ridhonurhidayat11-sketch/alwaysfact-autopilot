@@ -1,0 +1,205 @@
+{
+  "topic": "Voyager 1 kini sejauh satu hari cahaya dari Bumi",
+  "image_query": "Voyager 1 spacecraft",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+    "Sinyal dari Voyager 1 butuh sehari penuh untuk sampai",
+    "Pesawat tahun 1977 ini kini sejauh satu hari cahaya"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Sinyal dari Voyager 1 butuh sehari penuh untuk sampai",
+      "body": "Pesan dari pesawat ini sampai ke Bumi lebih lambat dari kiriman paket.",
+      "image_query": "Voyager 1 spacecraft",
+      "icon": "rocket"
+    },
+    {
+      "type": "fact",
+      "title": "Satu hari cahaya",
+      "body": "Voyager 1 mencapai **satu hari cahaya**, sekitar 16 miliar mil dari Bumi. Itu jarak terjauh bagi benda buatan manusia.",
+      "takeaway": "Benda buatan manusia terjauh dari Bumi.",
+      "icon": "rocket",
+      "viz": {
+        "kind": "stat",
+        "value": "16 miliar",
+        "label": "mil dari Bumi",
+        "note": "sekitar satu hari cahaya"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Sinyal pun terlambat",
+      "body": "Karena sejauh itu, komunikasi dengan Bumi **tertunda**. Ilmuwan baru menerima sinyal penegasan sehari setelah Voyager benar-benar sampai.",
+      "takeaway": "Jarak membuat kabar datang terlambat.",
+      "icon": "clock",
+      "viz": {
+        "kind": "steps",
+        "items": [
+          "Voyager mengirim sinyal",
+          "Sinyal melaju sehari",
+          "Ilmuwan NASA menerimanya"
+        ],
+        "caption": "Rabu tercapai, Kamis baru terdengar"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Berangkat 1977",
+      "body": "Voyager 1 dan kembarannya, Voyager 2, **diluncurkan tahun 1977** untuk menjelajah tata surya bagian luar.",
+      "image_query": "Voyager 2 spacecraft",
+      "takeaway": "Hampir 50 tahun dalam perjalanan.",
+      "icon": "clock",
+      "viz": {
+        "kind": "stat",
+        "value": "1977",
+        "label": "tahun peluncuran",
+        "note": "Voyager 1 dan 2"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Di ruang antarbintang",
+      "body": "Keduanya kini berada di **ruang antarbintang**, yaitu daerah di antara tata surya kita dan tata surya lain.",
+      "image_query": "Heliosphere interstellar space",
+      "takeaway": "Mereka sudah di luar tata surya.",
+      "icon": "planet"
+    },
+    {
+      "type": "fact",
+      "title": "Baterai habis 2036",
+      "body": "Voyager 1 diperkirakan kehabisan daya pada **2036** dan berhenti berkomunikasi. Tapi ia terus meluncur menuju tujuan 17 tahun cahaya.",
+      "takeaway": "Berhenti bicara, tapi tidak berhenti terbang.",
+      "icon": "bolt",
+      "viz": {
+        "kind": "stat",
+        "value": "2036",
+        "label": "perkiraan kehabisan daya",
+        "note": "sesudah itu hening, tapi terus melaju"
+      }
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_",
+      "body": "Suka fakta sains yang bikin melongo? **Ikuti @alwaysfact_** dan kirim postingan ini ke temanmu yang penasaran.",
+      "takeaway": "Ikuti dan kirim ke teman.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Voyager 1 baru mencapai satu hari cahaya dari Bumi, sekitar 16 miliar mil. Karena begitu jauh, kabar darinya datang terlambat. Pesawat yang diluncurkan tahun 1977 ini diperkirakan kehabisan daya pada 2036, tapi akan terus melaju. Kirim ke temanmu yang suka luar angkasa!\n\nSumber: Scientific American.",
+  "hashtags": [
+    "voyager",
+    "nasa",
+    "luarangkasa",
+    "sains",
+    "faktaunik",
+    "alwaysfact",
+    "antariksa"
+  ],
+  "claims": [
+    {
+      "text": "Pesawat Voyager mencapai jarak satu hari cahaya, sekitar 16 miliar mil dari Bumi.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/"
+    },
+    {
+      "text": "Karena sangat jauh, komunikasi pesawat itu dengan Bumi tertunda.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/"
+    },
+    {
+      "text": "Dua pesawat Voyager diluncurkan pada tahun 1977.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/"
+    },
+    {
+      "text": "Voyager 1 dan 2 berada di ruang antarbintang, yaitu daerah di antara tata surya kita dan tata surya lain.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/"
+    },
+    {
+      "text": "Voyager 1 diperkirakan kehabisan daya pada 2036 lalu tidak lagi berkomunikasi dengan Bumi.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/"
+    },
+    {
+      "text": "Pesawat itu menuju tujuan sejauh 17 tahun cahaya.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/"
+    }
+  ],
+  "music_suggestions": [
+    "epik dan tenang, tempo lambat",
+    "sinematik, tempo sedang",
+    "misterius, tempo sedang"
+  ],
+  "id": "020",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/",
+      "quote": "around 16 billion miles, away from Earth",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/",
+      "quote": "because it is so far away, communications between it and Earth are delayed",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/",
+      "quote": "They were both launched in 1977 to explore the outer solar system",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/",
+      "quote": "Both Voyager 1 and Voyager 2 are in interstellar space, or the area between our solar system and others",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/",
+      "quote": "Voyager 1 is expected to lose power in 2036, at which point it will no longer communicate with Earth.",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 6,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/",
+      "quote": "Set for a destination of 17 light-years away",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/",
+  "topic_id": "t61fdcee2",
+  "image_credits": [
+    "NASA/Walt Feimer / Public domain (Wikimedia Commons)",
+    "NASA/Walt Feimer / Public domain (Wikimedia Commons)",
+    "NASA, Caltech/JPL / Public domain (Wikimedia Commons)",
+    "NASA's Scientific Visualization Studio - eMITS/Jonathan Nort / Public domain (Wikimedia Commons)",
+    "NASA Headquarters / NASA/Bill Ingalls / Public domain (Wikimedia Commons)",
+    "NASA/JPL / Public domain (Wikimedia Commons)",
+    "NASA Kennedy Space Center / NASA Johns Hopkins APL Ed Whitma / Public domain (Wikimedia Commons)"
+  ]
+}

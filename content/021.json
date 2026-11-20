@@ -1,0 +1,211 @@
+{
+  "topic": "Di Merkurius, siang bisa berlangsung tiga bulan",
+  "image_query": "Mercury planet MESSENGER",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+    "Di Merkurius, satu siang bisa selama tiga bulan",
+    "Planet terkecil dengan siang tiga bulan"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Di Merkurius, satu siang bisa selama tiga bulan",
+      "body": "Lalu malamnya juga tiga bulan. Beginilah planet terdekat dari Matahari.",
+      "image_query": "Mercury planet",
+      "icon": "flame"
+    },
+    {
+      "type": "fact",
+      "title": "Berputar sangat lambat",
+      "body": "Merkurius butuh **58 hari Bumi** untuk berputar satu kali pada porosnya.",
+      "image_query": "Mercury planet surface",
+      "takeaway": "Satu putaran memakan hampir dua bulan.",
+      "icon": "clock",
+      "viz": {
+        "kind": "stat",
+        "value": "58 hari",
+        "label": "satu putaran",
+        "note": "dalam hari Bumi"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Siang dan malam tiga bulan",
+      "body": "Karena itu satu titik di permukaannya bisa **siang tiga bulan**, lalu **malam tiga bulan**.",
+      "takeaway": "Siang dan malam sama-sama panjang.",
+      "icon": "bulb",
+      "viz": {
+        "kind": "steps",
+        "items": [
+          "Siang sekitar tiga bulan",
+          "Malam sekitar tiga bulan"
+        ],
+        "caption": "Di satu titik yang sama"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Panas dan dingin ekstrem",
+      "body": "Siang hari tanahnya mencapai **450°C**. Malam turun sampai **-180°C**.",
+      "takeaway": "Selisih suhunya lebih dari 600 derajat.",
+      "icon": "flame",
+      "viz": {
+        "kind": "compare",
+        "items": [
+          {
+            "label": "Siang",
+            "value": 450
+          },
+          {
+            "label": "Malam",
+            "value": 180
+          }
+        ],
+        "unit": "°C",
+        "caption": "Malam: minus 180°C"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Kecil tapi berat",
+      "body": "Merkurius cuma **50% lebih besar** dari Bulan, tapi **massanya empat kali** Bulan. Para ilmuwan ingin tahu kenapa sepadat itu.",
+      "image_query": "Moon",
+      "takeaway": "Kecil, tapi sangat padat.",
+      "icon": "atom",
+      "viz": {
+        "kind": "compare",
+        "items": [
+          {
+            "label": "Bulan",
+            "value": 1
+          },
+          {
+            "label": "Merkurius",
+            "value": 4
+          }
+        ],
+        "unit": "x massa",
+        "caption": "Ukuran hanya 50% lebih besar"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Pesawat tiba setelah 8 tahun",
+      "body": "Misi BepiColombo menempuh **lebih dari delapan tahun** perjalanan sebelum tiba. Ia baru misi kedua yang mengorbit Merkurius.",
+      "image_query": "BepiColombo",
+      "takeaway": "Misi kedua yang mengorbit Merkurius.",
+      "icon": "rocket"
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_",
+      "body": "Suka fakta sains yang bikin melongo? **Ikuti @alwaysfact_** dan kirim postingan ini ke temanmu yang penasaran.",
+      "takeaway": "Ikuti dan kirim ke teman.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Merkurius itu planet yang ekstrem. Ia berputar sangat lambat, 58 hari Bumi untuk satu putaran, sehingga satu titik bisa mengalami siang tiga bulan lalu malam tiga bulan. Suhu siangnya 450 derajat Celsius, malamnya minus 180. Pesawat BepiColombo akhirnya tiba setelah perjalanan lebih dari delapan tahun. Kirim ke temanmu yang suka luar angkasa!\n\nSumber: The Guardian.",
+  "hashtags": [
+    "merkurius",
+    "planet",
+    "luarangkasa",
+    "sains",
+    "faktaunik",
+    "alwaysfact",
+    "antariksa"
+  ],
+  "claims": [
+    {
+      "text": "Merkurius butuh 58 hari Bumi untuk berputar satu kali pada porosnya.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo"
+    },
+    {
+      "text": "Satu titik di permukaan Merkurius bisa mengalami siang selama tiga bulan lalu malam selama tiga bulan.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo"
+    },
+    {
+      "text": "Suhu tanah Merkurius mencapai 450C di siang hari dan turun ke -180C di malam hari.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo"
+    },
+    {
+      "text": "Merkurius hanya 50% lebih besar dari Bulan tetapi bermassa empat kali lipat.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo"
+    },
+    {
+      "text": "BepiColombo menempuh perjalanan lebih dari delapan tahun dan menjadi misi kedua yang mengorbit Merkurius.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo"
+    }
+  ],
+  "music_suggestions": [
+    "epik dan tenang, tempo lambat",
+    "sinematik, tempo sedang",
+    "misterius, tempo sedang"
+  ],
+  "id": "021",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "quote": "takes 58 Earth days to rotate on its axis",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "quote": "any given spot on the surface can experience daylight for three months and then night-time for three months",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "quote": "ground temperatures reach 450C while at night they drop to -180C",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "quote": "Mercury is only 50% larger than the moon but has four times its mass.",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "quote": "After a voyage of more than eight years and 6bn miles",
+      "note": "kutipan langsung dari artikel sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+  "topic_id": "t14d658a3",
+  "image_credits": [
+    "NASA / JHU/APL / Public domain (Wikimedia Commons)",
+    "NASA/Johns Hopkins University Applied Physics Laboratory/Car / Public domain (Wikimedia Commons)",
+    "NASA / Public domain (Wikimedia Commons)",
+    "NASA/Johns Hopkins University Applied Physics Laboratory/Car / Public domain (Wikimedia Commons)",
+    "NASA/Johns Hopkins University Applied Physics Laboratory/Car / NASA media (public domain unless noted) (NASA)",
+    "NASA / Johns Hopkins University Applied Physics Laboratory / / Public domain (Wikimedia Commons)",
+    "NASA / Public domain (Wikimedia Commons)",
+    "ESA–C. Carreau / CC BY-SA 3.0 igo (Wikimedia Commons)"
+  ]
+}
