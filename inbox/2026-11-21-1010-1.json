@@ -1,0 +1,198 @@
+{
+ "topic_id": "tce0488e4",
+ "source_url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
+ "risk": "low",
+ "post": {
+  "topic": "El Niño 2026: laut Pasifik pecahkan rekor panas",
+  "image_query": "El Nino sea surface temperature anomaly map",
+  "pillar": "Sains yang disepelekan",
+  "hook_options": [
+   "Laut Pasifik tembus 30°C untuk pertama kalinya",
+   "El Niño tahun ini memecahkan rekor suhu laut"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Laut Pasifik tembus 30°C untuk pertama kalinya",
+    "body": "El Niño adalah pemanasan air laut Pasifik yang mengubah cuaca di banyak negara, termasuk kawasan Asia Tenggara.",
+    "image_query": "El Nino sea surface temperature anomaly map",
+    "takeaway": "El Niño tahun ini memecahkan rekor.",
+    "icon": "globe"
+   },
+   {
+    "type": "fact",
+    "title": "Apa itu El Niño?",
+    "body": "Air laut di tengah dan timur Samudra Pasifik jadi **lebih hangat dari biasanya**. Panasnya ikut mengubah cuaca di seluruh dunia.",
+    "image_query": "Pacific Ocean",
+    "takeaway": "Laut yang hangat bisa mengubah cuaca di tempat jauh.",
+    "icon": "droplet"
+   },
+   {
+    "type": "chart",
+    "title": "Rekor baru di area pantauan",
+    "body": "Tanggal 18 Oktober, area laut yang dipakai peneliti untuk memantau El Niño mencapai rata-rata **lebih dari 30°C**. Ini pertama kali dalam sejarah.",
+    "viz": {
+     "kind": "stat",
+     "value": "30°C",
+     "label": "rata-rata suhu laut area pantauan",
+     "note": "pertama kali dalam sejarah"
+    },
+    "takeaway": "Lebih dari 30°C, belum pernah terjadi sebelumnya.",
+    "icon": "flame"
+   },
+   {
+    "type": "fact",
+    "title": "Rekor September",
+    "body": "Suhu harian laut di area itu mencapai **3,03°C di atas rata-rata 30 tahun**. Itu level paling ekstrem yang pernah tercatat.",
+    "viz": {
+     "kind": "stat",
+     "value": "+3,03°C",
+     "label": "di atas rata-rata 30 tahun",
+     "note": "rekor September"
+    },
+    "takeaway": "Paling ekstrem yang pernah tercatat.",
+    "icon": "bolt"
+   },
+   {
+    "type": "fact",
+    "title": "Tahun ini luar biasa",
+    "body": "Dua El Niño terkuat sebelumnya muncul pada **1997 dan 2015**. Tahun ini disebut belum pernah terjadi sebelumnya.",
+    "image_query": "Pacific Ocean waves",
+    "takeaway": "Hanya 1997 dan 2015 yang pernah sekuat ini.",
+    "icon": "clock"
+   },
+   {
+    "type": "fact",
+    "title": "Untuk Asia Tenggara",
+    "body": "Wilayah Asia Tenggara, tempat Indonesia berada, diperkirakan kena **kekeringan luas**. Pertanian terancam dan risiko kebakaran hutan naik.",
+    "image_query": "drought cracked dry soil",
+    "takeaway": "Asia Tenggara diperkirakan lebih kering.",
+    "icon": "leaf"
+   },
+   {
+    "type": "fact",
+    "title": "Kaitannya denganmu",
+    "body": "Cuaca yang lebih kering bisa terasa di sekitarmu. Dampak El Niño diperkirakan masih terasa sampai **2027**.",
+    "image_query": "",
+    "takeaway": "Pantau kabar cuaca dari BMKG tahun depan.",
+    "icon": "cloud"
+   },
+   {
+    "type": "cta",
+    "title": "Mau tahu fakta bumi lainnya?",
+    "body": "Follow @alwaysfact_ untuk fakta sains yang sering terlewat. Kirim post ini ke temanmu yang suka penasaran!",
+    "takeaway": "Ikuti dan bagikan.",
+    "icon": "heart"
+   }
+  ],
+  "caption": "Laut Pasifik tembus 30°C untuk pertama kalinya, dan efeknya terasa sampai Asia Tenggara. 🌊\n\nEl Niño tahun ini disebut belum pernah terjadi sebelumnya. Peneliti memperkirakan kekeringan luas di Asia Tenggara. Kirim ke temanmu yang penasaran soal cuaca!\n\nSumber: Science News, \"This year's El Niño is unlike any other on record\".",
+  "hashtags": [
+   "elniño",
+   "cuaca",
+   "lautan",
+   "pasifik",
+   "faktasains",
+   "sains",
+   "alwaysfact",
+   "asiatenggara"
+  ],
+  "claims": [
+   {
+    "text": "El Niño adalah pola laut pengubah cuaca, ditandai air permukaan di Pasifik tengah dan timur lebih hangat dari biasanya.",
+    "source_name": "Science News",
+    "source_url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane"
+   },
+   {
+    "text": "Panas yang dilepas El Niño ke atmosfer menggeser jalur badai dan pola cuaca di seluruh dunia.",
+    "source_name": "Science News",
+    "source_url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane"
+   },
+   {
+    "text": "Tanggal 18 Oktober, area laut pemantau El Niño mencapai rata-rata di atas 30°C untuk pertama kalinya dalam sejarah.",
+    "source_name": "Science News",
+    "source_url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane"
+   },
+   {
+    "text": "Pada September, suhu laut harian rata-rata di area itu mencapai 3,03°C di atas rata-rata 30 tahun, level paling ekstrem yang pernah tercatat.",
+    "source_name": "Science News",
+    "source_url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane"
+   },
+   {
+    "text": "Dua El Niño terkuat sebelumnya muncul pada 1997 dan 2015.",
+    "source_name": "Science News",
+    "source_url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane"
+   },
+   {
+    "text": "Di Asia Tenggara, El Niño menyebabkan kekeringan luas yang mengancam pertanian dan menambah risiko kebakaran hutan.",
+    "source_name": "Science News",
+    "source_url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane"
+   },
+   {
+    "text": "Dampak hujan dan kekeringan diperkirakan terjadi di seluruh dunia sampai musim semi 2027.",
+    "source_name": "Science News",
+    "source_url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane"
+   }
+  ],
+  "music_suggestions": [
+   "santai, tempo pelan, penasaran",
+   "ringan, tempo sedang, hangat",
+   "lembut, tempo pelan, cerah"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
+   "quote": "It was an unprecedented year for El Niño, the weather-changing ocean pattern defined by warmer-than-normal surface waters in the central and eastern equatorial Pacific.",
+   "note": "kutipan langsung dari artikel tersimpan"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
+   "quote": "The heat that El Niño unleashes into the atmosphere shifts storm tracks and weather patterns globally.",
+   "note": "kutipan langsung dari artikel tersimpan"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
+   "quote": "By October 18, the ocean area that researchers use to monitor El Niño’s severity climbed to an average temperature of over 30° Celsius (86° Fahrenheit) for the first time in history.",
+   "note": "kutipan langsung dari artikel tersimpan"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
+   "quote": "In September, the region’s daily average sea surface temperature reached the most extreme level ever recorded: more than 3.03 degrees Celsius above the 30-year average (dashed line).",
+   "note": "kutipan langsung dari artikel tersimpan"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
+   "quote": "The two previous strongest El Niños on record emerged in 1997 and 2015.",
+   "note": "kutipan langsung dari artikel tersimpan"
+  },
+  {
+   "claim": 6,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
+   "quote": "Widespread drought that threatens agriculture and raises wildfire risk.",
+   "note": "kutipan langsung dari artikel tersimpan"
+  },
+  {
+   "claim": 7,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
+   "quote": "Precipitation and drought impacts are expected across the world through spring 2027.",
+   "note": "kutipan langsung dari artikel tersimpan"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}
