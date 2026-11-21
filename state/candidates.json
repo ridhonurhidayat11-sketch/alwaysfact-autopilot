@@ -1,5 +1,75 @@
 [
   {
+    "id": "tf7804185",
+    "origin": "feed",
+    "title": "The British island that made a deal with nature",
+    "url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
+    "summary": "LUNDY ISLAND — United Kingdom. Out in the Bristol Channel, nestled between Wales and England, the rugged island of Lundy is one of the UK’s most pioneering conservation stories. From the return of thousands of seabirds to thriving marine life beneath its waves, decades of conservation have helped transform this small island. But Lundy’s story […]",
+    "source": "Mongabay",
+    "published": "2026-11-21T09:10:37+00:00",
+    "text_file": "state/sources/tf7804185.txt"
+  },
+  {
+    "id": "t040c95d5",
+    "origin": "feed",
+    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+    "source": "BBC Science",
+    "published": "2026-11-21T07:31:05+00:00",
+    "text_file": "state/sources/t040c95d5.txt"
+  },
+  {
+    "id": "tdf1655ff",
+    "origin": "feed",
+    "title": "Beating Ebola takes more than medicine – I saw what worked in west Africa a decade ago | Kayode Akintola",
+    "url": "https://www.theguardian.com/global-development/2026/nov/21/ebola-outbreak-congo-worst-ever",
+    "summary": "The outbreak in DR Congo is shaping up to be the worst ever, but the support of local faith leaders – and adequate funding – will be needed to bring it under control Ebola is terrifying: I know, because I lived through the world’s worst outbreak of the disease . That was in west Africa between 2013 and 2016, when anyone infected by the virus had a nearly 40% chance of dying . There were 28,600 cas",
+    "source": "The Guardian Science",
+    "published": "2026-11-21T06:00:53+00:00",
+    "text_file": "state/sources/tdf1655ff.txt"
+  },
+  {
+    "id": "td0dffaaf",
+    "origin": "feed",
+    "title": "SpaceX launches classified mission for US Space Force from California",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
+    "summary": "SpaceX launched a classified mission for the U.S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
+    "source": "Space.com",
+    "published": "2026-11-21T05:28:14+00:00",
+    "text_file": "state/sources/td0dffaaf.txt"
+  },
+  {
+    "id": "t9f54447f",
+    "origin": "feed",
+    "title": "APOD: 2026 November 21 – Voyager’s Neptune",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+    "summary": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Voyager’s Neptune Explanation: […]",
+    "source": "NASA",
+    "published": "2026-11-21T05:05:00+00:00",
+    "text_file": "state/sources/t9f54447f.txt"
+  },
+  {
+    "id": "tcbb1999f",
+    "origin": "feed",
+    "title": "Math Puzzle: The longest shuffle",
+    "url": "https://www.scientificamerican.com/article/math-puzzle-longest-shuffle/",
+    "summary": "Find the most laborious shuffle you can",
+    "source": "Scientific American",
+    "published": "2026-11-21T05:00:00+00:00",
+    "text_file": "state/sources/tcbb1999f.txt"
+  },
+  {
+    "id": "t3edbe78f",
+    "origin": "feed",
+    "title": "What makes rock deep beneath continents break away and sink?",
+    "url": "https://phys.org/news/2026-11-deep-beneath-continents.html",
+    "summary": "We usually picture mountain building as rock being pushed upward. But deep beneath some mountain belts and volcanic arcs, the opposite can happen: dense rock at the base of the crust can become unstable, break away and sink hundreds of kilometers into the mantle, dragging part of the rigid outer shell of the Earth (the lithosphere) with it. Seismic images suggest that this process, known as lithos",
+    "source": "Phys.org",
+    "published": "2026-11-21T04:20:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
     "id": "tc6fd4e15",
     "origin": "feed",
     "title": "Device that measures strawberry skin's strength will aid breeders",
@@ -136,8 +206,7 @@
     "url": "https://phys.org/news/2026-11-caribbean-corals-crisis-fossil-reefs.html",
     "summary": "The fossilized remains of ancient coral reefs often sit just meters from living corals in the Caribbean, where reefs have declined sharply over the past 70 years. Those fossils could help show where corals might survive a warming future. In two new papers, researchers at The University of Texas at Austin identify which coral species dominated ancient reefs in northeastern Jamaica and suggest how t",
     "source": "Phys.org",
-    "published": "2026-11-20T22:00:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T22:00:01+00:00"
   },
   {
     "id": "tf6e77b71",
@@ -254,15 +323,6 @@
     "source": "NASA",
     "published": "2026-11-20T20:46:14+00:00",
     "text_file": "state/sources/t2c15e84b.txt"
-  },
-  {
-    "id": "td1bd87f9",
-    "origin": "feed",
-    "title": "Digital imaging workshop aims to reveal secrets in medieval manuscripts",
-    "url": "https://phys.org/news/2026-11-digital-imaging-workshop-aims-reveal.html",
-    "summary": "Researchers recently used multispectral imaging technology to try to uncover hidden information from medieval manuscripts at the Rare Book and Manuscript Library at the University of Illinois Urbana-Champaign. The library hosted a digital imaging workshop in early October that served as a pilot study for how the technology can help analyze fragile, centuries-old documents.",
-    "source": "Phys.org",
-    "published": "2026-11-20T20:40:09+00:00"
   },
   {
     "id": "t6d83a268",
@@ -391,8 +451,7 @@
     "url": "https://news.mongabay.com/2026/11/where-family-foundations-can-help-marine-conservation/",
     "summary": "COP17 ended in Armenia amid disappointment over the lack of concrete measures to reduce biodiversity loss by 2030. Finance was a sore point. Philanthropy is only a small part of that picture, but foundations can take risks that public agencies often cannot. I think there are some particularly good opportunities for smaller foundations in marine […]",
     "source": "Mongabay",
-    "published": "2026-11-20T17:48:02+00:00",
-    "text_file": "state/sources/t05ba0b81.txt"
+    "published": "2026-11-20T17:48:02+00:00"
   },
   {
     "id": "ta71b60cf",
@@ -457,8 +516,7 @@
     "url": "https://www.space.com/space-exploration/satellites/russia-is-developing-a-nuclear-space-weapon-us-intelligence-report-finds",
     "summary": "A new report by the the U.S. Defense Intelligence Agency discusses the threats posed by the nation's adversaries in space — including Russia, which is developing a nuke-carrying satellite.",
     "source": "Space.com",
-    "published": "2026-11-20T17:00:00+00:00",
-    "text_file": "state/sources/tb44c2776.txt"
+    "published": "2026-11-20T17:00:00+00:00"
   },
   {
     "id": "t10fe0526",
@@ -509,15 +567,6 @@
     "source": "NASA",
     "published": "2026-11-20T15:53:24+00:00",
     "text_file": "state/sources/t3c75783d.txt"
-  },
-  {
-    "id": "t56ae7477",
-    "origin": "feed",
-    "title": "Japan looks to offshore wind to boost energy security, but hurdles remain",
-    "url": "https://news.mongabay.com/2026/11/japan-looks-to-offshore-wind-to-boost-energy-security-but-hurdles-remain/",
-    "summary": "Japan has “tremendous potential” for offshore wind power, according to the national government and experts. But achieving that potential means overcoming major hurdles. While commercial-scale projects began coming online in recent years, the country still needs to address challenges that include refining its public-private partnerships, a buildout of related industries (such as turbine production)",
-    "source": "Mongabay",
-    "published": "2026-11-20T15:46:23+00:00"
   },
   {
     "id": "t0abed500",
@@ -726,23 +775,13 @@
     "published": "2026-11-20T11:00:00+00:00"
   },
   {
-    "id": "tb4e6ebcc",
-    "origin": "feed",
-    "title": "SpaceX Dragon cargo capsule heads home to Earth from the ISS",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
-    "summary": "SpaceX's 35th Dragon cargo mission undocked from the International Space Station today (Nov. 20), starting its journey home to Earth.",
-    "source": "Space.com",
-    "published": "2026-11-20T11:00:00+00:00"
-  },
-  {
     "id": "t134f5fb9",
     "origin": "feed",
     "title": "How one lemur species evolved to sing like an opera star",
     "url": "https://www.scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star/",
     "summary": "After millions of years of evolution turned these lemurs into showstopping singers, scientists are tuning in with conservation in mind",
     "source": "Scientific American",
-    "published": "2026-11-20T11:00:00+00:00",
-    "text_file": "state/sources/t134f5fb9.txt"
+    "published": "2026-11-20T11:00:00+00:00"
   },
   {
     "id": "t00831ce6",
@@ -1074,16 +1113,6 @@
     "text_file": "state/sources/t4dda2a82.txt"
   },
   {
-    "id": "t934285e4",
-    "origin": "feed",
-    "title": "BBC Inside Science",
-    "url": "https://www.bbc.co.uk/sounds/play/w3ct978m?at_medium=RSS&at_campaign=rss",
-    "summary": "SpaceX is on the verge of making space affordable.",
-    "source": "BBC Science",
-    "published": "2026-11-19T21:00:00+00:00",
-    "text_file": "state/sources/t934285e4.txt"
-  },
-  {
     "id": "t06fa35df",
     "origin": "feed",
     "title": "FAA ground stop suggests how risky air traffic control upgrades can be",
@@ -1102,24 +1131,13 @@
     "published": "2026-11-19T20:24:33+00:00"
   },
   {
-    "id": "tad3e73c0",
-    "origin": "feed",
-    "title": "Oil firm fined for breaking environmental rules hundreds of times",
-    "url": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
-    "summary": "Ten charges involved oil, cyanide and other pollutants entering local waterways.",
-    "source": "BBC Science",
-    "published": "2026-11-19T19:58:27+00:00",
-    "text_file": "state/sources/tad3e73c0.txt"
-  },
-  {
     "id": "t472edcef",
     "origin": "feed",
     "title": "Challenge: Public Input on Life and the World in 2075",
     "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
     "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in […]",
     "source": "NASA",
-    "published": "2026-11-19T19:34:20+00:00",
-    "text_file": "state/sources/t472edcef.txt"
+    "published": "2026-11-19T19:34:20+00:00"
   },
   {
     "id": "t7240dec6",
@@ -1157,15 +1175,6 @@
     "source": "Science News",
     "published": "2026-11-19T19:00:00+00:00",
     "text_file": "state/sources/t7389df7e.txt"
-  },
-  {
-    "id": "tfda996bc",
-    "origin": "feed",
-    "title": "We’ve been wrong about how language is produced in the brain for 150 years",
-    "url": "https://www.scientificamerican.com/article/weve-been-wrong-about-how-language-is-produced-in-the-brain-for-150-years/",
-    "summary": "A new study has upended the classic story of how language is produced in the brain",
-    "source": "Scientific American",
-    "published": "2026-11-19T19:00:00+00:00"
   },
   {
     "id": "t2e880d58",
@@ -1222,15 +1231,6 @@
     "summary": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real […]",
     "source": "NASA",
     "published": "2026-11-19T15:32:39+00:00"
-  },
-  {
-    "id": "t634743bc",
-    "origin": "feed",
-    "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
-    "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
-    "summary": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot […]",
-    "source": "NASA",
-    "published": "2026-11-19T14:44:39+00:00"
   },
   {
     "id": "tde9900e9",
@@ -1313,8 +1313,7 @@
     "url": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
     "summary": "HMCS Spitfire was commissioned by colonial government to protect against Russian warships during the Crimean war The wreck of Australia’s first locally built warship has been discovered 128 years after sinking off the coast of far north Queensland. Marine archaeologists found the remains of Ex HMCS Spitfire on 21 August, the anniversary of its sinking in 1898. Continue reading...",
     "source": "The Guardian Science",
-    "published": "2026-11-19T05:22:38+00:00",
-    "text_file": "state/sources/t07e6ce0b.txt"
+    "published": "2026-11-19T05:22:38+00:00"
   },
   {
     "id": "tb6a46e31",
@@ -1424,15 +1423,6 @@
     "summary": "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16s Countries around the world are considering social media bans for children, but whether this would work in practice has been hotly debated. Now researchers are seeking answers through a major scientific study led by Wellcome, which will be the first of its kind. Ten research projects will explore",
     "source": "The Guardian Science",
     "published": "2026-11-18T07:00:36+00:00"
-  },
-  {
-    "id": "t0f1eec22",
-    "origin": "feed",
-    "title": "Pill that mimics Viagra can slow Alzheimer’s progression, study suggests",
-    "url": "https://www.theguardian.com/science/2026/nov/18/pill-mimics-viagra-can-slow-alzheimers-progression-by-third-study",
-    "summary": "Experts call trial results of medication that slowed cognitive decline by almost a third ‘very promising’ A pill that mimics Viagra by relaxing blood vessels and increasing blood flow to the brain can slow cognitive decline in people with Alzheimer’s disease by almost a third, a global study suggests. Alzheimer’s is the most common form of dementia, a condition that is forecast to affect 153 milli",
-    "source": "The Guardian Science",
-    "published": "2026-11-18T05:00:33+00:00"
   },
   {
     "id": "tef9a93cf",
