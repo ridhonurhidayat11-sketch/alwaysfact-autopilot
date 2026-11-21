@@ -1,0 +1,259 @@
+{
+  "topic": "Pulau Lundy: laut larang pancing bikin lobster melimpah",
+  "image_query": "Lundy Island",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+    "Satu zona laut dilarang dipancing, lobsternya malah melimpah",
+    "Laut yang dilarang dipancing malah penuh lobster"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Satu zona laut dilarang dipancing, lobsternya malah melimpah",
+      "body": "Lundy adalah pulau kecil di perairan antara Inggris dan Wales yang melindungi lautnya dengan zona larangan memancing.",
+      "image_query": "Lundy Island",
+      "takeaway": "Laut yang dilindungi bisa pulih cepat.",
+      "icon": "fish"
+    },
+    {
+      "type": "fact",
+      "title": "Zona larangan memancing",
+      "body": "Pada **2003**, Lundy punya zona pertama di Inggris Raya, yaitu hamparan laut kecil yang sama sekali tidak boleh dipancing.",
+      "image_query": "Lundy Island coast",
+      "takeaway": "Zona itu disebut no-take zone.",
+      "icon": "globe"
+    },
+    {
+      "type": "fact",
+      "title": "Nelayan ikut merancangnya",
+      "body": "Warga pulau, nelayan lokal, dan pegiat alam **bekerja sama** menentukan apa yang boleh dan di mana. Semua merasa ikut memiliki.",
+      "image_query": "lobster pots fishing boat",
+      "takeaway": "Aturan dibuat bersama nelayan, bukan dipaksakan.",
+      "icon": "heart"
+    },
+    {
+      "type": "compare",
+      "title": "Hasil tangkapan: luar vs dalam",
+      "body": "Di luar zona, 35 sampai 40 perangkap bisa dapat sekitar **12 lobster**. Di dalam zona, bisa **75 lobster** dalam semalam.",
+      "viz": {
+        "kind": "compare",
+        "items": [
+          {
+            "label": "Di luar zona",
+            "value": 12
+          },
+          {
+            "label": "Di dalam zona",
+            "value": 75
+          }
+        ],
+        "unit": "lobster",
+        "caption": "Tangkapan satu malam, menurut nelayan Lundy"
+      },
+      "takeaway": "Di dalam zona, tangkapannya jauh lebih banyak.",
+      "icon": "fish"
+    },
+    {
+      "type": "fact",
+      "title": "Lobsternya meluber keluar",
+      "body": "Lobster di dalam zona tumbuh **lebih besar dan lebih banyak**. Sebagian menyebar ke area tangkapan di sekitarnya.",
+      "image_query": "European lobster Homarus gammarus",
+      "takeaway": "Perlindungan ikut menguntungkan area sekitar.",
+      "icon": "fish"
+    },
+    {
+      "type": "fact",
+      "title": "Burung laut ikut pulih",
+      "body": "Dulu tikus memangsa telur burung, jumlahnya tinggal sekitar **6000**. Setelah tikus dibasmi, kini sekitar **48.000**.",
+      "viz": {
+        "kind": "compare",
+        "items": [
+          {
+            "label": "Dulu",
+            "value": 6000
+          },
+          {
+            "label": "Sekarang",
+            "value": 48000
+          }
+        ],
+        "unit": "burung laut",
+        "caption": "Jumlah burung laut di Lundy"
+      },
+      "takeaway": "Jumlah burung laut naik jauh sejak tikus dibasmi.",
+      "icon": "leaf"
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu",
+      "body": "Melindungi sebagian laut bukan berarti melarang semua orang. Di Lundy, cara ini **membuka lapangan kerja** dan rumah bagi satwa.",
+      "image_query": "",
+      "takeaway": "Laut yang sehat bisa menghidupi nelayan.",
+      "icon": "bulb"
+    },
+    {
+      "type": "cta",
+      "title": "Suka fakta alam yang tak terduga?",
+      "body": "Follow @alwaysfact_ untuk fakta sains yang sering terlewat. Kirim post ini ke temanmu yang suka penasaran!",
+      "takeaway": "Ikuti dan bagikan.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Satu zona laut dilarang dipancing, lobsternya malah melimpah. 🦞\n\nDi pulau Lundy, Inggris, nelayan ikut merancang zona larangan memancing. Hasilnya: lobster lebih banyak dan burung laut pulih. Kirim ke temanmu yang suka laut!\n\nSumber: Mongabay, \"The British island that made a deal with nature\".",
+  "hashtags": [
+    "lobster",
+    "laut",
+    "konservasi",
+    "lundy",
+    "faktasains",
+    "alam",
+    "alwaysfact",
+    "hewan"
+  ],
+  "claims": [
+    {
+      "text": "Lundy adalah pulau di Selat Bristol, di antara Wales dan Inggris, yang termasuk kisah konservasi paling perintis di Inggris Raya.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/"
+    },
+    {
+      "text": "Pada 2003, Lundy memiliki zona larangan memancing pertama di Inggris Raya, hamparan laut kecil tempat semua penangkapan ikan dilarang total.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/"
+    },
+    {
+      "text": "Warga pulau, nelayan lokal, dan pegiat alam bekerja sama menciptakan zona itu dan menentukan apa yang boleh dan di mana.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/"
+    },
+    {
+      "text": "Di luar zona, satu rangkaian 35 sampai 40 perangkap bisa mendapat sekitar 12 lobster.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/"
+    },
+    {
+      "text": "Di dalam zona larangan memancing, nelayan bisa menangkap 75 lobster dalam satu malam.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/"
+    },
+    {
+      "text": "Lobster di dalam zona tumbuh lebih besar dan lebih banyak, dan sebagian menyebar ke area tangkapan sekitarnya.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/"
+    },
+    {
+      "text": "Setelah tikus masuk ke pulau, jumlah burung laut sangat rendah, sekitar 6000.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/"
+    },
+    {
+      "text": "Kini jumlah burung laut di Lundy sekitar 48.000.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/"
+    },
+    {
+      "text": "Bagi warga setempat, perlindungan ini menciptakan lapangan kerja dan rumah bagi satwa liar.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/"
+    }
+  ],
+  "music_suggestions": [
+    "santai, tempo pelan, penasaran",
+    "ringan, tempo sedang, hangat",
+    "lembut, tempo pelan, cerah"
+  ],
+  "id": "030",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
+      "quote": "Out in the Bristol Channel, nestled between Wales and England, the rugged island of Lundy is one of the UK’s most pioneering conservation stories.",
+      "note": "kutipan langsung dari artikel tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
+      "quote": "In 2003, Lundy also became home to the UK’s first no take zone, a small stretch of sea where all fishing would be completely off limits.",
+      "note": "kutipan langsung dari artikel tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
+      "quote": "So people on the island, local people to North Devon, local fishermen and local conservationists work together to create it and work out what could be allowed and where.",
+      "note": "kutipan langsung dari artikel tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
+      "quote": "Outside the no take zone on a string of 35 pots, 40 pots. You might get 12 lobsters.",
+      "note": "kutipan langsung dari artikel tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
+      "quote": "In the no take zone, you can catch 75 in one night.",
+      "note": "kutipan langsung dari artikel tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 6,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
+      "quote": "Studies have found that lobsters inside the no takes zone have grown both larger and more numerous, with evidence that some are spilling over into neighbouring fishing grounds,",
+      "note": "kutipan langsung dari artikel tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 7,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
+      "quote": "So the numbers were really low, around 6000.",
+      "note": "6000 dan 48,000 dari dua kalimat di artikel yang sama",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 8,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
+      "quote": "And now we know our numbers of seabirds are around 48,000.",
+      "note": "kutipan langsung dari artikel tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 9,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
+      "quote": "It creates jobs and it creates a home for wildlife.",
+      "note": "kutipan langsung dari artikel tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
+  "topic_id": "tf7804185",
+  "image_credits": [
+    "Lewis Clarke / CC BY-SA 2.0 (Wikimedia Commons)",
+    "Lewis Clarke / CC BY-SA 2.0 (Wikimedia Commons)",
+    "Lewis Clarke / CC BY-SA 2.0 (Wikimedia Commons)",
+    "Lewis Clarke / CC BY-SA 2.0 (Wikimedia Commons)",
+    "Lewis Clarke / CC BY-SA 2.0 (Wikimedia Commons)",
+    "Gareth James / CC BY-SA 2.0 (Wikimedia Commons)",
+    "Peter Barr / CC BY-SA 2.0 (Wikimedia Commons)",
+    "Olivier Dugornay (Ifremer) / CC BY 4.0 (Wikimedia Commons)"
+  ]
+}
