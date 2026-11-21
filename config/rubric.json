@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "note": "Starting hypothesis, not a fact. The analyst agent will adjust weights from real insight data.",
+  "note": "Hypothesis, not a fact. Weights follow the 2026-11-21 review of six large Instagram accounts (see docs/RISET-ENGAGEMENT.md); adjust from real insight data once the account has followers.",
   "criteria": [
     {
       "key": "relatable",
@@ -9,7 +9,7 @@
     },
     {
       "key": "surprise",
-      "weight": 0.25,
+      "weight": 0.2,
       "question": "Would most people say 'masa sih?' (disbelief) on hearing it?"
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "key": "shareable",
-      "weight": 0.15,
+      "weight": 0.1,
       "question": "Would someone send it to a friend?"
     },
     {
@@ -36,6 +36,16 @@
       "key": "fresh",
       "weight": 0.05,
       "question": "Is it new to this account?"
+    },
+    {
+      "key": "timely",
+      "weight": 0.05,
+      "question": "Is it connected to something people in Indonesia are talking about right now (a news story, a season, a viral topic) or to a number/price/job/school/health topic they feel in daily life? Topical posts beat evergreen ones on other accounts."
+    },
+    {
+      "key": "context",
+      "weight": 0.05,
+      "question": "Can a stranger who knows NOTHING about the subject understand slide 1 and slide 2 without googling? If the named thing (a spacecraft, a species, a place) needs a long introduction first, it scores low unless one plain sentence is enough."
     }
   ],
   "pillars": [
