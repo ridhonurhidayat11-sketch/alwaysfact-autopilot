@@ -1,5 +1,115 @@
 [
   {
+    "id": "tc6fd4e15",
+    "origin": "feed",
+    "title": "Device that measures strawberry skin's strength will aid breeders",
+    "url": "https://phys.org/news/2026-11-device-strawberry-skin-strength-aid.html",
+    "summary": "Resilient strawberry varieties will be more easily identifiable thanks to a tool developed by University of Queensland engineering students. The prototype measures the strength of strawberry skin, a key breeding consideration for the Australian Strawberry Breeding Program at Queensland's Department of Primary Industries.",
+    "source": "Phys.org",
+    "published": "2026-11-21T03:40:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tab785838",
+    "origin": "feed",
+    "title": "Extreme rainfalls flood Sri Lanka’s coastal city as wetlands, drains vanish",
+    "url": "https://news.mongabay.com/2026/11/extreme-rainfalls-flood-sri-lankas-coastal-city-as-wetlands-drains-vanish/",
+    "summary": "COLOMBO — On Nov. 6, a 129-millimeter (5-inch) downpour flooded parts of Sri Lanka’s commercial capital within minutes, stranding commuters and submerging a large number of vehicles. Siva Sivasagunthan, a three-wheeler driver working at a local ride-hailing app, told Mongabay that the water levels quickly increased and his vehicle was partially submerged in water. It […]",
+    "source": "Mongabay",
+    "published": "2026-11-21T03:14:33+00:00",
+    "text_file": "state/sources/tab785838.txt"
+  },
+  {
+    "id": "t27d8a5d5",
+    "origin": "feed",
+    "title": "Quantum software matches classical benchmark for a molecular interaction",
+    "url": "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html",
+    "summary": "Predicting how molecules interact is central to drug discovery: it offers important information about how a new drug might work in the human body, the side effects it can cause and more. Computationally modeling these interactions can reduce the need for lengthy and expensive lab work, but some interactions still remain beyond the reach of classical computers.",
+    "source": "Phys.org",
+    "published": "2026-11-21T03:00:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ta6f299bb",
+    "origin": "feed",
+    "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+    "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dwindling power and technical challenges.",
+    "source": "ScienceDaily",
+    "published": "2026-11-21T02:24:22+00:00",
+    "text_file": "state/sources/ta6f299bb.txt"
+  },
+  {
+    "id": "t4c9896fc",
+    "origin": "feed",
+    "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+    "summary": "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected. The instrument could soon reveal Mercury's hidden chemical secrets and transform our understanding of how the solar system's smallest planet formed.",
+    "source": "ScienceDaily",
+    "published": "2026-11-21T02:11:14+00:00",
+    "text_file": "state/sources/t4c9896fc.txt"
+  },
+  {
+    "id": "ta6fbbac5",
+    "origin": "feed",
+    "title": "The call of the seamount: Two new armored tardigrades described in the Atlantic",
+    "url": "https://phys.org/news/2026-11-seamount-armored-tardigrades-atlantic.html",
+    "summary": "An international team led by researchers from Senckenberg am Meer in Wilhelmshaven has described two new species of marine tardigrades. The tiny marine organisms were discovered in the sediment of the Senghor Seamount off the coast of Cape Verde. According to the researchers, the discovery underscores the role of undersea mountains as oases of biodiversity. The study, which includes comprehensive ",
+    "source": "Phys.org",
+    "published": "2026-11-21T02:00:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tc318f192",
+    "origin": "feed",
+    "title": "Broadening the role of RNA: A messenger, a mediator and now a condensate coordinator",
+    "url": "https://phys.org/news/2026-11-broadening-role-rna-messenger-condensate.html",
+    "summary": "New research about condensates—cellular compartments that act as hubs for facilitating biological reactions—continues to reveal novel insights into how cells function. Among those continuing to push the field forward are members of the Marine Biological Laboratory's condensate consortium, including Amy Gladfelter, a professor at Duke University and current co-director of the MBL physiology course,",
+    "source": "Phys.org",
+    "published": "2026-11-21T00:40:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t94f09044",
+    "origin": "feed",
+    "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
+    "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
+    "summary": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
+    "source": "BBC Science",
+    "published": "2026-11-20T22:57:26+00:00",
+    "text_file": "state/sources/t94f09044.txt"
+  },
+  {
+    "id": "t61ac49e2",
+    "origin": "feed",
+    "title": "'Forever' chemicals? Don't be so sure, says engineer",
+    "url": "https://phys.org/news/2026-11-chemicals-dont.html",
+    "summary": "Inside the disinfection room of Baltimore's Ashburton water filtration plant, 14 University of Maryland students clad in hard hats peered up at six towering vats of bleach used to treat water that flows from the distant Liberty Reservoir into the facility, killing bacteria and other pathogens before it's routed to the region's kitchen sinks.",
+    "source": "Phys.org",
+    "published": "2026-11-20T22:40:02+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t8b10d1e5",
+    "origin": "feed",
+    "title": "Mathematicians are amazed by ‘holy grail’ proof of Riemann hypothesis",
+    "url": "https://www.newscientist.com/article/2600235-mathematicians-are-amazed-by-holy-grail-proof-of-riemann-hypothesis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "As news spread that an Anthropic researcher used AI to find an answer to one of the longest-standing questions in their field, mathematicians expressed awe, uncertainty and at least one claim of having a competing proof in the works",
+    "source": "New Scientist",
+    "published": "2026-11-20T22:33:06+00:00",
+    "text_file": "state/sources/t8b10d1e5.txt"
+  },
+  {
+    "id": "tb61998a1",
+    "origin": "feed",
+    "title": "Curiosity Spots Drifting Twilight Clouds",
+    "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+    "summary": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which it has been exploring for more than […]",
+    "source": "NASA",
+    "published": "2026-11-20T22:27:05+00:00",
+    "text_file": "state/sources/tb61998a1.txt"
+  },
+  {
     "id": "td098fa98",
     "origin": "feed",
     "title": "A fish as old as Montana—the blue sucker discovered to live well over 100 years",
@@ -56,8 +166,7 @@
     "url": "https://phys.org/news/2026-11-ancient-bison-site-texas-held.html",
     "summary": "For decades, archaeologists questioned whether Native American communities in the Southern Plains hunted bison by driving herds over cliffs, a sophisticated technique widely documented farther north.",
     "source": "Phys.org",
-    "published": "2026-11-20T21:40:02+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T21:40:02+00:00"
   },
   {
     "id": "td4ba65c1",
@@ -76,8 +185,7 @@
     "url": "https://phys.org/news/2026-11-scientists-tunable-interlayer-excitons-atomically.html",
     "summary": "When light shines on a semiconductor, negatively charged electrons and positively charged holes—empty states left behind when electrons move away—pair up and bind together. This bound state is called an exciton. When two atomically thin semiconductor layers are stacked, electrons and holes can reside in different layers, forming what is known as an interlayer exciton (IE).",
     "source": "Phys.org",
-    "published": "2026-11-20T21:20:08+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T21:20:08+00:00"
   },
   {
     "id": "t6157bac5",
@@ -96,8 +204,7 @@
     "url": "https://phys.org/news/2026-11-gamified-mobile-payment-features-gen.html",
     "summary": "Gamified features in mobile payment applications may significantly increase adoption among consumers in emerging economies, with men and women responding in almost identical ways, according to research published in the International Journal of Business Information Systems.",
     "source": "Phys.org",
-    "published": "2026-11-20T21:00:05+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T21:00:05+00:00"
   },
   {
     "id": "td2b20e50",
@@ -106,8 +213,7 @@
     "url": "https://phys.org/news/2026-11-ray-laser-reliably-generates-wavelengths.html",
     "summary": "Researchers from DESY and European XFEL have demonstrated reliable production and transport of X-ray laser flashes with a wavelength of about 0.04 nanometers (or a photon energy of 30,000 electronvolts) at European XFEL, raising their own world record. This means that the X-ray's wavelength is much shorter than typical distances between neighboring atoms in solids, which enables the study of mater",
     "source": "Phys.org",
-    "published": "2026-11-20T21:00:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T21:00:01+00:00"
   },
   {
     "id": "tce0488e4",
@@ -156,17 +262,7 @@
     "url": "https://phys.org/news/2026-11-digital-imaging-workshop-aims-reveal.html",
     "summary": "Researchers recently used multispectral imaging technology to try to uncover hidden information from medieval manuscripts at the Rare Book and Manuscript Library at the University of Illinois Urbana-Champaign. The library hosted a digital imaging workshop in early October that served as a pilot study for how the technology can help analyze fragile, centuries-old documents.",
     "source": "Phys.org",
-    "published": "2026-11-20T20:40:09+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "t0f757720",
-    "origin": "feed",
-    "title": "New hemp plant produces no detectable THC, potentially reducing risk of crop destruction",
-    "url": "https://phys.org/news/2026-11-hemp-thc-potentially-crop-destruction.html",
-    "summary": "Scientists at Texas A&M AgriLife Research, a member of The Texas A&M University System, have developed a hemp plant that produces no detectable cannabinoids, including THC.",
-    "source": "Phys.org",
-    "published": "2026-11-20T20:40:01+00:00"
+    "published": "2026-11-20T20:40:09+00:00"
   },
   {
     "id": "t6d83a268",
@@ -187,42 +283,6 @@
     "source": "Live Science",
     "published": "2026-11-20T20:32:11+00:00",
     "text_file": "state/sources/t55461763.txt"
-  },
-  {
-    "id": "t36376e38",
-    "origin": "feed",
-    "title": "Tested on mushrooms, an AI model shows potential for detecting crop stress with far fewer computations",
-    "url": "https://phys.org/news/2026-11-mushrooms-ai-potential-crop-stress.html",
-    "summary": "A new artificial intelligence (AI) model can detect stress in agricultural crops using a nondestructive imaging technique, allowing changes in crop health to be monitored over time. Developed by a team of researchers at Penn State, the new model shows promise for accurately detecting crop stress caused by drought, disease, nutrient deficiency and other causes while using less computing power than ",
-    "source": "Phys.org",
-    "published": "2026-11-20T20:20:11+00:00"
-  },
-  {
-    "id": "t6206406e",
-    "origin": "feed",
-    "title": "Can Instagram reduce prejudice? Study reveals the potential and limits of social media contact",
-    "url": "https://phys.org/news/2026-11-instagram-prejudice-reveals-potential-limits.html",
-    "summary": "A research team at the University of Potsdam has conducted a field experiment to investigate whether contact through social media can reduce prejudice. The findings suggest that following an unfamiliar Instagram profile for just three days can lead to more favorable attitudes—not only toward the group represented by the profile. The study was published in the Journal of the Association for Informa",
-    "source": "Phys.org",
-    "published": "2026-11-20T20:20:09+00:00"
-  },
-  {
-    "id": "tbee47c1e",
-    "origin": "feed",
-    "title": "A million tiny crystals reveal how semiconductors form distinct cores and shells",
-    "url": "https://phys.org/news/2026-11-million-tiny-crystals-reveal-semiconductors.html",
-    "summary": "Perovskites and related materials called perovskitoids are promising semiconductor materials for solar cells, LEDs and light detectors. Their ingredients and internal crystal structures determine how they absorb and emit light. A chip just 2 centimeters across can hold roughly a million tiny crystals—becoming a miniature material library that can show how some mixtures separate into distinct cores",
-    "source": "Phys.org",
-    "published": "2026-11-20T20:00:11+00:00"
-  },
-  {
-    "id": "t42b6f3a5",
-    "origin": "feed",
-    "title": "Hazardous glacial lakes need reservoir-style safety oversight, says researcher",
-    "url": "https://phys.org/news/2026-11-hazardous-glacial-lakes-reservoir-style.html",
-    "summary": "As the climate warms, thousands of glacial lakes are growing behind potentially unstable natural dams. Despite the potential risk of flooding to communities downstream, these lakes remain outside formal safety regulation.",
-    "source": "Phys.org",
-    "published": "2026-11-20T20:00:06+00:00"
   },
   {
     "id": "tdcb3f9b5",
@@ -351,8 +411,7 @@
     "url": "https://news.mongabay.com/2026/11/ecuador-copper-mine-advancing-despite-opposition-from-indigenous-communities/",
     "summary": "A proposed copper mine on Indigenous land in southeastern Ecuador is getting closer to opening despite opposition from some Shuar communities, who say they reject the project altogether and don’t want to participate in talks with the government. The Warintza mine received environmental authorization this year, and officials will now begin meeting with Indigenous communities […]",
     "source": "Mongabay",
-    "published": "2026-11-20T17:40:02+00:00",
-    "text_file": "state/sources/tefb28ebf.txt"
+    "published": "2026-11-20T17:40:02+00:00"
   },
   {
     "id": "tbcd996ad",
@@ -469,15 +528,6 @@
     "source": "New Scientist",
     "published": "2026-11-20T15:20:01+00:00",
     "text_file": "state/sources/t0abed500.txt"
-  },
-  {
-    "id": "t7283e0f3",
-    "origin": "feed",
-    "title": "Floating wind is building ‘A lot of momentum’ toward commercialization",
-    "url": "https://news.mongabay.com/2026/11/floating-wind-is-building-a-lot-of-momentum-toward-commercialization/",
-    "summary": "It’s a little-known, nascent sustainable technology on the verge of commercialization: Floating wind turbines deployed across deep ocean waters could unlock vast amounts of renewable energy in the coming decades. For some countries (including China, Japan, South Korea, the U.K. and EU), floating wind is already playing a role in plans to decarbonize national economies, […]",
-    "source": "Mongabay",
-    "published": "2026-11-20T15:18:42+00:00"
   },
   {
     "id": "t2ba13ff0",
@@ -720,8 +770,7 @@
     "url": "https://www.newscientist.com/article/2599932-dark-eden-author-chris-beckett-on-how-sci-fi-needs-surface-plausibility/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "Chris Beckett, author of Dark Eden, November's read for the New Scientist Book Club, talks to Alison Flood about how he wrote his Arthur C Clarke award-winning novel",
     "source": "New Scientist",
-    "published": "2026-11-20T10:00:00+00:00",
-    "text_file": "state/sources/tc17b4c00.txt"
+    "published": "2026-11-20T10:00:00+00:00"
   },
   {
     "id": "t6784575e",
@@ -922,6 +971,15 @@
     "text_file": "state/sources/t7c4ed481.txt"
   },
   {
+    "id": "ta3e2801f",
+    "origin": "feed",
+    "title": "Mathematician says he and AI solved Riemann hypothesis — the field’s biggest outstanding challenge",
+    "url": "https://www.nature.com/articles/d41586-026-03812-7",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-20T00:00:00+00:00"
+  },
+  {
     "id": "t468e4050",
     "origin": "feed",
     "title": "Sleuth finds ‘impossible proteins’ in hundreds of research papers",
@@ -953,15 +1011,6 @@
     "origin": "feed",
     "title": "Ruminations on a last movement",
     "url": "https://www.nature.com/articles/d41586-026-03519-9",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-20T00:00:00+00:00"
-  },
-  {
-    "id": "t81bb2fc4",
-    "origin": "feed",
-    "title": "Claude, find me a planet: amateur astronomers are using AI with mixed results",
-    "url": "https://www.nature.com/articles/d41586-026-03790-w",
     "summary": "",
     "source": "Nature",
     "published": "2026-11-20T00:00:00+00:00"
@@ -1073,15 +1122,6 @@
     "text_file": "state/sources/t472edcef.txt"
   },
   {
-    "id": "t94bd7406",
-    "origin": "feed",
-    "title": "Big tech may finally face legal consequences for AI’s actions",
-    "url": "https://www.newscientist.com/article/2599970-big-tech-may-finally-face-legal-consequences-for-their-ais-actions/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "When AI agents do things that break laws written for humans, who should be held accountable? Columnist Jacob Aron explains the lawsuit California has brought against OpenAI for its AI’s actions",
-    "source": "New Scientist",
-    "published": "2026-11-19T19:32:00+00:00"
-  },
-  {
     "id": "t7240dec6",
     "origin": "feed",
     "title": "The immune system 'remembers' germs by tweaking its epigenetics, study shows",
@@ -1157,16 +1197,6 @@
     "published": "2026-11-19T18:27:15+00:00"
   },
   {
-    "id": "tfdbd9587",
-    "origin": "feed",
-    "title": "Rare rhino's first steps captured on video at zoo",
-    "url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
-    "summary": "Zookeepers say the rhino's birth is a \"special moment\" for the under-threat one horned species.",
-    "source": "BBC Science",
-    "published": "2026-11-19T16:28:41+00:00",
-    "text_file": "state/sources/tfdbd9587.txt"
-  },
-  {
     "id": "t5773e6a4",
     "origin": "feed",
     "title": "U.S. demand for menopause hormone therapy has more than doubled recently",
@@ -1182,8 +1212,7 @@
     "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
     "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
     "source": "NASA",
-    "published": "2026-11-19T15:33:55+00:00",
-    "text_file": "state/sources/t230e1560.txt"
+    "published": "2026-11-19T15:33:55+00:00"
   },
   {
     "id": "t470f7b58",
@@ -1202,15 +1231,6 @@
     "summary": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot […]",
     "source": "NASA",
     "published": "2026-11-19T14:44:39+00:00"
-  },
-  {
-    "id": "t4cc59e84",
-    "origin": "feed",
-    "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
-    "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
-    "summary": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:16 a.m. EST) Nov. 18. Voyager team […]",
-    "source": "NASA",
-    "published": "2026-11-19T14:31:15+00:00"
   },
   {
     "id": "tde9900e9",
@@ -1247,8 +1267,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
     "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially harmful fungal toxin. Known as mycotoxins, these naturally occurring compounds can contaminate grains, ",
     "source": "ScienceDaily",
-    "published": "2026-11-19T11:13:29+00:00",
-    "text_file": "state/sources/tcced664d.txt"
+    "published": "2026-11-19T11:13:29+00:00"
   },
   {
     "id": "t8b988991",
@@ -1257,8 +1276,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
     "summary": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal. Discovered in Peru, the extinct pygmy sperm whale Scaphokogia huachafo had an enormous downward-curving snout and a skull so distorted that researchers initially thought it had been damaged after death. Instead, its strange anatomy ",
     "source": "ScienceDaily",
-    "published": "2026-11-19T10:59:55+00:00",
-    "text_file": "state/sources/t8b988991.txt"
+    "published": "2026-11-19T10:59:55+00:00"
   },
   {
     "id": "t93aa0cf8",
@@ -1317,15 +1335,6 @@
     "published": "2026-11-19T03:11:22+00:00"
   },
   {
-    "id": "tb7e52b65",
-    "origin": "feed",
-    "title": "Is free will an illusion? New brain research reveals a surprising twist",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
-    "summary": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still shape what we choose.",
-    "source": "ScienceDaily",
-    "published": "2026-11-19T01:21:35+00:00"
-  },
-  {
     "id": "t313ed210",
     "origin": "feed",
     "title": "Voyager 1 reaches a historic milestone: one light-day from Earth",
@@ -1333,15 +1342,6 @@
     "summary": "Launched in 1977, Voyager 1 has traveled farther than any other human-made object.",
     "source": "Science News",
     "published": "2026-11-19T00:50:00+00:00"
-  },
-  {
-    "id": "t6a992e18",
-    "origin": "feed",
-    "title": "This strange creature lived 309 million years ago, long before the dinosaurs",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm",
-    "summary": "More than 300 million years ago, long before dinosaurs roamed Earth, the Chicago area was a steamy, swampy landscape teeming with bizarre creatures. Now, scientists at the Field Museum have identified a previously unrecognized species of ancient amphibian ancestor, revealing new clues about the evolution of frogs and salamanders.",
-    "source": "ScienceDaily",
-    "published": "2026-11-18T23:24:05+00:00"
   },
   {
     "id": "t421fe2bd",
