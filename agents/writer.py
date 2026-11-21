@@ -111,7 +111,33 @@ def _common_problems(p):
 
 JARGON = re.compile(r"\b(molekul\w*|protein\w*|enzim\w*|isotop\w*|spektrum|hipotesis|spesies|genus|sulfida|natrium|senyawa|"
                     r"kuantum|anomali|algoritma\w*|paleontolog\w*|arkeolog\w*|geolog\w*|mikrob\w*|genom\w*|neuron\w*|"
-                    r"eksoplanet\w*|nebula\w*|supernova|metabolit\w*|spektroskop\w*|fotometri\w*|mineral\w*|kristal\w*)\b", re.I)
+                    r"eksoplanet\w*|nebula\w*|supernova|metabolit\w*|spektroskop\w*|fotometri\w*|mineral\w*|kristal\w*|"
+                    r"konvergen\w*|epigenetik\w*|magnetosfer\w*|heliosfer\w*|hidrogen sulfida)\b", re.I)
+# a technical word in slide text is fine when the SAME sentence explains it in everyday words
+EXPLAINS = re.compile(r"\b(yaitu|yakni|artinya|alias|disebut|maksudnya|berarti|atau)\b|[(:]", re.I)
+HANGING_THING = re.compile(r"\b(hewan|batu|benda|zat|makhluk|tumbuhan|planet|bintang|fosil|pesawat|alat|mesin|kota|negara|"
+                           r"teleskop|satelit|serangga|ikan|burung)( \w+){0,2} ini\b", re.I)
+
+
+def context_problems(slides):
+    """Lay-reader rules for slide TEXT (the hook title has its own check): the first slide must say WHAT the post is about in
+    plain words, and a technical word may only appear in a sentence that explains it."""
+    bad = []
+    if slides:
+        first = (slides[0].get("body") or "").strip()
+        if len(first.split()) < 6:
+            bad.append("slide 1 needs a body of at least 6 words that says what or who this is about, in plain words")
+        if HANGING_THING.search(first):
+            bad.append("slide 1 body says 'X ini' without naming the thing: the reader has not seen the picture yet, name it")
+    for i, s in enumerate(slides or [], 1):
+        for field in ("title", "body"):
+            for sentence in re.split(r"(?<=[.!?])\s+", s.get(field) or ""):
+                m = JARGON.search(sentence)
+                if m and not EXPLAINS.search(sentence):
+                    bad.append(f"slide {i} {field}: the technical word {m.group(0)!r} needs an everyday explanation in the same sentence "
+                               "(for example 'yaitu ...') or a simpler word")
+                    break
+    return bad
 
 
 def hook_problems(text):
@@ -145,6 +171,7 @@ def validate_post(p, check_viz=True):
         if slides[-1].get("type") != "cta":
             bad.append("last slide must be type cta")
         bad += hook_problems(slides[0].get("title"))
+        bad += context_problems(slides)
     for i, s in enumerate(slides, 1):
         if s.get("type") not in SLIDE_TYPES:
             bad.append(f"slide {i}: unknown type {s.get('type')!r}")
