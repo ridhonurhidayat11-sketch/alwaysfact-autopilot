@@ -1,0 +1,184 @@
+{
+  "topic": "Planet lain di tata surya ternyata bau telur busuk, karat, dan korek api",
+  "image_query": "Mars",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+    "Kalau kamu bisa mencium planet lain, baunya begini",
+    "Jupiter dan Saturnus bau telur busuk, kata peneliti"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Kalau kamu bisa mencium planet lain, baunya begini",
+      "body": "Tidak ada manusia yang pernah mencium planet lain, tapi seorang profesor fisika di Bulgaria bernama Boyko Ranguelov punya perkiraannya.",
+      "icon": "planet"
+    },
+    {
+      "type": "fact",
+      "title": "Bagaimana bau bisa ditebak dari jauh?",
+      "body": "Astronom memakai alat bernama spektroskop, yaitu alat yang mengukur pengaruh gas pada cahaya. Dari situ ketahuan gas apa saja di planet.",
+      "takeaway": "Bau ditebak dari gas yang terdeteksi.",
+      "icon": "flask"
+    },
+    {
+      "type": "fact",
+      "title": "Planet raksasa bau telur busuk",
+      "body": "Menurut Ranguelov, planet raksasa dari gas baunya seperti telur busuk atau kentut manusia.",
+      "takeaway": "Jupiter dan teman-temannya tidak ramah di hidung.",
+      "icon": "gas",
+      "image_query": "Jupiter"
+    },
+    {
+      "type": "fact",
+      "title": "Mars bau karat dan sedikit mesiu",
+      "body": "Karena banyak besi di Mars, baunya mungkin mirip karat dengan sedikit bau mesiu.",
+      "takeaway": "Mars mungkin berbau seperti besi tua.",
+      "icon": "flame",
+      "image_query": "Mars planet"
+    },
+    {
+      "type": "fact",
+      "title": "Bulan sudah pernah tercium",
+      "body": "Astronaut Apollo melaporkan alat dan contoh batuan Bulan berbau khas. Baunya seperti korek api.",
+      "takeaway": "Hanya segelintir orang yang pernah mencium benda angkasa.",
+      "icon": "bulb",
+      "image_query": "Apollo 11 lunar sample"
+    },
+    {
+      "type": "fact",
+      "title": "Awan di luar tata surya bau koktail",
+      "body": "Sebuah awan gas raksasa mungkin berbau campuran vodka, likuer ceri asam, dan acar timun.",
+      "takeaway": "Di luar sana ada bau yang tak terduga.",
+      "icon": "droplet"
+    },
+    {
+      "type": "fact",
+      "title": "Ini perkiraan, bukan hasil mencium",
+      "body": "Belum ada yang mencium planet langsung. Ini tebakan dari bahan kimianya.",
+      "takeaway": "Kesimpulan ini masih perkiraan.",
+      "icon": "magnifier"
+    },
+    {
+      "type": "cta",
+      "title": "Kirim ke temanmu yang penasaran",
+      "body": "Ikuti @alwaysfact_ untuk fakta sains tiap hari, dan kirim post ini ke satu temanmu.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Seperti apa bau planet lain? Menurut perkiraan seorang profesor fisika, planet raksasa dari gas bau telur busuk, Mars bau karat, dan batu Bulan bau korek api. Ini tebakan dari kandungan gasnya, bukan hasil mencium langsung.\n\nSumber: Scientific American",
+  "hashtags": [
+    "sains",
+    "faktaunik",
+    "luarangkasa",
+    "planet",
+    "mars",
+    "alwaysfact",
+    "edukasi"
+  ],
+  "claims": [
+    {
+      "text": "Astronom memakai spektroskop, alat yang mengukur bagaimana gas berbeda memengaruhi panjang gelombang cahaya, untuk mengetahui unsur di planet.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/"
+    },
+    {
+      "text": "Menurut Ranguelov, planet raksasa gas sebagian besar berbau buruk, seperti telur busuk atau kentut manusia.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/"
+    },
+    {
+      "text": "Karena banyak besi di Mars, planet itu kemungkinan berbau seperti karat dengan sedikit mesiu, kata Ranguelov.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/"
+    },
+    {
+      "text": "Astronaut Apollo yang mendarat di Bulan melaporkan peralatan dan sampel mereka berbau khas, seperti korek api.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/"
+    },
+    {
+      "text": "Sebuah awan gas di luar tata surya diperkirakan berbau seperti koktail vodka, likuer ceri asam, dan salad acar timun.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/"
+    },
+    {
+      "text": "Belum ada manusia yang pernah ke planet lain, dan perkiraan bau ini masih kasar.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/"
+    }
+  ],
+  "music_suggestions": [
+    "lucu, tempo sedang",
+    "penasaran, tempo pelan",
+    "ringan, tempo cepat"
+  ],
+  "id": "032",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/",
+      "quote": "astronomers use tools called spectroscopes, which measure how different gases affect the wavelength of light",
+      "note": "spektroskop",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/",
+      "quote": "The gas giants largely smell terrible, he says, like rotten eggs or human farts",
+      "note": "gas raksasa",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/",
+      "quote": "it likely smells similar to rust, with a hint of gunpowder, Ranguelov says.",
+      "note": "Mars",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/",
+      "quote": "The samples smelled as safety matches immediately after they were collected",
+      "note": "Bulan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/",
+      "quote": "will smell like an alcoholic cocktail of vodka and sour cherry liquor and salad of pickled cucumbers",
+      "note": "Sgr B2",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 6,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/",
+      "quote": "A human may not ever make it to another planet to sniff for themselves. But scientists do have some ideas of such worlds’ odor—albeit rough ones.",
+      "note": "perkiraan kasar",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/",
+  "topic_id": "t6a8cc5af",
+  "image_credits": [
+    "ESA & MPS for OSIRIS Team MPS/UPD/LAM/IAA/RSSD/INTA/UPM/DASP / CC BY-SA 3.0 igo (Wikimedia Commons)",
+    "NASA / JPL-Caltech / University of Arizona / Public domain (Wikimedia Commons)",
+    "Image by NASA , modifications by Seddon / Public domain (Wikimedia Commons)",
+    "ESA/DLR/FU Berlin / CC BY-SA 3.0 igo (Wikimedia Commons)",
+    "NASA/JPL-Caltech/Cornell / Public domain (Wikimedia Commons)",
+    "NASA / JPL / University of Arizona / Public domain (Wikimedia Commons)",
+    "NASA / Public domain (Wikimedia Commons)"
+  ]
+}
