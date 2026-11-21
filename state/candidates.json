@@ -1,13 +1,43 @@
 [
   {
-    "id": "tf7804185",
+    "id": "t5e36d3d8",
     "origin": "feed",
-    "title": "The British island that made a deal with nature",
-    "url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
-    "summary": "LUNDY ISLAND — United Kingdom. Out in the Bristol Channel, nestled between Wales and England, the rugged island of Lundy is one of the UK’s most pioneering conservation stories. From the return of thousands of seabirds to thriving marine life beneath its waves, decades of conservation have helped transform this small island. But Lundy’s story […]",
-    "source": "Mongabay",
-    "published": "2026-11-21T09:10:37+00:00",
-    "text_file": "state/sources/tf7804185.txt"
+    "title": "'A future where EVs charge simply by parking': New positioning system could make wireless EV charging much more efficient",
+    "url": "https://www.livescience.com/technology/electric-vehicles/a-future-where-evs-charge-simply-by-parking-new-positioning-system-could-make-wireless-ev-charging-much-more-efficient",
+    "summary": "A new positioning technology could make autonomous vehicles and robotaxis more reliable at recharging themselves.",
+    "source": "Live Science",
+    "published": "2026-11-21T11:00:00+00:00",
+    "text_file": "state/sources/t5e36d3d8.txt"
+  },
+  {
+    "id": "t41fef234",
+    "origin": "feed",
+    "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
+    "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+    "summary": "The BepiColombo spacecraft will finally arrive in orbit around Mercury today (Nov. 21), more than eight years after leaving its home planet.",
+    "source": "Space.com",
+    "published": "2026-11-21T11:00:00+00:00",
+    "text_file": "state/sources/t41fef234.txt"
+  },
+  {
+    "id": "tb1d356bc",
+    "origin": "feed",
+    "title": "From screens in class to smart glasses, Norway rethinks new technologies",
+    "url": "https://phys.org/news/2026-11-screens-class-smart-glasses-norway.html",
+    "summary": "Three years ago, a schoolteacher in Norway was reprimanded for putting his pupils' iPads aside to return to pen and paper. Now, the whole country is rethinking its approach to new technologies.",
+    "source": "Phys.org",
+    "published": "2026-11-21T10:20:16+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tf6b3ed5d",
+    "origin": "feed",
+    "title": "Why do wolves howl?",
+    "url": "https://www.livescience.com/animals/why-do-wolves-howl",
+    "summary": "Wolves howl for a variety of reasons. But none of them are triggered by the sight of the moon.",
+    "source": "Live Science",
+    "published": "2026-11-21T10:00:00+00:00",
+    "text_file": "state/sources/tf6b3ed5d.txt"
   },
   {
     "id": "t040c95d5",
@@ -16,8 +46,18 @@
     "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
     "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
     "source": "BBC Science",
-    "published": "2026-11-21T07:31:05+00:00",
+    "published": "2026-11-21T09:52:11+00:00",
     "text_file": "state/sources/t040c95d5.txt"
+  },
+  {
+    "id": "tf7804185",
+    "origin": "feed",
+    "title": "The British island that made a deal with nature",
+    "url": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
+    "summary": "LUNDY ISLAND — United Kingdom. Out in the Bristol Channel, nestled between Wales and England, the rugged island of Lundy is one of the UK’s most pioneering conservation stories. From the return of thousands of seabirds to thriving marine life beneath its waves, decades of conservation have helped transform this small island. But Lundy’s story […]",
+    "source": "Mongabay",
+    "published": "2026-11-21T09:10:37+00:00",
+    "text_file": "state/sources/tf7804185.txt"
   },
   {
     "id": "tdf1655ff",
@@ -48,6 +88,16 @@
     "source": "NASA",
     "published": "2026-11-21T05:05:00+00:00",
     "text_file": "state/sources/t9f54447f.txt"
+  },
+  {
+    "id": "t6a8cc5af",
+    "origin": "feed",
+    "title": "What do other planets smell like? The answer hides in their chemistry",
+    "url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/",
+    "summary": "We’ll probably never sniff other planets, but that doesn’t mean we can’t get an idea of what they smell like",
+    "source": "Scientific American",
+    "published": "2026-11-21T05:00:00+00:00",
+    "text_file": "state/sources/t6a8cc5af.txt"
   },
   {
     "id": "tcbb1999f",
@@ -186,8 +236,7 @@
     "url": "https://phys.org/news/2026-11-fish-montana-blue-sucker-years.html",
     "summary": "Using bomb radiocarbon dating on microscopic otoliths (earstones), researchers have found that a native species of fish in the Upper Missouri River in Montana is living up to 130 years—more than triple the previous estimate of around 40 years—and some blue suckers alive today hatched in the late 1800s, around the dawn of the automobile and when Montana officially became a state.",
     "source": "Phys.org",
-    "published": "2026-11-20T22:20:06+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T22:20:06+00:00"
   },
   {
     "id": "tcfeb5a58",
@@ -274,15 +323,6 @@
     "summary": "Gamified features in mobile payment applications may significantly increase adoption among consumers in emerging economies, with men and women responding in almost identical ways, according to research published in the International Journal of Business Information Systems.",
     "source": "Phys.org",
     "published": "2026-11-20T21:00:05+00:00"
-  },
-  {
-    "id": "td2b20e50",
-    "origin": "feed",
-    "title": "Record-setting X-ray laser reliably generates flashes with wavelengths shorter than distances between atoms",
-    "url": "https://phys.org/news/2026-11-ray-laser-reliably-generates-wavelengths.html",
-    "summary": "Researchers from DESY and European XFEL have demonstrated reliable production and transport of X-ray laser flashes with a wavelength of about 0.04 nanometers (or a photon energy of 30,000 electronvolts) at European XFEL, raising their own world record. This means that the X-ray's wavelength is much shorter than typical distances between neighboring atoms in solids, which enables the study of mater",
-    "source": "Phys.org",
-    "published": "2026-11-20T21:00:01+00:00"
   },
   {
     "id": "tce0488e4",
@@ -441,8 +481,7 @@
     "url": "https://www.space.com/stargazing/solar-eclipses/could-an-ancient-solar-eclipse-rewrite-egyptian-history",
     "summary": "A biblical mystery, an ancient Egyptian inscription and a \"ring of fire\" solar eclipse 3,200 years ago hold clues to when Ramesses the Great ruled.",
     "source": "Space.com",
-    "published": "2026-11-20T18:00:00+00:00",
-    "text_file": "state/sources/tbb5856bf.txt"
+    "published": "2026-11-20T18:00:00+00:00"
   },
   {
     "id": "t05ba0b81",
@@ -733,8 +772,7 @@
     "url": "https://www.scientificamerican.com/article/our-solar-systems-doomsday-may-come-sooner-than-we-thought/",
     "summary": "Billions of years from now—still far sooner than astronomers had predicted—our dying sun could kick away its outer planets",
     "source": "Scientific American",
-    "published": "2026-11-20T11:45:00+00:00",
-    "text_file": "state/sources/t46da1665.txt"
+    "published": "2026-11-20T11:45:00+00:00"
   },
   {
     "id": "t73cbb556",
@@ -762,16 +800,6 @@
     "url": "https://www.livescience.com/physics-mathematics/quantum-entanglement-could-thwart-hackers-and-scammers-physicists-demonstrate-in-new-experiment",
     "summary": "In a first-of-its-kind experiment, physicists used pairs of entangled photons to verify a person's location. That's a step toward anchoring digital security to the physical world.",
     "source": "Live Science",
-    "published": "2026-11-20T11:00:00+00:00",
-    "text_file": "state/sources/te855a3ad.txt"
-  },
-  {
-    "id": "t3e506a63",
-    "origin": "feed",
-    "title": "Einstein was right! Scientists verify 1st image of a black hole ever captured",
-    "url": "https://www.space.com/astronomy/black-holes/einstein-was-right-scientists-verify-1st-image-of-a-black-hole-ever-captured",
-    "summary": "An independent team of researchers has validated the first image of a supermassive black hole captured by humanity, and that verifies Einstein's greatest theory.",
-    "source": "Space.com",
     "published": "2026-11-20T11:00:00+00:00"
   },
   {
@@ -1081,8 +1109,7 @@
     "url": "https://www.livescience.com/animals/i-would-want-to-know-my-horses-backstory-live-science-readers-share-which-animals-theyd-want-to-speak-with",
     "summary": "Recently, Live Science asked its readers which animal they'd want to communicate with, based on a new study that leveraged AI to decode different vocalizations of zebra finches.",
     "source": "Live Science",
-    "published": "2026-11-19T22:03:04+00:00",
-    "text_file": "state/sources/t2da5560b.txt"
+    "published": "2026-11-19T22:03:04+00:00"
   },
   {
     "id": "t0e9c8861",
@@ -1149,24 +1176,6 @@
     "published": "2026-11-19T19:15:00+00:00"
   },
   {
-    "id": "tb971f85f",
-    "origin": "feed",
-    "title": "Watch fascinating science documentaries on Paramount+ for just $2.99 a month thanks to this early Black Friday deal",
-    "url": "https://www.livescience.com/products/watch-fascinating-science-documentaries-on-paramount-for-just-usd2-99-a-month-thanks-to-this-early-black-friday-deal",
-    "summary": "Get access to over 200 documentary series on Paramount+ for a bargain price.",
-    "source": "Live Science",
-    "published": "2026-11-19T19:11:28+00:00"
-  },
-  {
-    "id": "t61fdcee2",
-    "origin": "feed",
-    "title": "Voyager 1 is a light-day away. What now?",
-    "url": "https://www.scientificamerican.com/article/voyager-1-is-a-light-day-away-what-now/",
-    "summary": "NASA scientists gathered on Thursday to discuss the mission’s past, present and future",
-    "source": "Scientific American",
-    "published": "2026-11-19T19:02:00+00:00"
-  },
-  {
     "id": "t7389df7e",
     "origin": "feed",
     "title": "A brain region known for listening helps us speak",
@@ -1195,15 +1204,6 @@
     "source": "The Guardian Science",
     "published": "2026-11-19T18:49:54+00:00",
     "text_file": "state/sources/t6b344312.txt"
-  },
-  {
-    "id": "t2941a850",
-    "origin": "feed",
-    "title": "Rare swarm of asteroids from the solar system’s youth found trailing Neptune around the sun",
-    "url": "https://www.livescience.com/space/asteroids/rubin-observatory-finds-ultra-rare-asteroids-from-the-solar-systems-youth-trailing-neptune-around-the-sun",
-    "summary": "Astronomers have found two rare asteroids trailing Neptune in Vera C. Rubin Observatory data. The rocks, called Neptune's L5 Trojans, could illuminate the conditions of the infant solar system.",
-    "source": "Live Science",
-    "published": "2026-11-19T18:27:15+00:00"
   },
   {
     "id": "t5773e6a4",
