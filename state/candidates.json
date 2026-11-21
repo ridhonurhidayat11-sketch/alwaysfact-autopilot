@@ -1,5 +1,195 @@
 [
   {
+    "id": "t348abef3",
+    "origin": "feed",
+    "title": "Babies in ancient Greek colony started solid food at 3 months but nursed for nearly 4 years, chemical signatures suggest",
+    "url": "https://phys.org/news/2026-11-babies-ancient-greek-colony-solid.html",
+    "summary": "Over 2,500 years ago, Himera was a Greek colony inhabited by local Sicilians, Phoenicians and Greeks. Despite their diverse cultural backgrounds, they all shared one thing: they began weaning their babies early and continued for a long time.",
+    "source": "Phys.org",
+    "published": "2026-11-21T15:40:02+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t86da9d6d",
+    "origin": "feed",
+    "title": "This Week In Space podcast: Episode 237 — A Fond Farewell",
+    "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-237-a-fond-farewell",
+    "summary": "On Episode 237 of This Week In Space, Tariq Malik and Rod Pyle sign off — temporarily — with a look at space news, a bushel of space jokes, and a recap of some of our funniest moments.",
+    "source": "Space.com",
+    "published": "2026-11-21T15:15:26+00:00",
+    "text_file": "state/sources/t86da9d6d.txt"
+  },
+  {
+    "id": "t5c0487ac",
+    "origin": "feed",
+    "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+    "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our understanding of time and gravity.",
+    "source": "ScienceDaily",
+    "published": "2026-11-21T15:09:46+00:00",
+    "text_file": "state/sources/t5c0487ac.txt"
+  },
+  {
+    "id": "ta7290a8c",
+    "origin": "feed",
+    "title": "Winter stargazing 2026: The best skywatching sights this winter (and how to see them)",
+    "url": "https://www.livescience.com/space/winter-stargazing-the-best-skywatching-sights-this-winter-and-how-to-see-them",
+    "summary": "All the must-see supermoons, meteor showers, star clusters, constellations and deep sky objects this winter — and the gear you need to see them.",
+    "source": "Live Science",
+    "published": "2026-11-21T15:00:00+00:00",
+    "text_file": "state/sources/ta7290a8c.txt"
+  },
+  {
+    "id": "t374e22db",
+    "origin": "feed",
+    "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
+    "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure",
+    "summary": "Assimilate this! How cyber-zombies and the \"birth of 'Star Trek'\" gave Jean-Luc Picard one of his finest hours.",
+    "source": "Space.com",
+    "published": "2026-11-21T15:00:00+00:00",
+    "text_file": "state/sources/t374e22db.txt"
+  },
+  {
+    "id": "t040c95d5",
+    "origin": "feed",
+    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+    "source": "BBC Science",
+    "published": "2026-11-21T14:54:24+00:00",
+    "text_file": "state/sources/t040c95d5.txt"
+  },
+  {
+    "id": "t88875db0",
+    "origin": "feed",
+    "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+    "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about how two stars can merge into one.",
+    "source": "ScienceDaily",
+    "published": "2026-11-21T14:53:40+00:00",
+    "text_file": "state/sources/t88875db0.txt"
+  },
+  {
+    "id": "t7abc5bc9",
+    "origin": "feed",
+    "title": "Who was buried in Westminster Abbey's Roman coffin? A 150-year mystery may be solved",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
+    "summary": "A mysterious skeleton discovered in a Roman sarcophagus at Westminster Abbey may finally be identified after more than 150 years. New dating evidence suggests the remains belonged to a high-ranking medieval abbot who was buried inside a centuries-old recycled Roman coffin.",
+    "source": "ScienceDaily",
+    "published": "2026-11-21T14:25:39+00:00",
+    "text_file": "state/sources/t7abc5bc9.txt"
+  },
+  {
+    "id": "tf025afeb",
+    "origin": "feed",
+    "title": "A 50-year-old theory about evolution may have been wrong all along",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+    "summary": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive new analysis of mutations in bacteria and yeast found no evidence that essential genes mutate less frequently than other genes. Researchers say earlier studies may have been misled by harmful mutations that disappeared through natural selection before scientists",
+    "source": "ScienceDaily",
+    "published": "2026-11-21T14:06:15+00:00",
+    "text_file": "state/sources/tf025afeb.txt"
+  },
+  {
+    "id": "t35398699",
+    "origin": "feed",
+    "title": "An ancient failed rift is reawakening inside one of Africa's oldest landmasses",
+    "url": "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html",
+    "summary": "In April 2017, a magnitude 6.5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana. Cratons are the ancient cores of continents, and this one is built from blocks of crust up to 3.7 billion years old. Geologists have long considered such regions too cold, too thick and too rigid to tear apart.",
+    "source": "Phys.org",
+    "published": "2026-11-21T14:00:06+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t433a9454",
+    "origin": "feed",
+    "title": "Meet the science adviser behind Netflix's hit series 'Below'",
+    "url": "https://www.livescience.com/animals/aquatic-animals/meet-the-science-adviser-behind-netflixs-hit-series-below",
+    "summary": "Live Science spoke with marine biologist Annie Mercier about her role as a science adviser for Netflix's show \"Below.\"",
+    "source": "Live Science",
+    "published": "2026-11-21T14:00:00+00:00",
+    "text_file": "state/sources/t433a9454.txt"
+  },
+  {
+    "id": "tbe7efb15",
+    "origin": "feed",
+    "title": "Even scientists can't agree on what science actually is",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
+    "summary": "Scientists cannot agree on what science actually is, and a new study finds their views are surprisingly more divided than those of the general public. The findings could help explain public frustration with scientific uncertainty and raise questions about how artificial intelligence might reshape future discoveries.",
+    "source": "ScienceDaily",
+    "published": "2026-11-21T13:55:11+00:00",
+    "text_file": "state/sources/tbe7efb15.txt"
+  },
+  {
+    "id": "t42f91793",
+    "origin": "feed",
+    "title": "Scientists say the human family tree may need a radical rewrite",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
+    "summary": "The human family tree may need a major overhaul. New research from Monash University challenges the traditional classification of our ancient ancestors, arguing that species such as Australopithecus and Paranthropus should be grouped within our own genus, Homo. As scientists uncover more fossils and analyze evolutionary relationships, the boundaries that once separated these ancient relatives are ",
+    "source": "ScienceDaily",
+    "published": "2026-11-21T13:44:55+00:00",
+    "text_file": "state/sources/t42f91793.txt"
+  },
+  {
+    "id": "t158994b8",
+    "origin": "feed",
+    "title": "International talks on controlling use of autonomous weapons collapse",
+    "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+    "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control on the use of autonomous weapons collapsed just before 5am on Saturday morning, after all night talks failed to overcome Russian objections. Despite an overwhelming majority of states at the Review",
+    "source": "The Guardian Science",
+    "published": "2026-11-21T13:15:29+00:00",
+    "text_file": "state/sources/t158994b8.txt"
+  },
+  {
+    "id": "t16e33161",
+    "origin": "feed",
+    "title": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
+    "url": "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html",
+    "summary": "Gamma rays, the most high-energy type of electromagnetic radiation in the universe, have always had a blind spot. We've always had trouble measuring them in the \"megaelectronvolt\" (MeV) energy range, which astronomers have taken to calling the \"MeV gap.\" But a new paper from an international group of scientists working with the Fermi Large Area Telescope (LAT) Collaboration, recently published in ",
+    "source": "Phys.org",
+    "published": "2026-11-21T13:00:10+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tf8d0e022",
+    "origin": "feed",
+    "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
+    "summary": "The first Starship upper stage that SpaceX ever successfully recovered won't fly again. Rather, it will go on display as a museum piece, according to company founder and CEO Elon Musk.",
+    "source": "Space.com",
+    "published": "2026-11-21T13:00:00+00:00",
+    "text_file": "state/sources/tf8d0e022.txt"
+  },
+  {
+    "id": "t31bc486d",
+    "origin": "feed",
+    "title": "How red squirrels made island their home",
+    "url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\".",
+    "source": "BBC Science",
+    "published": "2026-11-21T12:18:55+00:00",
+    "text_file": "state/sources/t31bc486d.txt"
+  },
+  {
+    "id": "te563dddb",
+    "origin": "feed",
+    "title": "Scientists put 78,000 letters of human DNA into a mouse — and unraveled how a rare disease worked",
+    "url": "https://www.livescience.com/health/genetics/scientists-put-78-000-letters-of-human-dna-into-a-mouse-and-unraveled-how-a-rare-disease-worked",
+    "summary": "By inserting human genes into lab mice, scientists were able to study the underlying mechanics of a disease that's been notoriously difficult to research.",
+    "source": "Live Science",
+    "published": "2026-11-21T12:00:00+00:00",
+    "text_file": "state/sources/te563dddb.txt"
+  },
+  {
+    "id": "tb27ba22f",
+    "origin": "feed",
+    "title": "Weirdly accelerating space rock keeps puzzling astronomers",
+    "url": "https://www.scientificamerican.com/article/weirdly-accelerating-space-rock-keeps-puzzling-astronomers/",
+    "summary": "The strange “dark comet” 1998 KY26 is moving in a way scientists have yet to fully understand. A Japanese space probe was set to visit in 2031, but engine trouble will prevent that encounter, leaving the mystery unsolved",
+    "source": "Scientific American",
+    "published": "2026-11-21T12:00:00+00:00",
+    "text_file": "state/sources/tb27ba22f.txt"
+  },
+  {
     "id": "t5e36d3d8",
     "origin": "feed",
     "title": "'A future where EVs charge simply by parking': New positioning system could make wireless EV charging much more efficient",
@@ -40,16 +230,6 @@
     "text_file": "state/sources/tf6b3ed5d.txt"
   },
   {
-    "id": "t040c95d5",
-    "origin": "feed",
-    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-    "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-    "source": "BBC Science",
-    "published": "2026-11-21T09:52:11+00:00",
-    "text_file": "state/sources/t040c95d5.txt"
-  },
-  {
     "id": "tf7804185",
     "origin": "feed",
     "title": "The British island that made a deal with nature",
@@ -72,7 +252,7 @@
   {
     "id": "td0dffaaf",
     "origin": "feed",
-    "title": "SpaceX launches classified mission for US Space Force from California",
+    "title": "SpaceX launches classified mission for US Space Force from California (video)",
     "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
     "summary": "SpaceX launched a classified mission for the U.S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
     "source": "Space.com",
@@ -150,16 +330,6 @@
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-    "id": "ta6f299bb",
-    "origin": "feed",
-    "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
-    "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dwindling power and technical challenges.",
-    "source": "ScienceDaily",
-    "published": "2026-11-21T02:24:22+00:00",
-    "text_file": "state/sources/ta6f299bb.txt"
-  },
-  {
     "id": "t4c9896fc",
     "origin": "feed",
     "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
@@ -176,8 +346,7 @@
     "url": "https://phys.org/news/2026-11-seamount-armored-tardigrades-atlantic.html",
     "summary": "An international team led by researchers from Senckenberg am Meer in Wilhelmshaven has described two new species of marine tardigrades. The tiny marine organisms were discovered in the sediment of the Senghor Seamount off the coast of Cape Verde. According to the researchers, the discovery underscores the role of undersea mountains as oases of biodiversity. The study, which includes comprehensive ",
     "source": "Phys.org",
-    "published": "2026-11-21T02:00:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-21T02:00:01+00:00"
   },
   {
     "id": "tc318f192",
@@ -186,8 +355,7 @@
     "url": "https://phys.org/news/2026-11-broadening-role-rna-messenger-condensate.html",
     "summary": "New research about condensates—cellular compartments that act as hubs for facilitating biological reactions—continues to reveal novel insights into how cells function. Among those continuing to push the field forward are members of the Marine Biological Laboratory's condensate consortium, including Amy Gladfelter, a professor at Duke University and current co-director of the MBL physiology course,",
     "source": "Phys.org",
-    "published": "2026-11-21T00:40:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-21T00:40:01+00:00"
   },
   {
     "id": "t94f09044",
@@ -206,8 +374,7 @@
     "url": "https://phys.org/news/2026-11-chemicals-dont.html",
     "summary": "Inside the disinfection room of Baltimore's Ashburton water filtration plant, 14 University of Maryland students clad in hard hats peered up at six towering vats of bleach used to treat water that flows from the distant Liberty Reservoir into the facility, killing bacteria and other pathogens before it's routed to the region's kitchen sinks.",
     "source": "Phys.org",
-    "published": "2026-11-20T22:40:02+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-20T22:40:02+00:00"
   },
   {
     "id": "t8b10d1e5",
@@ -278,15 +445,6 @@
     "text_file": "state/sources/t83f43803.txt"
   },
   {
-    "id": "t0a97871d",
-    "origin": "feed",
-    "title": "Ancient bison hunting site in Texas challenges long-held assumptions",
-    "url": "https://phys.org/news/2026-11-ancient-bison-site-texas-held.html",
-    "summary": "For decades, archaeologists questioned whether Native American communities in the Southern Plains hunted bison by driving herds over cliffs, a sophisticated technique widely documented farther north.",
-    "source": "Phys.org",
-    "published": "2026-11-20T21:40:02+00:00"
-  },
-  {
     "id": "td4ba65c1",
     "origin": "feed",
     "title": "What is the Riemann hypothesis and why is its solution so monumental?",
@@ -297,15 +455,6 @@
     "text_file": "state/sources/td4ba65c1.txt"
   },
   {
-    "id": "t4e54f909",
-    "origin": "feed",
-    "title": "Scientists discover twist-tunable interlayer excitons in atomically thin anisotropic semiconductors",
-    "url": "https://phys.org/news/2026-11-scientists-tunable-interlayer-excitons-atomically.html",
-    "summary": "When light shines on a semiconductor, negatively charged electrons and positively charged holes—empty states left behind when electrons move away—pair up and bind together. This bound state is called an exciton. When two atomically thin semiconductor layers are stacked, electrons and holes can reside in different layers, forming what is known as an interlayer exciton (IE).",
-    "source": "Phys.org",
-    "published": "2026-11-20T21:20:08+00:00"
-  },
-  {
     "id": "t6157bac5",
     "origin": "feed",
     "title": "On this day in space! Nov. 20, 1998: Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
@@ -314,15 +463,6 @@
     "source": "Space.com",
     "published": "2026-11-20T21:19:33+00:00",
     "text_file": "state/sources/t6157bac5.txt"
-  },
-  {
-    "id": "t9392de89",
-    "origin": "feed",
-    "title": "Gamified mobile payment features may drive adoption among Gen-Z users",
-    "url": "https://phys.org/news/2026-11-gamified-mobile-payment-features-gen.html",
-    "summary": "Gamified features in mobile payment applications may significantly increase adoption among consumers in emerging economies, with men and women responding in almost identical ways, according to research published in the International Journal of Business Information Systems.",
-    "source": "Phys.org",
-    "published": "2026-11-20T21:00:05+00:00"
   },
   {
     "id": "tce0488e4",
@@ -391,8 +531,7 @@
     "url": "https://www.space.com/entertainment/space-games/gta-hasnt-gone-to-space-yet-but-these-sci-fi-games-can-offer-you-a-life-of-crime-among-the-stars",
     "summary": "Grand Theft Auto 6 is finally out, but if you're a sci-fi aficionado looking for similar experiences set in outer space, there are several alternatives.",
     "source": "Space.com",
-    "published": "2026-11-20T20:00:00+00:00",
-    "text_file": "state/sources/tdcb3f9b5.txt"
+    "published": "2026-11-20T20:00:00+00:00"
   },
   {
     "id": "t1093ba68",
@@ -411,8 +550,7 @@
     "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
     "summary": "Perseverance has been sidelined by an antenna issue, and the venerable Odyssey orbiter is dealing with a balky reaction wheel. NASA hopes both can get back to work by the end of November.",
     "source": "Space.com",
-    "published": "2026-11-20T19:50:15+00:00",
-    "text_file": "state/sources/td46e89bc.txt"
+    "published": "2026-11-20T19:50:15+00:00"
   },
   {
     "id": "t6b4cce5b",
@@ -431,8 +569,7 @@
     "url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
     "summary": "Aldebaran looks for all the world like the brightest member of the Hyades star cluster. It isn't — and discovering why changes the way you look at constellations.",
     "source": "Space.com",
-    "published": "2026-11-20T19:00:00+00:00",
-    "text_file": "state/sources/t25136dcc.txt"
+    "published": "2026-11-20T19:00:00+00:00"
   },
   {
     "id": "td29df155",
@@ -536,8 +673,7 @@
     "url": "https://www.livescience.com/space/astronomers-spot-giant-star-swallowing-its-companion-in-first-ever-observations-of-a-stellar-merger",
     "summary": "Astronomers using the James Webb Space Telescope followed up on years-old observations to confirm the first recorded act of a giant star swallowing its companion. The stellar cannibalism occurred just next door, in the Andromeda galaxy.",
     "source": "Live Science",
-    "published": "2026-11-20T17:12:24+00:00",
-    "text_file": "state/sources/taa821403.txt"
+    "published": "2026-11-20T17:12:24+00:00"
   },
   {
     "id": "tc35ebfed",
@@ -584,8 +720,7 @@
     "url": "https://www.livescience.com/physics-mathematics/mathematics/ai-is-forcing-us-to-rethink-what-mathematical-expertise-means-opinion",
     "summary": "AI has upended the math community with a flood of results. We have to rethink how we assess which questions and answers matter — putting humans back at the center.",
     "source": "Live Science",
-    "published": "2026-11-20T16:52:18+00:00",
-    "text_file": "state/sources/t1bfbb310.txt"
+    "published": "2026-11-20T16:52:18+00:00"
   },
   {
     "id": "t57bebe29",
@@ -636,15 +771,6 @@
     "source": "Science News",
     "published": "2026-11-20T15:00:00+00:00",
     "text_file": "state/sources/tafdc57f4.txt"
-  },
-  {
-    "id": "t3abea75e",
-    "origin": "feed",
-    "title": "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026",
-    "url": "https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026",
-    "summary": "The Himalayas tower below the clouds, capped in icy snow in new snapshots captured from aboard the International Space Station.",
-    "source": "Space.com",
-    "published": "2026-11-20T15:00:00+00:00"
   },
   {
     "id": "t488f394a",
@@ -703,8 +829,7 @@
     "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
     "summary": "An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion",
     "source": "Scientific American",
-    "published": "2026-11-20T14:00:00+00:00",
-    "text_file": "state/sources/t0b5d0afa.txt"
+    "published": "2026-11-20T14:00:00+00:00"
   },
   {
     "id": "t39197d6b",
@@ -717,13 +842,13 @@
     "text_file": "state/sources/t39197d6b.txt"
   },
   {
-    "id": "tca34120f",
+    "id": "ta6f299bb",
     "origin": "feed",
-    "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
-    "url": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
-    "summary": "SpaceX invited media on an unprecedented behind-the-scenes tour of its Starfactory facility, where it manufactures and assembles both stages of its massive Starship rocket.",
-    "source": "Space.com",
-    "published": "2026-11-20T13:00:00+00:00"
+    "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+    "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dwindling power and technical challenges.",
+    "source": "ScienceDaily",
+    "published": "2026-11-20T12:55:54+00:00"
   },
   {
     "id": "t1f7371d3",
@@ -732,8 +857,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
     "summary": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be strengthened, but the technology could transform how humans construct permanent settlements beyond Earth.",
     "source": "ScienceDaily",
-    "published": "2026-11-20T12:34:56+00:00",
-    "text_file": "state/sources/t1f7371d3.txt"
+    "published": "2026-11-20T12:34:56+00:00"
   },
   {
     "id": "tb9c4b08f",
@@ -742,8 +866,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
     "summary": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles. The breakthrough could help physicists explore a mysterious microscopic realm where unknown particles and forces may be hiding.",
     "source": "ScienceDaily",
-    "published": "2026-11-20T12:23:23+00:00",
-    "text_file": "state/sources/tb9c4b08f.txt"
+    "published": "2026-11-20T12:23:23+00:00"
   },
   {
     "id": "t6dd09b43",
@@ -762,8 +885,7 @@
     "url": "https://www.livescience.com/archaeology/ghostly-sand-body-double-burial-unearthed-at-sutton-hoo",
     "summary": "During a month-long excavation with the documentary series \"Time Team,\" archaeologists unearthed another mysterious \"sand body\" at Sutton Hoo.",
     "source": "Live Science",
-    "published": "2026-11-20T12:00:00+00:00",
-    "text_file": "state/sources/t4b61548f.txt"
+    "published": "2026-11-20T12:00:00+00:00"
   },
   {
     "id": "t46da1665",
@@ -783,15 +905,6 @@
     "source": "The Guardian Science",
     "published": "2026-11-20T11:40:07+00:00",
     "text_file": "state/sources/t73cbb556.txt"
-  },
-  {
-    "id": "tab7b4803",
-    "origin": "feed",
-    "title": "I handpicked every Star Trek Blu-ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
-    "url": "https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now",
-    "summary": "From The Original Series through The Next Generation to Starfleet Academy, beam up our favorite Black Friday 2026 Star Trek deals available at Amazon.",
-    "source": "Space.com",
-    "published": "2026-11-20T11:00:32+00:00"
   },
   {
     "id": "te855a3ad",
@@ -904,8 +1017,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
     "summary": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity and the growth of cosmic giants.",
     "source": "ScienceDaily",
-    "published": "2026-11-20T05:41:16+00:00",
-    "text_file": "state/sources/t85eb8837.txt"
+    "published": "2026-11-20T05:41:16+00:00"
   },
   {
     "id": "t7d625a5c",
@@ -944,18 +1056,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
     "summary": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary family tree. The discovery challenges a century of assumptions and reveals how dramatic climate changes helped shape a surprisingly complex story of human origins.",
     "source": "ScienceDaily",
-    "published": "2026-11-20T03:17:52+00:00",
-    "text_file": "state/sources/t47da8a8d.txt"
-  },
-  {
-    "id": "tbf367e0a",
-    "origin": "feed",
-    "title": "Experimental compound burns fat without sacrificing muscle",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
-    "summary": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with ",
-    "source": "ScienceDaily",
-    "published": "2026-11-20T00:19:49+00:00",
-    "text_file": "state/sources/tbf367e0a.txt"
+    "published": "2026-11-20T03:17:52+00:00"
   },
   {
     "id": "t14d658a3",
@@ -1112,15 +1213,6 @@
     "published": "2026-11-19T22:03:04+00:00"
   },
   {
-    "id": "t0e9c8861",
-    "origin": "feed",
-    "title": "Voyager 1 stops sending science data ahead of its light-day milestone — but NASA has a plan",
-    "url": "https://www.livescience.com/space/space-exploration/computer-glitch-prevents-voyager-1-from-sharing-science-data-on-its-light-day-milestone",
-    "summary": "NASA's Voyager 1 spacecraft just reached 1 light-day from our planet, but a newfound glitch in the probe's onboard computer is preventing it from sharing science data with Earth.",
-    "source": "Live Science",
-    "published": "2026-11-19T21:49:56+00:00"
-  },
-  {
     "id": "tf1e64ba0",
     "origin": "feed",
     "title": "The U.S. Army is about to blow up a cache of dangerous lead azide in Iowa—here’s what to know",
@@ -1140,24 +1232,6 @@
     "text_file": "state/sources/t4dda2a82.txt"
   },
   {
-    "id": "t06fa35df",
-    "origin": "feed",
-    "title": "FAA ground stop suggests how risky air traffic control upgrades can be",
-    "url": "https://www.scientificamerican.com/article/faa-ground-stop-suggests-how-risky-air-traffic-control-upgrades-can-be/",
-    "summary": "A nationwide ground stop offered one answer. With Thanksgiving days away, experts still aren’t satisfied with the official explanation",
-    "source": "Scientific American",
-    "published": "2026-11-19T20:30:00+00:00"
-  },
-  {
-    "id": "t2bc850c5",
-    "origin": "feed",
-    "title": "New study rewrites the role of a major speech hub in the brain",
-    "url": "https://www.livescience.com/health/neuroscience/new-study-rewrites-the-role-of-a-major-speech-hub-in-the-brain",
-    "summary": "Wernicke's area was thought to be mostly linked to understanding speech. A landmark new study has something more to say.",
-    "source": "Live Science",
-    "published": "2026-11-19T20:24:33+00:00"
-  },
-  {
     "id": "t472edcef",
     "origin": "feed",
     "title": "Challenge: Public Input on Life and the World in 2075",
@@ -1165,15 +1239,6 @@
     "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in […]",
     "source": "NASA",
     "published": "2026-11-19T19:34:20+00:00"
-  },
-  {
-    "id": "t7240dec6",
-    "origin": "feed",
-    "title": "The immune system 'remembers' germs by tweaking its epigenetics, study shows",
-    "url": "https://www.livescience.com/health/immune-system/the-immune-system-remembers-germs-by-tweaking-its-epigenetics-study-shows",
-    "summary": "A new study helps explain how the immune system's first line of defense stays ready to fight off germs and diseases.",
-    "source": "Live Science",
-    "published": "2026-11-19T19:15:00+00:00"
   },
   {
     "id": "t7389df7e",
@@ -1261,50 +1326,13 @@
     "published": "2026-11-19T13:49:11+00:00"
   },
   {
-    "id": "tcced664d",
-    "origin": "feed",
-    "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
-    "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially harmful fungal toxin. Known as mycotoxins, these naturally occurring compounds can contaminate grains, ",
-    "source": "ScienceDaily",
-    "published": "2026-11-19T11:13:29+00:00"
-  },
-  {
-    "id": "t8b988991",
-    "origin": "feed",
-    "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
-    "summary": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal. Discovered in Peru, the extinct pygmy sperm whale Scaphokogia huachafo had an enormous downward-curving snout and a skull so distorted that researchers initially thought it had been damaged after death. Instead, its strange anatomy ",
-    "source": "ScienceDaily",
-    "published": "2026-11-19T10:59:55+00:00"
-  },
-  {
-    "id": "t93aa0cf8",
-    "origin": "feed",
-    "title": "Something strange is living beneath the skin of deep-sea pigs",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
-    "summary": "Scientists have discovered a strange bacterium hiding beneath the skin of deep-sea creatures known as sea pigs, revealing an unexpected biological partnership. The microbe has an unusually tiny genome, yet more than a quarter of its DNA is devoted to making surface proteins, some of them exceptionally large. Researchers suspect it depends heavily on its host for survival, but what the sea pigs gai",
-    "source": "ScienceDaily",
-    "published": "2026-11-19T10:33:03+00:00"
-  },
-  {
-    "id": "t98f0f0a5",
-    "origin": "feed",
-    "title": "Why hydrogen flames can glow orange, then turn nearly invisible",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
-    "summary": "Hydrogen flames can shift from bright orange to nearly invisible depending on something unexpected: tiny amounts of sodium floating in the air. Scientists say this discovery could help make future hydrogen-powered stoves and ovens safer by replacing visual flame detection with specialized sensors.",
-    "source": "ScienceDaily",
-    "published": "2026-11-19T10:10:24+00:00"
-  },
-  {
     "id": "t3c9480ea",
     "origin": "feed",
     "title": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
     "url": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
     "summary": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at risk Climate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts to delay new scientific reports threaten global cooperation on tackling the crisis, one of the world’s leading climate scientists has warned. Johan Rockström, the ",
     "source": "The Guardian Science",
-    "published": "2026-11-19T07:16:45+00:00",
-    "text_file": "state/sources/t3c9480ea.txt"
+    "published": "2026-11-19T07:16:45+00:00"
   },
   {
     "id": "t07e6ce0b",
@@ -1323,15 +1351,6 @@
     "summary": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years. To find out what this means in practical terms for citizens, Ian Sample hears from the Guardian US health reporter Jessica Glenza. She explains why it comes at an already difficult time for the health secretary, Robert F Kennedy Jr",
     "source": "The Guardian Science",
     "published": "2026-11-19T05:00:19+00:00"
-  },
-  {
-    "id": "t15842642",
-    "origin": "feed",
-    "title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
-    "summary": "A major new investigation into Stonehenge’s mysterious six-ton Altar Stone has uncovered fresh clues while ruling out several suspected sources. Once thought to have originated in Wales, the massive sandstone slab is now believed to have come from northeastern Scotland, although researchers have yet to find an exact match.",
-    "source": "ScienceDaily",
-    "published": "2026-11-19T03:11:22+00:00"
   },
   {
     "id": "t313ed210",
@@ -1414,15 +1433,6 @@
     "summary": "In September 2026 I recorded 82 fatal landslides causing 173 fatalities. This year continues to show a higher than average trend in fatal landslide occurrence. This is my regular update for the number of fatal global landslides, focusing on September 2026. As usual, this data has been collected in line with the methodology described in Froude […]",
     "source": "Eos (AGU)",
     "published": "2026-11-18T07:57:30+00:00"
-  },
-  {
-    "id": "tf0f608db",
-    "origin": "feed",
-    "title": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
-    "summary": "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16s Countries around the world are considering social media bans for children, but whether this would work in practice has been hotly debated. Now researchers are seeking answers through a major scientific study led by Wellcome, which will be the first of its kind. Ten research projects will explore",
-    "source": "The Guardian Science",
-    "published": "2026-11-18T07:00:36+00:00"
   },
   {
     "id": "tef9a93cf",
