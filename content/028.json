@@ -1,0 +1,179 @@
+{
+  "topic": "Mata si Banteng di langit ternyata bukan anggota gugusnya",
+  "image_query": "Aldebaran Taurus constellation",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+    "Aldebaran menyamar jadi anggota geng yang bukan gengnya",
+    "Mata si Banteng di langit ternyata cuma numpang lewat"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Aldebaran menyamar jadi anggota geng yang bukan gengnya",
+      "body": "Mata si Banteng di langit ternyata cuma numpang lewat di depan.",
+      "image_query": "Aldebaran Taurus constellation",
+      "icon": "bulb"
+    },
+    {
+      "type": "fact",
+      "title": "Ada bintang oranye di wajah Banteng",
+      "body": "Di rasi Taurus ada gugus berbentuk V bernama Hyades. Di tengahnya ada **Aldebaran**, lebih terang dan lebih oranye dari bintang lain.",
+      "image_query": "Hyades star cluster",
+      "takeaway": "Aldebaran tampak seperti bintang paling terang di gugus itu.",
+      "icon": "magnifier"
+    },
+    {
+      "type": "fact",
+      "title": "Tapi dia bukan anggotanya",
+      "body": "Ternyata Aldebaran **tidak ada hubungannya** dengan Hyades. Dia cuma kebetulan terlihat di arah yang sama dari Bumi.",
+      "image_query": "Aldebaran",
+      "takeaway": "Tampak bersama, padahal tidak sekelompok.",
+      "icon": "planet"
+    },
+    {
+      "type": "fact",
+      "title": "Bedanya ada di jarak",
+      "body": "Aldebaran sekitar **65 tahun cahaya** dari kita. Hyades sekitar **150 tahun cahaya**. Selisihnya lebih dari separuh perjalanan.",
+      "takeaway": "Aldebaran jauh lebih dekat ke kita.",
+      "icon": "rocket",
+      "viz": {
+        "kind": "compare",
+        "items": [
+          {
+            "label": "Aldebaran",
+            "value": 65
+          },
+          {
+            "label": "Hyades",
+            "value": 150
+          }
+        ],
+        "unit": "tahun cahaya",
+        "caption": "Jarak dari Bumi"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Bintang latar depan",
+      "body": "Aldebaran adalah bintang di depan yang kebetulan **sejajar** dengan arah pandang kita ke Hyades. Seperti jari yang terlihat menutupi gunung di kejauhan.",
+      "takeaway": "Sejajar di langit bukan berarti berdekatan.",
+      "icon": "bulb"
+    },
+    {
+      "type": "fact",
+      "title": "Langit malam itu datar? Bukan",
+      "body": "Mata kita sulit menilai kedalaman. Langit malam **tampak datar** dan otak kita mau percaya itu, padahal ia punya kedalaman luar biasa.",
+      "takeaway": "Kedalaman adalah hal yang paling sering kita lewatkan.",
+      "icon": "globe"
+    },
+    {
+      "type": "cta",
+      "title": "Kirim ke temanmu yang suka melihat bintang",
+      "body": "Ikuti @alwaysfact_ untuk fakta sains yang sering terlewat, dan kirim postingan ini ke satu teman."
+    }
+  ],
+  "caption": "Langit malam kelihatan datar, padahal tidak. Aldebaran, bintang oranye di rasi Taurus, tampak seperti anggota gugus Hyades. Nyatanya ia sekitar 65 tahun cahaya dari kita, sedangkan Hyades sekitar 150 tahun cahaya. Ia hanya kebetulan sejajar dengan arah pandang kita. Kirim ke temanmu dan ikuti @alwaysfact_!\n\nSumber: Space.com",
+  "hashtags": [
+    "fakta",
+    "sains",
+    "astronomi",
+    "bintang",
+    "langit",
+    "alwaysfact",
+    "edukasi",
+    "luarangkasa"
+  ],
+  "claims": [
+    {
+      "text": "Aldebaran berjarak sekitar 65 tahun cahaya dari kita, sedangkan gugus Hyades sekitar 150 tahun cahaya.",
+      "source_name": "Space.com",
+      "source_url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it"
+    },
+    {
+      "text": "Aldebaran, bintang oranye di mata rasi Taurus, adalah bintang latar depan yang kebetulan sejajar dengan arah pandang kita ke Hyades.",
+      "source_name": "Space.com",
+      "source_url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it"
+    },
+    {
+      "text": "Aldebaran tidak ada hubungannya dengan gugus Hyades.",
+      "source_name": "Space.com",
+      "source_url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it"
+    },
+    {
+      "text": "Langit malam tampak datar, dan otak kita sangat mau percaya itu.",
+      "source_name": "Space.com",
+      "source_url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it"
+    },
+    {
+      "text": "Aldebaran tampak lebih terang dan lebih oranye dibanding bintang lain di sekitarnya.",
+      "source_name": "Space.com",
+      "source_url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it"
+    }
+  ],
+  "music_suggestions": [
+    "tenang misterius tempo pelan",
+    "ambient bintang tempo sedang",
+    "lembut penasaran tempo pelan"
+  ],
+  "id": "028",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
+      "quote": "Aldebaran is about 65 light-years away, while the Hyades are roughly 150 light-years distant.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
+      "quote": "The orange eye of Taurus is a foreground star that happens to lie almost exactly along our line of sight toward the Hyades.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
+      "quote": "Then I discovered that Aldebaran has nothing to do with the Hyades.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
+      "quote": "The night sky looks flat, and our brains are extremely willing to believe it.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
+      "quote": "Aldebaran, noticeably brighter and more orange than the other stars, the dominant star.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
+  "topic_id": "t25136dcc",
+  "image_credits": [
+    "NASA, ESA, and STScI / CC BY-SA 4.0 (Wikimedia Commons)",
+    "SPJ777 / CC BY 4.0 (Wikimedia Commons)",
+    "Morn / CC0 (Wikimedia Commons)",
+    "Morn / CC0 (Wikimedia Commons)",
+    "Bautsch / CC0 (Wikimedia Commons)",
+    "NASA, ESA, and STScI / CC BY 4.0 (Wikimedia Commons)",
+    "Pierre André Leclercq / CC BY-SA 4.0 (Wikimedia Commons)"
+  ]
+}
