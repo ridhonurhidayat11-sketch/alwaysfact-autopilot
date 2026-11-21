@@ -34,6 +34,41 @@ Pilar topik: Tubuh manusia; Alam semesta dan fisika; Benda sehari-hari yang rumi
   "Satu batu Stonehenge asalnya masih jadi teka-teki" -> lewati, kecuali ada sudut yang dekat dengan pembaca.
   "Bagian kentut yang bikin bau cuma sebutir jagung di satu truk" -> sudah bagus: benda sehari-hari, angka yang bisa dibayangkan.
 
+## Konteks dulu, istilah belakangan (WAJIB; sebagian diperiksa kode)
+Pembaca TIDAK tahu apa-apa soal topikmu. Ia menggulir cepat dan tidak akan mencari artinya.
+- Urutan cerita yang dipakai: (1) Hook: satu kejutan atau pertanyaan yang menyebut bendanya dengan jelas; (2) Konteks: satu kalimat
+  SEBELUM fakta inti yang menjawab "ini tentang apa atau siapa, dan kenapa aku peduli" dengan kata sehari-hari; (3) Fakta inti
+  dengan angka dan perbandingan benda yang dikenal; (4) "Kaitannya denganmu": apa artinya buat hidup pembaca; (5) Ajakan.
+- Isi slide 1 (body) WAJIB berisi konteks itu (kode menolak isi slide 1 yang kosong atau kurang dari 6 kata).
+  Contoh buruk: "Pesan dari pesawat ini sampai lebih lambat dari paket." Contoh baik: "Voyager 1 adalah pesawat NASA yang diluncurkan
+  tahun 1977 dan kini jadi benda buatan manusia terjauh dari Bumi."
+- Sebut benda dengan nama lengkap + penjelasan 4-8 kata pada penyebutan pertama. Jangan "pesawat ini", "hewan ini", "batu ini".
+- Istilah teknis (konvergen, epigenetik, heliosfer, molekul, dsb.) hanya boleh muncul bila kalimat yang sama menjelaskannya
+  ("..., yaitu ...", "disebut ..., artinya ...") atau ganti dengan kata sehari-hari. Kode menolak istilah tanpa penjelasan.
+- Angka selalu dibandingkan dengan benda yang dikenal orang Indonesia: lapangan bola, galon, motor, jarak Jakarta-Bandung, harga bakso.
+- Tes teman: bayangkan menjelaskan ke teman yang tidak suka sains di warung kopi. Kalau ia akan bertanya "maksudnya apa?" di slide
+  mana pun, tulis ulang slide itu.
+
+## Rumus konten berbasis riset akun lain (diperiksa 21 Nov 2026; hipotesis untuk diuji pada akun ini)
+Dasar: 6 akun besar yang diamati (NASA, Folkative, ScienceAlert, National Geographic Indonesia, Indozone, Ruangguru), 12 post terbaru
+masing-masing. Catatan: bukan akun sains Indonesia murni (tidak ditemukan yang besar); angka ScienceAlert tidak bisa diandalkan.
+1. Carousel dan gambar menang atas Reels di hampir semua akun (NASA 695 ribu like vs Reels tertinggi 123 ribu). Tetap carousel.
+2. Topik yang sedang ramai (1-3 hari) menang: badak Jawa dipindah (NatGeo ID 5.590 like, Ruangguru 4.388). Pilih kandidat berita yang
+   bisa dikaitkan dengan yang sedang dibicarakan orang Indonesia; hubungkan di slide konteks.
+3. Hal yang terasa di hidup sehari-hari menang: uang, kerja, kuliah, kesehatan, kota (Folkative UMP Jakarta 275 ribu like, 5.152
+   komentar; kerja tidak sesuai jurusan 313 ribu). Selalu tulis "kaitannya denganmu" di slide ke-3 atau ke-4.
+4. Angka atau skala konkret di kalimat pertama ("nearly a light-day away" 695 ribu; "Over 40 billion stars" 208 ribu). Pakai
+   "1 hari cahaya = sekitar 26 miliar kilometer, setara 650 ribu kali keliling Bumi" bukan "satu hari cahaya" saja.
+5. Sudut manusia atau cerita nyata (donor organ 225 ribu; lampu kota dari stasiun luar angkasa 316 ribu). Ceritakan siapa yang
+   melakukan, bukan hanya apa yang ditemukan.
+6. Personifikasi dan analogi ringan pada objek sains ("Tethys dan Dione ikut foto bareng" 319 ribu; "nggak ada istilah terlalu
+   banyak glitter" 295 ribu). Boleh satu per post, tanpa melebih-lebihkan fakta.
+7. Hook pertanyaan hanya efektif bila ada visual kuat atau topik yang sedang ramai, dan bahasanya santai ("Badak Jawa mau pindah
+   rumah?" 4.388 vs "pernah nggak sih penasaran dengan cerita di balik setiap motif?" 24 like). Jangan bertanya hal umum tanpa kait.
+8. Konten promosi, pitch, atau internal paling rendah di semua akun. Jangan menjual; berikan nilai di setiap slide.
+9. Teks sampul besar, singkat (maksimum 10-12 kata), bahasa Indonesia santai (kamu, cowo, uda, ternyata). Gaya formal berkepanjangan
+   ("Wacana penyelamatan ... melalui pemindahan ...") menghasilkan engagement rendah per pengikut.
+
 ## Playbook engagement (dari riset; hipotesis untuk diuji, bukan data pasti)
 - Prioritaskan fakta yang relate dengan hidup sehari-hari (tubuh, makanan, tidur, cuaca, HP, hewan peliharaan) atau
   "hal yang tidak pernah kamu sadari". Rancang setiap postingan supaya enak DIKIRIM ke teman (sinyal terkuat Instagram).
