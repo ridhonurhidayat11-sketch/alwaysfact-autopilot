@@ -44,7 +44,7 @@ def llm_for(client, budget=10.0, tmp=None):
 
 
 def good_post():
-    slides = [{"type": "hook", "title": "Hook yang kuat", "body": "", "visual": {"source": "nasa", "keywords": "venus"}}]
+    slides = [{"type": "hook", "title": "Hook yang kuat", "body": "Venus berputar jauh lebih pelan daripada Bumi kita.", "visual": {"source": "nasa", "keywords": "venus"}}]
     for i in range(4):
         slides.append({"type": "fact", "title": f"Fakta {i}", "body": "Isi singkat.",
                        "visual": {"source": "code_chart", "keywords": "grafik"}})
@@ -69,6 +69,35 @@ RSS = """<?xml version="1.0"?><rss><channel>
 </channel></rss>"""
 ATOM = """<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>Atom satu</title>
 <link href="https://ex.org/b"/><summary>Isi</summary></entry></feed>"""
+
+
+class ContextTests(unittest.TestCase):
+    """Slide text must be readable by a lay person from the first slide on."""
+
+    def slides(self, **over):
+        sl = [{"type": "hook", "title": "Hook", "body": "Voyager 1 adalah pesawat NASA yang diluncurkan tahun 1977."},
+              {"type": "fact", "title": "Fakta", "body": "Sinyalnya butuh waktu lama untuk sampai ke Bumi."},
+              {"type": "cta", "title": "Ikuti", "body": "@alwaysfact_"}]
+        for k, v in over.items():
+            idx, field = k.split("_")
+            sl[int(idx)][field] = v
+        return sl
+
+    def test_clear_slides_pass(self):
+        self.assertEqual(writer.context_problems(self.slides()), [])
+
+    def test_first_slide_needs_a_plain_body(self):
+        self.assertTrue(writer.context_problems(self.slides(**{"0_body": ""})))
+        self.assertTrue(writer.context_problems(self.slides(**{"0_body": "Ya begitu."})))
+
+    def test_hanging_this_in_the_first_slide_body(self):
+        self.assertTrue(writer.context_problems(self.slides(**{"0_body": "Pesawat ini ternyata sangat jauh dari kita semua."})))
+
+    def test_jargon_needs_an_explanation_in_the_same_sentence(self):
+        bad = writer.context_problems(self.slides(**{"1_body": "Ini terjadi lewat evolusi konvergen pada hewan."}))
+        self.assertTrue(any("konvergen" in b for b in bad))
+        ok = writer.context_problems(self.slides(**{"1_body": "Ini disebut evolusi konvergen, yaitu makhluk berbeda yang bentuknya jadi mirip."}))
+        self.assertEqual(ok, [])
 
 
 class FeedTests(unittest.TestCase):
