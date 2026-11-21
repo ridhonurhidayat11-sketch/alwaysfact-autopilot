@@ -1,5 +1,85 @@
 [
   {
+    "id": "t50f5c64c",
+    "origin": "feed",
+    "title": "Repeated bending strengthens sugar-based hydrogel instead of wearing it down",
+    "url": "https://phys.org/news/2026-11-sugar-based-hydrogel.html",
+    "summary": "Most materials get weaker with use. But a team led by Chenfeng Ke, a professor of chemistry in Arts & Sciences at Washington University in St. Louis, has created a polymer that defies the usual laws of wear and tear.",
+    "source": "Phys.org",
+    "published": "2026-11-21T20:00:05+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t040c95d5",
+    "origin": "feed",
+    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+    "source": "BBC Science",
+    "published": "2026-11-21T19:33:49+00:00",
+    "text_file": "state/sources/t040c95d5.txt"
+  },
+  {
+    "id": "t50f82e9b",
+    "origin": "feed",
+    "title": "BepiColombo Arrives at Mercury",
+    "url": "https://eos.org/research-and-developments/bepicolombo-arrives-at-mercury",
+    "summary": "After an eight-year journey, the BepiColombo mission has entered orbit around Mercury.",
+    "source": "Eos (AGU)",
+    "published": "2026-11-21T18:48:40+00:00",
+    "text_file": "state/sources/t50f82e9b.txt"
+  },
+  {
+    "id": "t2309e9c8",
+    "origin": "feed",
+    "title": "Dropping degree requirements linked to higher pay for workers without degrees",
+    "url": "https://phys.org/news/2026-11-degree-requirements-linked-higher-pay.html",
+    "summary": "The requirements set by human resources (HR) greatly influence the professional opportunities available to different segments of the population. For instance, if a job requires applicants to have earned a bachelor's or master's degree in a relevant subject, people without them may be excluded from the selection process, even if they have gained relevant skills through experience or professional tr",
+    "source": "Phys.org",
+    "published": "2026-11-21T18:20:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t158994b8",
+    "origin": "feed",
+    "title": "International UN talks on controlling use of autonomous weapons collapse",
+    "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+    "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections. Despite an overwhelming majority of states at the UN’s Convention on Certain Con",
+    "source": "The Guardian Science",
+    "published": "2026-11-21T16:36:11+00:00",
+    "text_file": "state/sources/t158994b8.txt"
+  },
+  {
+    "id": "t33337ef7",
+    "origin": "feed",
+    "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
+    "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
+    "summary": "On Nov. 21, 1676, the Danish astronomer Ole Rømer discovered the speed of lightwhile observing Jupiter and its moon volcanic moon Io. Here's why it mattered.",
+    "source": "Space.com",
+    "published": "2026-11-21T16:20:37+00:00",
+    "text_file": "state/sources/t33337ef7.txt"
+  },
+  {
+    "id": "tb258816f",
+    "origin": "feed",
+    "title": "Hormuz swim highlights environmental cost of war",
+    "url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
+    "summary": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
+    "source": "BBC Science",
+    "published": "2026-11-21T16:12:31+00:00",
+    "text_file": "state/sources/tb258816f.txt"
+  },
+  {
+    "id": "t18a54fcd",
+    "origin": "feed",
+    "title": "'Like walking the plank': For 3,000 years, Indigenous people herded bison off a unique cliff in Texas, study reveals",
+    "url": "https://www.livescience.com/archaeology/americas/like-walking-the-plank-for-3-000-years-indigenous-people-herded-bison-off-a-unique-cliff-in-texas-study-reveals",
+    "summary": "At a cliff site in Texas, archaeologists discovered hundreds of bison bones, stone tools and arrowheads, suggesting Indigenous people used \"bison jumps\" to hunt.",
+    "source": "Live Science",
+    "published": "2026-11-21T16:00:00+00:00",
+    "text_file": "state/sources/t18a54fcd.txt"
+  },
+  {
     "id": "t348abef3",
     "origin": "feed",
     "title": "Babies in ancient Greek colony started solid food at 3 months but nursed for nearly 4 years, chemical signatures suggest",
@@ -48,16 +128,6 @@
     "source": "Space.com",
     "published": "2026-11-21T15:00:00+00:00",
     "text_file": "state/sources/t374e22db.txt"
-  },
-  {
-    "id": "t040c95d5",
-    "origin": "feed",
-    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-    "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-    "source": "BBC Science",
-    "published": "2026-11-21T14:54:24+00:00",
-    "text_file": "state/sources/t040c95d5.txt"
   },
   {
     "id": "t88875db0",
@@ -130,16 +200,6 @@
     "text_file": "state/sources/t42f91793.txt"
   },
   {
-    "id": "t158994b8",
-    "origin": "feed",
-    "title": "International talks on controlling use of autonomous weapons collapse",
-    "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-    "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control on the use of autonomous weapons collapsed just before 5am on Saturday morning, after all night talks failed to overcome Russian objections. Despite an overwhelming majority of states at the Review",
-    "source": "The Guardian Science",
-    "published": "2026-11-21T13:15:29+00:00",
-    "text_file": "state/sources/t158994b8.txt"
-  },
-  {
     "id": "t16e33161",
     "origin": "feed",
     "title": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
@@ -168,6 +228,56 @@
     "source": "BBC Science",
     "published": "2026-11-21T12:18:55+00:00",
     "text_file": "state/sources/t31bc486d.txt"
+  },
+  {
+    "id": "t082418af",
+    "origin": "feed",
+    "title": "Astronomer Isabel Angelo hunts for odd signals in telescope data",
+    "url": "https://www.sciencenews.org/article/telescope-data-isabel-angelo-sn-10",
+    "summary": "At the SETI Institute, she uses machine learning to look for signs of cosmic phenomena astronomers have never seen before.",
+    "source": "Science News",
+    "published": "2026-11-21T12:00:00+00:00",
+    "text_file": "state/sources/t082418af.txt"
+  },
+  {
+    "id": "te569459c",
+    "origin": "feed",
+    "title": "This scientist proves which problems computers can’t solve quickly",
+    "url": "https://www.sciencenews.org/article/game-computer-sn-10-dor-minzer-problem",
+    "summary": "Dor Minzer studies how fast computers can tell whether nearly all of a game’s rules can be satisfied or almost none can.",
+    "source": "Science News",
+    "published": "2026-11-21T12:00:00+00:00",
+    "text_file": "state/sources/te569459c.txt"
+  },
+  {
+    "id": "t39db11e0",
+    "origin": "feed",
+    "title": "What helps land recover after fire? This ecologist looks to the past",
+    "url": "https://www.sciencenews.org/article/land-fire-jennifer-grenz-history-sn10",
+    "summary": "Ecologist Jennifer Grenz draws on Indigenous oral histories and ecological records to learn how landscapes recover after wildfires.",
+    "source": "Science News",
+    "published": "2026-11-21T12:00:00+00:00",
+    "text_file": "state/sources/t39db11e0.txt"
+  },
+  {
+    "id": "t2c9d704d",
+    "origin": "feed",
+    "title": "How do scientists learn from failure? This researcher has clues",
+    "url": "https://www.sciencenews.org/article/scientists-learn-failure-sn-10-yian-yin",
+    "summary": "Yian Yin found that scientists who revised rejected proposals using feedback found success faster than those who switched ideas.",
+    "source": "Science News",
+    "published": "2026-11-21T12:00:00+00:00",
+    "text_file": "state/sources/t2c9d704d.txt"
+  },
+  {
+    "id": "tde05828c",
+    "origin": "feed",
+    "title": "How do tumors talk to nerves? This scientist is finding out",
+    "url": "https://www.sciencenews.org/article/tumors-talk-nerve-sn-10-sebnem-ece-eksi",
+    "summary": "After finding proteins linked to memory in prostate cancer cells, Sebnem Ece Eksi hopes to map nerve fibers in tumors.",
+    "source": "Science News",
+    "published": "2026-11-21T12:00:00+00:00",
+    "text_file": "state/sources/tde05828c.txt"
   },
   {
     "id": "te563dddb",
@@ -306,8 +416,7 @@
     "url": "https://phys.org/news/2026-11-device-strawberry-skin-strength-aid.html",
     "summary": "Resilient strawberry varieties will be more easily identifiable thanks to a tool developed by University of Queensland engineering students. The prototype measures the strength of strawberry skin, a key breeding consideration for the Australian Strawberry Breeding Program at Queensland's Department of Primary Industries.",
     "source": "Phys.org",
-    "published": "2026-11-21T03:40:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-21T03:40:01+00:00"
   },
   {
     "id": "tab785838",
@@ -326,8 +435,7 @@
     "url": "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html",
     "summary": "Predicting how molecules interact is central to drug discovery: it offers important information about how a new drug might work in the human body, the side effects it can cause and more. Computationally modeling these interactions can reduce the need for lengthy and expensive lab work, but some interactions still remain beyond the reach of classical computers.",
     "source": "Phys.org",
-    "published": "2026-11-21T03:00:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-21T03:00:01+00:00"
   },
   {
     "id": "t4c9896fc",
@@ -356,6 +464,16 @@
     "summary": "New research about condensates—cellular compartments that act as hubs for facilitating biological reactions—continues to reveal novel insights into how cells function. Among those continuing to push the field forward are members of the Marine Biological Laboratory's condensate consortium, including Amy Gladfelter, a professor at Duke University and current co-director of the MBL physiology course,",
     "source": "Phys.org",
     "published": "2026-11-21T00:40:01+00:00"
+  },
+  {
+    "id": "tefaa6362",
+    "origin": "feed",
+    "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
+    "url": "https://www.nature.com/articles/d41586-026-03803-8",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-21T00:00:00+00:00",
+    "text_file": "state/sources/tefaa6362.txt"
   },
   {
     "id": "t94f09044",
@@ -397,15 +515,6 @@
     "text_file": "state/sources/tb61998a1.txt"
   },
   {
-    "id": "td098fa98",
-    "origin": "feed",
-    "title": "A fish as old as Montana—the blue sucker discovered to live well over 100 years",
-    "url": "https://phys.org/news/2026-11-fish-montana-blue-sucker-years.html",
-    "summary": "Using bomb radiocarbon dating on microscopic otoliths (earstones), researchers have found that a native species of fish in the Upper Missouri River in Montana is living up to 130 years—more than triple the previous estimate of around 40 years—and some blue suckers alive today hatched in the late 1800s, around the dawn of the automobile and when Montana officially became a state.",
-    "source": "Phys.org",
-    "published": "2026-11-20T22:20:06+00:00"
-  },
-  {
     "id": "tcfeb5a58",
     "origin": "feed",
     "title": "US leases American Samoan seabed for mining in auction deemed illegal by court",
@@ -414,15 +523,6 @@
     "source": "Mongabay",
     "published": "2026-11-20T22:18:33+00:00",
     "text_file": "state/sources/tcfeb5a58.txt"
-  },
-  {
-    "id": "ta6cfb2f9",
-    "origin": "feed",
-    "title": "Caribbean corals are in crisis. Fossil reefs can help point to where corals may persist",
-    "url": "https://phys.org/news/2026-11-caribbean-corals-crisis-fossil-reefs.html",
-    "summary": "The fossilized remains of ancient coral reefs often sit just meters from living corals in the Caribbean, where reefs have declined sharply over the past 70 years. Those fossils could help show where corals might survive a warming future. In two new papers, researchers at The University of Texas at Austin identify which coral species dominated ancient reefs in northeastern Jamaica and suggest how t",
-    "source": "Phys.org",
-    "published": "2026-11-20T22:00:01+00:00"
   },
   {
     "id": "tf6e77b71",
@@ -481,15 +581,14 @@
     "url": "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn",
     "summary": "Researchers are calling for a moratorium on industrial exploitation of the moon, fearing the lunar environment may suffer irreversible damage if things move too fast.",
     "source": "Space.com",
-    "published": "2026-11-20T21:00:00+00:00",
-    "text_file": "state/sources/td00eb106.txt"
+    "published": "2026-11-20T21:00:00+00:00"
   },
   {
     "id": "tb4458eaf",
     "origin": "feed",
-    "title": "The AI Riemann hypothesis proof is almost certainly true, independent mathematicians attest",
+    "title": "The AI Riemann hypothesis proof is true, independent mathematicians confirm",
     "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
-    "summary": "Researchers are near to completing their verification of a claimed solution to the most important unsolved problem in math",
+    "summary": "Researchers have verified a claimed solution to the most important unsolved problem in math",
     "source": "Scientific American",
     "published": "2026-11-20T21:00:00+00:00",
     "text_file": "state/sources/tb4458eaf.txt"
@@ -521,8 +620,7 @@
     "url": "https://www.livescience.com/planet-earth/weather/waterfall-of-fog-spills-over-mallorca-cliffs-in-stunning-winning-image-for-weather-photographer-of-the-year-2026",
     "summary": "A spectacular sea of fog, a perfectly formed rainbow and dramatic lightning strikes feature among this year's winning photographs for Weather Photographer of the Year 2026.",
     "source": "Live Science",
-    "published": "2026-11-20T20:32:11+00:00",
-    "text_file": "state/sources/t55461763.txt"
+    "published": "2026-11-20T20:32:11+00:00"
   },
   {
     "id": "tdcb3f9b5",
@@ -636,8 +734,7 @@
     "url": "https://www.sciencenews.org/article/el-nino-climate-change-california",
     "summary": "The 1997–1998 El Niño drenched California and wreaked global havoc. Now the world is bracing for a Super El Niño superpowered by climate change.",
     "source": "Science News",
-    "published": "2026-11-20T17:47:05+00:00",
-    "text_file": "state/sources/ta71b60cf.txt"
+    "published": "2026-11-20T17:47:05+00:00"
   },
   {
     "id": "tefb28ebf",
@@ -683,15 +780,6 @@
     "summary": "ANTALYA, Turkey (AP) — Negotiators are still seeking concrete commitments for nations to transition away from fossil fuels, as this year’s U.N. climate summit reaches its final day. Friday marks the official end of this year’s two-week summit, known as COP31, which so far has failed to advance the drastic emission cuts needed to avert […]",
     "source": "Mongabay",
     "published": "2026-11-20T17:07:44+00:00"
-  },
-  {
-    "id": "tb44c2776",
-    "origin": "feed",
-    "title": "Russia is developing a nuclear space weapon, US intelligence report finds",
-    "url": "https://www.space.com/space-exploration/satellites/russia-is-developing-a-nuclear-space-weapon-us-intelligence-report-finds",
-    "summary": "A new report by the the U.S. Defense Intelligence Agency discusses the threats posed by the nation's adversaries in space — including Russia, which is developing a nuke-carrying satellite.",
-    "source": "Space.com",
-    "published": "2026-11-20T17:00:00+00:00"
   },
   {
     "id": "t10fe0526",
@@ -769,8 +857,7 @@
     "url": "https://www.sciencenews.org/article/books-favorite-read-holiday-2026-review",
     "summary": "These science books from 2026 are our favorites of the year.",
     "source": "Science News",
-    "published": "2026-11-20T15:00:00+00:00",
-    "text_file": "state/sources/tafdc57f4.txt"
+    "published": "2026-11-20T15:00:00+00:00"
   },
   {
     "id": "t488f394a",
@@ -838,8 +925,7 @@
     "url": "https://www.sciencenews.org/article/growing-heart-grinch-people-christmas",
     "summary": "In the classic Dr. Seuss tale, the rapid growth signals an emotional change of heart. In real life, a swollen heart can be a sign of stress or disease.",
     "source": "Science News",
-    "published": "2026-11-20T13:00:00+00:00",
-    "text_file": "state/sources/t39197d6b.txt"
+    "published": "2026-11-20T13:00:00+00:00"
   },
   {
     "id": "ta6f299bb",
@@ -1036,8 +1122,7 @@
     "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
     "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
     "source": "BBC Science",
-    "published": "2026-11-20T05:03:43+00:00",
-    "text_file": "state/sources/tfddde9ec.txt"
+    "published": "2026-11-20T05:03:43+00:00"
   },
   {
     "id": "tea6f6bfd",
@@ -1135,13 +1220,12 @@
     "url": "https://www.nature.com/articles/d41586-026-03789-3",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-20T00:00:00+00:00",
-    "text_file": "state/sources/t7c4ed481.txt"
+    "published": "2026-11-20T00:00:00+00:00"
   },
   {
     "id": "ta3e2801f",
     "origin": "feed",
-    "title": "Mathematician says he and AI solved Riemann hypothesis — the field’s biggest outstanding challenge",
+    "title": "Mathematicians astounded by AI and human-written proofs of iconic Riemann hypothesis",
     "url": "https://www.nature.com/articles/d41586-026-03812-7",
     "summary": "",
     "source": "Nature",
@@ -1175,15 +1259,6 @@
     "published": "2026-11-20T00:00:00+00:00"
   },
   {
-    "id": "t84506e76",
-    "origin": "feed",
-    "title": "Ruminations on a last movement",
-    "url": "https://www.nature.com/articles/d41586-026-03519-9",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-20T00:00:00+00:00"
-  },
-  {
     "id": "ta9056f83",
     "origin": "feed",
     "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
@@ -1200,17 +1275,7 @@
     "url": "https://www.sciencenews.org/article/solo-meerkats-can-find-their-way-home",
     "summary": "Meerkats wearing GPS trackers found their way home from more than a kilometer away, all by themselves.",
     "source": "Science News",
-    "published": "2026-11-19T23:00:45+00:00",
-    "text_file": "state/sources/t6e15cb24.txt"
-  },
-  {
-    "id": "t2da5560b",
-    "origin": "feed",
-    "title": "'I would want to know my horse's backstory': Live Science readers share which animals they'd want to speak with",
-    "url": "https://www.livescience.com/animals/i-would-want-to-know-my-horses-backstory-live-science-readers-share-which-animals-theyd-want-to-speak-with",
-    "summary": "Recently, Live Science asked its readers which animal they'd want to communicate with, based on a new study that leveraged AI to decode different vocalizations of zebra finches.",
-    "source": "Live Science",
-    "published": "2026-11-19T22:03:04+00:00"
+    "published": "2026-11-19T23:00:45+00:00"
   },
   {
     "id": "tf1e64ba0",
@@ -1247,8 +1312,7 @@
     "url": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie",
     "summary": "Recording Wernicke’s area as people try to speak could help researchers design brain implants that restore speech.",
     "source": "Science News",
-    "published": "2026-11-19T19:00:00+00:00",
-    "text_file": "state/sources/t7389df7e.txt"
+    "published": "2026-11-19T19:00:00+00:00"
   },
   {
     "id": "t2e880d58",
@@ -1271,15 +1335,6 @@
     "text_file": "state/sources/t6b344312.txt"
   },
   {
-    "id": "t5773e6a4",
-    "origin": "feed",
-    "title": "U.S. demand for menopause hormone therapy has more than doubled recently",
-    "url": "https://www.sciencenews.org/article/menopause-hormone-therapy-demand-up",
-    "summary": "The use of menopause hormone therapy among women aged 40 to 74 rose from 2023 to 2026, suggests a study of a U.S. pharmacy database.",
-    "source": "Science News",
-    "published": "2026-11-19T16:00:00+00:00"
-  },
-  {
     "id": "t230e1560",
     "origin": "feed",
     "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
@@ -1298,23 +1353,13 @@
     "published": "2026-11-19T15:32:39+00:00"
   },
   {
-    "id": "tde9900e9",
-    "origin": "feed",
-    "title": "American science is broken. Meet the people fixing it",
-    "url": "https://www.sciencenews.org/article/fixing-american-science-priorities",
-    "summary": "After a massive realignment of U.S. science priorities last year, researchers are rebuilding — and reimagining — what has been broken.",
-    "source": "Science News",
-    "published": "2026-11-19T14:00:00+00:00"
-  },
-  {
     "id": "t69e37879",
     "origin": "feed",
     "title": "Detecting Blocked Rain Gauges for Reliable Weather Data",
     "url": "https://eos.org/articles/detecting-blocked-rain-gauges-for-reliable-weather-data",
     "summary": "When rain gauges are blocked or broken, they present faulty data. Various methods to detect faulty instruments may work better in different regions, according to new research.",
     "source": "Eos (AGU)",
-    "published": "2026-11-19T13:50:20+00:00",
-    "text_file": "state/sources/t69e37879.txt"
+    "published": "2026-11-19T13:50:20+00:00"
   },
   {
     "id": "t24a3ad85",
@@ -1335,15 +1380,6 @@
     "published": "2026-11-19T07:16:45+00:00"
   },
   {
-    "id": "t07e6ce0b",
-    "origin": "feed",
-    "title": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking",
-    "url": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
-    "summary": "HMCS Spitfire was commissioned by colonial government to protect against Russian warships during the Crimean war The wreck of Australia’s first locally built warship has been discovered 128 years after sinking off the coast of far north Queensland. Marine archaeologists found the remains of Ex HMCS Spitfire on 21 August, the anniversary of its sinking in 1898. Continue reading...",
-    "source": "The Guardian Science",
-    "published": "2026-11-19T05:22:38+00:00"
-  },
-  {
     "id": "tb6a46e31",
     "origin": "feed",
     "title": "Could measles and midterms bring down Maha? – podcast",
@@ -1351,15 +1387,6 @@
     "summary": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years. To find out what this means in practical terms for citizens, Ian Sample hears from the Guardian US health reporter Jessica Glenza. She explains why it comes at an already difficult time for the health secretary, Robert F Kennedy Jr",
     "source": "The Guardian Science",
     "published": "2026-11-19T05:00:19+00:00"
-  },
-  {
-    "id": "t313ed210",
-    "origin": "feed",
-    "title": "Voyager 1 reaches a historic milestone: one light-day from Earth",
-    "url": "https://www.sciencenews.org/article/voyager-1-light-day-earth-distance",
-    "summary": "Launched in 1977, Voyager 1 has traveled farther than any other human-made object.",
-    "source": "Science News",
-    "published": "2026-11-19T00:50:00+00:00"
   },
   {
     "id": "t421fe2bd",
@@ -1371,15 +1398,6 @@
     "published": "2026-11-18T17:46:34+00:00"
   },
   {
-    "id": "te7b1fb34",
-    "origin": "feed",
-    "title": "Two stars in the Andromeda galaxy merged before astronomers’ eyes",
-    "url": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao",
-    "summary": "The finding offers clues to why some pairs of stars combine while others stay separate.",
-    "source": "Science News",
-    "published": "2026-11-18T16:00:00+00:00"
-  },
-  {
     "id": "ta8c81f68",
     "origin": "feed",
     "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
@@ -1388,15 +1406,6 @@
     "source": "Quanta Magazine",
     "published": "2026-11-18T15:51:40+00:00",
     "text_file": "state/sources/ta8c81f68.txt"
-  },
-  {
-    "id": "t3b512e5d",
-    "origin": "feed",
-    "title": "Cracks in public health grew in 2026",
-    "url": "https://www.sciencenews.org/article/public-health-2026-outbreaks-measles",
-    "summary": "Outbreaks of measles, cyclosporiasis, Ebola and hantavirus exposed a weakened U.S. public health response.",
-    "source": "Science News",
-    "published": "2026-11-18T14:00:00+00:00"
   },
   {
     "id": "t78c2ab84",
@@ -1417,6 +1426,15 @@
     "published": "2026-11-18T13:00:00+00:00"
   },
   {
+    "id": "tcb99e6ae",
+    "origin": "feed",
+    "title": "After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? | Kim Heacox",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
+    "summary": "Since the spacecraft’s 1977 launch, our wonderful and terrible species has done great damage to our planet. Voyager has offered us a clear view of ourselves Imagine traveling nonstop for 49 years, alone in the dark with no destination in sight, powered by curiosity and engineering. Further imagine making that journey not at bullet train or jet plane speed, but much faster: at 37,800 miles per hour",
+    "source": "The Guardian Science",
+    "published": "2026-11-18T11:00:56+00:00"
+  },
+  {
     "id": "ta66e7faf",
     "origin": "feed",
     "title": "Body found in Derry bog decapitated more than 2,000 years ago, coroner finds",
@@ -1433,15 +1451,6 @@
     "summary": "In September 2026 I recorded 82 fatal landslides causing 173 fatalities. This year continues to show a higher than average trend in fatal landslide occurrence. This is my regular update for the number of fatal global landslides, focusing on September 2026. As usual, this data has been collected in line with the methodology described in Froude […]",
     "source": "Eos (AGU)",
     "published": "2026-11-18T07:57:30+00:00"
-  },
-  {
-    "id": "tef9a93cf",
-    "origin": "feed",
-    "title": "NSF Will Not Change Grantmaking Rules to Align With OMB, for Now",
-    "url": "https://eos.org/research-and-developments/nsf-will-not-change-grantmaking-rules-to-align-with-omb-for-now",
-    "summary": "The National Science Foundation (NSF) has walked back a plan to change its grantmaking process to align with a proposal from the Office of Management and Budget (OMB) released in May.",
-    "source": "Eos (AGU)",
-    "published": "2026-11-17T14:33:07+00:00"
   },
   {
     "id": "t7cdbe86b",
