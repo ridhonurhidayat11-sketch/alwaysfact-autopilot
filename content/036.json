@@ -1,0 +1,175 @@
+{
+  "topic": "Ke Merkurius ternyata lebih sulit daripada ke Pluto",
+  "image_query": "Mercury planet MESSENGER",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+    "Ke Merkurius ternyata lebih sulit daripada ke Pluto",
+    "Planet terdekat Matahari ini paling sedikit dijelajahi"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Ke Merkurius ternyata lebih sulit daripada ke Pluto",
+      "body": "BepiColombo adalah pesawat luar angkasa Eropa dan Jepang yang baru saja sampai di orbit Merkurius, planet terdekat Matahari.",
+      "image_query": "Mercury planet MESSENGER",
+      "icon": "rocket"
+    },
+    {
+      "type": "fact",
+      "title": "Merkurius itu dekat Matahari, bukan dekat Bumi",
+      "body": "Kamu mungkin mengira planet dekat Matahari gampang dicapai. Ternyata justru sebaliknya, dan para insinyur sudah lama tahu itu.",
+      "takeaway": "Dekat Matahari belum tentu gampang dicapai.",
+      "icon": "planet",
+      "image_query": "Mercury planet MESSENGER"
+    },
+    {
+      "type": "fact",
+      "title": "Masalahnya bukan mendekat, tapi mengerem",
+      "body": "Menurut pakar Badan Antariksa Eropa, tantangannya adalah **membuang cukup tenaga** supaya pesawat cocok dengan jalur Merkurius mengitari Matahari.",
+      "takeaway": "Pesawat harus mengerem, bukan hanya melaju.",
+      "icon": "bolt"
+    },
+    {
+      "type": "fact",
+      "title": "Seperti mengerem motor di turunan panjang",
+      "body": "Tanpa rem, pesawat akan melesat lewat begitu saja. Karena itu BepiColombo terbang melewati Bumi, Venus, dan Merkurius beberapa kali. Sejak 2018.",
+      "takeaway": "Perjalanannya penuh pengereman bertahap.",
+      "icon": "clock",
+      "viz": {
+        "kind": "stat",
+        "value": "2018",
+        "label": "tahun peluncuran",
+        "note": "lalu terbang lintas beberapa planet"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Baru misi ketiga yang mendatangi Merkurius",
+      "body": "Sebelumnya hanya ada Mariner 10 dan MESSENGER dari NASA. Ini juga pertama kalinya dua pesawat dikirim sekaligus ke sana.",
+      "takeaway": "Merkurius planet yang paling jarang dikunjungi.",
+      "icon": "magnifier",
+      "viz": {
+        "kind": "stat",
+        "value": "ketiga",
+        "label": "misi yang mendatangi Merkurius",
+        "note": "dan baru kali ini dua pesawat sekaligus"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu",
+      "body": "Kadang jalan yang kelihatan paling dekat justru paling sulit dilalui. Hal yang sama berlaku di kerja, kuliah, dan hidup.",
+      "takeaway": "Yang dekat belum tentu yang gampang.",
+      "icon": "bulb"
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_ ya",
+      "body": "Kirim ke temanmu yang suka penasaran, lalu ikuti @alwaysfact_ buat fakta sains yang sering terlewat.",
+      "takeaway": "Ikuti dan bagikan.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Ke planet terdekat Matahari ternyata lebih sulit daripada ke Pluto.\n\nBepiColombo, pesawat Eropa dan Jepang, baru masuk orbit Merkurius setelah perjalanan delapan tahun. Kuncinya bukan mendekat, tapi membuang cukup tenaga supaya pas dengan jalur Merkurius.\n\nKirim ke temanmu yang suka hal aneh soal luar angkasa!\n\nSumber: Eos (AGU), 21 November 2026",
+  "hashtags": [
+    "sains",
+    "faktasains",
+    "merkurius",
+    "luarangkasa",
+    "planet",
+    "antariksa",
+    "alwaysfact"
+  ],
+  "claims": [
+    {
+      "text": "Tantangan ke Merkurius adalah membuang cukup tenaga agar cocok dengan jalur planet itu mengitari Matahari, bukan sekadar mendekat.",
+      "source_name": "Eos (AGU)",
+      "source_url": "https://eos.org/research-and-developments/bepicolombo-arrives-at-mercury"
+    },
+    {
+      "text": "BepiColombo baru misi ketiga yang mengunjungi Merkurius.",
+      "source_name": "Eos (AGU)",
+      "source_url": "https://eos.org/research-and-developments/bepicolombo-arrives-at-mercury"
+    },
+    {
+      "text": "Untuk pertama kalinya dalam penjelajahan antariksa, dua pesawat dibawa ke sekitar Merkurius dan ditempatkan di orbitnya.",
+      "source_name": "Eos (AGU)",
+      "source_url": "https://eos.org/research-and-developments/bepicolombo-arrives-at-mercury"
+    },
+    {
+      "text": "BepiColombo diluncurkan tahun 2018 dan beberapa kali terbang lintas Bumi, Venus, dan Merkurius.",
+      "source_name": "Eos (AGU)",
+      "source_url": "https://eos.org/research-and-developments/bepicolombo-arrives-at-mercury"
+    },
+    {
+      "text": "BepiColombo masuk orbit Merkurius setelah perjalanan delapan tahun.",
+      "source_name": "Eos (AGU)",
+      "source_url": "https://eos.org/research-and-developments/bepicolombo-arrives-at-mercury"
+    }
+  ],
+  "music_suggestions": [
+    "tenang penasaran, tempo sedang",
+    "synth ringan, tempo lambat",
+    "petualangan ringan, tempo sedang"
+  ],
+  "id": "036",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://eos.org/research-and-developments/bepicolombo-arrives-at-mercury",
+      "quote": "The challenge isn’t getting closer to the Sun. It’s losing enough energy to match Mercury’s path around the Sun.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://eos.org/research-and-developments/bepicolombo-arrives-at-mercury",
+      "quote": "BepiColombo is only the third mission to visit Mercury.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://eos.org/research-and-developments/bepicolombo-arrives-at-mercury",
+      "quote": "for the first time in space exploration, we are bringing two spacecraft to the vicinity of the planet",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://eos.org/research-and-developments/bepicolombo-arrives-at-mercury",
+      "quote": "BepiColombo launched in 2018 and completed several flybys of Earth",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://eos.org/research-and-developments/bepicolombo-arrives-at-mercury",
+      "quote": "After an eight-year journey, the BepiColombo mission has entered orbit around Mercury",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://eos.org/research-and-developments/bepicolombo-arrives-at-mercury",
+  "topic_id": "t50f82e9b",
+  "image_credits": [
+    "NASA / JHU/APL / Public domain (Wikimedia Commons)",
+    "NASA/Johns Hopkins University Applied Physics Laboratory/Car / Public domain (Wikimedia Commons)",
+    "NASA / Public domain (Wikimedia Commons)",
+    "NASA/Johns Hopkins University Applied Physics Laboratory/Car / Public domain (Wikimedia Commons)",
+    "NASA/Johns Hopkins University Applied Physics Laboratory/Car / NASA media (public domain unless noted) (NASA)",
+    "NASA / Johns Hopkins University Applied Physics Laboratory / / Public domain (Wikimedia Commons)"
+  ]
+}
