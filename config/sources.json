@@ -60,6 +60,26 @@
     {
       "name": "The Guardian Science",
       "url": "https://www.theguardian.com/science/rss"
+    },
+    {
+      "name": "Antara Tekno",
+      "url": "https://www.antaranews.com/rss/tekno.xml"
+    },
+    {
+      "name": "BBC Indonesia",
+      "url": "https://feeds.bbci.co.uk/indonesia/rss.xml"
+    },
+    {
+      "name": "The Conversation Indonesia",
+      "url": "https://theconversation.com/id/articles.atom"
+    },
+    {
+      "name": "Mongabay Indonesia",
+      "url": "https://www.mongabay.co.id/feed/"
+    },
+    {
+      "name": "Our World in Data",
+      "url": "https://ourworldindata.org/atom.xml"
     }
   ],
   "max_age_days": 7
