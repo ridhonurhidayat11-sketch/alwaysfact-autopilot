@@ -1,13 +1,23 @@
 [
   {
-    "id": "t50f5c64c",
+    "id": "t82c4c0f6",
     "origin": "feed",
-    "title": "Repeated bending strengthens sugar-based hydrogel instead of wearing it down",
-    "url": "https://phys.org/news/2026-11-sugar-based-hydrogel.html",
-    "summary": "Most materials get weaker with use. But a team led by Chenfeng Ke, a professor of chemistry in Arts & Sciences at Washington University in St. Louis, has created a polymer that defies the usual laws of wear and tear.",
+    "title": "Single feathers may reveal whether eastern black rails stay in Texas or migrate north",
+    "url": "https://phys.org/news/2026-11-feathers-reveal-eastern-black-rails.html",
+    "summary": "High-stepping like you're in a marching band while dragging a rope through a wetland at night can make you wonder about your life choices. Several plastic bottles, each filled with two or three noisy cat toys, are attached to the rope. It's pitch black, and all I can hear are the cat toys jingling, the mosquitoes buzzing in my ears and the wetland grasses bouncing in the wind.",
     "source": "Phys.org",
-    "published": "2026-11-21T20:00:05+00:00",
+    "published": "2026-11-22T01:00:01+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t15b6572e",
+    "origin": "feed",
+    "title": "Will COP31 end with a new global climate deal?",
+    "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
+    "source": "BBC Science",
+    "published": "2026-11-21T22:44:52+00:00",
+    "text_file": "state/sources/t15b6572e.txt"
   },
   {
     "id": "t040c95d5",
@@ -16,8 +26,28 @@
     "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
     "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
     "source": "BBC Science",
-    "published": "2026-11-21T19:33:49+00:00",
+    "published": "2026-11-21T22:19:43+00:00",
     "text_file": "state/sources/t040c95d5.txt"
+  },
+  {
+    "id": "t4201c8dc",
+    "origin": "feed",
+    "title": "The avian champions of long-distance migration keep surprising scientists",
+    "url": "https://phys.org/news/2026-11-avian-champions-distance-migration-scientists.html",
+    "summary": "\"The whole story began with an extinct bird from Hispaniola,\" said Min Zhao, a former postdoctoral associate at the Florida Museum of Natural History (now a postdoctoral researcher at Uppsala University).",
+    "source": "Phys.org",
+    "published": "2026-11-21T22:00:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t50f5c64c",
+    "origin": "feed",
+    "title": "Repeated bending strengthens sugar-based hydrogel instead of wearing it down",
+    "url": "https://phys.org/news/2026-11-sugar-based-hydrogel.html",
+    "summary": "Most materials get weaker with use. But a team led by Chenfeng Ke, a professor of chemistry in Arts & Sciences at Washington University in St. Louis, has created a polymer that defies the usual laws of wear and tear.",
+    "source": "Phys.org",
+    "published": "2026-11-21T20:00:05+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
     "id": "t50f82e9b",
@@ -326,8 +356,7 @@
     "url": "https://phys.org/news/2026-11-screens-class-smart-glasses-norway.html",
     "summary": "Three years ago, a schoolteacher in Norway was reprimanded for putting his pupils' iPads aside to return to pen and paper. Now, the whole country is rethinking its approach to new technologies.",
     "source": "Phys.org",
-    "published": "2026-11-21T10:20:16+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-21T10:20:16+00:00"
   },
   {
     "id": "tf6b3ed5d",
@@ -406,8 +435,7 @@
     "url": "https://phys.org/news/2026-11-deep-beneath-continents.html",
     "summary": "We usually picture mountain building as rock being pushed upward. But deep beneath some mountain belts and volcanic arcs, the opposite can happen: dense rock at the base of the crust can become unstable, break away and sink hundreds of kilometers into the mantle, dragging part of the rigid outer shell of the Earth (the lithosphere) with it. Seismic images suggest that this process, known as lithos",
     "source": "Phys.org",
-    "published": "2026-11-21T04:20:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-21T04:20:01+00:00"
   },
   {
     "id": "tc6fd4e15",
@@ -457,15 +485,6 @@
     "published": "2026-11-21T02:00:01+00:00"
   },
   {
-    "id": "tc318f192",
-    "origin": "feed",
-    "title": "Broadening the role of RNA: A messenger, a mediator and now a condensate coordinator",
-    "url": "https://phys.org/news/2026-11-broadening-role-rna-messenger-condensate.html",
-    "summary": "New research about condensates—cellular compartments that act as hubs for facilitating biological reactions—continues to reveal novel insights into how cells function. Among those continuing to push the field forward are members of the Marine Biological Laboratory's condensate consortium, including Amy Gladfelter, a professor at Duke University and current co-director of the MBL physiology course,",
-    "source": "Phys.org",
-    "published": "2026-11-21T00:40:01+00:00"
-  },
-  {
     "id": "tefaa6362",
     "origin": "feed",
     "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
@@ -484,15 +503,6 @@
     "source": "BBC Science",
     "published": "2026-11-20T22:57:26+00:00",
     "text_file": "state/sources/t94f09044.txt"
-  },
-  {
-    "id": "t61ac49e2",
-    "origin": "feed",
-    "title": "'Forever' chemicals? Don't be so sure, says engineer",
-    "url": "https://phys.org/news/2026-11-chemicals-dont.html",
-    "summary": "Inside the disinfection room of Baltimore's Ashburton water filtration plant, 14 University of Maryland students clad in hard hats peered up at six towering vats of bleach used to treat water that flows from the distant Liberty Reservoir into the facility, killing bacteria and other pathogens before it's routed to the region's kitchen sinks.",
-    "source": "Phys.org",
-    "published": "2026-11-20T22:40:02+00:00"
   },
   {
     "id": "t8b10d1e5",
@@ -912,9 +922,9 @@
   {
     "id": "t0b5d0afa",
     "origin": "feed",
-    "title": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math",
+    "title": "Anthropic mathematician proves Riemann hypothesis, most famous problem in all of math",
     "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-    "summary": "An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion",
+    "summary": "The AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, caps off the technology’s year-long conquest of math in spectacular fashion",
     "source": "Scientific American",
     "published": "2026-11-20T14:00:00+00:00"
   },
@@ -1093,8 +1103,7 @@
     "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
     "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
     "source": "BBC Science",
-    "published": "2026-11-20T05:59:56+00:00",
-    "text_file": "state/sources/tf3a74cd5.txt"
+    "published": "2026-11-20T05:59:56+00:00"
   },
   {
     "id": "t85eb8837",
@@ -1114,15 +1123,6 @@
     "source": "NASA",
     "published": "2026-11-20T05:05:00+00:00",
     "text_file": "state/sources/t7d625a5c.txt"
-  },
-  {
-    "id": "tfddde9ec",
-    "origin": "feed",
-    "title": "More climate money for Africa? Europe says use what's already pledged",
-    "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-    "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-    "source": "BBC Science",
-    "published": "2026-11-20T05:03:43+00:00"
   },
   {
     "id": "tea6f6bfd",
