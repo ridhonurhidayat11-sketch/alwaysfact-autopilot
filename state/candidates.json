@@ -1,10 +1,70 @@
 [
   {
+    "id": "teb59a6ad",
+    "origin": "feed",
+    "title": "Quantum physics can now prove where you really are",
+    "url": "https://www.scientificamerican.com/article/quantum-physics-can-now-prove-where-you-really-are/",
+    "summary": "In a first-of-its-kind experiment, researchers used a single photon and some-second timing to verify a location—a potential new defense against digital imposters",
+    "source": "Scientific American",
+    "published": "2026-11-22T12:00:00+00:00",
+    "fetch_error": "HTTPError: HTTP Error 504: Gateway Time-out"
+  },
+  {
+    "id": "t7a0ac90c",
+    "origin": "feed",
+    "title": "Scientists investigate 2 'peculiar' galaxies pulling each other apart",
+    "url": "https://www.livescience.com/space/2-peculiar-spiral-galaxies-are-twisting-each-other-into-cosmic-balloon-animals-space-photo-of-the-week",
+    "summary": "A stunning new image from the Gemini North telescope captures two spiral galaxies caught in each other's gravity, helping to trigger the birth of new stars.",
+    "source": "Live Science",
+    "published": "2026-11-22T11:00:00+00:00",
+    "text_file": "state/sources/t7a0ac90c.txt"
+  },
+  {
+    "id": "t946921e1",
+    "origin": "feed",
+    "title": "10 things that worry me about chasing the 2027 total solar eclipse in Egypt",
+    "url": "https://www.space.com/stargazing/solar-eclipses/10-things-that-worry-me-about-chasing-the-2027-total-solar-eclipse-in-egypt",
+    "summary": "The longest total solar eclipse on land this century promises to be the experience of a lifetime, but watching it from Luxor, Egypt, may not be straightforward. What could go wrong? Quite a lot, actually.",
+    "source": "Space.com",
+    "published": "2026-11-22T11:00:00+00:00",
+    "text_file": "state/sources/t946921e1.txt"
+  },
+  {
+    "id": "t494b2aab",
+    "origin": "feed",
+    "title": "Listen to the sounds of a baby star as it explodes into life",
+    "url": "https://www.scientificamerican.com/article/listen-to-the-sounds-of-a-baby-star-as-it-explodes-into-life/",
+    "summary": "NASA just released a new album of sounds created from observations of stellar formation",
+    "source": "Scientific American",
+    "published": "2026-11-22T11:00:00+00:00",
+    "text_file": "state/sources/t494b2aab.txt"
+  },
+  {
+    "id": "tf3a74cd5",
+    "origin": "feed",
+    "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+    "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+    "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+    "source": "BBC Science",
+    "published": "2026-11-22T10:44:12+00:00",
+    "text_file": "state/sources/tf3a74cd5.txt"
+  },
+  {
+    "id": "t1276d20d",
+    "origin": "feed",
+    "title": "Which came first: black holes or galaxies?",
+    "url": "https://www.livescience.com/space/black-holes/which-came-first-black-holes-or-galaxies",
+    "summary": "Astronomers once assumed galaxies were born before black holes, but giant black holes spotted in the early universe are forcing them to rethink their order of events.",
+    "source": "Live Science",
+    "published": "2026-11-22T10:00:00+00:00",
+    "text_file": "state/sources/t1276d20d.txt"
+  },
+  {
     "id": "t7751abab",
     "origin": "feed",
     "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
     "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
-    "summary": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument The International Committee of the Red Cross (ICRC) and rights groups warned that soon it will be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them. The stark warning came as more than 120 member states of ",
+    "summary": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument The International Committee of the Red Cross and rights groups have warned that it will soon be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them. The stark warning came as more than 120 member states of th",
     "source": "The Guardian Science",
     "published": "2026-11-22T09:00:22+00:00",
     "text_file": "state/sources/t7751abab.txt"
@@ -405,8 +465,7 @@
     "url": "https://www.livescience.com/animals/why-do-wolves-howl",
     "summary": "Wolves howl for a variety of reasons. But none of them are triggered by the sight of the moon.",
     "source": "Live Science",
-    "published": "2026-11-21T10:00:00+00:00",
-    "text_file": "state/sources/tf6b3ed5d.txt"
+    "published": "2026-11-21T10:00:00+00:00"
   },
   {
     "id": "tf7804185",
@@ -535,16 +594,6 @@
     "text_file": "state/sources/tefaa6362.txt"
   },
   {
-    "id": "t94f09044",
-    "origin": "feed",
-    "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
-    "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
-    "summary": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
-    "source": "BBC Science",
-    "published": "2026-11-20T22:57:26+00:00",
-    "text_file": "state/sources/t94f09044.txt"
-  },
-  {
     "id": "t8b10d1e5",
     "origin": "feed",
     "title": "Mathematicians are amazed by ‘holy grail’ proof of Riemann hypothesis",
@@ -591,8 +640,7 @@
     "url": "https://www.livescience.com/health/genetics/brains-of-people-with-ptsd-have-unique-epigenetic-marks-study-finds",
     "summary": "The brains of people with PTSD bear molecular changes that differ from those in people with other conditions, like depression, a new study finds.",
     "source": "Live Science",
-    "published": "2026-11-20T21:50:00+00:00",
-    "text_file": "state/sources/t83f43803.txt"
+    "published": "2026-11-20T21:50:00+00:00"
   },
   {
     "id": "td4ba65c1",
@@ -611,8 +659,7 @@
     "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026",
     "summary": "On Nov. 20, 1998, the first piece of the International Space Station launched into orbit. It was just one piece, but the foundation of something much larger.",
     "source": "Space.com",
-    "published": "2026-11-20T21:19:33+00:00",
-    "text_file": "state/sources/t6157bac5.txt"
+    "published": "2026-11-20T21:19:33+00:00"
   },
   {
     "id": "tce0488e4",
@@ -736,8 +783,7 @@
     "url": "https://www.scientificamerican.com/article/what-the-riemann-hypothesis-proof-really-means-about-ai-and-the-future/",
     "summary": "A human-AI team may have solved the biggest problem in math. But will it change anything for the rest of us?",
     "source": "Scientific American",
-    "published": "2026-11-20T18:10:00+00:00",
-    "text_file": "state/sources/t6e58a798.txt"
+    "published": "2026-11-20T18:10:00+00:00"
   },
   {
     "id": "ta8f50cc8",
@@ -758,15 +804,6 @@
     "source": "Mongabay",
     "published": "2026-11-20T18:01:05+00:00",
     "text_file": "state/sources/t09743aab.txt"
-  },
-  {
-    "id": "tbb5856bf",
-    "origin": "feed",
-    "title": "Could an ancient solar eclipse rewrite Egyptian history?",
-    "url": "https://www.space.com/stargazing/solar-eclipses/could-an-ancient-solar-eclipse-rewrite-egyptian-history",
-    "summary": "A biblical mystery, an ancient Egyptian inscription and a \"ring of fire\" solar eclipse 3,200 years ago hold clues to when Ramesses the Great ruled.",
-    "source": "Space.com",
-    "published": "2026-11-20T18:00:00+00:00"
   },
   {
     "id": "t05ba0b81",
@@ -838,8 +875,7 @@
     "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/",
     "summary": "Two months after getting scooped by OpenAI, N.Y.U. professor Tristan Buckmaster and Anthropic employee Levent Alpöge are back with a new AI-aided proof of Navier-Stokes blowup",
     "source": "Scientific American",
-    "published": "2026-11-20T17:00:00+00:00",
-    "text_file": "state/sources/t10fe0526.txt"
+    "published": "2026-11-20T17:00:00+00:00"
   },
   {
     "id": "ta5236f5e",
@@ -1015,15 +1051,6 @@
     "text_file": "state/sources/t6dd09b43.txt"
   },
   {
-    "id": "t4b61548f",
-    "origin": "feed",
-    "title": "Ghostly 'sand body' double burial unearthed at Sutton Hoo",
-    "url": "https://www.livescience.com/archaeology/ghostly-sand-body-double-burial-unearthed-at-sutton-hoo",
-    "summary": "During a month-long excavation with the documentary series \"Time Team,\" archaeologists unearthed another mysterious \"sand body\" at Sutton Hoo.",
-    "source": "Live Science",
-    "published": "2026-11-20T12:00:00+00:00"
-  },
-  {
     "id": "t46da1665",
     "origin": "feed",
     "title": "Our solar system’s doomsday may come sooner than we thought",
@@ -1043,15 +1070,6 @@
     "text_file": "state/sources/t73cbb556.txt"
   },
   {
-    "id": "te855a3ad",
-    "origin": "feed",
-    "title": "Quantum entanglement could thwart hackers and scammers, physicists reveal",
-    "url": "https://www.livescience.com/physics-mathematics/quantum-entanglement-could-thwart-hackers-and-scammers-physicists-demonstrate-in-new-experiment",
-    "summary": "In a first-of-its-kind experiment, physicists used pairs of entangled photons to verify a person's location. That's a step toward anchoring digital security to the physical world.",
-    "source": "Live Science",
-    "published": "2026-11-20T11:00:00+00:00"
-  },
-  {
     "id": "t134f5fb9",
     "origin": "feed",
     "title": "How one lemur species evolved to sing like an opera star",
@@ -1059,24 +1077,6 @@
     "summary": "After millions of years of evolution turned these lemurs into showstopping singers, scientists are tuning in with conservation in mind",
     "source": "Scientific American",
     "published": "2026-11-20T11:00:00+00:00"
-  },
-  {
-    "id": "t00831ce6",
-    "origin": "feed",
-    "title": "Two probes are about to arrive at Mercury for an up-close look at this puzzling planet",
-    "url": "https://www.scientificamerican.com/article/two-probes-are-about-to-arrive-at-mercury-for-an-up-close-look-at-this-puzzling-planet/",
-    "summary": "Europe and Japan’s BepiColombo mission has reached our solar system’s innermost planet. It might be the last step before we send a lander",
-    "source": "Scientific American",
-    "published": "2026-11-20T11:00:00+00:00"
-  },
-  {
-    "id": "taf5be0af",
-    "origin": "feed",
-    "title": "What are heat pumps and how much do they cost?",
-    "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
-    "summary": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
-    "source": "BBC Science",
-    "published": "2026-11-20T10:24:52+00:00"
   },
   {
     "id": "tc17b4c00",
@@ -1295,15 +1295,6 @@
     "summary": "Meerkats wearing GPS trackers found their way home from more than a kilometer away, all by themselves.",
     "source": "Science News",
     "published": "2026-11-19T23:00:45+00:00"
-  },
-  {
-    "id": "tf1e64ba0",
-    "origin": "feed",
-    "title": "The U.S. Army is about to blow up a cache of dangerous lead azide in Iowa—here’s what to know",
-    "url": "https://www.scientificamerican.com/article/the-u-s-army-is-about-to-blow-up-a-cache-of-dangerous-lead-azide-in-iowa-heres-what-to-know/",
-    "summary": "Lead azide is used to make explosives, but it can also form unstable crystals that can detonate spontaneously",
-    "source": "Scientific American",
-    "published": "2026-11-19T21:20:00+00:00"
   },
   {
     "id": "t4dda2a82",
