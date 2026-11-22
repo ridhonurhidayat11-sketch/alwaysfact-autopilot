@@ -1,5 +1,85 @@
 [
   {
+    "id": "t17b12f2a",
+    "origin": "feed",
+    "title": "Earth just saw the most anomalously hot day ever on record",
+    "url": "https://www.scientificamerican.com/article/earth-just-saw-the-most-anomalously-hot-day-ever-on-record/",
+    "summary": "With the most powerful El Niño in living memory still gaining strength, this record could soon be surpassed",
+    "source": "Scientific American",
+    "published": "2026-11-22T20:19:00+00:00",
+    "text_file": "state/sources/t17b12f2a.txt"
+  },
+  {
+    "id": "t2e625f9a",
+    "origin": "feed",
+    "title": "Silver briefly forms a rare crystal structure seen in radioactive polonium",
+    "url": "https://phys.org/news/2026-11-silver-briefly-rare-crystal-radioactive.html",
+    "summary": "How atoms are arranged in a material shapes many of its properties. The same carbon atoms, for example, can form diamond and graphite depending on how they are arranged, giving rise to materials with vastly different chemical and physical properties. Now, researchers at Hokkaido University have discovered a new crystal structure of silver with unusually high chemical reactivity. The findings, publ",
+    "source": "Phys.org",
+    "published": "2026-11-22T20:00:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t8a2dbf59",
+    "origin": "feed",
+    "title": "65 Years of Human Spaceflight at NASA Johnson",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+    "summary": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and […]",
+    "source": "NASA",
+    "published": "2026-11-22T19:13:25+00:00",
+    "text_file": "state/sources/t8a2dbf59.txt"
+  },
+  {
+    "id": "t48074c1f",
+    "origin": "feed",
+    "title": "What's next after no deal at COP31 climate summit?",
+    "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
+    "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+    "source": "BBC Science",
+    "published": "2026-11-22T18:28:48+00:00",
+    "text_file": "state/sources/t48074c1f.txt"
+  },
+  {
+    "id": "tca50e279",
+    "origin": "feed",
+    "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+    "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+    "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+    "source": "BBC Science",
+    "published": "2026-11-22T18:17:59+00:00",
+    "text_file": "state/sources/tca50e279.txt"
+  },
+  {
+    "id": "tf93661cb",
+    "origin": "feed",
+    "title": "Atmospheric organic nitrogen emerges as a major nutrient source for global oceans",
+    "url": "https://phys.org/news/2026-11-atmospheric-nitrogen-emerges-major-nutrient.html",
+    "summary": "A research team has quantified an important component of the global nitrogen cycle.",
+    "source": "Phys.org",
+    "published": "2026-11-22T18:00:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t7af22af9",
+    "origin": "feed",
+    "title": "JWST finds a possible black hole that grew faster than its host galaxy in the early universe",
+    "url": "https://phys.org/news/2026-11-jwst-black-hole-grew-faster.html",
+    "summary": "How the first massive black holes formed in the universe remains an open question in astronomy. Black holes weighing about a billion solar masses within the first billion years of the universe require extraordinary origin stories.",
+    "source": "Phys.org",
+    "published": "2026-11-22T16:40:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t55e28096",
+    "origin": "feed",
+    "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+    "summary": "SpaceX launched a batch of classified spy satellites for the U.S. government's National Reconnaissance Office early on Sunday morning (Nov. 22).",
+    "source": "Space.com",
+    "published": "2026-11-22T16:05:33+00:00",
+    "text_file": "state/sources/t55e28096.txt"
+  },
+  {
     "id": "t5d743c20",
     "origin": "feed",
     "title": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
@@ -42,7 +122,7 @@
   {
     "id": "tbc258d7a",
     "origin": "feed",
-    "title": "'Star Trek: First Contact' at 30: Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)",
+    "title": "As 'Star Trek: First Contact' turns 30, Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)",
     "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-director-jonathan-frakes-reflects-on-his-triumphant-time-travel-blockbuster-interview",
     "summary": "\"What’s not to love? It's bulletproof!\"",
     "source": "Space.com",
@@ -86,8 +166,7 @@
     "url": "https://phys.org/news/2026-11-parasite-mice-blood-bugs-aid.html",
     "summary": "Some parasites, such as Trypanosoma rangeli and Trypanosoma cruzi, can be passed between mammals and blood-feeding insects called triatomine bugs. Bugs can acquire these parasites when feeding on infected mammals, while mammals can also become infected through encounters with infected bugs.",
     "source": "Phys.org",
-    "published": "2026-11-22T13:00:02+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-22T13:00:02+00:00"
   },
   {
     "id": "tf66d1622",
@@ -224,7 +303,7 @@
     "origin": "feed",
     "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
     "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
-    "summary": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors […]",
+    "summary": "APODScienceAPODAPOD: 2026 November 22 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors on Jupiter from Juno Explanation: What creates the colors in J",
     "source": "NASA",
     "published": "2026-11-22T05:05:00+00:00",
     "text_file": "state/sources/t9884dabb.txt"
@@ -236,8 +315,7 @@
     "url": "https://phys.org/news/2026-11-feathers-reveal-eastern-black-rails.html",
     "summary": "High-stepping like you're in a marching band while dragging a rope through a wetland at night can make you wonder about your life choices. Several plastic bottles, each filled with two or three noisy cat toys, are attached to the rope. It's pitch black, and all I can hear are the cat toys jingling, the mosquitoes buzzing in my ears and the wetland grasses bouncing in the wind.",
     "source": "Phys.org",
-    "published": "2026-11-22T01:00:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-22T01:00:01+00:00"
   },
   {
     "id": "t15b6572e",
@@ -250,24 +328,13 @@
     "text_file": "state/sources/t15b6572e.txt"
   },
   {
-    "id": "t040c95d5",
-    "origin": "feed",
-    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-    "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-    "source": "BBC Science",
-    "published": "2026-11-21T22:19:43+00:00",
-    "text_file": "state/sources/t040c95d5.txt"
-  },
-  {
     "id": "t4201c8dc",
     "origin": "feed",
     "title": "The avian champions of long-distance migration keep surprising scientists",
     "url": "https://phys.org/news/2026-11-avian-champions-distance-migration-scientists.html",
     "summary": "\"The whole story began with an extinct bird from Hispaniola,\" said Min Zhao, a former postdoctoral associate at the Florida Museum of Natural History (now a postdoctoral researcher at Uppsala University).",
     "source": "Phys.org",
-    "published": "2026-11-21T22:00:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-21T22:00:01+00:00"
   },
   {
     "id": "t50f5c64c",
@@ -318,16 +385,6 @@
     "text_file": "state/sources/t33337ef7.txt"
   },
   {
-    "id": "tb258816f",
-    "origin": "feed",
-    "title": "Hormuz swim highlights environmental cost of war",
-    "url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
-    "summary": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
-    "source": "BBC Science",
-    "published": "2026-11-21T16:12:31+00:00",
-    "text_file": "state/sources/tb258816f.txt"
-  },
-  {
     "id": "t18a54fcd",
     "origin": "feed",
     "title": "'Like walking the plank': For 3,000 years, Indigenous people herded bison off a unique cliff in Texas, study reveals",
@@ -336,15 +393,6 @@
     "source": "Live Science",
     "published": "2026-11-21T16:00:00+00:00",
     "text_file": "state/sources/t18a54fcd.txt"
-  },
-  {
-    "id": "t348abef3",
-    "origin": "feed",
-    "title": "Babies in ancient Greek colony started solid food at 3 months but nursed for nearly 4 years, chemical signatures suggest",
-    "url": "https://phys.org/news/2026-11-babies-ancient-greek-colony-solid.html",
-    "summary": "Over 2,500 years ago, Himera was a Greek colony inhabited by local Sicilians, Phoenicians and Greeks. Despite their diverse cultural backgrounds, they all shared one thing: they began weaning their babies early and continued for a long time.",
-    "source": "Phys.org",
-    "published": "2026-11-21T15:40:02+00:00"
   },
   {
     "id": "t86da9d6d",
@@ -383,8 +431,7 @@
     "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure",
     "summary": "Assimilate this! How cyber-zombies and the \"birth of 'Star Trek'\" gave Jean-Luc Picard one of his finest hours.",
     "source": "Space.com",
-    "published": "2026-11-21T15:00:00+00:00",
-    "text_file": "state/sources/t374e22db.txt"
+    "published": "2026-11-21T15:00:00+00:00"
   },
   {
     "id": "t88875db0",
@@ -417,15 +464,6 @@
     "text_file": "state/sources/tf025afeb.txt"
   },
   {
-    "id": "t35398699",
-    "origin": "feed",
-    "title": "An ancient failed rift is reawakening inside one of Africa's oldest landmasses",
-    "url": "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html",
-    "summary": "In April 2017, a magnitude 6.5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana. Cratons are the ancient cores of continents, and this one is built from blocks of crust up to 3.7 billion years old. Geologists have long considered such regions too cold, too thick and too rigid to tear apart.",
-    "source": "Phys.org",
-    "published": "2026-11-21T14:00:06+00:00"
-  },
-  {
     "id": "t433a9454",
     "origin": "feed",
     "title": "Meet the science adviser behind Netflix's hit series 'Below'",
@@ -455,15 +493,6 @@
     "text_file": "state/sources/t42f91793.txt"
   },
   {
-    "id": "t16e33161",
-    "origin": "feed",
-    "title": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
-    "url": "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html",
-    "summary": "Gamma rays, the most high-energy type of electromagnetic radiation in the universe, have always had a blind spot. We've always had trouble measuring them in the \"megaelectronvolt\" (MeV) energy range, which astronomers have taken to calling the \"MeV gap.\" But a new paper from an international group of scientists working with the Fermi Large Area Telescope (LAT) Collaboration, recently published in ",
-    "source": "Phys.org",
-    "published": "2026-11-21T13:00:10+00:00"
-  },
-  {
     "id": "tf8d0e022",
     "origin": "feed",
     "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
@@ -471,16 +500,6 @@
     "summary": "The first Starship upper stage that SpaceX ever successfully recovered won't fly again. Rather, it will go on display as a museum piece, according to company founder and CEO Elon Musk.",
     "source": "Space.com",
     "published": "2026-11-21T13:00:00+00:00"
-  },
-  {
-    "id": "t31bc486d",
-    "origin": "feed",
-    "title": "How red squirrels made island their home",
-    "url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
-    "summary": "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\".",
-    "source": "BBC Science",
-    "published": "2026-11-21T12:18:55+00:00",
-    "text_file": "state/sources/t31bc486d.txt"
   },
   {
     "id": "t082418af",
@@ -563,9 +582,9 @@
   {
     "id": "t41fef234",
     "origin": "feed",
-    "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
+    "title": "European-Japanese BepiColombo mission becomes 2nd ever to arrive in orbit around Mercury",
     "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
-    "summary": "The BepiColombo spacecraft will finally arrive in orbit around Mercury today (Nov. 21), more than eight years after leaving its home planet.",
+    "summary": "The BepiColombo spacecraft finally arrived in orbit around Mercury on Saturday (Nov. 21), more than eight years after leaving its home planet.",
     "source": "Space.com",
     "published": "2026-11-21T11:00:00+00:00"
   },
@@ -612,7 +631,7 @@
     "origin": "feed",
     "title": "APOD: 2026 November 21 – Voyager’s Neptune",
     "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
-    "summary": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Voyager’s Neptune Explanation: […]",
+    "summary": "APODScienceAPODAPOD: 2026 November 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Voyager’s Neptune Explanation: Cruising through the outer solar system, the Voya",
     "source": "NASA",
     "published": "2026-11-21T05:05:00+00:00",
     "text_file": "state/sources/t9f54447f.txt"
@@ -746,23 +765,13 @@
     "text_file": "state/sources/tce0488e4.txt"
   },
   {
-    "id": "td00eb106",
-    "origin": "feed",
-    "title": "Don't turn the moon into the Wild West, scientists warn",
-    "url": "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn",
-    "summary": "Researchers are calling for a moratorium on industrial exploitation of the moon, fearing the lunar environment may suffer irreversible damage if things move too fast.",
-    "source": "Space.com",
-    "published": "2026-11-20T21:00:00+00:00"
-  },
-  {
     "id": "tb4458eaf",
     "origin": "feed",
     "title": "The AI Riemann hypothesis proof is true, independent mathematicians confirm",
     "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
     "summary": "Researchers have verified a claimed solution to the most important unsolved problem in math",
     "source": "Scientific American",
-    "published": "2026-11-20T21:00:00+00:00",
-    "text_file": "state/sources/tb4458eaf.txt"
+    "published": "2026-11-20T21:00:00+00:00"
   },
   {
     "id": "t2c15e84b",
@@ -1070,15 +1079,6 @@
     "text_file": "state/sources/t6dd09b43.txt"
   },
   {
-    "id": "t46da1665",
-    "origin": "feed",
-    "title": "Our solar system’s doomsday may come sooner than we thought",
-    "url": "https://www.scientificamerican.com/article/our-solar-systems-doomsday-may-come-sooner-than-we-thought/",
-    "summary": "Billions of years from now—still far sooner than astronomers had predicted—our dying sun could kick away its outer planets",
-    "source": "Scientific American",
-    "published": "2026-11-20T11:45:00+00:00"
-  },
-  {
     "id": "t73cbb556",
     "origin": "feed",
     "title": "Measles is officially back in the USA. Will Maha pay the price? - video",
@@ -1151,8 +1151,7 @@
     "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
     "summary": "APODScienceAPODAPOD: 2026 November…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, fans of interstellar spaceflight around planet Ear",
     "source": "NASA",
-    "published": "2026-11-20T05:05:00+00:00",
-    "text_file": "state/sources/t7d625a5c.txt"
+    "published": "2026-11-20T05:05:00+00:00"
   },
   {
     "id": "tea6f6bfd",
@@ -1351,15 +1350,6 @@
     "summary": "New report details how potatoes were successfully cultivated in simulated lunar soil The humble potato could be the key to sustaining human life on the moon , according to a new scientific report asserting that prolonged lunar exploration will depend on life support systems capable of producing food there. Potatoes are an ideal candidate for farming on the moon, scientists on a project backed by t",
     "source": "The Guardian Science",
     "published": "2026-11-19T18:49:54+00:00"
-  },
-  {
-    "id": "t230e1560",
-    "origin": "feed",
-    "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
-    "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
-    "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
-    "source": "NASA",
-    "published": "2026-11-19T15:33:55+00:00"
   },
   {
     "id": "t69e37879",
