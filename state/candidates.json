@@ -1,5 +1,45 @@
 [
   {
+    "id": "t7751abab",
+    "origin": "feed",
+    "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+    "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
+    "summary": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument The International Committee of the Red Cross (ICRC) and rights groups warned that soon it will be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them. The stark warning came as more than 120 member states of ",
+    "source": "The Guardian Science",
+    "published": "2026-11-22T09:00:22+00:00",
+    "text_file": "state/sources/t7751abab.txt"
+  },
+  {
+    "id": "t0ba1f946",
+    "origin": "feed",
+    "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+    "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+    "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+    "source": "BBC Science",
+    "published": "2026-11-22T06:54:06+00:00",
+    "text_file": "state/sources/t0ba1f946.txt"
+  },
+  {
+    "id": "t65f33be8",
+    "origin": "feed",
+    "title": "Record-breaking sightings of rare moth in Essex",
+    "url": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo?at_medium=RSS&at_campaign=rss",
+    "summary": "There is now a self-sustaining population of the moth at a nature reserve in Essex, a charity says.",
+    "source": "BBC Science",
+    "published": "2026-11-22T06:38:26+00:00",
+    "text_file": "state/sources/t65f33be8.txt"
+  },
+  {
+    "id": "t9884dabb",
+    "origin": "feed",
+    "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+    "summary": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors […]",
+    "source": "NASA",
+    "published": "2026-11-22T05:05:00+00:00",
+    "text_file": "state/sources/t9884dabb.txt"
+  },
+  {
     "id": "t82c4c0f6",
     "origin": "feed",
     "title": "Single feathers may reveal whether eastern black rails stay in Texas or migrate north",
@@ -1036,8 +1076,7 @@
     "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
     "summary": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
     "source": "BBC Science",
-    "published": "2026-11-20T10:24:52+00:00",
-    "text_file": "state/sources/taf5be0af.txt"
+    "published": "2026-11-20T10:24:52+00:00"
   },
   {
     "id": "tc17b4c00",
@@ -1087,25 +1126,6 @@
     "published": "2026-11-20T08:00:00+00:00"
   },
   {
-    "id": "t1bbcd095",
-    "origin": "feed",
-    "title": "Wildlife conservation cash targets ex-colliery sites",
-    "url": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss",
-    "summary": "The project aims to create and restore habitats for amphibians and lizards at sites in Yorkshire.",
-    "source": "BBC Science",
-    "published": "2026-11-20T06:21:50+00:00",
-    "text_file": "state/sources/t1bbcd095.txt"
-  },
-  {
-    "id": "tf3a74cd5",
-    "origin": "feed",
-    "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
-    "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-    "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
-    "source": "BBC Science",
-    "published": "2026-11-20T05:59:56+00:00"
-  },
-  {
     "id": "t85eb8837",
     "origin": "feed",
     "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
@@ -1131,8 +1151,7 @@
     "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
     "summary": "Tropical Cyclone Xavier launched the basin’s storm season with a bang.",
     "source": "NASA",
-    "published": "2026-11-20T05:01:00+00:00",
-    "text_file": "state/sources/tea6f6bfd.txt"
+    "published": "2026-11-20T05:01:00+00:00"
   },
   {
     "id": "t47da8a8d",
@@ -1331,8 +1350,7 @@
     "url": "https://www.theguardian.com/science/2026/nov/19/potatoes-moon-base-nasa",
     "summary": "New report details how potatoes were successfully cultivated in simulated lunar soil The humble potato could be the key to sustaining human life on the moon , according to a new scientific report asserting that prolonged lunar exploration will depend on life support systems capable of producing food there. Potatoes are an ideal candidate for farming on the moon, scientists on a project backed by t",
     "source": "The Guardian Science",
-    "published": "2026-11-19T18:49:54+00:00",
-    "text_file": "state/sources/t6b344312.txt"
+    "published": "2026-11-19T18:49:54+00:00"
   },
   {
     "id": "t230e1560",
@@ -1342,15 +1360,6 @@
     "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
     "source": "NASA",
     "published": "2026-11-19T15:33:55+00:00"
-  },
-  {
-    "id": "t470f7b58",
-    "origin": "feed",
-    "title": "Lake Pelku",
-    "url": "https://www.nasa.gov/image-article/lake-pelku/",
-    "summary": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real […]",
-    "source": "NASA",
-    "published": "2026-11-19T15:32:39+00:00"
   },
   {
     "id": "t69e37879",
@@ -1378,15 +1387,6 @@
     "summary": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at risk Climate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts to delay new scientific reports threaten global cooperation on tackling the crisis, one of the world’s leading climate scientists has warned. Johan Rockström, the ",
     "source": "The Guardian Science",
     "published": "2026-11-19T07:16:45+00:00"
-  },
-  {
-    "id": "tb6a46e31",
-    "origin": "feed",
-    "title": "Could measles and midterms bring down Maha? – podcast",
-    "url": "https://www.theguardian.com/science/audio/2026/nov/19/could-measles-and-midterms-bring-down-maha-podcast",
-    "summary": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years. To find out what this means in practical terms for citizens, Ian Sample hears from the Guardian US health reporter Jessica Glenza. She explains why it comes at an already difficult time for the health secretary, Robert F Kennedy Jr",
-    "source": "The Guardian Science",
-    "published": "2026-11-19T05:00:19+00:00"
   },
   {
     "id": "t421fe2bd",
@@ -1435,13 +1435,13 @@
     "published": "2026-11-18T11:00:56+00:00"
   },
   {
-    "id": "ta66e7faf",
+    "id": "t3e631a02",
     "origin": "feed",
-    "title": "Body found in Derry bog decapitated more than 2,000 years ago, coroner finds",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/18/ballymacombs-more-woman-derry-bog-decapitated-2000-years-ago",
-    "summary": "Inquest-style inquiry concludes iron age remains are of 15- to 22-year-old female who may have been ritually sacrificed A coroner’s investigation into Northern Ireland ’s most venerable cold case has concluded that the victim was decapitated more than 2,000 years ago. The inquest-style inquiry determined that Ballymacombs More Woman – the name given to iron age remains found in a County Derry bog ",
+    "title": "Nasa’s Voyager 1 just reached a massive milestone in space - video",
+    "url": "https://www.theguardian.com/science/video/2026/nov/18/nasas-voyager-1-just-reached-a-massive-milestone-in-space-video",
+    "summary": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our planet. To find out more about its astonishing journey, Madeleine Finlay hears from Jim Bell, a planetary scientist and professor at Arizona State University’s scho",
     "source": "The Guardian Science",
-    "published": "2026-11-18T08:00:36+00:00"
+    "published": "2026-11-18T10:39:51+00:00"
   },
   {
     "id": "t5d3f6fbe",
