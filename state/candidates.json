@@ -1,5 +1,135 @@
 [
   {
+    "id": "t5d743c20",
+    "origin": "feed",
+    "title": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
+    "url": "https://phys.org/news/2026-11-mercury-visitor-years-pair-spacecraft.html",
+    "summary": "A pair of spacecraft slipped into orbit around Mercury on Saturday after an eight-year cruise through the inner solar system to unravel our littlest planet's mountain of mysteries.",
+    "source": "Phys.org",
+    "published": "2026-11-22T15:20:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t3949fa9e",
+    "origin": "feed",
+    "title": "COP31 fails to agree on climate deal in chaotic finale",
+    "url": "https://phys.org/news/2026-11-cop31-climate-chaotic.html",
+    "summary": "The COP31 climate talks headed for a historic defeat Sunday after the EU and other countries refused to endorse a pact that omitted fossil fuels as the summit lurched into record overtime in Turkey.",
+    "source": "Phys.org",
+    "published": "2026-11-22T15:07:54+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t20bff4da",
+    "origin": "feed",
+    "title": "Hybrid nanocrystal surface reveals new way to tune interactions with infrared light",
+    "url": "https://phys.org/news/2026-11-hybrid-nanocrystal-surface-reveals-tune.html",
+    "summary": "A one-crystal-thick sheet made from two types of nanocrystals mixed in solution can amplify or suppress infrared light beyond the sum of its parts.",
+    "source": "Phys.org",
+    "published": "2026-11-22T15:00:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ta4de171f",
+    "origin": "feed",
+    "title": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy",
+    "url": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy",
+    "summary": "The AI adverts for the Zanbix 2 in 1 Galaxy Projector Night Light are downright bizarre — we cut through the hype to bring you a version that actually delivers",
+    "source": "Space.com",
+    "published": "2026-11-22T15:00:00+00:00",
+    "text_file": "state/sources/ta4de171f.txt"
+  },
+  {
+    "id": "tbc258d7a",
+    "origin": "feed",
+    "title": "'Star Trek: First Contact' at 30: Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)",
+    "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-director-jonathan-frakes-reflects-on-his-triumphant-time-travel-blockbuster-interview",
+    "summary": "\"What’s not to love? It's bulletproof!\"",
+    "source": "Space.com",
+    "published": "2026-11-22T14:30:00+00:00",
+    "text_file": "state/sources/tbc258d7a.txt"
+  },
+  {
+    "id": "t07b05618",
+    "origin": "feed",
+    "title": "On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military",
+    "url": "https://www.space.com/on-this-day-in-space-november-22-2026",
+    "summary": "On Nov. 22, 1989, the space shuttle Discovery launched on the secret mission STS-33 for the U.S. military. Here's why it mattered.",
+    "source": "Space.com",
+    "published": "2026-11-22T14:18:35+00:00",
+    "text_file": "state/sources/t07b05618.txt"
+  },
+  {
+    "id": "te3f17107",
+    "origin": "feed",
+    "title": "Milky Way simulation reaches record resolution with the help of three supercomputers",
+    "url": "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html",
+    "summary": "A team of researchers, including those from the University of Tokyo, have developed a new way to model the Milky Way at a level of detail never achieved before. They simulated the entire galaxy down to the level of individual stars by combining the power of some of the world's most powerful supercomputers using an AI-accelerated model that works on a variety of hardware platforms. Their methods ca",
+    "source": "Phys.org",
+    "published": "2026-11-22T14:00:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tb37954f1",
+    "origin": "feed",
+    "title": "Beaver Moon 2026: When to see a full 'supermoon' rise this week, and another on Christmas Eve",
+    "url": "https://www.livescience.com/space/the-moon/beaver-moon-2026-when-to-see-a-full-supermoon-rise-this-week-and-another-on-christmas-eve",
+    "summary": "November's full Beaver Moon rises on Tuesday, Nov. 24, giving us a preview of the spectacular Christmas Eve supermoon coming next month.",
+    "source": "Live Science",
+    "published": "2026-11-22T14:00:00+00:00",
+    "text_file": "state/sources/tb37954f1.txt"
+  },
+  {
+    "id": "t180a91a9",
+    "origin": "feed",
+    "title": "Parasite makes mice more attractive to blood-feeding bugs, which may aid its spread",
+    "url": "https://phys.org/news/2026-11-parasite-mice-blood-bugs-aid.html",
+    "summary": "Some parasites, such as Trypanosoma rangeli and Trypanosoma cruzi, can be passed between mammals and blood-feeding insects called triatomine bugs. Bugs can acquire these parasites when feeding on infected mammals, while mammals can also become infected through encounters with infected bugs.",
+    "source": "Phys.org",
+    "published": "2026-11-22T13:00:02+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tf66d1622",
+    "origin": "feed",
+    "title": "2,200-year-old Celtic silver coin hoard unearthed at construction site in Hungary",
+    "url": "https://www.livescience.com/archaeology/2-200-year-old-celtic-silver-coin-hoard-unearthed-at-construction-site-in-hungary",
+    "summary": "Archaeologists discovered a stash of Celtic coins ahead of a construction project for an electrical substation in Hungary.",
+    "source": "Live Science",
+    "published": "2026-11-22T13:00:00+00:00",
+    "text_file": "state/sources/tf66d1622.txt"
+  },
+  {
+    "id": "t22d32e24",
+    "origin": "feed",
+    "title": "Erectile dysfunction drug could hold promise for Alzheimer’s disease",
+    "url": "https://www.scientificamerican.com/article/erectile-dysfunction-drug-could-hold-promise-for-alzheimers-disease/",
+    "summary": "Early results from a phase III clinical suggest the drug holds promise",
+    "source": "Scientific American",
+    "published": "2026-11-22T13:00:00+00:00",
+    "text_file": "state/sources/t22d32e24.txt"
+  },
+  {
+    "id": "tcd078dd6",
+    "origin": "feed",
+    "title": "CEO of funding agency for UK science and research criticised by union over cuts",
+    "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
+    "summary": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership A trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK’s national funding agency for science and research, citing concerns about plans for major cuts. The letter from Mike Clancy, the general secretary of Prospect, to Ian C",
+    "source": "The Guardian Science",
+    "published": "2026-11-22T12:00:28+00:00",
+    "text_file": "state/sources/tcd078dd6.txt"
+  },
+  {
+    "id": "tf5e49a18",
+    "origin": "feed",
+    "title": "Black holes can split apart 'like pants' if they spin too fast, study hints",
+    "url": "https://www.livescience.com/space/black-holes/black-holes-can-split-apart-like-pants-if-they-spin-too-fast-astrophysics-study-hints",
+    "summary": "Astrophysicists have dared to ask a cosmological question never asked before: Do black holes \"wear pants\"? New research shows how fast-spinning black holes may split apart.",
+    "source": "Live Science",
+    "published": "2026-11-22T12:00:00+00:00",
+    "text_file": "state/sources/tf5e49a18.txt"
+  },
+  {
     "id": "teb59a6ad",
     "origin": "feed",
     "title": "Quantum physics can now prove where you really are",
@@ -7,7 +137,7 @@
     "summary": "In a first-of-its-kind experiment, researchers used a single photon and some-second timing to verify a location—a potential new defense against digital imposters",
     "source": "Scientific American",
     "published": "2026-11-22T12:00:00+00:00",
-    "fetch_error": "HTTPError: HTTP Error 504: Gateway Time-out"
+    "text_file": "state/sources/teb59a6ad.txt"
   },
   {
     "id": "t7a0ac90c",
@@ -146,8 +276,7 @@
     "url": "https://phys.org/news/2026-11-sugar-based-hydrogel.html",
     "summary": "Most materials get weaker with use. But a team led by Chenfeng Ke, a professor of chemistry in Arts & Sciences at Washington University in St. Louis, has created a polymer that defies the usual laws of wear and tear.",
     "source": "Phys.org",
-    "published": "2026-11-21T20:00:05+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-21T20:00:05+00:00"
   },
   {
     "id": "t50f82e9b",
@@ -166,8 +295,7 @@
     "url": "https://phys.org/news/2026-11-degree-requirements-linked-higher-pay.html",
     "summary": "The requirements set by human resources (HR) greatly influence the professional opportunities available to different segments of the population. For instance, if a job requires applicants to have earned a bachelor's or master's degree in a relevant subject, people without them may be excluded from the selection process, even if they have gained relevant skills through experience or professional tr",
     "source": "Phys.org",
-    "published": "2026-11-21T18:20:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-21T18:20:01+00:00"
   },
   {
     "id": "t158994b8",
@@ -216,8 +344,7 @@
     "url": "https://phys.org/news/2026-11-babies-ancient-greek-colony-solid.html",
     "summary": "Over 2,500 years ago, Himera was a Greek colony inhabited by local Sicilians, Phoenicians and Greeks. Despite their diverse cultural backgrounds, they all shared one thing: they began weaning their babies early and continued for a long time.",
     "source": "Phys.org",
-    "published": "2026-11-21T15:40:02+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-21T15:40:02+00:00"
   },
   {
     "id": "t86da9d6d",
@@ -296,8 +423,7 @@
     "url": "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html",
     "summary": "In April 2017, a magnitude 6.5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana. Cratons are the ancient cores of continents, and this one is built from blocks of crust up to 3.7 billion years old. Geologists have long considered such regions too cold, too thick and too rigid to tear apart.",
     "source": "Phys.org",
-    "published": "2026-11-21T14:00:06+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-21T14:00:06+00:00"
   },
   {
     "id": "t433a9454",
@@ -306,8 +432,7 @@
     "url": "https://www.livescience.com/animals/aquatic-animals/meet-the-science-adviser-behind-netflixs-hit-series-below",
     "summary": "Live Science spoke with marine biologist Annie Mercier about her role as a science adviser for Netflix's show \"Below.\"",
     "source": "Live Science",
-    "published": "2026-11-21T14:00:00+00:00",
-    "text_file": "state/sources/t433a9454.txt"
+    "published": "2026-11-21T14:00:00+00:00"
   },
   {
     "id": "tbe7efb15",
@@ -336,8 +461,7 @@
     "url": "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html",
     "summary": "Gamma rays, the most high-energy type of electromagnetic radiation in the universe, have always had a blind spot. We've always had trouble measuring them in the \"megaelectronvolt\" (MeV) energy range, which astronomers have taken to calling the \"MeV gap.\" But a new paper from an international group of scientists working with the Fermi Large Area Telescope (LAT) Collaboration, recently published in ",
     "source": "Phys.org",
-    "published": "2026-11-21T13:00:10+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-21T13:00:10+00:00"
   },
   {
     "id": "tf8d0e022",
@@ -346,8 +470,7 @@
     "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
     "summary": "The first Starship upper stage that SpaceX ever successfully recovered won't fly again. Rather, it will go on display as a museum piece, according to company founder and CEO Elon Musk.",
     "source": "Space.com",
-    "published": "2026-11-21T13:00:00+00:00",
-    "text_file": "state/sources/tf8d0e022.txt"
+    "published": "2026-11-21T13:00:00+00:00"
   },
   {
     "id": "t31bc486d",
@@ -416,8 +539,7 @@
     "url": "https://www.livescience.com/health/genetics/scientists-put-78-000-letters-of-human-dna-into-a-mouse-and-unraveled-how-a-rare-disease-worked",
     "summary": "By inserting human genes into lab mice, scientists were able to study the underlying mechanics of a disease that's been notoriously difficult to research.",
     "source": "Live Science",
-    "published": "2026-11-21T12:00:00+00:00",
-    "text_file": "state/sources/te563dddb.txt"
+    "published": "2026-11-21T12:00:00+00:00"
   },
   {
     "id": "tb27ba22f",
@@ -436,8 +558,7 @@
     "url": "https://www.livescience.com/technology/electric-vehicles/a-future-where-evs-charge-simply-by-parking-new-positioning-system-could-make-wireless-ev-charging-much-more-efficient",
     "summary": "A new positioning technology could make autonomous vehicles and robotaxis more reliable at recharging themselves.",
     "source": "Live Science",
-    "published": "2026-11-21T11:00:00+00:00",
-    "text_file": "state/sources/t5e36d3d8.txt"
+    "published": "2026-11-21T11:00:00+00:00"
   },
   {
     "id": "t41fef234",
@@ -446,17 +567,7 @@
     "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
     "summary": "The BepiColombo spacecraft will finally arrive in orbit around Mercury today (Nov. 21), more than eight years after leaving its home planet.",
     "source": "Space.com",
-    "published": "2026-11-21T11:00:00+00:00",
-    "text_file": "state/sources/t41fef234.txt"
-  },
-  {
-    "id": "tb1d356bc",
-    "origin": "feed",
-    "title": "From screens in class to smart glasses, Norway rethinks new technologies",
-    "url": "https://phys.org/news/2026-11-screens-class-smart-glasses-norway.html",
-    "summary": "Three years ago, a schoolteacher in Norway was reprimanded for putting his pupils' iPads aside to return to pen and paper. Now, the whole country is rethinking its approach to new technologies.",
-    "source": "Phys.org",
-    "published": "2026-11-21T10:20:16+00:00"
+    "published": "2026-11-21T11:00:00+00:00"
   },
   {
     "id": "tf6b3ed5d",
@@ -494,8 +605,7 @@
     "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
     "summary": "SpaceX launched a classified mission for the U.S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
     "source": "Space.com",
-    "published": "2026-11-21T05:28:14+00:00",
-    "text_file": "state/sources/td0dffaaf.txt"
+    "published": "2026-11-21T05:28:14+00:00"
   },
   {
     "id": "t9f54447f",
@@ -528,24 +638,6 @@
     "text_file": "state/sources/tcbb1999f.txt"
   },
   {
-    "id": "t3edbe78f",
-    "origin": "feed",
-    "title": "What makes rock deep beneath continents break away and sink?",
-    "url": "https://phys.org/news/2026-11-deep-beneath-continents.html",
-    "summary": "We usually picture mountain building as rock being pushed upward. But deep beneath some mountain belts and volcanic arcs, the opposite can happen: dense rock at the base of the crust can become unstable, break away and sink hundreds of kilometers into the mantle, dragging part of the rigid outer shell of the Earth (the lithosphere) with it. Seismic images suggest that this process, known as lithos",
-    "source": "Phys.org",
-    "published": "2026-11-21T04:20:01+00:00"
-  },
-  {
-    "id": "tc6fd4e15",
-    "origin": "feed",
-    "title": "Device that measures strawberry skin's strength will aid breeders",
-    "url": "https://phys.org/news/2026-11-device-strawberry-skin-strength-aid.html",
-    "summary": "Resilient strawberry varieties will be more easily identifiable thanks to a tool developed by University of Queensland engineering students. The prototype measures the strength of strawberry skin, a key breeding consideration for the Australian Strawberry Breeding Program at Queensland's Department of Primary Industries.",
-    "source": "Phys.org",
-    "published": "2026-11-21T03:40:01+00:00"
-  },
-  {
     "id": "tab785838",
     "origin": "feed",
     "title": "Extreme rainfalls flood Sri Lanka’s coastal city as wetlands, drains vanish",
@@ -556,15 +648,6 @@
     "text_file": "state/sources/tab785838.txt"
   },
   {
-    "id": "t27d8a5d5",
-    "origin": "feed",
-    "title": "Quantum software matches classical benchmark for a molecular interaction",
-    "url": "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html",
-    "summary": "Predicting how molecules interact is central to drug discovery: it offers important information about how a new drug might work in the human body, the side effects it can cause and more. Computationally modeling these interactions can reduce the need for lengthy and expensive lab work, but some interactions still remain beyond the reach of classical computers.",
-    "source": "Phys.org",
-    "published": "2026-11-21T03:00:01+00:00"
-  },
-  {
     "id": "t4c9896fc",
     "origin": "feed",
     "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
@@ -573,15 +656,6 @@
     "source": "ScienceDaily",
     "published": "2026-11-21T02:11:14+00:00",
     "text_file": "state/sources/t4c9896fc.txt"
-  },
-  {
-    "id": "ta6fbbac5",
-    "origin": "feed",
-    "title": "The call of the seamount: Two new armored tardigrades described in the Atlantic",
-    "url": "https://phys.org/news/2026-11-seamount-armored-tardigrades-atlantic.html",
-    "summary": "An international team led by researchers from Senckenberg am Meer in Wilhelmshaven has described two new species of marine tardigrades. The tiny marine organisms were discovered in the sediment of the Senghor Seamount off the coast of Cape Verde. According to the researchers, the discovery underscores the role of undersea mountains as oases of biodiversity. The study, which includes comprehensive ",
-    "source": "Phys.org",
-    "published": "2026-11-21T02:00:01+00:00"
   },
   {
     "id": "tefaa6362",
@@ -707,26 +781,7 @@
     "url": "https://www.scientificamerican.com/article/dueling-claims-of-riemann-hypothesis-proofs-emerge/",
     "summary": "Mere hours after a blockbuster announcement of an AI-assisted solution to the most famous problem in math, a second claim has emerged",
     "source": "Scientific American",
-    "published": "2026-11-20T20:40:00+00:00",
-    "text_file": "state/sources/t6d83a268.txt"
-  },
-  {
-    "id": "t55461763",
-    "origin": "feed",
-    "title": "Waterfall of fog spills over Mallorca cliffs in stunning winning image for Weather Photographer of the Year 2026",
-    "url": "https://www.livescience.com/planet-earth/weather/waterfall-of-fog-spills-over-mallorca-cliffs-in-stunning-winning-image-for-weather-photographer-of-the-year-2026",
-    "summary": "A spectacular sea of fog, a perfectly formed rainbow and dramatic lightning strikes feature among this year's winning photographs for Weather Photographer of the Year 2026.",
-    "source": "Live Science",
-    "published": "2026-11-20T20:32:11+00:00"
-  },
-  {
-    "id": "tdcb3f9b5",
-    "origin": "feed",
-    "title": "GTA hasn't gone to space (yet), but these sci-fi games can offer you a life of crime among the stars",
-    "url": "https://www.space.com/entertainment/space-games/gta-hasnt-gone-to-space-yet-but-these-sci-fi-games-can-offer-you-a-life-of-crime-among-the-stars",
-    "summary": "Grand Theft Auto 6 is finally out, but if you're a sci-fi aficionado looking for similar experiences set in outer space, there are several alternatives.",
-    "source": "Space.com",
-    "published": "2026-11-20T20:00:00+00:00"
+    "published": "2026-11-20T20:40:00+00:00"
   },
   {
     "id": "t1093ba68",
@@ -739,15 +794,6 @@
     "text_file": "state/sources/t1093ba68.txt"
   },
   {
-    "id": "td46e89bc",
-    "origin": "feed",
-    "title": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches",
-    "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
-    "summary": "Perseverance has been sidelined by an antenna issue, and the venerable Odyssey orbiter is dealing with a balky reaction wheel. NASA hopes both can get back to work by the end of November.",
-    "source": "Space.com",
-    "published": "2026-11-20T19:50:15+00:00"
-  },
-  {
     "id": "t6b4cce5b",
     "origin": "feed",
     "title": "The libido drug women want is testosterone",
@@ -756,15 +802,6 @@
     "source": "Science News",
     "published": "2026-11-20T19:00:00+00:00",
     "text_file": "state/sources/t6b4cce5b.txt"
-  },
-  {
-    "id": "t25136dcc",
-    "origin": "feed",
-    "title": "There's an impostor hiding in the Hyades star cluster. Can you spot it?",
-    "url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
-    "summary": "Aldebaran looks for all the world like the brightest member of the Hyades star cluster. It isn't — and discovering why changes the way you look at constellations.",
-    "source": "Space.com",
-    "published": "2026-11-20T19:00:00+00:00"
   },
   {
     "id": "td29df155",
@@ -851,15 +888,6 @@
     "published": "2026-11-20T17:28:27+00:00"
   },
   {
-    "id": "taa821403",
-    "origin": "feed",
-    "title": "James Webb telescope spots giant star swallowing its companion in first-ever observations of a stellar merger",
-    "url": "https://www.livescience.com/space/astronomers-spot-giant-star-swallowing-its-companion-in-first-ever-observations-of-a-stellar-merger",
-    "summary": "Astronomers using the James Webb Space Telescope followed up on years-old observations to confirm the first recorded act of a giant star swallowing its companion. The stellar cannibalism occurred just next door, in the Andromeda galaxy.",
-    "source": "Live Science",
-    "published": "2026-11-20T17:12:24+00:00"
-  },
-  {
     "id": "tc35ebfed",
     "origin": "feed",
     "title": "UN climate talks slammed by activists, leaders as fossil fuels go unmentioned in draft agreement",
@@ -886,15 +914,6 @@
     "source": "New Scientist",
     "published": "2026-11-20T16:56:08+00:00",
     "text_file": "state/sources/ta5236f5e.txt"
-  },
-  {
-    "id": "t1bfbb310",
-    "origin": "feed",
-    "title": "An Anthropic mathematician claims to have proven the Riemann hypothesis. We have to rethink how we reward expertise.",
-    "url": "https://www.livescience.com/physics-mathematics/mathematics/ai-is-forcing-us-to-rethink-what-mathematical-expertise-means-opinion",
-    "summary": "AI has upended the math community with a flood of results. We have to rethink how we assess which questions and answers matter — putting humans back at the center.",
-    "source": "Live Science",
-    "published": "2026-11-20T16:52:18+00:00"
   },
   {
     "id": "t57bebe29",
@@ -1068,15 +1087,6 @@
     "source": "The Guardian Science",
     "published": "2026-11-20T11:40:07+00:00",
     "text_file": "state/sources/t73cbb556.txt"
-  },
-  {
-    "id": "t134f5fb9",
-    "origin": "feed",
-    "title": "How one lemur species evolved to sing like an opera star",
-    "url": "https://www.scientificamerican.com/podcast/episode/how-one-lemur-species-evolved-to-sing-like-an-opera-star/",
-    "summary": "After millions of years of evolution turned these lemurs into showstopping singers, scientists are tuning in with conservation in mind",
-    "source": "Scientific American",
-    "published": "2026-11-20T11:00:00+00:00"
   },
   {
     "id": "tc17b4c00",
@@ -1284,8 +1294,7 @@
     "url": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
     "summary": "Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wall Get our breaking news email , free app or daily news podcast Australian scientists have used gravity as a means of communication, in a proof-of-concept experiment involving a snail-paced 1950s elevator, a brick wall and a men’s bathroom. Physicists at the University of Queensland have used gravity to trans",
     "source": "The Guardian Science",
-    "published": "2026-11-19T23:30:26+00:00",
-    "text_file": "state/sources/ta9056f83.txt"
+    "published": "2026-11-19T23:30:26+00:00"
   },
   {
     "id": "t6e15cb24",
@@ -1424,15 +1433,6 @@
     "summary": "Since the spacecraft’s 1977 launch, our wonderful and terrible species has done great damage to our planet. Voyager has offered us a clear view of ourselves Imagine traveling nonstop for 49 years, alone in the dark with no destination in sight, powered by curiosity and engineering. Further imagine making that journey not at bullet train or jet plane speed, but much faster: at 37,800 miles per hour",
     "source": "The Guardian Science",
     "published": "2026-11-18T11:00:56+00:00"
-  },
-  {
-    "id": "t3e631a02",
-    "origin": "feed",
-    "title": "Nasa’s Voyager 1 just reached a massive milestone in space - video",
-    "url": "https://www.theguardian.com/science/video/2026/nov/18/nasas-voyager-1-just-reached-a-massive-milestone-in-space-video",
-    "summary": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our planet. To find out more about its astonishing journey, Madeleine Finlay hears from Jim Bell, a planetary scientist and professor at Arizona State University’s scho",
-    "source": "The Guardian Science",
-    "published": "2026-11-18T10:39:51+00:00"
   },
   {
     "id": "t5d3f6fbe",
