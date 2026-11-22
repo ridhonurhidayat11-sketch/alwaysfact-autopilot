@@ -1,0 +1,189 @@
+{
+  "topic": "Tupai merah hampir punah di Inggris, tapi satu pulau jadi benteng terakhirnya",
+  "image_query": "Sciurus vulgaris red squirrel",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+    "Satu pulau kecil jadi benteng terakhir tupai merah",
+    "Tupai merah terancam punah, kecuali di satu pulau ini"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Satu pulau kecil jadi benteng terakhir tupai merah",
+      "body": "Tupai merah adalah hewan pengerat berekor lebat yang terancam punah di Inggris, tapi di Pulau Jersey jumlahnya justru aman.",
+      "image_query": "Sciurus vulgaris red squirrel",
+      "takeaway": "Jersey jadi tempat aman tupai merah.",
+      "icon": "leaf"
+    },
+    {
+      "type": "fact",
+      "title": "Sisa tupai merah makin sedikit",
+      "body": "Di alam liar Inggris tinggal sekitar **120.000 sampai 160.000** tupai merah. Banyak proyek berusaha menambah jumlahnya.",
+      "viz": {
+        "kind": "stat",
+        "value": "120.000-160.000",
+        "label": "tupai merah",
+        "note": "tersisa di alam liar Inggris"
+      },
+      "takeaway": "Tinggal ratusan ribu saja.",
+      "icon": "heart"
+    },
+    {
+      "type": "fact",
+      "title": "Musuh utamanya bukan pemangsa",
+      "body": "Tupai abu-abu membawa virus yang mematikan bagi tupai merah. Di Jersey, tupai abu-abu sama sekali tidak ada.",
+      "image_query": "Sciurus carolinensis grey squirrel",
+      "takeaway": "Tanpa tupai abu-abu, tupai merah aman.",
+      "icon": "bacteria"
+    },
+    {
+      "type": "fact",
+      "title": "Mereka sebenarnya pendatang",
+      "body": "Tupai merah bukan hewan asli Jersey. Mereka dibawa ke sana tahun 1885 dan kini dianggap bagian dari alam pulau itu.",
+      "viz": {
+        "kind": "stat",
+        "value": "1885",
+        "label": "tahun tupai dibawa ke Jersey",
+        "note": "sudah lebih dari seabad"
+      },
+      "takeaway": "Pendatang yang betah.",
+      "icon": "clock"
+    },
+    {
+      "type": "fact",
+      "title": "Warga ikut menjaga",
+      "body": "Warga memasang tempat makan untuk tupai. Di beberapa tempat ada jembatan tali supaya tupai bisa menyeberang jalan.",
+      "takeaway": "Jembatan tali bantu tupai menyeberang.",
+      "icon": "heart"
+    },
+    {
+      "type": "fact",
+      "title": "Satu lembaga merawat 50 ekor tahun ini",
+      "body": "Lembaga perlindungan hewan Jersey sudah menangani 50 tupai merah tahun ini, termasuk membesarkan delapan anakan.",
+      "viz": {
+        "kind": "stat",
+        "value": "50",
+        "label": "tupai merah ditangani",
+        "note": "termasuk 8 anakan"
+      },
+      "takeaway": "Perawat membantu 50 tupai.",
+      "icon": "heart"
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu",
+      "body": "Hewan langka bisa selamat kalau ancamannya dijauhkan dan warga ikut peduli, seperti jembatan tali dan tempat makan kecil di taman.",
+      "takeaway": "Kepedulian warga bisa menyelamatkan hewan.",
+      "icon": "bulb"
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_",
+      "body": "Kirim post ini ke temanmu yang suka penasaran, lalu ikuti @alwaysfact_ untuk fakta sains tiap hari.",
+      "takeaway": "Ikuti dan bagikan.",
+      "icon": "bulb"
+    }
+  ],
+  "caption": "Satu pulau kecil jadi benteng terakhir tupai merah.\n\nDi Inggris tinggal sekitar 120.000 sampai 160.000 tupai merah di alam liar. Di Pulau Jersey mereka aman karena tidak ada tupai abu-abu pembawa virus, dan warga ikut menjaga dengan tempat makan serta jembatan tali.\n\nKirim ke temanmu, lalu ikuti @alwaysfact_.\n\nSumber: BBC News",
+  "hashtags": [
+    "sains",
+    "hewan",
+    "tupai",
+    "alam",
+    "konservasi",
+    "faktasains",
+    "alwaysfact"
+  ],
+  "claims": [
+    {
+      "text": "Tupai merah terancam punah di Inggris, dengan sekitar 120.000 sampai 160.000 tersisa di alam liar.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "text": "Jersey punya populasi tupai merah yang sehat karena tidak ada tupai abu-abu, yang membawa virus mematikan bagi tupai merah.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "text": "Tupai merah bukan hewan asli Jersey; mereka diperkenalkan tahun 1885.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "text": "Di beberapa tempat di Jersey ada jembatan tali yang membantu tupai menyeberang jalan, dan banyak warga memasang tempat makan.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "text": "Lembaga perlindungan hewan Jersey sudah menangani 50 tupai merah tahun ini, termasuk membesarkan delapan anakan.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "music_suggestions": [
+    "hangat ceria, tempo sedang",
+    "akustik santai, tempo sedang",
+    "ringan penasaran, tempo sedang"
+  ],
+  "id": "035",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
+      "quote": "Red squirrels are endangered in the UK , with about 120,000 to 160,000 left in the wild",
+      "note": "jumlah",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
+      "quote": "Jersey is home to a thriving red squirrel population, thanks to the complete absence of grey squirrels, which carry a virus deadly to their red cousins.",
+      "note": "virus",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
+      "quote": "Red squirrels are not native to Jersey, having been introduced in 1885.",
+      "note": "1885",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
+      "quote": "In some places, we've got rope bridges which really help them cross the roads",
+      "note": "jembatan tali",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
+      "quote": "the JSPCA had handled 50 red squirrels so far this year, including hand-raising eight babies",
+      "note": "50 ekor",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
+  "topic_id": "t31bc486d",
+  "image_credits": [
+    "Charles J. Sharp / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Jakub Hałun / CC BY 4.0 (Wikimedia Commons)",
+    "Luis García ( Zaqarbal ) / CC BY-SA 3.0 es (Wikimedia Commons)",
+    "Peter Trimming / CC BY 2.0 (Wikimedia Commons)",
+    "Сергей Неклюдов / CC BY 4.0 (Wikimedia Commons)",
+    "Charles J. Sharp / CC BY-SA 4.0 (Wikimedia Commons)"
+  ]
+}
