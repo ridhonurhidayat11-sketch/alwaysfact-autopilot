@@ -1,0 +1,176 @@
+{
+ "topic_id": "t88875db0",
+ "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+ "risk": "low",
+ "post": {
+  "topic": "Satu bintang menelan bintang lain, dan teleskop sempat melihatnya",
+  "image_query": "James Webb Space Telescope",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+   "Satu bintang menelan bintang lain, dan kita sempat melihatnya",
+   "Dua bintang bergabung jadi satu di depan mata kita"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Satu bintang menelan bintang lain, dan kita sempat melihatnya",
+    "body": "Para ahli bintang melihat dua bintang di galaksi tetangga kita bergabung jadi satu, kejadian yang sangat jarang terpantau.",
+    "image_query": "Andromeda Galaxy",
+    "takeaway": "Dua bintang menyatu jadi satu.",
+    "icon": "planet"
+   },
+   {
+    "type": "fact",
+    "title": "Kejadiannya di galaksi tetangga",
+    "body": "Galaksi Andromeda bertetangga dengan galaksi kita. Di tepi galaksi itu, sebuah bintang kecil jatuh ke dalam bintang raksasa.",
+    "image_query": "Andromeda Galaxy",
+    "takeaway": "Tempatnya di galaksi Andromeda.",
+    "icon": "globe"
+   },
+   {
+    "type": "fact",
+    "title": "Bintang raksasanya luar biasa besar",
+    "body": "Sebelum bergabung, bintang raksasa itu **18.000 kali lebih terang** dari Matahari. Jari-jarinya 350 kali lebih besar.",
+    "viz": {
+     "kind": "stat",
+     "value": "350x",
+     "label": "jari-jari Matahari",
+     "note": "ukuran bintang raksasa itu"
+    },
+    "takeaway": "Ukurannya 350 kali Matahari.",
+    "icon": "burst"
+   },
+   {
+    "type": "fact",
+    "title": "Temannya malah lebih kecil dari Matahari",
+    "body": "Bintang kecil itu massanya sekitar 70% massa Matahari. Ia masuk ke lapisan luar si raksasa lalu terseret ke dalam.",
+    "viz": {
+     "kind": "stat",
+     "value": "70%",
+     "label": "massa Matahari",
+     "note": "perkiraan massa bintang kecil"
+    },
+    "takeaway": "Bintang kecil sekitar 70% Matahari.",
+    "icon": "atom"
+   },
+   {
+    "type": "fact",
+    "title": "Prosesnya cepat sekali",
+    "body": "Mereka menyatu hanya dalam tujuh putaran, sekitar tujuh tahun. Penggabungan bintang lain yang lebih kecil butuh ribuan putaran.",
+    "takeaway": "Hanya tujuh putaran sampai menyatu.",
+    "icon": "clock"
+   },
+   {
+    "type": "fact",
+    "title": "Teleskop Webb datang 47 hari kemudian",
+    "body": "Teleskop luar angkasa James Webb mengamati hasilnya hanya 47 hari setelah ledakan terang itu memuncak.",
+    "viz": {
+     "kind": "stat",
+     "value": "47",
+     "label": "hari",
+     "note": "dari puncak ledakan sampai Webb mengamati"
+    },
+    "takeaway": "Webb mengamati sangat cepat.",
+    "icon": "clock"
+   },
+   {
+    "type": "fact",
+    "title": "Kaitannya denganmu",
+    "body": "Matahari kita juga bintang. Dengan menonton bintang lain bergabung, para ahli belajar bagaimana bintang berubah sepanjang hidupnya.",
+    "takeaway": "Bintang lain membantu kita mengenal Matahari.",
+    "icon": "bulb"
+   },
+   {
+    "type": "cta",
+    "title": "Ikuti @alwaysfact_",
+    "body": "Kirim post ini ke temanmu yang suka penasaran, lalu ikuti @alwaysfact_ untuk fakta sains tiap hari.",
+    "takeaway": "Ikuti dan bagikan.",
+    "icon": "bulb"
+   }
+  ],
+  "caption": "Satu bintang menelan bintang lain, dan kita sempat melihatnya.\n\nDi galaksi Andromeda, bintang kecil masuk ke bintang raksasa yang 18.000 kali lebih terang dari Matahari. Mereka menyatu hanya dalam tujuh putaran, dan Teleskop Webb mengamatinya 47 hari setelah puncak ledakan.\n\nKirim ke temanmu, lalu ikuti @alwaysfact_.\n\nSumber: ScienceDaily (NASA)",
+  "hashtags": [
+   "sains",
+   "bintang",
+   "astronomi",
+   "luarangkasa",
+   "faktasains",
+   "alwaysfact",
+   "teleskopwebb"
+  ],
+  "claims": [
+   {
+    "text": "Astronom menemukan tabrakan bintang di galaksi Andromeda, tempat bintang kecil masuk ke bintang raksasa dan menyatu.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
+   },
+   {
+    "text": "Sebelum bergabung, bintang raksasa itu 18.000 kali lebih terang dari Matahari dan jari-jarinya 350 kali lebih besar.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
+   },
+   {
+    "text": "Bintang kecil itu diperkirakan bermassa sekitar 70% massa Matahari.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
+   },
+   {
+    "text": "Kedua bintang menyatu hanya dalam tujuh putaran, sekitar tujuh tahun, sedangkan penggabungan bintang yang lebih kecil butuh ribuan putaran.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
+   },
+   {
+    "text": "Teleskop Webb mengamati hasilnya 47 hari setelah ledakan memuncak.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
+   }
+  ],
+  "music_suggestions": [
+   "tenang misterius, tempo lambat",
+   "epik pelan, tempo sedang",
+   "ambient luar angkasa, tempo lambat"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+   "quote": "Astronomers have uncovered an extraordinary stellar collision in the neighboring Andromeda galaxy",
+   "note": "tabrakan di Andromeda"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+   "quote": "Before the merger, it was approximately seven times as massive as the Sun, had a radius 350 times larger, and shone with 18,000 times the Sun's brightness.",
+   "note": "angka raksasa"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+   "quote": "In other words, it contained roughly 70% as much mass as our star.",
+   "note": "70%"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+   "quote": "after just seven additional orbits (about seven years). Previously observed mergers involving pairs of smaller stars had required thousands of orbits to reach the same outcome.",
+   "note": "ribuan putaran"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+   "quote": "Webb observed Bao only 47 days after the stars' eruption peaked",
+   "note": "47 hari"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}
