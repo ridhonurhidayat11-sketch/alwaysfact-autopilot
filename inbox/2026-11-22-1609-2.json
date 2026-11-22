@@ -1,0 +1,156 @@
+{
+ "topic_id": "t5c0487ac",
+ "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+ "risk": "low",
+ "post": {
+  "topic": "Waktu ternyata tidak berjalan sama untuk semua orang",
+  "image_query": "atomic clock NIST",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+   "Waktu ternyata tidak berjalan sama untuk semua orang",
+   "Jam atom bisa merasakan waktu beda hanya beberapa milimeter"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Waktu ternyata tidak berjalan sama untuk semua orang",
+    "body": "Jam atom adalah jam super akurat yang mengukur waktu lewat getaran atom, dan jadi kunci kerja GPS di HP-mu.",
+    "image_query": "atomic clock NIST",
+    "icon": "clock"
+   },
+   {
+    "type": "fact",
+    "title": "Jam biasa pakai roda gigi, jam atom pakai atom",
+    "body": "Jam atom tidak memakai gerakan mekanis. Ia mengukur waktu dari getaran atom yang sangat konsisten.",
+    "takeaway": "Jam atom mengukur waktu lewat getaran atom.",
+    "icon": "atom",
+    "image_query": "atomic clock NIST"
+   },
+   {
+    "type": "fact",
+    "title": "Einstein: waktu tidak sama untuk semua orang",
+    "body": "Menurut teori Einstein, waktu berjalan berbeda tergantung **seberapa cepat kamu bergerak** dan seberapa kuat gravitasi yang kamu rasakan.",
+    "takeaway": "Kecepatan dan gravitasi mengubah laju waktu.",
+    "icon": "bulb"
+   },
+   {
+    "type": "fact",
+    "title": "Bedanya terukur, bahkan di jarak sangat kecil",
+    "body": "Jam atom modern begitu peka sampai bisa menangkap beda laju waktu antara dua jam yang hanya terpisah beberapa milimeter ke atas.",
+    "takeaway": "Beda waktu terdeteksi pada jarak sangat kecil.",
+    "icon": "magnifier",
+    "viz": {
+     "kind": "stat",
+     "value": "beberapa mm",
+     "label": "jarak tegak yang sudah cukup",
+     "note": "setebal beberapa lembar kartu ATM"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Kaitannya denganmu: peta di HP-mu",
+    "body": "GPS menghitung posisimu dari waktu yang sangat tepat. Karena itu jam atom penting untuk Google Maps dan ojek online.",
+    "takeaway": "Ketepatan waktu membuat peta di HP-mu bekerja.",
+    "icon": "globe"
+   },
+   {
+    "type": "fact",
+    "title": "Intinya",
+    "body": "Waktu bukan hal yang tetap. Dan manusia sudah punya alat yang cukup peka untuk mengukur bedanya.",
+    "takeaway": "Waktu itu lentur, dan bisa diukur.",
+    "icon": "clock"
+   },
+   {
+    "type": "cta",
+    "title": "Ikuti @alwaysfact_ ya",
+    "body": "Kirim ke temanmu yang suka penasaran, lalu ikuti @alwaysfact_ buat fakta sains yang sering terlewat.",
+    "takeaway": "Ikuti dan bagikan.",
+    "icon": "heart"
+   }
+  ],
+  "caption": "Waktu ternyata tidak berjalan sama untuk semua orang.\n\nMenurut teori Einstein, laju waktu bergantung pada kecepatan dan gravitasi. Jam atom modern begitu peka sampai bisa menangkap bedanya pada jarak vertikal beberapa milimeter. Jam jenis ini juga penting untuk GPS.\n\nKirim ke temanmu yang selalu bilang waktu itu pasti!\n\nSumber: ScienceDaily (Kyushu University), 21 November 2026",
+  "hashtags": [
+   "sains",
+   "faktasains",
+   "fisika",
+   "waktu",
+   "einstein",
+   "gps",
+   "alwaysfact"
+  ],
+  "claims": [
+   {
+    "text": "Teori relativitas Einstein menunjukkan waktu tidak berjalan sama untuk semua orang.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
+   },
+   {
+    "text": "Laju waktu bergantung pada seberapa cepat sesuatu bergerak dan kuatnya gravitasi yang dialaminya.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
+   },
+   {
+    "text": "Jam atom modern bisa mendeteksi beda laju waktu bahkan antara dua jam yang terpisah vertikal hanya beberapa milimeter.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
+   },
+   {
+    "text": "Jam atom penting bagi GPS, yang bergantung pada waktu yang tepat untuk menghitung lokasi.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
+   },
+   {
+    "text": "Jam atom mengukur waktu lewat frekuensi atom yang sangat konsisten, bukan gerakan mekanis.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
+   }
+  ],
+  "music_suggestions": [
+   "misterius tenang, tempo lambat",
+   "synth ringan, tempo sedang",
+   "penasaran, tempo sedang"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+   "quote": "Einstein's theory of relativity revealed that time does not pass at the same rate for everyone.",
+   "note": "kutipan persis dari teks tersimpan"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+   "quote": "Instead, its passage depends on how fast something is moving and the strength of the gravity it experiences.",
+   "note": "kutipan persis dari teks tersimpan"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+   "quote": "Modern atomic clocks have become so sensitive that they can detect the tiny differences in the passage of time predicted by Einstein's relativity, even between clocks separated vertically by only a few millimeters.",
+   "note": "kutipan persis dari teks tersimpan"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+   "quote": "Their extraordinary accuracy makes them essential for technologies such as GPS, which depends on precise timing to calculate locations.",
+   "note": "kutipan persis dari teks tersimpan"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+   "quote": "Rather than relying on mechanical movement, they measure time using the extremely consistent frequencies associated with atoms.",
+   "note": "kutipan persis dari teks tersimpan"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}
