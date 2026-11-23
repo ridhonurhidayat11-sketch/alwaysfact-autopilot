@@ -1,0 +1,225 @@
+{
+  "topic": "Serigala ternyata ikut menanam blueberry lewat kotorannya",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+    "Serigala makan blueberry, lalu bantu menanamnya",
+    "Serigala ternyata suka buah, dan buahnya berterima kasih"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Serigala makan blueberry, lalu bantu menanamnya",
+      "body": "Blueberry liar di hutan Minnesota, Amerika Serikat, ternyata dimakan serigala abu-abu, dan penelitian baru menunjukkan manfaatnya bagi tanaman."
+    },
+    {
+      "type": "fact",
+      "title": "Serigala juga doyan buah",
+      "body": "Kita kira serigala hanya makan daging. Padahal saat musim blueberry di Juli dan Agustus, buah bisa jadi hingga **83%** menu mingguan serigala dewasa di sana.",
+      "takeaway": "Di musim buah, serigala hampir vegetarian.",
+      "icon": "leaf",
+      "image_query": "Canis lupus gray wolf"
+    },
+    {
+      "type": "compare",
+      "title": "Biji yang lewat perut serigala lebih sering tumbuh",
+      "body": "Peneliti menyemai biji blueberry di cawan. Dari biji kotoran serigala, **96%** tumbuh tunas. Dari biji buah yang tidak dimakan, hanya **69%**.",
+      "takeaway": "Lewat perut serigala, biji lebih sering tumbuh.",
+      "icon": "leaf",
+      "viz": {
+        "kind": "compare",
+        "items": [
+          {
+            "label": "Biji dari kotoran serigala",
+            "value": 96
+          },
+          {
+            "label": "Biji buah biasa",
+            "value": 69
+          }
+        ],
+        "unit": "%",
+        "caption": "Persentase biji yang tumbuh tunas"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Tumbuhnya juga lebih cepat",
+      "body": "Separuh biji dari kotoran serigala sudah bertunas di hari ke-19. Biji buah biasa baru bertunas di hari ke-26.",
+      "takeaway": "Selisihnya sekitar seminggu.",
+      "icon": "clock",
+      "viz": {
+        "kind": "compare",
+        "items": [
+          {
+            "label": "Biji kotoran serigala",
+            "value": 19
+          },
+          {
+            "label": "Biji buah biasa",
+            "value": 26
+          }
+        ],
+        "unit": "hari",
+        "caption": "Hari sampai separuh biji bertunas"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Kenapa bisa begitu?",
+      "body": "Para peneliti menduga perjalanan lewat perut menggores atau mengikis kulit biji. Jadi tunas lebih mudah keluar.",
+      "takeaway": "Kulit biji tergores di dalam perut.",
+      "icon": "bulb"
+    },
+    {
+      "type": "fact",
+      "title": "Satu catatan penting",
+      "body": "Angka 69% itu gabungan tiga kelompok biji yang disimpan berbeda. Sendiri-sendiri hasilnya antara **42%** sampai **91%**. Jadi keunggulan serigala tidak sebesar kelihatannya.",
+      "takeaway": "Hasilnya bagus, tapi jangan dilebih-lebihkan.",
+      "icon": "magnifier"
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu",
+      "body": "Serigala menempuh jarak jauh dengan cepat. Peneliti menduga mereka penyebar biji yang efektif. Satu hewan bisa ikut membentuk hutan tempat makanan hewan lain tumbuh.",
+      "takeaway": "Satu hewan bisa mengubah kebun alam.",
+      "icon": "globe"
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti dan kirim ke temanmu",
+      "body": "Ikuti @alwaysfact_ untuk fakta sains yang sering terlewat. Kirim post ini ke temanmu yang suka blueberry atau hewan.",
+      "takeaway": "Ikuti dan bagikan.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Serigala ternyata bukan cuma pemakan daging: saat musim blueberry, mereka sering makan buah, lalu bijinya tumbuh lebih baik.\n\nPeneliti di Minnesota menyemai 802 biji dari kotoran serigala dan 484 biji buah biasa. Hasilnya, biji dari kotoran serigala lebih sering dan lebih cepat bertunas, meski ada catatan soal kelompok pembanding.\n\nKirim ke temanmu yang kira serigala cuma makan daging.\n\nSumber: Mongabay (studi di jurnal Biology Letters).",
+  "hashtags": [
+    "serigala",
+    "blueberry",
+    "hewanunik",
+    "faktasains",
+    "alam",
+    "hutan",
+    "sains",
+    "alwaysfact"
+  ],
+  "claims": [
+    {
+      "text": "Biji blueberry dari kotoran serigala yang bertunas 96%, dibanding 69% pada biji pembanding.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/"
+    },
+    {
+      "text": "Saat musim buah di Juli dan Agustus, buah bisa mencapai 83% menu mingguan serigala dewasa di kawasan Greater Voyageurs.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/"
+    },
+    {
+      "text": "Separuh biji dari serigala bertunas pada hari ke-19, sedangkan biji pembanding pada hari ke-26.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/"
+    },
+    {
+      "text": "Peneliti menduga perjalanan lewat perut serigala menggores atau mengikis kulit biji.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/"
+    },
+    {
+      "text": "Angka pembanding menggabungkan tiga kelompok biji yang disimpan berbeda, yang hasilnya berkisar 42% sampai 91%.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/"
+    },
+    {
+      "text": "Serigala menempuh jarak jauh dengan cepat, sehingga para penulis menulis mereka kemungkinan penyebar biji blueberry yang efektif.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/"
+    },
+    {
+      "text": "Peneliti memakai 802 biji dari kotoran serigala dan 484 biji pembanding.",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/"
+    }
+  ],
+  "music_suggestions": [
+    "santai, tempo sedang, nuansa hutan",
+    "penasaran, tempo pelan",
+    "ceria ringan, tempo sedang"
+  ],
+  "image_query": "Canis lupus gray wolf",
+  "id": "041",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/",
+      "quote": "Overall, 96% of seeds from wolf scat germinated, compared with 69% of control seeds",
+      "note": "kutipan langsung dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/",
+      "quote": "During peak berry season in July and August, berries make up as much as 83% of adult wolves’ weekly diets in the Greater Voyageurs Ecosystem",
+      "note": "kutipan langsung dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/",
+      "quote": "Half the wolf seeds sprouted by day 19, but the controls took until day 26.",
+      "note": "kutipan langsung dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/",
+      "quote": "The authors say the trip through the gut probably scuffs or chemically wears down the seed coat.",
+      "note": "kutipan langsung dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/",
+      "quote": "On their own, the batches ranged from 42% to 91%.",
+      "note": "kutipan langsung dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 6,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/",
+      "quote": "cover long distances quickly, so the authors write that they are likely effective long-distance dispersers of blueberry seeds",
+      "note": "kutipan langsung dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 7,
+      "verdict": "supported",
+      "evidence_url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/",
+      "quote": "They picked out 802 seeds and grew them in petri dishes in a growth chamber for 60 days. Alongside them, they grew 484 control seeds",
+      "note": "kutipan langsung dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/",
+  "topic_id": "taca24676",
+  "image_credits": [
+    "Gary Kramer / Public domain (Wikimedia Commons)",
+    "Wilfredor / CC0 (Wikimedia Commons)",
+    "Clément Bardot / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Michael Gäbler / CC BY 3.0 (Wikimedia Commons)",
+    "Photographer : Jim Clark / Public domain (Wikimedia Commons)",
+    "Malene Thyssen / CC BY-SA 3.0 (Wikimedia Commons)"
+  ]
+}
