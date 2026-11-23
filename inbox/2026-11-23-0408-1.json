@@ -1,0 +1,185 @@
+{
+ "topic_id": "t0293ea83",
+ "source_url": "https://mongabay.co.id/2026/11/23/7-fakta-menarik-orangutan-tapanuli-yang-penting-kita-ketahui/",
+ "risk": "low",
+ "post": {
+  "topic": "Orangutan Tapanuli: baru dikenal 2017, jumlahnya kurang dari seribu",
+  "image_query": "Pongo tapanuliensis Tapanuli orangutan",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+   "Ada jenis orangutan baru di Sumatera, dan jumlahnya sedikit",
+   "Orangutan ini baru punya nama resmi tahun 2017"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Ada jenis orangutan baru di Sumatera, dan jumlahnya sedikit",
+    "body": "Orangutan tapanuli adalah kera besar berambut jingga yang hidup di hutan Batang Toru, Sumatera Utara.",
+    "image_query": "Pongo tapanuliensis Tapanuli orangutan",
+    "takeaway": "Kera langka ini hidup di hutan Sumatera Utara.",
+    "icon": "leaf"
+   },
+   {
+    "type": "fact",
+    "title": "Dulu dikira orangutan Sumatera biasa",
+    "body": "Para peneliti sudah lama tahu kera ini ada, **lebih dari seratus tahun**. Tapi dulu ia dianggap orangutan Sumatera biasa. Baru tahun 2017 ia diakui sebagai jenis tersendiri.",
+    "image_query": "Sumatran orangutan",
+    "takeaway": "Baru diakui sebagai jenis sendiri pada 2017.",
+    "icon": "magnifier"
+   },
+   {
+    "type": "fact",
+    "title": "Kerabat terdekatnya ada di Kalimantan",
+    "body": "Walau tinggal di Sumatera, kerabat terdekatnya justru orangutan Kalimantan. Garis keturunannya terpisah sekitar **3,5 juta tahun lalu**.",
+    "viz": {
+     "kind": "stat",
+     "value": "3,5 juta",
+     "label": "tahun terpisah",
+     "note": "dari orangutan lainnya"
+    },
+    "takeaway": "Terpisah sekitar 3,5 juta tahun lalu.",
+    "icon": "dna"
+   },
+   {
+    "type": "fact",
+    "title": "Jumlahnya mungkin hanya ratusan ekor",
+    "body": "Satu penelitian 2017 memperkirakan sekitar **800 ekor**. Penelitian lain 2018 memperkirakan **495-577 ekor**. Angkanya masih diperdebatkan, dan datanya lama.",
+    "viz": {
+     "kind": "compare",
+     "items": [
+      {
+       "label": "Perkiraan 2017",
+       "value": 800
+      },
+      {
+       "label": "Perkiraan 2018 (atas)",
+       "value": 577
+      }
+     ],
+     "unit": "ekor",
+     "caption": "Angka perkiraan, bukan hitungan pasti"
+    },
+    "takeaway": "Perkiraan jumlahnya hanya ratusan ekor.",
+    "icon": "heart"
+   },
+   {
+    "type": "fact",
+    "title": "Tiap malam ia bikin kasur di pohon",
+    "body": "Ia memakai sekitar **91 jenis pohon** dari 27 kelompok untuk bersarang. Ia lebih suka pohon yang kuat dan bercabang rapat.",
+    "image_query": "orangutan nest tree",
+    "takeaway": "Pohon hutan adalah rumah dan tempat tidurnya.",
+    "icon": "leaf"
+   },
+   {
+    "type": "fact",
+    "title": "Kaitannya denganmu",
+    "body": "Statusnya **Kritis**, tingkat bahaya tertinggi sebelum punah di alam, menurut lembaga IUCN. Hutan Batang Toru adalah satu-satunya rumahnya. Kalau hutan itu hilang, ia ikut hilang.",
+    "takeaway": "Hutan di Indonesia adalah satu-satunya rumahnya.",
+    "icon": "globe"
+   },
+   {
+    "type": "cta",
+    "title": "Ikuti @alwaysfact_",
+    "body": "Ikuti @alwaysfact_ untuk fakta sains yang sering terlewat. Kirim post ini ke temanmu yang suka hewan!",
+    "icon": "bulb"
+   }
+  ],
+  "caption": "Ada jenis orangutan yang baru diakui tahun 2017, dan jumlahnya mungkin hanya ratusan ekor. Orangutan tapanuli hidup di hutan Batang Toru, Sumatera Utara. Dulu ia dikira orangutan Sumatera biasa, padahal kerabat terdekatnya ada di Kalimantan. Perkiraan jumlahnya masih berbeda-beda, dan datanya berasal dari penelitian 2017-2019, bukan hitungan terbaru. Kirim ke temanmu yang peduli hutan! Sumber: Mongabay Indonesia, 7 Fakta Menarik Orangutan Tapanuli (23 Nov 2026).",
+  "hashtags": [
+   "orangutan",
+   "orangutantapanuli",
+   "satwaliar",
+   "hutanindonesia",
+   "sumatera",
+   "faktaunik",
+   "sains",
+   "alwaysfact"
+  ],
+  "claims": [
+   {
+    "text": "Orangutan tapanuli sudah dikenal lebih dari satu abad, tetapi dulu dianggap bagian dari orangutan sumatera.",
+    "source_name": "Mongabay Indonesia",
+    "source_url": "https://mongabay.co.id/2026/11/23/7-fakta-menarik-orangutan-tapanuli-yang-penting-kita-ketahui/"
+   },
+   {
+    "text": "Perkiraan populasi orangutan tapanuli sekitar 800 individu (2017) dan 495-577 individu (2018).",
+    "source_name": "Mongabay Indonesia",
+    "source_url": "https://mongabay.co.id/2026/11/23/7-fakta-menarik-orangutan-tapanuli-yang-penting-kita-ketahui/"
+   },
+   {
+    "text": "Garis keturunan orangutan tapanuli terpisah dari orangutan lainnya sekitar 3,5 juta tahun lalu, dan lebih dekat dengan orangutan kalimantan.",
+    "source_name": "Mongabay Indonesia",
+    "source_url": "https://mongabay.co.id/2026/11/23/7-fakta-menarik-orangutan-tapanuli-yang-penting-kita-ketahui/"
+   },
+   {
+    "text": "Orangutan tapanuli memakai sekitar 91 jenis pohon dari 27 famili sebagai tempat bersarang.",
+    "source_name": "Mongabay Indonesia",
+    "source_url": "https://mongabay.co.id/2026/11/23/7-fakta-menarik-orangutan-tapanuli-yang-penting-kita-ketahui/"
+   },
+   {
+    "text": "Orangutan tapanuli berstatus Kritis menurut IUCN dan dilindungi Pemerintah Indonesia.",
+    "source_name": "Mongabay Indonesia",
+    "source_url": "https://mongabay.co.id/2026/11/23/7-fakta-menarik-orangutan-tapanuli-yang-penting-kita-ketahui/"
+   },
+   {
+    "text": "Orangutan tapanuli baru diakui secara ilmiah sebagai spesies tersendiri pada November 2017.",
+    "source_name": "Mongabay Indonesia",
+    "source_url": "https://mongabay.co.id/2026/11/23/7-fakta-menarik-orangutan-tapanuli-yang-penting-kita-ketahui/"
+   }
+  ],
+  "music_suggestions": [
+   "lembut dan penasaran, tempo pelan",
+   "alam hutan, tempo sedang",
+   "hangat dan ringan, tempo sedang"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://mongabay.co.id/2026/11/23/7-fakta-menarik-orangutan-tapanuli-yang-penting-kita-ketahui/",
+   "quote": "Meskipun telah dikenal selama lebih dari satu abad, orangutan tapanuli sebelumnya dianggap sebagai bagian dari populasi orangutan sumatera.",
+   "note": "Dan diakui 2017 menurut paragraf pembuka"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://mongabay.co.id/2026/11/23/7-fakta-menarik-orangutan-tapanuli-yang-penting-kita-ketahui/",
+   "quote": "Nater dan kolega (2017) memperkirakan sekitar 800 individu, sementara Kuswanda (2018) memperkirakan 495-577 individu.",
+   "note": "Perkiraan, data lama"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://mongabay.co.id/2026/11/23/7-fakta-menarik-orangutan-tapanuli-yang-penting-kita-ketahui/",
+   "quote": "Berdasarkan analisis DNA mitokondria, garis keturunannya diperkirakan telah terpisah dari orangutan lainnya sekitar 3,5 juta tahun lalu.",
+   "note": "Perkiraan"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://mongabay.co.id/2026/11/23/7-fakta-menarik-orangutan-tapanuli-yang-penting-kita-ketahui/",
+   "quote": "Penelitian mencatat orangutan tapanuli menggunakan sekitar 91 jenis pohon dari 27 famili sebagai tempat bersarang.",
+   "note": "ok"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://mongabay.co.id/2026/11/23/7-fakta-menarik-orangutan-tapanuli-yang-penting-kita-ketahui/",
+   "quote": "Orangutan tapanuli berstatus Kritis ( Critically Endangered/CR ) menurut IUCN dan dilindungi Pemerintah Indonesia.",
+   "note": "ok"
+  },
+  {
+   "claim": 6,
+   "verdict": "supported",
+   "evidence_url": "https://mongabay.co.id/2026/11/23/7-fakta-menarik-orangutan-tapanuli-yang-penting-kita-ketahui/",
+   "quote": "Spesies ini baru diakui secara ilmiah pada November 2017 melalui penelitian Alexander Nater dan kolega dalam jurnal Current Biology",
+   "note": "ok"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}
