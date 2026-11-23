@@ -1,0 +1,180 @@
+{
+  "topic": "Palung terdalam di Bumi ternyata pernah punya letusan gunung api",
+  "image_query": "Mariana Trench",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+    "Gunung api meletus di dasar laut terdalam di Bumi",
+    "Ada letusan yang seharusnya mustahil di dasar laut"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Gunung api meletus di dasar laut terdalam di Bumi",
+      "body": "Challenger Deep adalah titik terdalam di lautan Bumi, jauh di bawah Samudra Pasifik, di timur Filipina.",
+      "image_query": "Mariana Trench",
+      "icon": "globe"
+    },
+    {
+      "type": "fact",
+      "title": "Sedalam apa sih?",
+      "body": "Challenger Deep menukik sekitar 11.000 meter di bawah permukaan laut. Itu lebih dari sebelas kilometer ke bawah.",
+      "icon": "droplet",
+      "takeaway": "Lembah terdalam di palung terdalam di lautan.",
+      "viz": {
+        "kind": "stat",
+        "value": "11.000 m",
+        "label": "di bawah permukaan laut",
+        "note": "Challenger Deep"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Robot turun mencari petunjuk",
+      "body": "Para ilmuwan memakai robot kendali jarak jauh bernama Jason/Medea. Robot ini turun lebih dari 6.000 meter di sekitar Challenger Deep.",
+      "image_query": "ROV Jason underwater robot",
+      "takeaway": "Robot menjelajah dasar laut yang tak terjangkau manusia.",
+      "viz": {
+        "kind": "stat",
+        "value": "6.000+ m",
+        "label": "kedalaman jelajah robot",
+        "note": "di sekitar Challenger Deep"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Batunya bercerita",
+      "body": "Di sana robot menemukan batuan bekas letusan gunung api. Menurut para peneliti, ini endapan letusan terdalam yang pernah ditemukan di Bumi.",
+      "icon": "flame",
+      "takeaway": "Rekor baru: letusan terdalam yang pernah tercatat bukti batunya."
+    },
+    {
+      "type": "fact",
+      "title": "Kenapa ini aneh?",
+      "body": "Letusan yang meledak seharusnya tidak mungkin di laut dalam. Tekanan air terlalu besar, jadi gas tidak bisa mengembang.",
+      "icon": "gas",
+      "takeaway": "Tekanan laut dalam menahan gas agar tidak meledak."
+    },
+    {
+      "type": "fact",
+      "title": "Jawabannya: lantai laut menekuk tajam",
+      "body": "Peneliti menduga lantai laut Pasifik menekuk sangat tajam saat menyelam ke dalam bumi. Itu mungkin sebagian alasan lembah ini begitu dalam.",
+      "icon": "planet",
+      "takeaway": "Ini masih dugaan, bukan kepastian."
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu",
+      "body": "Indonesia dikelilingi laut dan gunung api. Dasar laut yang tak terlihat ternyata masih menyimpan kejutan buat para ilmuwan.",
+      "icon": "bulb",
+      "takeaway": "Bumi kita masih penuh misteri."
+    },
+    {
+      "type": "cta",
+      "title": "Kirim ke temanmu yang suka laut",
+      "body": "Ikuti @alwaysfact_ untuk fakta sains yang bikin melongo. Kirim post ini ke temanmu!",
+      "icon": "rocket"
+    }
+  ],
+  "caption": "Gunung api meletus di dasar laut terdalam di Bumi, padahal itu seharusnya mustahil. Robot menemukan batuan bekas letusannya di dekat Challenger Deep. Kirim ke temanmu yang suka laut!\n\nSumber: Science News",
+  "hashtags": [
+    "sains",
+    "faktasains",
+    "laut",
+    "gunungapi",
+    "alwaysfact",
+    "tahukahkamu",
+    "bumi"
+  ],
+  "claims": [
+    {
+      "text": "Challenger Deep adalah lembah terdalam di palung terdalam di lautan, sekitar 11.000 meter di bawah permukaan laut.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/ocean-deepest-spot-explained-challenger"
+    },
+    {
+      "text": "Peneliti memakai robot kendali jarak jauh Jason/Medea yang turun lebih dari 6.000 meter di sekitar Challenger Deep.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/ocean-deepest-spot-explained-challenger"
+    },
+    {
+      "text": "Ini adalah endapan letusan gunung api terdalam yang pernah ditemukan di Bumi.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/ocean-deepest-spot-explained-challenger"
+    },
+    {
+      "text": "Letusan yang meledak seharusnya tidak mungkin di laut dalam karena tekanan terlalu tinggi bagi gas untuk mengembang.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/ocean-deepest-spot-explained-challenger"
+    },
+    {
+      "text": "Peneliti menduga kedalaman Challenger Deep sebagian disebabkan tekukan yang sangat tajam pada lempeng Pasifik saat tenggelam ke dalam mantel bumi.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/ocean-deepest-spot-explained-challenger"
+    }
+  ],
+  "music_suggestions": [
+    "misterius ambient tempo pelan",
+    "penasaran sinematik tempo sedang",
+    "tenang dalam tempo pelan"
+  ],
+  "id": "040",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/ocean-deepest-spot-explained-challenger",
+      "quote": "Challenger Deep is the deepest valley in the deepest trench in the ocean, plunging to roughly 11,000 meters below sea level.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/ocean-deepest-spot-explained-challenger",
+      "quote": "He and colleagues employed a remotely operated robot called ROV Jason/Medea to descend to more than 6,000 meters and explore the Mariana Trench seafloor around the edges of Challenger Deep.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/ocean-deepest-spot-explained-challenger",
+      "quote": "These are the deepest pyroclastic deposits found on Earth",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/ocean-deepest-spot-explained-challenger",
+      "quote": "Such explosive volcanism shouldn’t be possible in the deep sea; the pressure is too high for any escaping gases to expand, Stern says.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/ocean-deepest-spot-explained-challenger",
+      "quote": "The extreme depth of Challenger Deep, they say, may be at least partially due to an especially sharp bend in the Pacific Plate as it sinks into the mantle.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.sciencenews.org/article/ocean-deepest-spot-explained-challenger",
+  "topic_id": "t2d4c97de",
+  "image_credits": [
+    "Cross_section_of_mariana_trench.svg : Hussong, Fryer (1981), / CC BY-SA 3.0 (Wikimedia Commons)",
+    "Petty Officer 3rd Class Kelsey Adams / Public domain (Wikimedia Commons)",
+    "Petty Officer 3rd Class Kelsey Adams / Public domain (Wikimedia Commons)",
+    "Tisha M. / CC BY 2.0 (Wikimedia Commons)",
+    "Petty Officer 3rd Class Kelsey Adams / Public domain (Wikimedia Commons)",
+    "NOAA Photo Library / CC BY 2.0 (Wikimedia Commons)"
+  ]
+}

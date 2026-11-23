@@ -1,0 +1,133 @@
+{
+  "topic": "Mitos: manusia cuma memakai 10% otaknya",
+  "image_query": "Human brain",
+  "pillar": "Tubuh manusia",
+  "hook_options": [
+    "Kamu cuma pakai 10% otakmu? Ternyata itu mitos",
+    "Mitos 10% otak: kenapa orang masih percaya?"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Kamu cuma pakai 10% otakmu? Ternyata itu mitos",
+      "body": "Banyak orang percaya manusia hanya memakai sebagian kecil otaknya, padahal para ahli bilang itu tidak benar.",
+      "image_query": "Human brain",
+      "icon": "bulb"
+    },
+    {
+      "type": "fact",
+      "title": "Mitos ini sudah tua sekali",
+      "body": "Ide ini sudah beredar puluhan tahun. Salah satu asalnya dari tulisan William James, tokoh pendiri psikologi modern.",
+      "icon": "clock",
+      "takeaway": "Mitos ini lahir dari kalimat lama yang disalahpahami."
+    },
+    {
+      "type": "fact",
+      "title": "Yang ditulis tokoh itu",
+      "body": "James menulis bahwa kita hanya memakai sebagian kecil dari sumber daya mental dan fisik kita. Itu soal potensi, bukan soal bagian otak.",
+      "icon": "magnifier",
+      "takeaway": "Potensi berbeda dari bagian otak yang bekerja."
+    },
+    {
+      "type": "fact",
+      "title": "Foto otak bisa menipu",
+      "body": "Di foto pemindai otak, ada bagian yang menyala dan ada yang gelap. Jadi orang mengira yang gelap sedang mati.",
+      "image_query": "fMRI brain scan",
+      "takeaway": "Yang gelap bukan berarti tidak bekerja."
+    },
+    {
+      "type": "fact",
+      "title": "Yang gelap tetap bekerja",
+      "body": "Bagian yang tidak menyala hanya kurang aktif dibanding kondisi lain. Bukan berarti tidak aktif sama sekali.",
+      "icon": "atom",
+      "takeaway": "Menyala artinya lebih aktif, bukan satu-satunya yang aktif."
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu",
+      "body": "Otakmu bekerja hampir sepanjang waktu, bahkan saat kamu tidur. Jadi tidak ada bagian otak cadangan yang perlu dibangunkan.",
+      "icon": "heart",
+      "takeaway": "Kamu sudah memakai seluruh otakmu."
+    },
+    {
+      "type": "cta",
+      "title": "Kirim ke temanmu yang masih percaya",
+      "body": "Ikuti @alwaysfact_ untuk fakta sains yang mengejutkan. Kirim post ini ke teman yang masih percaya mitos otak!",
+      "icon": "rocket"
+    }
+  ],
+  "caption": "Kamu cuma pakai 10% otakmu? Ternyata itu mitos. Para ahli menyebut kita memakai seluruh otak hampir sepanjang waktu, bahkan saat tidur. Kirim ke temanmu yang masih percaya!\n\nSumber: The Guardian (wawancara Dr Mary Spiller, University of East London)",
+  "hashtags": [
+    "sains",
+    "faktasains",
+    "otak",
+    "mitos",
+    "alwaysfact",
+    "tahukahkamu",
+    "psikologi"
+  ],
+  "claims": [
+    {
+      "text": "Menurut ahli psikologi, kita memakai seluruh otak hampir sepanjang waktu, bahkan saat tidur.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/lifeandstyle/2026/nov/23/is-it-true-we-only-use-10-per-cent-brain"
+    },
+    {
+      "text": "Bagian otak yang tidak menyala di foto pemindai bukan berarti tidak aktif; itu hanya bagian yang kurang aktif dibanding kondisi lain.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/lifeandstyle/2026/nov/23/is-it-true-we-only-use-10-per-cent-brain"
+    },
+    {
+      "text": "Asal mitos ini sebagian dapat ditelusuri ke tulisan William James, salah satu pendiri psikologi modern, yang menyebut kita hanya memakai sebagian kecil sumber daya mental dan fisik kita.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/lifeandstyle/2026/nov/23/is-it-true-we-only-use-10-per-cent-brain"
+    }
+  ],
+  "music_suggestions": [
+    "santai ceria tempo sedang",
+    "penasaran minimalis tempo pelan",
+    "ringan playful tempo sedang"
+  ],
+  "id": "039",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.theguardian.com/lifeandstyle/2026/nov/23/is-it-true-we-only-use-10-per-cent-brain",
+      "quote": "We use all of our brains pretty much all of the time. Even when we’re sleeping.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.theguardian.com/lifeandstyle/2026/nov/23/is-it-true-we-only-use-10-per-cent-brain",
+      "quote": "The sections that aren’t lit up aren’t inactive,” she says. “When we’re comparing the brain in two different conditions, the areas highlighted are simply the ones that are more active in one condition than the other.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.theguardian.com/lifeandstyle/2026/nov/23/is-it-true-we-only-use-10-per-cent-brain",
+      "quote": "Spiller says the myth’s origins can partly be traced to the work of William James, one of the founders of modern psychology",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.theguardian.com/lifeandstyle/2026/nov/23/is-it-true-we-only-use-10-per-cent-brain",
+  "topic_id": "t373c1cc8",
+  "image_credits": [
+    "Gaetan Lee from London, UK / CC BY 2.0 (Wikimedia Commons)",
+    "Mustapha Rasheedah / CC0 (Wikimedia Commons)",
+    "Chickensaresocute / CC BY-SA 2.5 (Wikimedia Commons)",
+    "Department of Radiology, Uppsala University Hospital. Upload / CC0 (Wikimedia Commons)"
+  ]
+}
