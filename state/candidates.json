@@ -1,5 +1,75 @@
 [
   {
+    "id": "td3a74bec",
+    "origin": "feed",
+    "title": "Kebakaran pabrik permen di Banten: Tim evakuasi kumpulkan bagian tubuh para korban tewas dalam 24 kantong jenazah",
+    "url": "https://www.bbc.com/indonesia/articles/cmx2r5l21r6lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Pabrik permen milik PT. Fonusa Agung Mulia di Banten, mengalami kebakaran, pada Sabtu (21/11). Korban tewas diyakini mencapai puluhan orang.",
+    "source": "BBC Indonesia",
+    "published": "2026-11-23T01:44:30+00:00",
+    "text_file": "state/sources/td3a74bec.txt"
+  },
+  {
+    "id": "tca50e279",
+    "origin": "feed",
+    "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+    "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+    "source": "BBC Science",
+    "published": "2026-11-23T00:50:35+00:00",
+    "text_file": "state/sources/tca50e279.txt"
+  },
+  {
+    "id": "ta002a078",
+    "origin": "feed",
+    "title": "'Juan pulang, anakmu sudah lahir!' – Jerit pilu istri mencari keadilan suami ABK yang tewas tanpa kepala di 'neraka kedua', kapal ikan China bendera Rusia",
+    "url": "https://www.bbc.com/indonesia/articles/cz6z9x11pywo?at_medium=RSS&at_campaign=rss",
+    "summary": "Enam ABK melompat ke laut untuk melarikan diri dari kondisi kerja yang disebut \"neraka kedua\", namun hanya Juanna Bay yang tak kembali. BBC News Indonesia menelusuri dugaan perdagangan orang, perbudakan, dan misteri kematiannya yang hingga kini belum terpecahkan.",
+    "source": "BBC Indonesia",
+    "published": "2026-11-23T00:34:47+00:00",
+    "text_file": "state/sources/ta002a078.txt"
+  },
+  {
+    "id": "t04809b1f",
+    "origin": "feed",
+    "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
+    "url": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
+    "summary": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drug Patients who are eligible for potentially life-changing weight-loss injections on the NHS risk missing out after most integrated care boards (ICBs) in England withdrew funding for GP services, an investigation has found. The inquiry, conducted by the GP magazine Pulse, found that 21 of 3",
+    "source": "The Guardian Science",
+    "published": "2026-11-23T00:01:40+00:00",
+    "text_file": "state/sources/t04809b1f.txt"
+  },
+  {
+    "id": "td693ca95",
+    "origin": "feed",
+    "title": "Reliance on technology is eroding trust in one another and ability to tell what is even real, expert warns",
+    "url": "https://phys.org/news/2026-11-reliance-technology-eroding-ability-real.html",
+    "summary": "The danger of generative AI is not some distant algorithmic failure; it is the slow erosion of our ability to tell what's real, to trust our institutions and to think for ourselves at all. These are the warnings of Mateusz Łabuz in his new book, The End of Reality.",
+    "source": "Phys.org",
+    "published": "2026-11-23T00:00:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t8f3bd85f",
+    "origin": "feed",
+    "title": "Sering pakai ChatGPT? Waspadai dampaknya pada kemampuan berpikir",
+    "url": "https://www.antaranews.com/berita/5871463/sering-pakai-chatgpt-waspadai-dampaknya-pada-kemampuan-berpikir",
+    "summary": "Perkembangan kecerdasan buatan atau artificial intelligence (AI) membuat berbagai aktivitas manusia menjadi lebih ...",
+    "source": "Antara Tekno",
+    "published": "2026-11-22T22:54:20+00:00",
+    "text_file": "state/sources/t8f3bd85f.txt"
+  },
+  {
+    "id": "t318cd349",
+    "origin": "feed",
+    "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+    "summary": "An Ariane 6 rocket will launch 36 Amazon broadband satellites to orbit early on Nov. 23, just eight days after a ULA Vulcan Centaur failed during its mission for Amazon. Watch it live here.",
+    "source": "Space.com",
+    "published": "2026-11-22T22:00:00+00:00",
+    "text_file": "state/sources/t318cd349.txt"
+  },
+  {
     "id": "t6bfc2203",
     "origin": "feed",
     "title": "Common medications may secretly rewire your gut, with effects lasting for years",
@@ -50,16 +120,6 @@
     "text_file": "state/sources/t48074c1f.txt"
   },
   {
-    "id": "tca50e279",
-    "origin": "feed",
-    "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-    "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-    "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-    "source": "BBC Science",
-    "published": "2026-11-22T18:17:59+00:00",
-    "text_file": "state/sources/tca50e279.txt"
-  },
-  {
     "id": "tf93661cb",
     "origin": "feed",
     "title": "Atmospheric organic nitrogen emerges as a major nutrient source for global oceans",
@@ -78,6 +138,16 @@
     "source": "Phys.org",
     "published": "2026-11-22T16:40:01+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t65c20eee",
+    "origin": "feed",
+    "title": "Opini: Badak Jawa Identitas, Bukan Ikan Hias",
+    "url": "https://mongabay.co.id/2026/11/22/opini-badak-jawa-identitas-bukan-ikan-hias/",
+    "summary": "Gagasan memindahkan (relokasi) badak Jawa (Rhinoceros sondaicus) dari habitat alamiahnya di Taman Nasional Ujung Kulon (TNUK), Banten, ke kawasan lain seperti Alas Purwo, Banyuwangi, Jawa Timur, sering kali tersaji dalam narasi teknokratis-ekologis yang seolah-olah rasional, objektif, dan bebas nilai. Dalam cara pandang positivistik-preservatif, satwa langka diperlakukan layaknya komoditas atau en",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-22T16:30:15+00:00",
+    "text_file": "state/sources/t65c20eee.txt"
   },
   {
     "id": "t55e28096",
@@ -150,14 +220,33 @@
     "text_file": "state/sources/t07b05618.txt"
   },
   {
+    "id": "tf5cf9f0d",
+    "origin": "feed",
+    "title": "Segini kapasitas penyimpanan yang dibutuhkan untuk mainkan GTA VI",
+    "url": "https://www.antaranews.com/berita/5871239/segini-kapasitas-penyimpanan-yang-dibutuhkan-untuk-mainkan-gta-vi",
+    "summary": "Grand Theft Auto VI (GTA VI) resmi dirilis pada 19 November 2026. Gim terbaru besutan Rockstar Games ini langsung ...",
+    "source": "Antara Tekno",
+    "published": "2026-11-22T14:15:39+00:00",
+    "text_file": "state/sources/tf5cf9f0d.txt"
+  },
+  {
+    "id": "t4f473dfd",
+    "origin": "feed",
+    "title": "Mengenal Leonida, negara bagian fiktif yang jadi latar dunia GTA VI",
+    "url": "https://www.antaranews.com/berita/5871235/mengenal-leonida-negara-bagian-fiktif-yang-jadi-latar-dunia-gta-vi",
+    "summary": "Grand Theft Auto VI (GTA VI) resmi dirilis pada 19 November 2026. Gim terbaru besutan Rockstar Games ini membawa pemain ...",
+    "source": "Antara Tekno",
+    "published": "2026-11-22T14:13:19+00:00",
+    "text_file": "state/sources/t4f473dfd.txt"
+  },
+  {
     "id": "te3f17107",
     "origin": "feed",
     "title": "Milky Way simulation reaches record resolution with the help of three supercomputers",
     "url": "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html",
     "summary": "A team of researchers, including those from the University of Tokyo, have developed a new way to model the Milky Way at a level of detail never achieved before. They simulated the entire galaxy down to the level of individual stars by combining the power of some of the world's most powerful supercomputers using an AI-accelerated model that works on a variety of hardware platforms. Their methods ca",
     "source": "Phys.org",
-    "published": "2026-11-22T14:00:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-22T14:00:01+00:00"
   },
   {
     "id": "tb37954f1",
@@ -168,6 +257,16 @@
     "source": "Live Science",
     "published": "2026-11-22T14:00:00+00:00",
     "text_file": "state/sources/tb37954f1.txt"
+  },
+  {
+    "id": "tb1fb82b7",
+    "origin": "feed",
+    "title": "Kisah Amransyah, Petani di Banggai Kepulauan yang Mengabdikan Hidupnya untuk Satwa Langka",
+    "url": "https://mongabay.co.id/2026/11/22/kisah-amransyah-petani-di-banggai-kepulauan-yang-mengabdikan-hidupnya-untuk-satwa-langka/",
+    "summary": "Di Desa Patukuki, Kecamatan Peling Tengah, Kabupaten Banggai Kepulauan, Sulawesi Tengah, seorang petani memilih cara berbeda untuk menjaga hutan. Amransyah, atau Amran, tidak hanya berkebun, tetapi juga membeli lahan warga agar habitat satwa endemik tetap terlindungi. Lahan yang dibelinya tidak banyak diubah. Pepohonan dibiarkan tumbuh, sementara tanaman pala dikembangkan tanpa harus menebang poho",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-22T13:00:57+00:00",
+    "text_file": "state/sources/tb1fb82b7.txt"
   },
   {
     "id": "t180a91a9",
@@ -309,6 +408,26 @@
     "text_file": "state/sources/tf3a74cd5.txt"
   },
   {
+    "id": "t3706a467",
+    "origin": "feed",
+    "title": "Pemerintah Cabut Izin PT RAPP",
+    "url": "https://mongabay.co.id/2026/11/22/pemerintah-cabut-izin-pt-rapp/",
+    "summary": "Pemerintah cabut izin raksasa kayu di Indonesia, PT Riau Andalan Pulp and Paper (RAPP) seluas 338.536 hektar. Ia mencakup seluruh area yang tersebar di Riau, Kabupaten Pelalawan, Siak, Kuantan Singingi, Indragiri Hulu, Kampar, hingga Kepulauan Meranti. Satuan Tugas Penertiban Kawasan Hutan (Satgas PKH), lakukan penyegelan di lapangan. Berdasarkan SK Menhut 971/2026 tertanggal 19 Nov 2026, […] The ",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-22T10:24:04+00:00",
+    "text_file": "state/sources/t3706a467.txt"
+  },
+  {
+    "id": "td95f2ea4",
+    "origin": "feed",
+    "title": "Pertaruhan Masa Depan Badak Jawa di Ujung Kulon",
+    "url": "https://mongabay.co.id/2026/11/22/pertaruhan-masa-depan-badak-jawa-di-ujung-kulon/",
+    "summary": "Paket itu tiba di Paris pada 1821. Isinya, kulit dan kerangka seekor badak bercula satu dari Jawa. Kiriman disertai catatan Pierre Medard Diard tentang badak bercula satu. Pengirimnya Diard sendiri. Diard merupakan seorang naturalis berkebangsaan Prancis, pengumpul spesimen yang melakukan eksplorasi zoologi di Asia Tenggara termasuk Jawa. Setelah mempelajari spesimen, Anselme Gaetan Desmaret, seor",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-22T10:10:46+00:00",
+    "text_file": "state/sources/td95f2ea4.txt"
+  },
+  {
     "id": "t1276d20d",
     "origin": "feed",
     "title": "Which came first: black holes or galaxies?",
@@ -329,6 +448,16 @@
     "text_file": "state/sources/t7751abab.txt"
   },
   {
+    "id": "t8d5b5156",
+    "origin": "feed",
+    "title": "Perpustakaan raksasa India diselidiki usai beli buku-buku yang diduga dibuat AI",
+    "url": "https://www.bbc.com/indonesia/articles/cje39194n5gro?at_medium=RSS&at_campaign=rss",
+    "summary": "Pemerintah Tamil Nadu telah memerintahkan audit internal terhadap koleksi perpustakaan di seluruh negara bagian tersebut.",
+    "source": "BBC Indonesia",
+    "published": "2026-11-22T08:15:48+00:00",
+    "text_file": "state/sources/t8d5b5156.txt"
+  },
+  {
     "id": "t0ba1f946",
     "origin": "feed",
     "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
@@ -337,6 +466,16 @@
     "source": "BBC Science",
     "published": "2026-11-22T06:54:06+00:00",
     "text_file": "state/sources/t0ba1f946.txt"
+  },
+  {
+    "id": "t0c257a1a",
+    "origin": "feed",
+    "title": "5 alasan orang lebih nyaman curhat kepada AI daripada manusia",
+    "url": "https://www.antaranews.com/berita/5870747/5-alasan-orang-lebih-nyaman-curhat-kepada-ai-daripada-manusia",
+    "summary": "Kehadiran kecerdasan buatan atau artificial intelligence (AI) kini tidak hanya dimanfaatkan untuk membantu pekerjaan, ...",
+    "source": "Antara Tekno",
+    "published": "2026-11-22T06:48:29+00:00",
+    "text_file": "state/sources/t0c257a1a.txt"
   },
   {
     "id": "t65f33be8",
@@ -349,6 +488,16 @@
     "text_file": "state/sources/t65f33be8.txt"
   },
   {
+    "id": "t0e829e65",
+    "origin": "feed",
+    "title": "Green line di layar HP? Coba 5 cara mengatasinya sebelum servis",
+    "url": "https://www.antaranews.com/berita/5870731/green-line-di-layar-hp-coba-5-cara-mengatasinya-sebelum-servis",
+    "summary": "Munculnya garis vertikal atau horizontal secara tiba-tiba pada layar ponsel yang sering dikenal sebagai green line atau ...",
+    "source": "Antara Tekno",
+    "published": "2026-11-22T06:37:29+00:00",
+    "text_file": "state/sources/t0e829e65.txt"
+  },
+  {
     "id": "t9884dabb",
     "origin": "feed",
     "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
@@ -359,6 +508,56 @@
     "text_file": "state/sources/t9884dabb.txt"
   },
   {
+    "id": "tbe4a6973",
+    "origin": "feed",
+    "title": "Menanti Keseriusan dan Sinergi Berantas Perdagangan Satwa Ilegal",
+    "url": "https://mongabay.co.id/2026/11/22/menanti-keseriusan-dan-sinergi-berantas-perdagangan-satwa-ilegal/",
+    "summary": "Pemberantasan perdagangan satwa ilegal dilindungi masih jadi pekerjaan besar. Tanpa ada penguakan aktor, dan penguatan keamanan kehutanan, tempat satwa berasal, praktik ini akan terus langgeng. Terbaru, Kementerian Kehutanan Direktorat Jenderal Penegakan Hukum Kehutanan (Ditjen Gakkumhut) Kementerian Kehutanan memusnahkan 779 kilogram sisik trenggiling, satu lembar kulit harimau sumatera, tiga kan",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-22T05:00:20+00:00",
+    "text_file": "state/sources/tbe4a6973.txt"
+  },
+  {
+    "id": "tbe53f1e1",
+    "origin": "feed",
+    "title": "Mengenal Tradisi Perempuan Halmahera Tengah Mencari Ikan",
+    "url": "https://mongabay.co.id/2026/11/22/mengenal-tradisi-perempuan-halmahera-tengah-mencari-ikan/",
+    "summary": "Angin selatan bertiup kencang di pesisir Desa Banemo, Kecamatan Patani Barat, Halmahera Tengah, Maluku Utara, akhir September 2026. Tiga perempuan sebaya, Nurida Masin, Muhlisa Muksin, dan Mariani Hairil , tengah bersiap-siap untuk fakawael atau vauf (memancing). Sudah sejak lama, perempuan bertetangga ini memancing tatkala suami mereka bekerja di kebun atau serabutan. Mereka biasanya memilih pera",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-22T04:37:45+00:00",
+    "text_file": "state/sources/tbe53f1e1.txt"
+  },
+  {
+    "id": "t53060625",
+    "origin": "feed",
+    "title": "Bumi punya 'bulan mini' baru, apa itu?",
+    "url": "https://www.bbc.com/indonesia/articles/cxyvdyvmrrgpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Bulan mini 2026 QQ8 ditemukan pada bulan Agustus, tetapi itu bukan satu-satunya pendamping langit sementara yang pernah dimiliki Bumi.",
+    "source": "BBC Indonesia",
+    "published": "2026-11-22T03:42:35+00:00",
+    "text_file": "state/sources/t53060625.txt"
+  },
+  {
+    "id": "t5930605d",
+    "origin": "feed",
+    "title": "Dari Vice City hingga Mount Kalaga, ini 10 lokasi di GTA VI",
+    "url": "https://www.antaranews.com/berita/5870491/dari-vice-city-hingga-mount-kalaga-ini-10-lokasi-di-gta-vi",
+    "summary": "Grand Theft Auto VI (GTA VI) resmi dirilis pada 19 November 2026. Gim terbaru besutan Rockstar Games ini membawa pemain ...",
+    "source": "Antara Tekno",
+    "published": "2026-11-22T02:29:19+00:00",
+    "text_file": "state/sources/t5930605d.txt"
+  },
+  {
+    "id": "tfd8269e6",
+    "origin": "feed",
+    "title": "'Mereka takut bumerang akan berbalik ke arah mereka' – Mengapa UU Perampasan Aset tidak mengatur perampasan aset?",
+    "url": "https://www.bbc.com/indonesia/articles/c6dj1ypmpmx1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Regulasi agar pejabat negara membuktikan legalitas kekayaannya telah menjadi polemik di berbagai negara selama bertahun-tahun. Apa pro-kontranya?",
+    "source": "BBC Indonesia",
+    "published": "2026-11-22T01:23:42+00:00",
+    "text_file": "state/sources/tfd8269e6.txt"
+  },
+  {
     "id": "t82c4c0f6",
     "origin": "feed",
     "title": "Single feathers may reveal whether eastern black rails stay in Texas or migrate north",
@@ -366,6 +565,16 @@
     "summary": "High-stepping like you're in a marching band while dragging a rope through a wetland at night can make you wonder about your life choices. Several plastic bottles, each filled with two or three noisy cat toys, are attached to the rope. It's pitch black, and all I can hear are the cat toys jingling, the mosquitoes buzzing in my ears and the wetland grasses bouncing in the wind.",
     "source": "Phys.org",
     "published": "2026-11-22T01:00:01+00:00"
+  },
+  {
+    "id": "t7e9889a4",
+    "origin": "feed",
+    "title": "Cerita Perempuan Ujung Betok Kelola Hasil Laut di Tengah Beragam Tantangan",
+    "url": "https://mongabay.co.id/2026/11/21/cerita-perempuan-ujung-betok-kelola-hasil-laut-di-tengah-beragam-tantangan/",
+    "summary": "Suara lesung bersahutan dari depan rumah Samri di Dusun Ujung Betok, Desa Pemongkong, Kecamatan Jerowaru, Kabupaten Lombok Timur, Nusa Tenggara Barat (NTB). Minggu (11/10/26) siang itu, bersama Semandawati dan ibu-ibu lainnya, Samri tengah menumbuk udang rebon untuk mengolahnya menjadi terasi. Bagi perempuan di kampung pesisir itu, mengolah udang kecil menjadi terasi bukan sekadar pekerjaan rumah ",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-21T22:56:23+00:00",
+    "text_file": "state/sources/t7e9889a4.txt"
   },
   {
     "id": "t15b6572e",
@@ -406,15 +615,6 @@
     "text_file": "state/sources/t50f82e9b.txt"
   },
   {
-    "id": "t2309e9c8",
-    "origin": "feed",
-    "title": "Dropping degree requirements linked to higher pay for workers without degrees",
-    "url": "https://phys.org/news/2026-11-degree-requirements-linked-higher-pay.html",
-    "summary": "The requirements set by human resources (HR) greatly influence the professional opportunities available to different segments of the population. For instance, if a job requires applicants to have earned a bachelor's or master's degree in a relevant subject, people without them may be excluded from the selection process, even if they have gained relevant skills through experience or professional tr",
-    "source": "Phys.org",
-    "published": "2026-11-21T18:20:01+00:00"
-  },
-  {
     "id": "t158994b8",
     "origin": "feed",
     "title": "International UN talks on controlling use of autonomous weapons collapse",
@@ -451,8 +651,7 @@
     "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-237-a-fond-farewell",
     "summary": "On Episode 237 of This Week In Space, Tariq Malik and Rod Pyle sign off — temporarily — with a look at space news, a bushel of space jokes, and a recap of some of our funniest moments.",
     "source": "Space.com",
-    "published": "2026-11-21T15:15:26+00:00",
-    "text_file": "state/sources/t86da9d6d.txt"
+    "published": "2026-11-21T15:15:26+00:00"
   },
   {
     "id": "t5c0487ac",
@@ -492,6 +691,16 @@
     "source": "ScienceDaily",
     "published": "2026-11-21T14:53:40+00:00",
     "text_file": "state/sources/t88875db0.txt"
+  },
+  {
+    "id": "tf745e5fd",
+    "origin": "feed",
+    "title": "Layar laptop hitam total tapi masih menyala? Ini 4 cara mengatasinya",
+    "url": "https://www.antaranews.com/berita/5870107/layar-laptop-hitam-total-tapi-masih-menyala-ini-4-cara-mengatasinya",
+    "summary": "Layar laptop yang tiba-tiba gelap total (black screen) padahal lampu indikator daya menyala atau suara kipas terdengar ...",
+    "source": "Antara Tekno",
+    "published": "2026-11-21T14:44:01+00:00",
+    "text_file": "state/sources/tf745e5fd.txt"
   },
   {
     "id": "t7abc5bc9",
@@ -644,6 +853,16 @@
     "published": "2026-11-21T10:00:00+00:00"
   },
   {
+    "id": "tc910c461",
+    "origin": "feed",
+    "title": "Mengapa adik saya mengidap skizofrenia, tapi saya tidak? Ilmuwan habiskan lebih dari 20 tahun mencari jawaban",
+    "url": "https://www.bbc.com/indonesia/articles/cm8e0wwj4rlyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Consuelo Walss-Bass mendedikasikan sebagian besar kariernya untuk meneliti penyebab genetik gangguan kejiwaan. Dia termotivasi oleh pengalaman yang dialami keluarganya sendiri.",
+    "source": "BBC Indonesia",
+    "published": "2026-11-21T09:22:19+00:00",
+    "text_file": "state/sources/tc910c461.txt"
+  },
+  {
     "id": "tf7804185",
     "origin": "feed",
     "title": "The British island that made a deal with nature",
@@ -654,6 +873,34 @@
     "text_file": "state/sources/tf7804185.txt"
   },
   {
+    "id": "t5b331fd3",
+    "origin": "feed",
+    "title": "Kisah warga membuka ruang baca di emperan dan gang – 'Bukannya membaca itu hak setiap orang?'",
+    "url": "https://www.bbc.com/indonesia/articles/c5zjre1w1y41o?at_medium=RSS&at_campaign=rss",
+    "summary": "Raja Saut Martua Sinaga, yang sehari-harinya berdagang jajanan cilok, tak hanya menawarkan makanan ringan bagi warga, tapi juga buku-buku yang bisa dibaca di tempat oleh pembelinya. Penggemar buku itu bilang, tak seharusnya buku dihubungkan dengan strata seseorang.",
+    "source": "BBC Indonesia",
+    "published": "2026-11-21T07:28:13+00:00",
+    "text_file": "state/sources/t5b331fd3.txt"
+  },
+  {
+    "id": "t21aaca29",
+    "origin": "feed",
+    "title": "Telur Kobra Raja di Himalaya Bergantung pada Gundukan Daun Kering yang Dibangun sang Induk",
+    "url": "https://mongabay.co.id/2026/11/21/telur-kobra-raja-di-himalaya-bergantung-pada-gundukan-daun-kering-yang-dibangun-sang-induk/",
+    "summary": "Banyak reptil bertelur lalu meninggalkan telurnya begitu saja, sehingga nasib telur sepenuhnya ditentukan oleh tempat ia diletakkan. Suhu di tempat itu memengaruhi lamanya masa penetasan, keberhasilan telur menetas, ukuran anak yang keluar, hingga kebugaran dan perilakunya setelah lahir. Karena itu, cara sebuah spesies memilih atau membuat tempat bertelur menjadi bagian penting dari strategi berke",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-21T06:46:03+00:00"
+  },
+  {
+    "id": "t12d5a390",
+    "origin": "feed",
+    "title": "7 Sorotan dalam Polemik Rencana Pemindahan Badak Jawa",
+    "url": "https://mongabay.co.id/2026/11/21/7-sorotan-dalam-polemik-rencana-pemindahan-badak-jawa/",
+    "summary": "Badak jawa (Rhinoceros sondaicus) merupakan salah satu mamalia paling langka di dunia. Populasinya diperkirakan kurang dari 100 individu dan seluruhnya kini hanya ditemukan di Taman Nasional Ujung Kulon (TNUK), Banten. Kondisi ini membuat kelangsungan hidup badak jawa sangat rentan terhadap bencana alam maupun kebijakan pengelolaan yang keliru. Gagasan mencari habitat kedua bagi badak jawa sebenar",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-21T06:12:06+00:00"
+  },
+  {
     "id": "tdf1655ff",
     "origin": "feed",
     "title": "Beating Ebola takes more than medicine – I saw what worked in west Africa a decade ago | Kayode Akintola",
@@ -662,6 +909,15 @@
     "source": "The Guardian Science",
     "published": "2026-11-21T06:00:53+00:00",
     "text_file": "state/sources/tdf1655ff.txt"
+  },
+  {
+    "id": "t4b94fa45",
+    "origin": "feed",
+    "title": "Fakta-fakta yang tak banyak diketahui tentang Gedung Kunstkring",
+    "url": "https://www.bbc.com/indonesia/articles/cj62pz32ex4no?at_medium=RSS&at_campaign=rss",
+    "summary": "Seperti apa jejak sejarah Gedung Kunstkring menemani perjalanan Jakarta selama lebih dari satu abad?",
+    "source": "BBC Indonesia",
+    "published": "2026-11-21T05:41:41+00:00"
   },
   {
     "id": "td0dffaaf",
@@ -703,6 +959,33 @@
     "text_file": "state/sources/tcbb1999f.txt"
   },
   {
+    "id": "tff022cd0",
+    "origin": "feed",
+    "title": "GTA VI sudah rilis! Ini karakter-karakternya yang harus Anda ketahui",
+    "url": "https://www.antaranews.com/berita/5869195/gta-vi-sudah-rilis-ini-karakter-karakternya-yang-harus-anda-ketahui",
+    "summary": "Setelah penantian panjang selama lebih dari satu dekade, Grand Theft Auto VI (GTA VI) akhirnya resmi meluncur pada 19 ...",
+    "source": "Antara Tekno",
+    "published": "2026-11-21T04:41:10+00:00"
+  },
+  {
+    "id": "t034d70a7",
+    "origin": "feed",
+    "title": "10 fakta unik GTA VI yang perlu diketahui sebelum jelajahi Vice City",
+    "url": "https://www.antaranews.com/berita/5869191/10-fakta-unik-gta-vi-yang-perlu-diketahui-sebelum-jelajahi-vice-city",
+    "summary": "Grand Theft Auto VI (GTA VI) akhirnya resmi dirilis pada 19 November 2026. Setelah penantian selama kurang lebih 13 ...",
+    "source": "Antara Tekno",
+    "published": "2026-11-21T04:39:42+00:00"
+  },
+  {
+    "id": "t62a9e953",
+    "origin": "feed",
+    "title": "Setahun Penjara untuk Pengusaha Perusak Hutan Mangrove Batam",
+    "url": "https://mongabay.co.id/2026/11/21/setahun-penjara-untuk-pengusaha-perusak-hutan-mangrove-batam/",
+    "summary": "Pengadilan Negeri (PN) Batam menghukum Dju Seng, pemilik PT Tunas Makmur Sukses (TMS) satu tahun penjara dan denda Rp1 miliar atas perusakan hutan mangrove di Tanjung Gundap IV, Kelurahan Tembesi, Kecamatan Sagulung. Dia terbukti sah dan meyakinkan melakukan tindak pidana mengerjakan, menggunakan, atau menduduki kawasan hutan secara tidak sah. Dalam sidang Kamis (12/11/26) itu, majelis […] The pos",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-21T03:40:35+00:00"
+  },
+  {
     "id": "tab785838",
     "origin": "feed",
     "title": "Extreme rainfalls flood Sri Lanka’s coastal city as wetlands, drains vanish",
@@ -713,6 +996,24 @@
     "text_file": "state/sources/tab785838.txt"
   },
   {
+    "id": "t9bc0679f",
+    "origin": "feed",
+    "title": "Lima Spesies Badak di Dunia, Mengapa Nasibnya Berbeda?",
+    "url": "https://mongabay.co.id/short-article/2026/11/lima-spesies-badak-di-dunia-mengapa-nasibnya-berbeda/",
+    "summary": "Perburuan liar masih menjadi ancaman serius bagi kelangsungan hidup badak di dunia. Meski berbagai upaya konservasi telah dilakukan, tiga dari lima spesies badak masih mengalami penurunan populasi. Laporan TRAFFIC dan International Union for Conservation of Nature (IUCN) pada tahun 2025 menunjukkan bahwa tingginya permintaan cula badak, terutama di Asia Timur, masih mendorong perdagangan ilegal. C",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-21T03:00:21+00:00"
+  },
+  {
+    "id": "t0a8356e6",
+    "origin": "feed",
+    "title": "Bukan Hanya Badak Jawa, Ujung Kulon Juga Rumah Kucing Liar Dilindungi",
+    "url": "https://mongabay.co.id/short-article/2026/11/bukan-hanya-badak-jawa-ujung-kulon-juga-rumah-kucing-liar-dilindungi/",
+    "summary": "Taman Nasional Ujung Kulon, Banten, yang identik dengan badak jawa (Rhinoceros sondaicus), menyimpan kekayaan satwa liar yang tidak selalu mudah dijumpai. Salah satunya adalah kucing kuwuk atau macan akar, kucing liar dilindungi yang keberadaannya berhasil didokumentasikan di kawasan peralihan antara hutan dan persawahan warga. Perjumpaan tersebut terjadi pada Agustus 2025, sekitar pukul 21.00 WIB",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-21T02:22:24+00:00"
+  },
+  {
     "id": "t4c9896fc",
     "origin": "feed",
     "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
@@ -720,6 +1021,25 @@
     "summary": "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected. The instrument could soon reveal Mercury's hidden chemical secrets and transform our understanding of how the solar system's smallest planet formed.",
     "source": "ScienceDaily",
     "published": "2026-11-21T02:11:14+00:00"
+  },
+  {
+    "id": "t4d809a7b",
+    "origin": "feed",
+    "title": "Robert Pattinson adalah James Bond: Pilihan tak terduga untuk era baru 007",
+    "url": "https://theconversation.com/robert-pattinson-adalah-james-bond-pilihan-tak-terduga-untuk-era-baru-007-297165",
+    "summary": "Proses ‘casting’ yang panjang sukses mendulang publisitas gratis yang menguntungkan di tengah minimnya kabar terbaru soal Bond 26.",
+    "source": "The Conversation Indonesia",
+    "published": "2026-11-21T02:04:08+00:00",
+    "text_file": "state/sources/t4d809a7b.txt"
+  },
+  {
+    "id": "t52ae3a14",
+    "origin": "feed",
+    "title": "Listyo Sigit terancam dijerat pasal makar – Bagaimana mengaitkan penyadapan dengan perbuatan makar?",
+    "url": "https://www.bbc.com/indonesia/articles/cm62pkdeele0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Pakar hukum pidana menyebut kepolisian harus membuktikan unsur kausalitas atau sebab-akibat dari tindakan penyadapan ilegal yang diduga dilakukan empat jenderal Polri terhadap Presiden Prabowo mengarah pada kejahatan makar agar tidak menimbulkan narasi liar di masyarakat soal konflik kepentingan.",
+    "source": "BBC Indonesia",
+    "published": "2026-11-21T01:47:53+00:00"
   },
   {
     "id": "tefaa6362",
@@ -789,15 +1109,6 @@
     "source": "New Scientist",
     "published": "2026-11-20T21:24:57+00:00",
     "text_file": "state/sources/td4ba65c1.txt"
-  },
-  {
-    "id": "t6157bac5",
-    "origin": "feed",
-    "title": "On this day in space! Nov. 20, 1998: Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
-    "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026",
-    "summary": "On Nov. 20, 1998, the first piece of the International Space Station launched into orbit. It was just one piece, but the foundation of something much larger.",
-    "source": "Space.com",
-    "published": "2026-11-20T21:19:33+00:00"
   },
   {
     "id": "tce0488e4",
@@ -1154,6 +1465,15 @@
     "published": "2026-11-20T08:00:00+00:00"
   },
   {
+    "id": "t44bd4ce3",
+    "origin": "feed",
+    "title": "Pertemuan Trump, Putin dan Xi 'sarat simbolisme, tapi minim hasil nyata'",
+    "url": "https://www.bbc.com/indonesia/articles/ckjwj4x8ypjyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Donald Trump menyebut Vladimir Putin sebagai \"sahabatnya\" sebelum keduanya menggelar pertemuan bersama Presiden China, Xi Jinping, di Shenzhen.",
+    "source": "BBC Indonesia",
+    "published": "2026-11-20T06:07:46+00:00"
+  },
+  {
     "id": "t7d625a5c",
     "origin": "feed",
     "title": "APOD: 2026 November 20 – V-G-R",
@@ -1172,14 +1492,61 @@
     "published": "2026-11-20T05:01:00+00:00"
   },
   {
+    "id": "t0f0a6e20",
+    "origin": "feed",
+    "title": "Pemerintah klaim layar interaktif jadi solusi perbaikan pendidikan - 'Tidak ada listrik di sini, anak-anak lebih butuh buku’",
+    "url": "https://www.bbc.com/indonesia/articles/cr86zn2ngx8jo?at_medium=RSS&at_campaign=rss",
+    "summary": "Sejak dilantik pada 20 Oktober 2024, pemerintahan Prabowo Subianto-Gibran Rakabuming mengedepankan proyek pengadaan Interactive Flat Panel (IFP) atau layar datar interaktif sebagai salah satu upaya meningkatkan mutu pendidikan. Apakah benar pengadaan layar datar interaktif ini bisa meningkatkan mutu pendidikan?",
+    "source": "BBC Indonesia",
+    "published": "2026-11-20T04:31:56+00:00"
+  },
+  {
+    "id": "tf38782b7",
+    "origin": "feed",
+    "title": "Klinik Kopdes Merah Putih berisiko bikin BPJS Kesehatan kian merugi dari segala sisi",
+    "url": "https://theconversation.com/klinik-kopdes-merah-putih-berisiko-bikin-bpjs-kesehatan-kian-merugi-dari-segala-sisi-296496",
+    "summary": "Memaksakan kerja sama BPJS dengan klinik kopdes berisiko mengganggu kelangsungan ekosistem BPJS Kesehatan.",
+    "source": "The Conversation Indonesia",
+    "published": "2026-11-20T04:01:02+00:00",
+    "text_file": "state/sources/tf38782b7.txt"
+  },
+  {
+    "id": "t55458e18",
+    "origin": "feed",
+    "title": "Perang Iran dan Pemilu AS mempengaruhi negosiasi dan percakapan energi fosil di COP 31",
+    "url": "https://theconversation.com/perang-iran-dan-pemilu-as-mempengaruhi-negosiasi-dan-percakapan-energi-fosil-di-cop-31-296844",
+    "summary": "Negosiasi iklim beberapa tahun terakhir diwarnai kekhawatiran besar bahwa bahan bakar fosil terus menguras anggaran dan mengganggu ketahanan energi serta lingkungan.",
+    "source": "The Conversation Indonesia",
+    "published": "2026-11-20T02:34:20+00:00",
+    "text_file": "state/sources/t55458e18.txt"
+  },
+  {
+    "id": "td075595b",
+    "origin": "feed",
+    "title": "Indonesia mengakui masyarakat adat, tapi menolak perannya melindungi alam",
+    "url": "https://theconversation.com/indonesia-mengakui-masyarakat-adat-tapi-menolak-perannya-melindungi-alam-296511",
+    "summary": "Indonesia masih setengah hati mengakui keberadaan kaum adat di forum global, walaupun masyarakat adat memegang peran penting dalam perlindungan alam.",
+    "source": "The Conversation Indonesia",
+    "published": "2026-11-20T02:33:46+00:00",
+    "text_file": "state/sources/td075595b.txt"
+  },
+  {
+    "id": "t7c8f8c8b",
+    "origin": "feed",
+    "title": "Apa arti putusan bersejarah pengadilan genosida Myanmar bagi Gaza dan kasus-kasus serupa di masa depan",
+    "url": "https://www.bbc.com/indonesia/articles/cm62pk5wkl17o?at_medium=RSS&at_campaign=rss",
+    "summary": "Putusan Mahkamah Internasional yang menyatakan Myanmar telah melakukan genosida terhadap kelompok minoritas Rohingya berpotensi membawa dampak bagi kasus-kasus genosida lainnya, termasuk gugatan yang diajukan Afrika Selatan terhadap Israel terkait perang di Gaza.",
+    "source": "BBC Indonesia",
+    "published": "2026-11-20T01:29:40+00:00"
+  },
+  {
     "id": "t14d658a3",
     "origin": "feed",
     "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
     "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
     "summary": "BepiColombo double probe will map planet’s surface and study its interior to shed light on its unusually large core After a voyage of more than eight years and 6bn miles, a joint European-Japanese space mission has arrived at Mercury and is preparing to swing into orbit around the tiny, barely explored world. The BepiColombo mission will become only the second in history to circle the first rock f",
     "source": "The Guardian Science",
-    "published": "2026-11-20T00:01:15+00:00",
-    "text_file": "state/sources/t14d658a3.txt"
+    "published": "2026-11-20T00:01:15+00:00"
   },
   {
     "id": "t7b38ae8c",
@@ -1370,6 +1737,16 @@
     "published": "2026-11-19T13:49:11+00:00"
   },
   {
+    "id": "te06e3b58",
+    "origin": "feed",
+    "title": "13 years of waiting for GTA VI: what the hype says about how we consume",
+    "url": "https://theconversation.com/13-years-of-waiting-for-gta-vi-what-the-hype-says-about-how-we-consume-296878",
+    "summary": "Beyond the hype around GTA VI lies a broader insight into modern consumer behaviour: consumption does not necessarily begin when we buy a product; it begins the moment we start waiting for it.",
+    "source": "The Conversation Indonesia",
+    "published": "2026-11-19T08:00:55+00:00",
+    "text_file": "state/sources/te06e3b58.txt"
+  },
+  {
     "id": "t3c9480ea",
     "origin": "feed",
     "title": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
@@ -1377,6 +1754,35 @@
     "summary": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at risk Climate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts to delay new scientific reports threaten global cooperation on tackling the crisis, one of the world’s leading climate scientists has warned. Johan Rockström, the ",
     "source": "The Guardian Science",
     "published": "2026-11-19T07:16:45+00:00"
+  },
+  {
+    "id": "t4e018286",
+    "origin": "feed",
+    "title": "GTA VI: Jadi mahakarya legendaris atau kegagalan tragis?",
+    "url": "https://theconversation.com/gta-vi-jadi-mahakarya-legendaris-atau-kegagalan-tragis-296673",
+    "summary": "Di luar riuh ekspektasi seputar GTA VI, fenomena ini mengungkap satu pola perilaku konsumen modern: konsumsi tidak dimulai saat produk dibeli atau dipakai, melainkan sejak kita menantikannya.",
+    "source": "The Conversation Indonesia",
+    "published": "2026-11-19T06:02:12+00:00",
+    "text_file": "state/sources/t4e018286.txt"
+  },
+  {
+    "id": "t9e648f7a",
+    "origin": "feed",
+    "title": "Warga lokal hidupkan Seni Klasik Baru Indonesia, tapi sejarah kerap melupakan mereka",
+    "url": "https://theconversation.com/warga-lokal-hidupkan-seni-klasik-baru-indonesia-tapi-sejarah-kerap-melupakan-mereka-295877",
+    "summary": "Warisan budaya poskolonial dan sumber daya kreatif lokal membawa kemunculan kembali produksi seni klasik di Indonesia setelah ratusan tahun. Sayangnya, kontribusi warga lokal masih terabaikan.",
+    "source": "The Conversation Indonesia",
+    "published": "2026-11-19T03:57:07+00:00",
+    "text_file": "state/sources/t9e648f7a.txt"
+  },
+  {
+    "id": "tef363954",
+    "origin": "feed",
+    "title": "Pertumbuhan negara hingga Q3 2026 stabil di atas 5%: Siapa yang merasakan pertumbuhannya?",
+    "url": "https://theconversation.com/pertumbuhan-negara-hingga-q3-2026-stabil-di-atas-5-siapa-yang-merasakan-pertumbuhannya-296401",
+    "summary": "Ketika denyut konsumsi melemah, belanja negara harus maju sebagai motor penggerak ekonomi utama melalui berbagai program unggulan berskala masif",
+    "source": "The Conversation Indonesia",
+    "published": "2026-11-19T02:02:05+00:00"
   },
   {
     "id": "t421fe2bd",
@@ -1416,15 +1822,6 @@
     "published": "2026-11-18T13:00:00+00:00"
   },
   {
-    "id": "tcb99e6ae",
-    "origin": "feed",
-    "title": "After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? | Kim Heacox",
-    "url": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
-    "summary": "Since the spacecraft’s 1977 launch, our wonderful and terrible species has done great damage to our planet. Voyager has offered us a clear view of ourselves Imagine traveling nonstop for 49 years, alone in the dark with no destination in sight, powered by curiosity and engineering. Further imagine making that journey not at bullet train or jet plane speed, but much faster: at 37,800 miles per hour",
-    "source": "The Guardian Science",
-    "published": "2026-11-18T11:00:56+00:00"
-  },
-  {
     "id": "t5d3f6fbe",
     "origin": "feed",
     "title": "Fatal landslides in September 2026",
@@ -1432,6 +1829,42 @@
     "summary": "In September 2026 I recorded 82 fatal landslides causing 173 fatalities. This year continues to show a higher than average trend in fatal landslide occurrence. This is my regular update for the number of fatal global landslides, focusing on September 2026. As usual, this data has been collected in line with the methodology described in Froude […]",
     "source": "Eos (AGU)",
     "published": "2026-11-18T07:57:30+00:00"
+  },
+  {
+    "id": "tf88593e9",
+    "origin": "feed",
+    "title": "Indonesia may need 350 years to recover land burnt in 2026 wildfires",
+    "url": "https://theconversation.com/indonesia-may-need-350-years-to-recover-land-burnt-in-2026-wildfires-296704",
+    "summary": "The 2026 wildfires in Indonesia destroyed carbon reserves formed over the last thousands of years. Recovery will take hundreds of years.",
+    "source": "The Conversation Indonesia",
+    "published": "2026-11-18T07:01:41+00:00"
+  },
+  {
+    "id": "ta4b5656d",
+    "origin": "feed",
+    "title": "Raja Arthur dan Ramayana: Legenda kuno yang masih relevan untuk melihat dilema moral pemimpin sekarang",
+    "url": "https://theconversation.com/raja-arthur-dan-ramayana-legenda-kuno-yang-masih-relevan-untuk-melihat-dilema-moral-pemimpin-sekarang-296697",
+    "summary": "Meski terpaut jarak berabad-abad, kedua epos ini menyuguhkan dilema yang sama: benturan antara moralitas seorang suami dan kewajiban seorang pemimpin.",
+    "source": "The Conversation Indonesia",
+    "published": "2026-11-18T04:00:12+00:00"
+  },
+  {
+    "id": "t01a4a97d",
+    "origin": "feed",
+    "title": "Pajak pembalut tidak adil: Kian mempersempit pilihan perempuan saat menstruasi",
+    "url": "https://theconversation.com/pajak-pembalut-tidak-adil-kian-mempersempit-pilihan-perempuan-saat-menstruasi-296595",
+    "summary": "PPN 11% atas pembalut bisa membatasi pilihan perempuan dengan ekonomi rendah mendapatkan produk menstruasi yang layak dan terjangkau.",
+    "source": "The Conversation Indonesia",
+    "published": "2026-11-18T02:04:01+00:00"
+  },
+  {
+    "id": "teee6015b",
+    "origin": "feed",
+    "title": "Mengapa gangguan Microsoft 365 begitu berbeda dan pemulihannya cukup lama?",
+    "url": "https://theconversation.com/mengapa-gangguan-microsoft-365-begitu-berbeda-dan-pemulihannya-cukup-lama-296705",
+    "summary": "Ketika satu layanan email terganggu, layanan lainnya tetap mencoba mengirim pesan ke pengguna layanan yang terdampak tersebut. Akibatnya, terjadi penumpukan lalu lintas data yang butuh waktu untuk kembali normal.",
+    "source": "The Conversation Indonesia",
+    "published": "2026-11-17T04:30:50+00:00"
   },
   {
     "id": "t7cdbe86b",
