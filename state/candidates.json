@@ -1,33 +1,198 @@
 [
   {
-    "id": "tb2e5217f",
+    "id": "tc3649d6f",
     "origin": "feed",
-    "title": "TED talks and podcasts with slower shifts between ideas tend to be more popular",
-    "url": "https://phys.org/news/2026-11-ted-podcasts-slower-shifts-ideas.html",
-    "summary": "Do you dream of going viral? New research by SFI program postdoctoral fellow Shuhao Fu and linguists at Zhejiang University could offer the insights you need.",
+    "title": "ALMA resolves the gravitational reach of a black hole in the early universe",
+    "url": "https://phys.org/news/2026-11-alma-gravitational-black-hole-early.html",
+    "summary": "Astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA) measured the mass of a supermassive black hole in WISE J224607.56−052634.9, also known as W2246-0526. Its light has been stretched by the expansion of the universe to about 5.6 times its original wavelength. This shift, called redshift, tells astronomers that we see the galaxy as it was when the universe was about 1.3 billio",
     "source": "Phys.org",
-    "published": "2026-11-23T13:30:01+00:00",
+    "published": "2026-11-23T15:40:01+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-    "id": "t3d4ca9b1",
+    "id": "t275e2a5b",
     "origin": "feed",
-    "title": "How is Gen Z changing what we eat? These writers found out by asking over 20,000 young people",
-    "url": "https://phys.org/news/2026-11-gen-writers-young-people.html",
-    "summary": "How will we eat in 2050? Will AI-generated, personalized nutrition programs suggest we eat edible insects and drink a glass of synthetic milk for dinner?",
+    "title": "Move over, turkey: Add some seafood dishes to your Thanksgiving table",
+    "url": "https://www.noaa.gov/stories/move-over-turkey-weve-got-seafood-dishes-to-add-to-your-thanksgiving-table",
+    "summary": "Move over, turkey: Add some seafood dishes to your Thanksgiving table Perhaps some baked oysters and other easy seafood dishes can become part of your Thanksgiving tradition? (Image credit: Heather Soulen/NOAA Fisheries) Download Image November 23, 2026 Fisheries sustainable seafood fish holidays 0 Off",
+    "source": "NOAA",
+    "published": "2026-11-23T15:27:57+00:00",
+    "text_file": "state/sources/t275e2a5b.txt"
+  },
+  {
+    "id": "t91c74f51",
+    "origin": "feed",
+    "title": "Why shopping on your phone can make you second-guess a purchase",
+    "url": "https://phys.org/news/2026-11-why-shopping-on-your-phone.html",
+    "summary": "You find the product you want on your phone. You compare prices, read reviews and weigh the options. Then, just before tapping \"Buy,\" you hesitate: Maybe I should look at this again on my computer.",
     "source": "Phys.org",
-    "published": "2026-11-23T13:00:06+00:00",
+    "published": "2026-11-23T15:20:23+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-    "id": "tc4b3f22e",
+    "id": "ta0dc0302",
     "origin": "feed",
-    "title": "Reduce, resharpen, reuse: Ancient stone tools reveal a regional pattern in southwest China",
-    "url": "https://phys.org/news/2026-11-resharpen-reuse-ancient-stone-tools.html",
-    "summary": "The value of a stone tool can long outlast its first sharp edge. Across 27 locations in southwest China, archaeologists have found evidence of a toolmaking approach that preserved enough stone to allow repeated sharpening—and sometimes the same piece was used as both a tool and a source of fresh flakes for new cutting edges.",
+    "title": "Recycling food waste could return essential minerals to crops, food and animal feed",
+    "url": "https://phys.org/news/2026-11-recycling-food-essential-minerals-crops.html",
+    "summary": "While vast populations face malnourishment and starvation, mountains of food are wasted in affluent countries, which leads to poor food system efficiency, depleted resources, micronutrient losses through ultraprocessed food and environmental degradation.",
     "source": "Phys.org",
-    "published": "2026-11-23T13:00:02+00:00",
+    "published": "2026-11-23T15:20:06+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t0d4923c1",
+    "origin": "feed",
+    "title": "'Avengers: Doomsday' gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men",
+    "url": "https://www.space.com/entertainment/space-movies-shows/avengers-doomsday-gets-final-trailer-explaining-why-steve-rogers-is-back-and-showing-an-epic-battle-with-the-x-men",
+    "summary": "Marvel Studios’ first Avengers film since 2019 is less than a month away, and it might be the big-screen team-up event we thought impossible only ten years ago.",
+    "source": "Space.com",
+    "published": "2026-11-23T15:10:59+00:00",
+    "text_file": "state/sources/t0d4923c1.txt"
+  },
+  {
+    "id": "t30f657ec",
+    "origin": "feed",
+    "title": "Cranberry jam: warming winters and extreme weather threaten an iconic holiday fruit",
+    "url": "https://www.theguardian.com/us-news/2026/nov/23/cranberry-growing-climate-crisis",
+    "summary": "Scientists are racing to identify and breed new berry varieties that can thrive on an increasingly warmer planet It is harvest time in rural Wisconsin , and the Badger state’s most vibrant crop is painting the rolling countryside a brilliant, unmistakable red. For nearly three decades, Nicole Hansen has been farming cranberries here. Wisconsin produces more than 60% of the nation’s supply. On a cr",
+    "source": "The Guardian Science",
+    "published": "2026-11-23T15:00:49+00:00",
+    "text_file": "state/sources/t30f657ec.txt"
+  },
+  {
+    "id": "tbfa41b39",
+    "origin": "feed",
+    "title": "Smoke-affected hops have greatest impact on beer when added after fermentation, study finds",
+    "url": "https://phys.org/news/2026-11-affected-greatest-impact-beer-added.html",
+    "summary": "Smoke-affected hops can alter a beer's taste and aroma, but their impact depends on how many are used and when the hops are added during brewing, new research from Oregon State University shows.",
+    "source": "Phys.org",
+    "published": "2026-11-23T15:00:30+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t4a690380",
+    "origin": "feed",
+    "title": "Anatomical variant found in an ancient jaw reveals a modern-day mystery",
+    "url": "https://phys.org/news/2026-11-anatomical-variant-ancient-jaw-reveals.html",
+    "summary": "A jaw feature commonly seen by dentists but rarely reported in the human fossil record has been found in an ancient skull, revealing a modern-day medical mystery that dates back at least 2 million years. La Trobe University researchers have identified a pronounced mandibular torus—a harmless bony ridge that forms on the inside of the lower jaw—in a fossil of Australopithecus africanus from Sterkfo",
+    "source": "Phys.org",
+    "published": "2026-11-23T15:00:16+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t4050b09b",
+    "origin": "feed",
+    "title": "The remains of a long-dead volcano on Mars | Space photo of the day for Nov. 23, 2026",
+    "url": "https://www.space.com/astronomy/mars/the-remains-of-a-long-dead-volcano-on-mars-space-photo-of-the-day-for-nov-23-2026",
+    "summary": "Just imagine the ancient, Martian lava flowing.",
+    "source": "Space.com",
+    "published": "2026-11-23T15:00:00+00:00",
+    "text_file": "state/sources/t4050b09b.txt"
+  },
+  {
+    "id": "td5d28a5f",
+    "origin": "feed",
+    "title": "Acquisitive plant traits are favored during and following drought",
+    "url": "https://phys.org/news/2026-11-acquisitive-traits-favored-drought.html",
+    "summary": "Researchers from the Institute of Applied Ecology (IAE) of the Chinese Academy of Sciences and their international collaborators found that prolonged extreme drought favors plant traits associated with acquisition in semiarid grasslands. These changes persist during post-drought recovery. Communities with more acquisitive strategies and greater functional dispersion showed lower sensitivity to dro",
+    "source": "Phys.org",
+    "published": "2026-11-23T14:50:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t04d83824",
+    "origin": "feed",
+    "title": "Could astronomers be closing in on a hidden planet beyond Neptune?",
+    "url": "https://phys.org/news/2026-11-astronomers-hidden-planet-neptune.html",
+    "summary": "If a hidden planet really does exist beyond Neptune, astronomers have identified how it may look and act to explain the mysterious goings-on in the distant reaches of our solar system.",
+    "source": "Phys.org",
+    "published": "2026-11-23T14:48:47+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t2a4622d8",
+    "origin": "feed",
+    "title": "'The sacred object in mathematics': The Riemann hypothesis, AI and a proof no human can read",
+    "url": "https://phys.org/news/2026-11-sacred-mathematics-riemann-hypothesis-ai.html",
+    "summary": "On Friday, Turkish American mathematician and Anthropic employee Levent Alpöge announced he had produced a proof of the Riemann hypothesis, one of the most important and famous open problems in mathematics, with the aid of an artificial intelligence (AI) model.",
+    "source": "Phys.org",
+    "published": "2026-11-23T14:40:08+00:00"
+  },
+  {
+    "id": "tb4f179ca",
+    "origin": "feed",
+    "title": "Harnessing Glacial Lakes for Hydropower",
+    "url": "https://eos.org/research-spotlights/harnessing-glacial-lakes-for-hydropower",
+    "summary": "As mountain glaciers retreat and glacial lakes grow, a new study looks at how excess water could generate renewable energy and help reduce flood risks.",
+    "source": "Eos (AGU)",
+    "published": "2026-11-23T14:30:28+00:00",
+    "text_file": "state/sources/tb4f179ca.txt"
+  },
+  {
+    "id": "tb70308a5",
+    "origin": "feed",
+    "title": "Public protests can reduce sexual violence",
+    "url": "https://phys.org/news/2026-11-protests-sexual-violence.html",
+    "summary": "With the 16 Days of Activism against Gender-Based Violence campaign beginning on Nov. 25, new research suggests public protests can do more than raise awareness of violence against women—they can help reduce sexual violence.",
+    "source": "Phys.org",
+    "published": "2026-11-23T14:20:10+00:00"
+  },
+  {
+    "id": "t225d6338",
+    "origin": "feed",
+    "title": "Astronomers catch a gas cloud dimming a black hole's glow for weeks",
+    "url": "https://phys.org/news/2026-11-astronomers-gas-cloud-dimming-black.html",
+    "summary": "Some active galactic nuclei (AGNs)—galaxies that are powered by actively feeding black holes—undergo rapid changes in their appearance, which manifest as a change in their spectral properties. These are called \"changing-look\" AGNs. Their appearance changes over time, getting brighter or dimmer, or losing or gaining certain spectral features.",
+    "source": "Phys.org",
+    "published": "2026-11-23T14:20:01+00:00"
+  },
+  {
+    "id": "ta828bacc",
+    "origin": "feed",
+    "title": "Colombia president’s move on mining, oil weakens country’s Amazon protections, experts warn",
+    "url": "https://news.mongabay.com/2026/11/colombia-presidents-move-on-mining-oil-weakens-countrys-amazon-protections-experts-warn/",
+    "summary": "After repealing a measure that banned large-scale mining and hydrocarbon extraction in the Amazon, the Colombian government is sending mixed signals, organizations and experts warn.",
+    "source": "Mongabay",
+    "published": "2026-11-23T14:19:44+00:00",
+    "text_file": "state/sources/ta828bacc.txt"
+  },
+  {
+    "id": "t66824259",
+    "origin": "feed",
+    "title": "New study uses 3-30-300 rule to evaluate urban greenness in five major Canadian cities, finds room for improvement",
+    "url": "https://phys.org/news/2026-11-urban-greenness-major-canadian-cities.html",
+    "summary": "When you look out your window, can you see at least three large trees? Is your neighborhood well-shaded by a canopy of trees? And can you walk to a park or other high-quality green space in less than five minutes? These three questions lie at the heart of the 3-30-300 rule, a benchmark that's increasingly used to evaluate urban greenness.",
+    "source": "Phys.org",
+    "published": "2026-11-23T14:10:01+00:00"
+  },
+  {
+    "id": "t55993621",
+    "origin": "feed",
+    "title": "‘Mitt & Ted’ recounts how a political odd couple changed U.S. healthcare",
+    "url": "https://www.sciencenews.org/article/mitt-and-ted-healthcare-podcast",
+    "summary": "The newest season of The Big Dig podcast tells of how Mitt Romney and Ted Kennedy briefly joined forces to reform healthcare laws.",
+    "source": "Science News",
+    "published": "2026-11-23T14:00:00+00:00",
+    "text_file": "state/sources/t55993621.txt"
+  },
+  {
+    "id": "t56bbe888",
+    "origin": "feed",
+    "title": "COP31 collapse has shattered the pretence of a global climate consensus",
+    "url": "https://www.newscientist.com/article/2600331-cop31-collapse-has-shattered-the-pretense-of-a-global-climate-consensus/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "Climate progressive countries took the radical step of torpedoing a deal at the UN summit in Turkey amid outrage over obstructionist tactics from petrostates. What happens now?",
+    "source": "New Scientist",
+    "published": "2026-11-23T13:58:53+00:00",
+    "text_file": "state/sources/t56bbe888.txt"
+  },
+  {
+    "id": "tb4726962",
+    "origin": "feed",
+    "title": "Space entrepreneurs should look to 16th-century spice trade for inspiration",
+    "url": "https://phys.org/news/2026-11-space-entrepreneurs-16th-century-spice.html",
+    "summary": "Despite all the hype about a new space economy, humanity has yet to reap much benefit from off-world mining, manufacturing or space tourism.",
+    "source": "Phys.org",
+    "published": "2026-11-23T13:50:01+00:00"
   },
   {
     "id": "t9e8bb14a",
@@ -70,26 +235,6 @@
     "text_file": "state/sources/t0ac3b8d6.txt"
   },
   {
-    "id": "t17494c72",
-    "origin": "feed",
-    "title": "A trick marketers use to sell you things can also persuade rats to enter traps",
-    "url": "https://phys.org/news/2026-11-rats.html",
-    "summary": "Have you ever wondered why restaurants include outrageously expensive bottles of wine on their menus?",
-    "source": "Phys.org",
-    "published": "2026-11-23T12:40:04+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "ta8b0a02a",
-    "origin": "feed",
-    "title": "New toolkit enhances mineral sands understanding",
-    "url": "https://phys.org/news/2026-11-toolkit-mineral-sands.html",
-    "summary": "Researchers from Curtin University's Timescales of Mineral Systems Group at the Curtin Frontier Institute for Geoscience Solutions (CFIGS) have developed a suite of analytical tools to improve understanding of Australia's heavy mineral deposits, paving the way for more efficient mineral sands exploration.",
-    "source": "Phys.org",
-    "published": "2026-11-23T12:20:10+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
     "id": "tc798fdc7",
     "origin": "feed",
     "title": "Warming seas threaten South Korea’s iconic squid fishery with collapse by 2040s",
@@ -98,16 +243,6 @@
     "source": "Mongabay",
     "published": "2026-11-23T12:02:44+00:00",
     "text_file": "state/sources/tc798fdc7.txt"
-  },
-  {
-    "id": "t661e6f12",
-    "origin": "feed",
-    "title": "How to use small, everyday moments to strengthen family connections",
-    "url": "https://phys.org/news/2026-11-small-everyday-moments-family.html",
-    "summary": "In the whirlwind of work demands and family obligations—including planning vacations and holiday celebrations—many parents assume they need to go all out and spend lots of money to build family bonds.",
-    "source": "Phys.org",
-    "published": "2026-11-23T12:00:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
     "id": "t8effd2ea",
@@ -200,6 +335,16 @@
     "text_file": "state/sources/t38072b4e.txt"
   },
   {
+    "id": "t71d0f38b",
+    "origin": "feed",
+    "title": "What’s really driving the Ebola outbreak?",
+    "url": "https://www.scientificamerican.com/article/whats-really-driving-the-ebola-outbreak/",
+    "summary": "Vaccine trials are underway—but the crisis needs far more than a medical solution, experts say",
+    "source": "Scientific American",
+    "published": "2026-11-23T11:00:00+00:00",
+    "text_file": "state/sources/t71d0f38b.txt"
+  },
+  {
     "id": "td99763bd",
     "origin": "feed",
     "title": "Voyager 1, SpaceX Starship and BepiColombo mark major space milestones",
@@ -228,25 +373,6 @@
     "source": "ScienceDaily",
     "published": "2026-11-23T10:45:53+00:00",
     "text_file": "state/sources/t3d84f8f3.txt"
-  },
-  {
-    "id": "td2060aec",
-    "origin": "feed",
-    "title": "Kuala Lumpur otters raise river revival hopes",
-    "url": "https://phys.org/news/2026-11-kuala-lumpur-otters-river-revival.html",
-    "summary": "Beneath a tangle of highways in the Malaysian capital Kuala Lumpur, a family of otters rolls around in a patch of riverside sand, delighting the few passersby who notice them.",
-    "source": "Phys.org",
-    "published": "2026-11-23T10:21:00+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "tf6418291",
-    "origin": "feed",
-    "title": "UK digging new reservoirs to fight persistent droughts",
-    "url": "https://phys.org/news/2026-11-uk-reservoirs-persistent-droughts.html",
-    "summary": "Britain has long had a reputation for rain. But as it adapts to a warmer, drier climate, the U.K. is racing to complete a huge new reservoir, its first in over three decades.",
-    "source": "Phys.org",
-    "published": "2026-11-23T10:20:13+00:00"
   },
   {
     "id": "t56024785",
@@ -287,15 +413,6 @@
     "source": "The Guardian Science",
     "published": "2026-11-23T08:00:51+00:00",
     "text_file": "state/sources/t373c1cc8.txt"
-  },
-  {
-    "id": "tdda2946f",
-    "origin": "feed",
-    "title": "Hidden for 100 million years: X-rays reveal an ancient flower from the age of dinosaurs",
-    "url": "https://phys.org/news/2026-11-hidden-million-years-rays-reveal.html",
-    "summary": "In a new paper published in the American Journal of Botany, a team of scientists from the U.S. and UK reveal an incredible fossil from the mid-Cretaceous period (around 100 million years ago), opening up a new window into the early evolutionary history of modern-day plants.",
-    "source": "Phys.org",
-    "published": "2026-11-23T08:00:02+00:00"
   },
   {
     "id": "t91d5c61e",
@@ -428,15 +545,6 @@
     "text_file": "state/sources/te0ddd422.txt"
   },
   {
-    "id": "t069de2a3",
-    "origin": "feed",
-    "title": "Robot submarine exploring world's deepest ocean trench finds unprecedented volcanic activity",
-    "url": "https://phys.org/news/2026-11-robot-submarine-exploring-world-deepest.html",
-    "summary": "Fifty-two million years ago, the Pacific tectonic plate began to slide under the Philippine Sea plate, forming the Mariana Trench, the deepest known valley on the Earth's ocean floor. The deepest part of this abyss, the Challenger Deep, is almost 11,000 meters (36,000 feet) below sea level. But why is it so deep? Scientists trying to answer this question sent a remotely operated vehicle to collect",
-    "source": "Phys.org",
-    "published": "2026-11-23T05:00:02+00:00"
-  },
-  {
     "id": "t2d4c97de",
     "origin": "feed",
     "title": "Motion under the ocean explains the depth of the world’s deepest spot",
@@ -503,8 +611,7 @@
     "url": "https://news.mongabay.com/2026/11/kuala-lumpur-otters-raise-river-clean-up-hopes/",
     "summary": "KUALA LUMPUR — Beneath a tangle of highway in the Malaysian capital, a family of otters rolls around in a patch of riverside sand, delighting the few passersby who notice them. Small groups of otters are now being seen regularly in parts of the city, including along the once heavily polluted Klang River. Theories vary […]",
     "source": "Mongabay",
-    "published": "2026-11-23T02:53:11+00:00",
-    "text_file": "state/sources/t9c62e1dd.txt"
+    "published": "2026-11-23T02:53:11+00:00"
   },
   {
     "id": "te726cb0c",
@@ -547,15 +654,6 @@
     "text_file": "state/sources/t04809b1f.txt"
   },
   {
-    "id": "td693ca95",
-    "origin": "feed",
-    "title": "Reliance on technology is eroding trust in one another and ability to tell what is even real, expert warns",
-    "url": "https://phys.org/news/2026-11-reliance-technology-eroding-ability-real.html",
-    "summary": "The danger of generative AI is not some distant algorithmic failure; it is the slow erosion of our ability to tell what's real, to trust our institutions and to think for ourselves at all. These are the warnings of Mateusz Łabuz in his new book, The End of Reality.",
-    "source": "Phys.org",
-    "published": "2026-11-23T00:00:01+00:00"
-  },
-  {
     "id": "t5a552970",
     "origin": "feed",
     "title": "Build for the future climate — or waste trillions of dollars",
@@ -564,6 +662,26 @@
     "source": "Nature",
     "published": "2026-11-23T00:00:00+00:00",
     "text_file": "state/sources/t5a552970.txt"
+  },
+  {
+    "id": "t21da7a02",
+    "origin": "feed",
+    "title": "‘Mozart of maths’ Terence Tao is your guide to what underpins reality",
+    "url": "https://www.nature.com/articles/d41586-026-03720-w",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-23T00:00:00+00:00",
+    "text_file": "state/sources/t21da7a02.txt"
+  },
+  {
+    "id": "t634005db",
+    "origin": "feed",
+    "title": "How to make climate anxiety your superpower",
+    "url": "https://www.nature.com/articles/d41586-026-03818-1",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-23T00:00:00+00:00",
+    "text_file": "state/sources/t634005db.txt"
   },
   {
     "id": "t8604febd",
@@ -626,15 +744,6 @@
     "text_file": "state/sources/t17b12f2a.txt"
   },
   {
-    "id": "t2e625f9a",
-    "origin": "feed",
-    "title": "Silver briefly forms a rare crystal structure seen in radioactive polonium",
-    "url": "https://phys.org/news/2026-11-silver-briefly-rare-crystal-radioactive.html",
-    "summary": "How atoms are arranged in a material shapes many of its properties. The same carbon atoms, for example, can form diamond and graphite depending on how they are arranged, giving rise to materials with vastly different chemical and physical properties. Now, researchers at Hokkaido University have discovered a new crystal structure of silver with unusually high chemical reactivity. The findings, publ",
-    "source": "Phys.org",
-    "published": "2026-11-22T20:00:01+00:00"
-  },
-  {
     "id": "t8a2dbf59",
     "origin": "feed",
     "title": "65 Years of Human Spaceflight at NASA Johnson",
@@ -671,8 +780,7 @@
     "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
     "summary": "SpaceX just launched two rockets from the same California pad 32 hours apart, breaking its own turnaround record by about 13 hours.",
     "source": "Space.com",
-    "published": "2026-11-22T16:05:33+00:00",
-    "text_file": "state/sources/t55e28096.txt"
+    "published": "2026-11-22T16:05:33+00:00"
   },
   {
     "id": "ta4de171f",
@@ -681,8 +789,7 @@
     "url": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy",
     "summary": "The AI adverts for the Zanbix 2 in 1 Galaxy Projector Night Light are downright bizarre — we cut through the hype to bring you a version that actually delivers",
     "source": "Space.com",
-    "published": "2026-11-22T15:00:00+00:00",
-    "text_file": "state/sources/ta4de171f.txt"
+    "published": "2026-11-22T15:00:00+00:00"
   },
   {
     "id": "tbc258d7a",
@@ -769,8 +876,7 @@
     "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
     "summary": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership A trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK’s national funding agency for science and research, citing concerns about plans for major cuts. The letter from Mike Clancy, the general secretary of Prospect, to Ian C",
     "source": "The Guardian Science",
-    "published": "2026-11-22T12:00:28+00:00",
-    "text_file": "state/sources/tcd078dd6.txt"
+    "published": "2026-11-22T12:00:28+00:00"
   },
   {
     "id": "tf85e1b97",
@@ -796,7 +902,7 @@
     "origin": "feed",
     "title": "Quantum physics can now prove where you really are",
     "url": "https://www.scientificamerican.com/article/quantum-physics-can-now-prove-where-you-really-are/",
-    "summary": "In a first-of-its-kind experiment, researchers used a single photon and some-second timing to verify a location—a potential new defense against digital imposters",
+    "summary": "In a first-of-its-kind experiment, researchers used a single photon and a timing measurement to verify a location—a potential new defense against digital imposters",
     "source": "Scientific American",
     "published": "2026-11-22T12:00:00+00:00",
     "text_file": "state/sources/teb59a6ad.txt"
@@ -1040,15 +1146,6 @@
     "published": "2026-11-21T16:36:11+00:00"
   },
   {
-    "id": "t33337ef7",
-    "origin": "feed",
-    "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
-    "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
-    "summary": "On Nov. 21, 1676, the Danish astronomer Ole Rømer discovered the speed of lightwhile observing Jupiter and its moon volcanic moon Io. Here's why it mattered.",
-    "source": "Space.com",
-    "published": "2026-11-21T16:20:37+00:00"
-  },
-  {
     "id": "t18a54fcd",
     "origin": "feed",
     "title": "'Like walking the plank': For 3,000 years, Indigenous people herded bison off a unique cliff in Texas, study reveals",
@@ -1056,15 +1153,6 @@
     "summary": "At a cliff site in Texas, archaeologists discovered hundreds of bison bones, stone tools and arrowheads, suggesting Indigenous people used \"bison jumps\" to hunt.",
     "source": "Live Science",
     "published": "2026-11-21T16:00:00+00:00"
-  },
-  {
-    "id": "t86da9d6d",
-    "origin": "feed",
-    "title": "This Week In Space podcast: Episode 237 — A Fond Farewell",
-    "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-237-a-fond-farewell",
-    "summary": "On Episode 237 of This Week In Space, Tariq Malik and Rod Pyle sign off — temporarily — with a look at space news, a bushel of space jokes, and a recap of some of our funniest moments.",
-    "source": "Space.com",
-    "published": "2026-11-21T15:15:26+00:00"
   },
   {
     "id": "t5c0487ac",
@@ -1252,8 +1340,7 @@
     "url": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/",
     "summary": "We’ll probably never sniff other planets, but that doesn’t mean we can’t get an idea of what they smell like",
     "source": "Scientific American",
-    "published": "2026-11-21T05:00:00+00:00",
-    "text_file": "state/sources/t6a8cc5af.txt"
+    "published": "2026-11-21T05:00:00+00:00"
   },
   {
     "id": "tcbb1999f",
@@ -1367,8 +1454,7 @@
     "url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
     "summary": "Pacific Ocean waters reached historic high temperatures in 2026, dramatically shaping hurricane seasons and global trends in precipitation.",
     "source": "Science News",
-    "published": "2026-11-20T21:00:00+00:00",
-    "text_file": "state/sources/tce0488e4.txt"
+    "published": "2026-11-20T21:00:00+00:00"
   },
   {
     "id": "tb4458eaf",
@@ -1417,15 +1503,6 @@
     "published": "2026-11-20T19:00:00+00:00"
   },
   {
-    "id": "td29df155",
-    "origin": "feed",
-    "title": "Philippine corn farmers investigate links between chemical farming and soil erosion",
-    "url": "https://news.mongabay.com/2026/11/philippine-corn-farmers-investigate-links-between-chemical-farming-and-soil-erosion/",
-    "summary": "LAKE SEBU, Philippines — To the untrained eye, a handful of soil might appear to be a monotone brown. But to farmer Welna Sumulde, who grew up among generations of Indigenous T’boli farmers on the Philippines island of Mindanao, the slightest change in the color of the soil is a whisper from the land, a […]",
-    "source": "Mongabay",
-    "published": "2026-11-20T18:27:41+00:00"
-  },
-  {
     "id": "t6e58a798",
     "origin": "feed",
     "title": "What the Riemann hypothesis proof really means about AI and the future",
@@ -1442,15 +1519,6 @@
     "summary": "The 1997–1998 El Niño drenched California and wreaked global havoc. Now the world is bracing for a Super El Niño superpowered by climate change.",
     "source": "Science News",
     "published": "2026-11-20T17:47:05+00:00"
-  },
-  {
-    "id": "t10fe0526",
-    "origin": "feed",
-    "title": "AI just solved the ‘real’ Navier-Stokes problem",
-    "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/",
-    "summary": "Two months after getting scooped by OpenAI, N.Y.U. professor Tristan Buckmaster and Anthropic employee Levent Alpöge are back with a new AI-aided proof of Navier-Stokes blowup",
-    "source": "Scientific American",
-    "published": "2026-11-20T17:00:00+00:00"
   },
   {
     "id": "ta5236f5e",
@@ -1487,8 +1555,7 @@
     "url": "https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "The Riemann hypothesis is one of the most difficult problems in mathematics, having stood for 167 years. It may have just been settled with the help of AI",
     "source": "New Scientist",
-    "published": "2026-11-20T15:20:01+00:00",
-    "text_file": "state/sources/t0abed500.txt"
+    "published": "2026-11-20T15:20:01+00:00"
   },
   {
     "id": "t2ba13ff0",
@@ -1577,24 +1644,6 @@
     "published": "2026-11-20T12:00:00+00:00"
   },
   {
-    "id": "t73cbb556",
-    "origin": "feed",
-    "title": "Measles is officially back in the USA. Will Maha pay the price? - video",
-    "url": "https://www.theguardian.com/science/video/2026/nov/20/measles-is-officially-back-in-the-usa-will-maha-pay-the-price-video",
-    "summary": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years. To find out what this means in practical terms for citizens, Ian Sample hears from the Guardian US health reporter Jessica Glenza. She explains why it comes at an already difficult time for the health secretary, Robert F Kennedy Jr",
-    "source": "The Guardian Science",
-    "published": "2026-11-20T11:40:07+00:00"
-  },
-  {
-    "id": "tc17b4c00",
-    "origin": "feed",
-    "title": "Dark Eden author Chris Beckett on how sci-fi needs ‘surface plausibility’",
-    "url": "https://www.newscientist.com/article/2599932-dark-eden-author-chris-beckett-on-how-sci-fi-needs-surface-plausibility/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "Chris Beckett, author of Dark Eden, November's read for the New Scientist Book Club, talks to Alison Flood about how he wrote his Arthur C Clarke award-winning novel",
-    "source": "New Scientist",
-    "published": "2026-11-20T10:00:00+00:00"
-  },
-  {
     "id": "tf4443879",
     "origin": "feed",
     "title": "Analysis of the 7-8 August 2025 landslide event at Yuzhong County, Gansu Province, China",
@@ -1669,8 +1718,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03751-3",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-20T00:00:00+00:00",
-    "text_file": "state/sources/t8bc06533.txt"
+    "published": "2026-11-20T00:00:00+00:00"
   },
   {
     "id": "t4433274a",
@@ -1679,8 +1727,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03806-5",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-20T00:00:00+00:00",
-    "text_file": "state/sources/t4433274a.txt"
+    "published": "2026-11-20T00:00:00+00:00"
   },
   {
     "id": "t11df84c4",
@@ -1710,33 +1757,6 @@
     "published": "2026-11-20T00:00:00+00:00"
   },
   {
-    "id": "t7c4ed481",
-    "origin": "feed",
-    "title": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
-    "url": "https://www.nature.com/articles/d41586-026-03789-3",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-20T00:00:00+00:00"
-  },
-  {
-    "id": "ta3e2801f",
-    "origin": "feed",
-    "title": "Mathematicians astounded by AI and human-written proofs of iconic Riemann hypothesis",
-    "url": "https://www.nature.com/articles/d41586-026-03812-7",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-20T00:00:00+00:00"
-  },
-  {
-    "id": "t6e15cb24",
-    "origin": "feed",
-    "title": "Solo meerkats can find their way back home",
-    "url": "https://www.sciencenews.org/article/solo-meerkats-can-find-their-way-home",
-    "summary": "Meerkats wearing GPS trackers found their way home from more than a kilometer away, all by themselves.",
-    "source": "Science News",
-    "published": "2026-11-19T23:00:45+00:00"
-  },
-  {
     "id": "t4dda2a82",
     "origin": "feed",
     "title": "印度学生助力大规模水质监测",
@@ -1753,8 +1773,7 @@
     "url": "https://eos.org/editors-vox/bringing-python-solutions-to-earth-science-challenges",
     "summary": "Python enables geoscientists to analyze and display datasets, with applications including natural hazard and climate monitoring. AGU is back with the 2 nd edition of a popular Python programming workbook.",
     "source": "Eos (AGU)",
-    "published": "2026-11-19T18:52:04+00:00",
-    "text_file": "state/sources/t2e880d58.txt"
+    "published": "2026-11-19T18:52:04+00:00"
   },
   {
     "id": "t69e37879",
@@ -1840,15 +1859,6 @@
     "published": "2026-11-18T13:00:00+00:00"
   },
   {
-    "id": "t5d3f6fbe",
-    "origin": "feed",
-    "title": "Fatal landslides in September 2026",
-    "url": "https://eos.org/thelandslideblog/fatal-landslides-in-september-2026",
-    "summary": "In September 2026 I recorded 82 fatal landslides causing 173 fatalities. This year continues to show a higher than average trend in fatal landslide occurrence. This is my regular update for the number of fatal global landslides, focusing on September 2026. As usual, this data has been collected in line with the methodology described in Froude […]",
-    "source": "Eos (AGU)",
-    "published": "2026-11-18T07:57:30+00:00"
-  },
-  {
     "id": "tf88593e9",
     "origin": "feed",
     "title": "Indonesia may need 350 years to recover land burnt in 2026 wildfires",
@@ -1865,15 +1875,5 @@
     "summary": "Meski terpaut jarak berabad-abad, kedua epos ini menyuguhkan dilema yang sama: benturan antara moralitas seorang suami dan kewajiban seorang pemimpin.",
     "source": "The Conversation Indonesia",
     "published": "2026-11-18T04:00:12+00:00"
-  },
-  {
-    "id": "t7cdbe86b",
-    "origin": "feed",
-    "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
-    "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
-    "summary": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology. The post What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing. first appeared on Quanta Magazine",
-    "source": "Quanta Magazine",
-    "published": "2026-11-16T15:15:33+00:00",
-    "text_file": "state/sources/t7cdbe86b.txt"
   }
 ]
