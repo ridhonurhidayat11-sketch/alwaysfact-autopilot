@@ -1,0 +1,196 @@
+{
+  "topic": "Elang kecil bisa memangsa babun dewasa 22 kg",
+  "image_query": "Verreaux's eagle",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+    "Elang kecil ternyata bisa memangsa monyet 22 kg",
+    "Nenek moyang kita mungkin juga diincar elang"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Elang kecil ternyata bisa memangsa monyet 22 kg",
+      "body": "Babun adalah monyet besar di Afrika, dan tulangnya di Chad menunjukkan tanda diserang burung pemangsa seperti elang.",
+      "takeaway": "Elang kecil bisa menjatuhkan monyet besar.",
+      "icon": "burst",
+      "image_query": "Verreaux's eagle"
+    },
+    {
+      "type": "fact",
+      "title": "Berat monyet itu 22 sampai 26 kg",
+      "body": "Sisa babun jantan dewasa itu diperkirakan berbobot 22 sampai 26 kilogram. Itu dua kali babun terbesar yang sebelumnya diketahui dimangsa elang.",
+      "takeaway": "Setara anak berumur beberapa tahun.",
+      "icon": "planet",
+      "viz": {
+        "kind": "compare",
+        "items": [
+          {
+            "label": "Babun terendah",
+            "value": 22
+          },
+          {
+            "label": "Babun tertinggi",
+            "value": 26
+          }
+        ],
+        "unit": "kg",
+        "caption": "Perkiraan berat babun jantan itu"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Jejaknya di tengkorak",
+      "body": "Tiga tengkorak babun jantan dewasa punya lubang tusukan yang jelas di rongga mata. Lubangnya cocok dengan cakar elang.",
+      "takeaway": "Cakar elang menusuk tepat di mata.",
+      "icon": "magnifier",
+      "image_query": "Baboon skull"
+    },
+    {
+      "type": "fact",
+      "title": "Babun hidup di tebing 50 meter",
+      "body": "Babun di Dataran Tinggi Ennedi, Chad, memanjat tebing setinggi 50 meter. Elang memanfaatkan tebing itu untuk menyergap.",
+      "takeaway": "Tebing jadi arena kejar-kejaran.",
+      "icon": "globe",
+      "image_query": "Ennedi Plateau"
+    },
+    {
+      "type": "fact",
+      "title": "Babun tahu bahayanya",
+      "body": "Saat elang terbang di atas bukit, babun langsung berteriak peringatan dan turun ke tebing yang lebih aman.",
+      "takeaway": "Teriakan peringatan menyelamatkan kawanan.",
+      "icon": "heart",
+      "image_query": "Olive baboon"
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu",
+      "body": "Australopithecus, kerabat purba manusia yang hidup sekitar 4 juta sampai 2 juta tahun lalu, berukuran mirip babun itu. Bisa jadi mereka juga diincar elang, dan itu mungkin ikut membentuk cara kita bekerja sama.",
+      "takeaway": "Nenek moyang kita mungkin juga waspada ke langit.",
+      "icon": "bulb"
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_ untuk fakta sains lainnya",
+      "body": "Kirim post ini ke temanmu yang suka bertanya 'masa sih?' dan ikuti @alwaysfact_ supaya tidak ketinggalan.",
+      "takeaway": "Ikuti dan kirim ke temanmu.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Elang kecil ternyata bisa memangsa monyet berbobot 22 kg.\n\nPeneliti menemukan tengkorak babun dewasa di Chad dengan lubang tusukan di rongga mata. Ukuran babun itu mirip kerabat purba manusia, jadi mungkin nenek moyang kita juga diincar dari langit.\n\nKirim ke temanmu dan ikuti @alwaysfact_.\n\nSumber: Science News (American Journal of Biological Anthropology).",
+  "hashtags": [
+    "elang",
+    "babun",
+    "hewan",
+    "sains",
+    "faktaunik",
+    "evolusi",
+    "alwaysfact"
+  ],
+  "claims": [
+    {
+      "text": "Sisa babun jantan dewasa itu diperkirakan berbobot 22 sampai 26 kilogram semasa hidup.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/eagles-prey-adult-baboon-human-ancestor"
+    },
+    {
+      "text": "Burung seperti elang Verreaux memangsa monyet 22 kilogram tampak tidak mungkin, tetapi bukti menunjukkan itu terjadi.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/eagles-prey-adult-baboon-human-ancestor"
+    },
+    {
+      "text": "Tiga tengkorak babun jantan dewasa punya lubang tusukan yang jelas di rongga mata.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/eagles-prey-adult-baboon-human-ancestor"
+    },
+    {
+      "text": "Babun di Dataran Tinggi Ennedi memanjat tebing setinggi 50 meter.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/eagles-prey-adult-baboon-human-ancestor"
+    },
+    {
+      "text": "Saat elang terbang di atas bukit, babun berteriak peringatan dan turun ke tebing agar aman.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/eagles-prey-adult-baboon-human-ancestor"
+    },
+    {
+      "text": "Australopithecus hidup sekitar 4 juta sampai 2 juta tahun lalu dan berukuran tubuh mirip babun itu.",
+      "source_name": "Science News",
+      "source_url": "https://www.sciencenews.org/article/eagles-prey-adult-baboon-human-ancestor"
+    }
+  ],
+  "music_suggestions": [
+    "misterius pelan",
+    "petualangan sedang",
+    "penasaran ringan"
+  ],
+  "id": "046",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/eagles-prey-adult-baboon-human-ancestor",
+      "quote": "The specimens probably weighed about 22 to 26 kilograms in life.",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/eagles-prey-adult-baboon-human-ancestor",
+      "quote": "a Verreaux’s eagle taking down a 22-kilogram monkey may seem unlikely",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/eagles-prey-adult-baboon-human-ancestor",
+      "quote": "Three adult male baboon skulls that Hobaiter and her colleagues studied had clearly visible punctures through the eye sockets.",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/eagles-prey-adult-baboon-human-ancestor",
+      "quote": "scaling 50-meter cliffs and digging for water and food",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/eagles-prey-adult-baboon-human-ancestor",
+      "quote": "When the eagles flew down over a ridge, the baboons immediately barked out an alarm call and climbed over the edge of a cliff to safety",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 6,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencenews.org/article/eagles-prey-adult-baboon-human-ancestor",
+      "quote": "the genus Australopithecus , which lived about 4 million to 2 million years ago and included the famous fossil named Lucy , had similar body sizes to the baboons.",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.sciencenews.org/article/eagles-prey-adult-baboon-human-ancestor",
+  "topic_id": "tae81e984",
+  "image_credits": [
+    "Bernard DUPONT from FRANCE / CC BY-SA 2.0 (Wikimedia Commons)",
+    "Chris Eason / CC BY 2.0 (Wikimedia Commons)",
+    "Bernard DUPONT from FRANCE / CC BY-SA 2.0 (Wikimedia Commons)",
+    "Bernard DUPONT from FRANCE / CC BY-SA 2.0 (Wikimedia Commons)",
+    "Lip Kee from Singapore, Republic of Singapore / CC BY-SA 2.0 (Wikimedia Commons)",
+    "Bjørn Christian Tørrissen / CC BY-SA 4.0 (Wikimedia Commons)",
+    "NASA Johnson Space Center / Public domain (Wikimedia Commons)",
+    "Charles J. Sharp / CC BY-SA 4.0 (Wikimedia Commons)"
+  ]
+}

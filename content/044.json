@@ -1,0 +1,195 @@
+{
+  "topic": "Petir yang menyambar tanah bisa lebih dari dua kali lipat pada 2100",
+  "image_query": "Lightning storm",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+    "Petir yang menyambar tanah bisa jadi dua kali lipat",
+    "Petir makin sering menyambar tanah, kata peneliti"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Petir yang menyambar tanah bisa jadi dua kali lipat",
+      "body": "Petir adalah loncatan listrik raksasa dari awan badai, dan peneliti memperkirakan jumlahnya naik karena Bumi makin panas.",
+      "takeaway": "Petir ke tanah bisa makin sering.",
+      "icon": "bolt",
+      "image_query": "Lightning storm"
+    },
+    {
+      "type": "fact",
+      "title": "Petir itu dari mana?",
+      "body": "Di dalam awan badai, muatan listrik positif berkumpul di atas dan muatan negatif di bawah. Kalau muatan negatif 'nyambung' ke tanah, terjadilah sambaran petir ke tanah.",
+      "takeaway": "Awan badai itu seperti baterai raksasa.",
+      "icon": "bolt",
+      "image_query": "Cumulonimbus thunderstorm"
+    },
+    {
+      "type": "fact",
+      "title": "Sudah naik 11 persen",
+      "body": "Antara 1995 dan 2014, jumlah petir di seluruh dunia naik 11 persen dibanding awal abad ke-20.",
+      "takeaway": "Petir sudah lebih sering dari dulu.",
+      "icon": "bolt",
+      "viz": {
+        "kind": "stat",
+        "value": "11%",
+        "label": "kenaikan petir dunia",
+        "note": "1995-2014 vs awal abad ke-20"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Bisa naik 76 sampai 140 persen",
+      "body": "Peneliti memperkirakan petir ke tanah bisa naik 76 sampai 140 persen lagi dibanding periode 1995-2014. Jadi lebih dari dua kali lipat pada 2100.",
+      "takeaway": "Dua kali lipat sebelum tahun 2100.",
+      "icon": "burst",
+      "viz": {
+        "kind": "compare",
+        "items": [
+          {
+            "label": "Kenaikan terendah",
+            "value": 76
+          },
+          {
+            "label": "Kenaikan tertinggi",
+            "value": 140
+          }
+        ],
+        "unit": "persen",
+        "caption": "Perkiraan kenaikan petir ke tanah sampai 2100"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Kenapa Bumi panas bikin petir naik?",
+      "body": "Udara panas yang naik dari permukaan Bumi lebih mudah mengaduk atmosfer. Aduk-aduknya menambah peluang terbentuknya tarikan listrik antara awan dan tanah.",
+      "takeaway": "Panas membuat langit lebih 'berlistrik'.",
+      "icon": "cloud",
+      "viz": {
+        "kind": "steps",
+        "items": [
+          "Bumi menghangat",
+          "Udara panas naik",
+          "Atmosfer teraduk",
+          "Petir ke tanah naik"
+        ],
+        "caption": "Alurnya menurut peneliti"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu",
+      "body": "Kalau perkiraan ini benar, langit saat hujan deras bisa makin sering menyambar. Lain kali ada kilat, ingat bahwa petir ke tanah sedang makin sering.",
+      "takeaway": "Hujan deras bisa makin sering disertai petir.",
+      "icon": "bulb"
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_ untuk fakta sains lainnya",
+      "body": "Kirim post ini ke temanmu yang suka bertanya 'masa sih?' dan ikuti @alwaysfact_ supaya tidak ketinggalan.",
+      "takeaway": "Ikuti dan kirim ke temanmu.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Petir yang menyambar ke tanah bisa lebih dari dua kali lipat pada 2100.\n\nPeneliti menemukan petir di dunia sudah naik 11 persen antara 1995 dan 2014 dibanding awal abad ke-20. Ke depan, kenaikannya bisa 76 sampai 140 persen. Penyebabnya: Bumi yang makin panas mengaduk atmosfer.\n\nKirim ke temanmu dan ikuti @alwaysfact_.\n\nSumber: Scientific American (Earth's Future).",
+  "hashtags": [
+    "petir",
+    "sains",
+    "faktaunik",
+    "cuaca",
+    "perubahaniklim",
+    "alwaysfact",
+    "sainsindonesia"
+  ],
+  "claims": [
+    {
+      "text": "Petir yang menyambar ke tanah bisa lebih dari dua kali lipat pada 2100 dibanding tingkat historis.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/lightning-strikes-could-more-than-double-by-2100-thanks-to-climate-change/"
+    },
+    {
+      "text": "Antara 1995 dan 2014, petir di seluruh dunia naik 11 persen dibanding awal abad ke-20.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/lightning-strikes-could-more-than-double-by-2100-thanks-to-climate-change/"
+    },
+    {
+      "text": "Petir bisa naik antara 76 persen dan 140 persen dibanding periode 1995-2014.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/lightning-strikes-could-more-than-double-by-2100-thanks-to-climate-change/"
+    },
+    {
+      "text": "Panas yang naik dari permukaan Bumi lebih mudah mengaduk atmosfer, sehingga peluang terbentuknya petir ke tanah bertambah.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/lightning-strikes-could-more-than-double-by-2100-thanks-to-climate-change/"
+    },
+    {
+      "text": "Di awan badai, partikel bermuatan positif berkumpul di atas dan yang bermuatan negatif di bawah.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/lightning-strikes-could-more-than-double-by-2100-thanks-to-climate-change/"
+    }
+  ],
+  "music_suggestions": [
+    "misterius pelan",
+    "dramatis sedang",
+    "penasaran ringan"
+  ],
+  "id": "044",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/lightning-strikes-could-more-than-double-by-2100-thanks-to-climate-change/",
+      "quote": "could more than double by 2100 compared to historic levels",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/lightning-strikes-could-more-than-double-by-2100-thanks-to-climate-change/",
+      "quote": "Between 1995 and 2014, the researchers found, lightning across the world increased by 11 percent compared to the early 20th century.",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/lightning-strikes-could-more-than-double-by-2100-thanks-to-climate-change/",
+      "quote": "it could jump by between 76 percent and 140 percent over the 1995-2014 period",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/lightning-strikes-could-more-than-double-by-2100-thanks-to-climate-change/",
+      "quote": "heat rising from the Earth’s surface is more prone to shake up the atmosphere, creating more potential for electric fields",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/lightning-strikes-could-more-than-double-by-2100-thanks-to-climate-change/",
+      "quote": "positively charged particles collect near the top of the cloud while negatively charged particles amass near the bottom.",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.scientificamerican.com/article/lightning-strikes-could-more-than-double-by-2100-thanks-to-climate-change/",
+  "topic_id": "te8c37b46",
+  "image_credits": [
+    "Maxime Raynal from France / CC BY 2.0 (Wikimedia Commons)",
+    "Mathias Krumbholz / CC BY-SA 3.0 (Wikimedia Commons)",
+    "JJ Harrison ( https://www.jjharrison.com.au/ ) / CC BY-SA 3.0 (Wikimedia Commons)",
+    "Thomas Bresson / CC BY 3.0 (Wikimedia Commons)",
+    "mattbuck ( category ) / CC BY-SA 4.0 (Wikimedia Commons)",
+    "NASA Expedition 20 crew / Public domain (Wikimedia Commons)"
+  ]
+}

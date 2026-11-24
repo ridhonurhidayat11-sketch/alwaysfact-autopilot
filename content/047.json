@@ -1,0 +1,195 @@
+{
+  "topic": "Zaman es berikutnya mungkin sudah mulai 2.000 tahun lalu, lalu terhenti",
+  "image_query": "Barnes Ice Cap",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+    "Zaman es berikutnya mungkin sudah mulai, lalu dihentikan",
+    "Zaman es sempat mau mulai, tapi Bumi makin panas"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Zaman es berikutnya mungkin sudah mulai, lalu dihentikan",
+      "body": "Zaman es adalah masa ketika lapisan es raksasa menutupi daratan, dan peneliti menemukan tanda bahwa yang berikutnya sempat dimulai.",
+      "takeaway": "Es sempat tumbuh lagi, lalu berhenti.",
+      "icon": "globe",
+      "image_query": "Barnes Ice Cap"
+    },
+    {
+      "type": "fact",
+      "title": "Sisa es raksasa di Kanada",
+      "body": "Lapisan es Laurentide dulu menutup Kanada sampai Illinois. Di beberapa tempat tebalnya lebih dari dua mil.",
+      "takeaway": "Sebagian besar sudah hilang, sisanya tinggal di Arktik.",
+      "icon": "globe",
+      "image_query": "Laurentide Ice Sheet"
+    },
+    {
+      "type": "fact",
+      "title": "Tumbuh lagi 2.000 tahun lalu",
+      "body": "Sekitar 2.000 tahun lalu, sisa es raksasa di Arktik Kanada mulai membesar lagi. Peneliti menilai itu bisa jadi awal zaman es berikutnya.",
+      "takeaway": "Awal zaman es sempat terjadi.",
+      "icon": "clock",
+      "viz": {
+        "kind": "stat",
+        "value": "2.000",
+        "label": "tahun lalu es mulai tumbuh lagi",
+        "note": "di Arktik Kanada"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Bagaimana mereka tahu?",
+      "body": "Tanaman purba terkubur es dan baru muncul saat es mencair sejak 1960. Umur tanaman itu menunjukkan kapan es menutupinya.",
+      "takeaway": "Tanaman purba jadi saksi.",
+      "icon": "leaf",
+      "viz": {
+        "kind": "steps",
+        "items": [
+          "Es mencair",
+          "Tanaman purba muncul",
+          "Umurnya diukur",
+          "Pertumbuhan es terlacak"
+        ],
+        "caption": "Cara peneliti menelusuri es"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Lalu dihentikan pemanasan",
+      "body": "Pada tahun 1960-an, kenaikan suhu musim panas membalik tren itu. Es mulai menyusut, bukan tumbuh.",
+      "takeaway": "Panas menghentikan pertumbuhan es.",
+      "icon": "flame",
+      "viz": {
+        "kind": "stat",
+        "value": "1960an",
+        "label": "tren es berbalik",
+        "note": "es menyusut"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu",
+      "body": "Zaman es tidak akan datang tiba-tiba: butuh sekitar 30.000 tahun untuk es kembali raksasa. Es sisa itu pun bisa hilang total dalam beberapa abad ke depan.",
+      "takeaway": "Perubahan iklim bergerak jauh lebih cepat dari alam.",
+      "icon": "bulb"
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_ untuk fakta sains lainnya",
+      "body": "Kirim post ini ke temanmu yang suka bertanya 'masa sih?' dan ikuti @alwaysfact_ supaya tidak ketinggalan.",
+      "takeaway": "Ikuti dan kirim ke temanmu.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Zaman es berikutnya mungkin sudah mulai 2.000 tahun lalu, tapi pemanasan global menghentikannya.\n\nPeneliti menelusuri tanaman purba di bawah es Kanada. Mereka menyimpulkan es mulai tumbuh lagi, lalu pada 1960-an berbalik menyusut karena suhu musim panas naik.\n\nKirim ke temanmu dan ikuti @alwaysfact_.\n\nSumber: ScienceDaily (Columbia Climate School, jurnal Science).",
+  "hashtags": [
+    "zamanes",
+    "iklim",
+    "sains",
+    "faktaunik",
+    "arktik",
+    "bumi",
+    "alwaysfact"
+  ],
+  "claims": [
+    {
+      "text": "Sekitar 2.000 tahun lalu, sisa lapisan es raksasa di Arktik Kanada mulai membesar lagi.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
+    },
+    {
+      "text": "Pada tahun 1960-an, kenaikan suhu musim panas membalik tren itu dan es menyusut.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
+    },
+    {
+      "text": "Lapisan es Laurentide di beberapa tempat tebalnya lebih dari dua mil.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
+    },
+    {
+      "text": "Butuh sekitar 30.000 tahun agar lapisan es Laurentide kembali sebesar benua.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
+    },
+    {
+      "text": "Es Barnes bisa hilang seluruhnya dalam beberapa abad ke depan.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
+    },
+    {
+      "text": "Sejak es Barnes mulai menyusut pada 1960, tanaman yang terkubur muncul dari bawah es yang mencair.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
+    }
+  ],
+  "music_suggestions": [
+    "dramatis pelan",
+    "misterius sedang",
+    "tenang kontemplatif"
+  ],
+  "id": "047",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+      "quote": "About 2,000 years ago, the remnants of a massive ice sheet in the Canadian Arctic began expanding once again.",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+      "quote": "By the 1960s, rising summer temperatures had reversed the trend, causing the ice to retreat instead of grow.",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+      "quote": "In some locations, its ice was more than two miles thick.",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+      "quote": "roughly 30,000 years for the Laurentide Ice Sheet to regain its enormous continental dimensions",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+      "quote": "it could disappear entirely within the next few centuries.",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 6,
+      "verdict": "supported",
+      "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+      "quote": "Since the Barnes Ice Cap began retreating in 1960, previously buried vegetation has gradually emerged from beneath the melting ice.",
+      "note": "klaim didukung teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+  "topic_id": "tc871e71d",
+  "image_credits": [
+    "Pierre Markuse from Hamm, Germany / CC BY 2.0 (Wikimedia Commons)",
+    "MODIS Land Rapid Response Team, NASA GSFC / Public domain (Wikimedia Commons)"
+  ]
+}
