@@ -1,5 +1,45 @@
 [
   {
+    "id": "t866a6f3f",
+    "origin": "feed",
+    "title": "Workplace absenteeism: Why temporary disability is a right, not an expense",
+    "url": "https://phys.org/news/2026-11-workplace-absenteeism-temporary-disability-expense.html",
+    "summary": "Temporary disability is a cornerstone of the public Social Security system. It is a right for all workers who fall ill and a social security benefit designed primarily to protect those who are sick, enabling them to receive medical treatment and recover or improve their condition while ensuring they have sufficient income during periods in which they are unable to work.",
+    "source": "Phys.org",
+    "published": "2026-11-24T03:40:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tb94b106a",
+    "origin": "feed",
+    "title": "New light-conversion tool could help speed up quantum computing",
+    "url": "https://phys.org/news/2026-11-conversion-tool-quantum.html",
+    "summary": "Want to break down some basics in the world of quantum research over dinner? Researchers at the Cockrell School of Engineering have you covered.",
+    "source": "Phys.org",
+    "published": "2026-11-24T03:20:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t32c853cb",
+    "origin": "feed",
+    "title": "Sains Ungkap Dua Sisi Berbeda Upas, Tumbuhan yang Dijuluki Pohon Kematian dari Jawa",
+    "url": "https://mongabay.co.id/2026/11/24/sains-ungkap-dua-sisi-berbeda-upas-tumbuhan-yang-dijuluki-pohon-kematian-dari-jawa/",
+    "summary": "Pohon upas (Antiaris toxicaria) pernah menjadi tumbuhan paling ditakuti di dunia. Pada abad ke-18, masyarakat Eropa mengenalnya sebagai pohon racun dari Pulau Jawa yang mampu membunuh seluruh makhluk hidup di sekitarnya. Gambaran mengerikan tersebut muncul dalam London Magazine pada 1783. Artikel itu mengisahkan sebuah pohon yang disebut menyebabkan kematian manusia, hewan, hingga tumbuhan dalam r",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-24T03:00:19+00:00",
+    "text_file": "state/sources/t32c853cb.txt"
+  },
+  {
+    "id": "tff14b88d",
+    "origin": "feed",
+    "title": "AI has solved a host of big math problems—here's why this threatens the whole field of mathematics",
+    "url": "https://phys.org/news/2026-11-ai-host-big-math-problems.html",
+    "summary": "For many, the year 2026 will be remembered as the one when mathematics had an identity crisis and forever changed. Frontier (cutting-edge) AI models made by OpenAI and Anthropic made stunning progress on hundreds of open problems that have baffled mathematicians for decades—and centuries in some cases.",
+    "source": "Phys.org",
+    "published": "2026-11-24T02:40:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
     "id": "t75690eb2",
     "origin": "feed",
     "title": "Perjuangan Masyarakat Tananahu Pertahankan Tanah Adat",
@@ -86,8 +126,7 @@
     "url": "https://phys.org/news/2026-11-electron-microscopy-reveals-headquarters-poxviruses.html",
     "summary": "Mpox remains a smoldering threat, with recent clusters in Brazil, Thailand and Austria and ongoing hot spots across multiple African countries. Other poxviruses also endanger human or animal health. A new study by the Institute of Science and Technology Austria (ISTA) uncovers the inner workings of the poxvirus core: how its gene-copying machines sit parked in dormant pairs, ready to print viral i",
     "source": "Phys.org",
-    "published": "2026-11-23T23:40:03+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-23T23:40:03+00:00"
   },
   {
     "id": "t8b9cbdf5",
@@ -96,8 +135,7 @@
     "url": "https://phys.org/news/2026-11-consumers-oblivious-online-ads.html",
     "summary": "Most online shoppers know that ads strategically follow them across sites, a mechanism known as \"ad retargeting.\" A new study led by Penn State researchers found that consumers find these targeted ads helpful, but explaining why they are seeing an ad can backfire by increasing concerns about being watched.",
     "source": "Phys.org",
-    "published": "2026-11-23T23:40:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-23T23:40:01+00:00"
   },
   {
     "id": "tc23c3c47",
@@ -106,8 +144,7 @@
     "url": "https://phys.org/news/2026-11-nasa-spacecraft-reveal-solar-tail.html",
     "summary": "A Southwest Research Institute-led study is the first to map out the distinct motion paths of the heliotail lobes across a 14-year period using data from NASA's Interstellar Boundary Explorer (IBEX) spacecraft. By identifying the paths followed by these lobes, the study provides a better understanding of how solar activity shapes the heliotail.",
     "source": "Phys.org",
-    "published": "2026-11-23T23:20:08+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-23T23:20:08+00:00"
   },
   {
     "id": "t1aa0316b",
@@ -138,15 +175,6 @@
     "published": "2026-11-23T23:00:07+00:00"
   },
   {
-    "id": "tc4529cc3",
-    "origin": "feed",
-    "title": "A cactus that changes gears: How the prickly pear makes the most of desert rain",
-    "url": "https://phys.org/news/2026-11-cactus-gears-pear.html",
-    "summary": "In the desert, water doesn't arrive steadily. It comes in short pulses: a winter storm, a few rainy days, then months of drought. A desert plant needs two skills to live there. It has to survive the long dry spells, and it has to make full use of the brief windows when water is plentiful. A new study from Ben-Gurion University of the Negev and the Volcani Institute shows that the prickly pear cact",
-    "source": "Phys.org",
-    "published": "2026-11-23T23:00:02+00:00"
-  },
-  {
     "id": "tf89eb23e",
     "origin": "feed",
     "title": "BepiColombo ends 8-year interplanetary journey to Mercury. What's next for the ambitious spacecraft?",
@@ -155,24 +183,6 @@
     "source": "Live Science",
     "published": "2026-11-23T22:48:15+00:00",
     "text_file": "state/sources/tf89eb23e.txt"
-  },
-  {
-    "id": "tff21690f",
-    "origin": "feed",
-    "title": "Overlooked symmetry group offers new geometric blueprint for the Standard Model and topologically protected vacuums",
-    "url": "https://phys.org/news/2026-11-overlooked-symmetry-group-geometric-blueprint.html",
-    "summary": "For more than half a century, physicists searching for a grand unified theory have followed one unspoken rule: go bigger. If you want to weave nature's fundamental forces into a single mathematical framework, the classic recipe says you need a giant \"simple\" symmetry group—structures like SU(5) or SO(10) that act like massive algebraic warehouses large enough to hold every force at once.",
-    "source": "Phys.org",
-    "published": "2026-11-23T22:40:06+00:00"
-  },
-  {
-    "id": "tf7c12eaf",
-    "origin": "feed",
-    "title": "A hidden link between a flower's color and its scent revealed",
-    "url": "https://phys.org/news/2026-11-hidden-link-scent-revealed.html",
-    "summary": "Researchers discovered that the biological machinery behind flower color also helps shape fragrance. By disrupting a single gene in petunias, they changed the flowers' mix of scent compounds, increasing some associated with vanilla and cloves.",
-    "source": "Phys.org",
-    "published": "2026-11-23T22:40:02+00:00"
   },
   {
     "id": "te0e2527e",
@@ -940,8 +950,7 @@
     "url": "https://mongabay.co.id/2026/11/23/rumah-bambu-jadi-bangunan-tahan-gempa-di-flores/",
     "summary": "Suasana di sekitar rumah komunal berbahan bambu di belakang kompleks Gereja Paroki Rentung, Desa Belang Turi, Kabupaten Manggarai, Nusa Tenggara Timur (NTT) itu terlihat beda dari biasanya. Tampak sejumlah pejabat memenuhi sekitar rumah pada Rabu (11/11/26) pagi itu. Bukan hanya di tingkat kabupaten, pejabat yang datang juga berasal dari berbagai kementerian dan lembaga di tingkat […] The post Rum",
     "source": "Mongabay Indonesia",
-    "published": "2026-11-23T02:27:18+00:00",
-    "text_file": "state/sources/te726cb0c.txt"
+    "published": "2026-11-23T02:27:18+00:00"
   },
   {
     "id": "td3a74bec",
@@ -1381,15 +1390,6 @@
     "summary": "APODScienceAPODAPOD: 2026 November 22 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors on Jupiter from Juno Explanation: What creates the colors in J",
     "source": "NASA",
     "published": "2026-11-22T05:05:00+00:00"
-  },
-  {
-    "id": "tbe4a6973",
-    "origin": "feed",
-    "title": "Menanti Keseriusan dan Sinergi Berantas Perdagangan Satwa Ilegal",
-    "url": "https://mongabay.co.id/2026/11/22/menanti-keseriusan-dan-sinergi-berantas-perdagangan-satwa-ilegal/",
-    "summary": "Pemberantasan perdagangan satwa ilegal dilindungi masih jadi pekerjaan besar. Tanpa ada penguakan aktor, dan penguatan keamanan kehutanan, tempat satwa berasal, praktik ini akan terus langgeng. Terbaru, Kementerian Kehutanan Direktorat Jenderal Penegakan Hukum Kehutanan (Ditjen Gakkumhut) Kementerian Kehutanan memusnahkan 779 kilogram sisik trenggiling, satu lembar kulit harimau sumatera, tiga kan",
-    "source": "Mongabay Indonesia",
-    "published": "2026-11-22T05:00:20+00:00"
   },
   {
     "id": "t53060625",
