@@ -19,3 +19,4 @@
 {"at": "2026-11-23T10:10:40.211641+00:00", "need": 2, "report": [{"file": "2026-11-23-1009-1.json", "result": "accepted", "post": "039"}, {"file": "2026-11-23-1009-2.json", "result": "accepted", "post": "040"}]}
 {"at": "2026-11-23T16:12:10.167596+00:00", "need": 2, "report": [{"file": "2026-11-23-1610-1.json", "result": "accepted", "post": "041"}, {"file": "2026-11-23-1610-2.json", "result": "accepted", "post": "042"}]}
 {"at": "2026-11-24T04:09:46.360379+00:00", "need": 1, "report": [{"file": "2026-11-24-0408-1.json", "result": "accepted", "post": "043"}]}
+{"at": "2026-11-24T10:10:16.359921+00:00", "need": 2, "report": [{"file": "2026-11-24-1009-1.json", "result": "rejected", "reasons": ["slide 4: infographic shows numbers ['70'] that no claim contains"]}, {"file": "2026-11-24-1009-2.json", "result": "rejected", "reasons": ["slide 4: infographic shows numbers ['1'] that no claim contains"]}]}
