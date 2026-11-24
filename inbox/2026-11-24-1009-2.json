@@ -1,0 +1,182 @@
+{
+ "topic_id": "te603e16b",
+ "source_url": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/",
+ "risk": "low",
+ "post": {
+  "topic": "Anjing hutan langka ini 100 kali lebih sulit difoto daripada jaguar",
+  "image_query": "Speothos venaticus bush dog",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+   "Anjing semak: 12 foto dari 2 juta lebih foto kamera",
+   "Jaguar jauh lebih mudah ditemui daripada anjing semak"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Anjing semak: 12 foto dari 2 juta lebih foto kamera",
+    "body": "Anjing semak adalah anjing liar berkaki pendek dari hutan Amerika Selatan yang sangat jarang terlihat.",
+    "image_query": "Speothos venaticus bush dog",
+    "icon": "magnifier",
+    "takeaway": "Anjing semak sangat sulit ditemui."
+   },
+   {
+    "type": "fact",
+    "title": "Peneliti memasang kamera di hutan",
+    "body": "Kamera otomatis dipasang di hutan untuk memotret hewan yang lewat. Tim peneliti memeriksa data selama **25 tahun** dari **97 lokasi** di tujuh negara Amerika Selatan.",
+    "icon": "magnifier",
+    "takeaway": "Datanya dikumpulkan 25 tahun dari 97 lokasi.",
+    "viz": {
+     "kind": "stat",
+     "value": "25 tahun",
+     "label": "data kamera hutan",
+     "note": "dari 97 lokasi di tujuh negara"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Hasilnya bikin melongo",
+    "body": "Dari lebih dari 2,1 juta foto, anjing semak muncul hanya **12 kali**.",
+    "icon": "burst",
+    "takeaway": "Hanya 12 kemunculan dari jutaan foto.",
+    "viz": {
+     "kind": "stat",
+     "value": "12",
+     "label": "kali anjing semak terpotret",
+     "note": "dari lebih dari 2,1 juta foto"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Jaguar malah lebih sering",
+    "body": "Jaguar, kucing besar bercorak totol, terpotret sekitar **100 kali** lebih sering. Ocelot, kucing hutan yang lebih kecil, hampir 280 kali lebih sering.",
+    "icon": "fish",
+    "takeaway": "Jaguar 100 kali lebih sering terlihat.",
+    "viz": {
+     "kind": "compare",
+     "items": [
+      {
+       "label": "Anjing semak",
+       "value": 1
+      },
+      {
+       "label": "Jaguar",
+       "value": 100
+      },
+      {
+       "label": "Ocelot",
+       "value": 280
+      }
+     ],
+     "unit": "kali",
+     "caption": "Seberapa sering terpotret dibanding anjing semak"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Ukurannya cuma sebesar anjing kecil",
+    "body": "Beratnya hanya sampai **7 kilogram**, kira-kira sekarung beras kecil, dan kadang berburu dalam kelompok belasan ekor.",
+    "icon": "heart",
+    "takeaway": "Berat maksimal sekitar 7 kilogram.",
+    "image_query": "Speothos venaticus"
+   },
+   {
+    "type": "fact",
+    "title": "Kaitannya denganmu",
+    "body": "Hewan yang jarang terlihat bukan berarti aman. Hidup berkelompok membuat mereka mudah tertular penyakit.",
+    "icon": "bacteria",
+    "takeaway": "Hidup berkelompok membuat mudah tertular penyakit."
+   },
+   {
+    "type": "cta",
+    "title": "Kirim ke temanmu pencinta hewan",
+    "body": "Ikuti @alwaysfact_ untuk fakta sains tiap hari, dan kirim post ini ke temanmu.",
+    "icon": "heart"
+   }
+  ],
+  "caption": "Anjing semak: 12 foto dari lebih dari 2,1 juta foto kamera hutan! Jaguar terpotret sekitar 100 kali lebih sering. Peneliti menyebut hewan ini sangat langka dan meminta statusnya ditinjau ulang. Kirim ke temanmu dan ikuti @alwaysfact_.\n\nSumber: Mongabay, laporan riset Wildlife Conservation Society",
+  "hashtags": [
+   "sains",
+   "hewan",
+   "anjing",
+   "hutan",
+   "amazon",
+   "faktasains",
+   "alwaysfact",
+   "satwa"
+  ],
+  "claims": [
+   {
+    "text": "Peneliti menganalisis data kamera selama 25 tahun dari 97 lokasi di tujuh negara Amerika Selatan.",
+    "source_name": "Mongabay",
+    "source_url": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/"
+   },
+   {
+    "text": "Dari lebih dari 2,1 juta foto, anjing semak muncul hanya 12 kali.",
+    "source_name": "Mongabay",
+    "source_url": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/"
+   },
+   {
+    "text": "Jaguar terpotret sekitar 100 kali lebih sering dan ocelot hampir 280 kali.",
+    "source_name": "Mongabay",
+    "source_url": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/"
+   },
+   {
+    "text": "Anjing semak berkaki pendek, beratnya sampai 7 kilogram, dan kadang berburu dalam kelompok belasan ekor.",
+    "source_name": "Mongabay",
+    "source_url": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/"
+   },
+   {
+    "text": "Hidup berkelompok membuat anjing semak rentan terhadap wabah penyakit.",
+    "source_name": "Mongabay",
+    "source_url": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/"
+   }
+  ],
+  "music_suggestions": [
+   "misterius pelan",
+   "penasaran sedang",
+   "petualangan ringan"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/",
+   "quote": "analyzed 25 years of camera-trap data from 97 sites across seven South American countries",
+   "note": "25 tahun 97 lokasi"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/",
+   "quote": "In more than 2.1 million photographs, taken over 611,159 camera-trap nights, bush dogs ( Speothos venaticus ) appeared on just 12 occasions.",
+   "note": "12 kali"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/",
+   "quote": "Jaguars ( Panthera onca ) turned up about 100 times as often, and ocelots nearly 280 times.",
+   "note": "100 dan 280"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/",
+   "quote": "They have short legs, weigh up to 7 kilograms (about 15 pounds), and sometimes hunt in packs of a dozen.",
+   "note": "7 kg"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/",
+   "quote": "Living in packs makes bush dogs susceptible to outbreaks of disease.",
+   "note": "wabah"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}

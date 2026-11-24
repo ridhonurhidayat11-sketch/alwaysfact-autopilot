@@ -1,0 +1,158 @@
+{
+ "topic_id": "t957bb170",
+ "source_url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust",
+ "risk": "low",
+ "post": {
+  "topic": "Kentang ternyata bisa tumbuh di tanah tiruan permukaan Bulan",
+  "image_query": "potato plant",
+  "pillar": "Sains yang disepelekan",
+  "hook_options": [
+   "Kentang berhasil ditanam di debu tiruan Bulan",
+   "Bisakah kita makan kentang goreng di Bulan?"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Kentang berhasil ditanam di debu tiruan Bulan",
+    "body": "Peneliti Oregon State University di Amerika menanam kentang di tanah buatan yang meniru permukaan Bulan.",
+    "image_query": "potato plant",
+    "icon": "leaf",
+    "takeaway": "Kentang bisa hidup di tanah mirip Bulan."
+   },
+   {
+    "type": "fact",
+    "title": "Kenapa orang repot menanam di Bulan?",
+    "body": "NASA berencana membangun pangkalan di Bulan untuk tempat tinggal astronotnya. Penghuninya butuh makan tiga kali sehari, jadi makanan harus bisa ditanam di sana.",
+    "icon": "rocket",
+    "takeaway": "Pangkalan di Bulan butuh sumber makanan sendiri."
+   },
+   {
+    "type": "fact",
+    "title": "Tanahnya bukan tanah biasa",
+    "body": "Peneliti memakai **lima bahan** tiruan debu dan batu Bulan, yaitu regolith. Bahan itu meniru dua jenis wilayah di Bulan.",
+    "icon": "planet",
+    "takeaway": "Tanah Bulan tiruan dibuat dari lima bahan.",
+    "viz": {
+     "kind": "stat",
+     "value": "5",
+     "label": "bahan tiruan tanah Bulan",
+     "note": "dari dua jenis wilayah Bulan"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Rahasianya: kompos cacing",
+    "body": "Campuran tanah tiruan dengan **30 persen** kompos cacing tumbuh hampir sama baik seperti tanah biasa.",
+    "icon": "leaf",
+    "takeaway": "30 persen kompos cacing membuat kentang tumbuh sehat.",
+    "viz": {
+     "kind": "share",
+     "items": [
+      {
+       "label": "Kompos cacing",
+       "pct": 30
+      },
+      {
+       "label": "Tanah Bulan tiruan",
+       "pct": 70
+      }
+     ],
+     "caption": "Campuran yang hasilnya setara tanah biasa"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Hidupnya sampai tuntas",
+    "body": "Kentang melewati seluruh daur hidupnya di tanah tiruan itu, asal diberi bahan organik tambahan.",
+    "icon": "bulb",
+    "takeaway": "Kentang bisa menyelesaikan seluruh daur hidupnya."
+   },
+   {
+    "type": "fact",
+    "title": "Kaitannya denganmu",
+    "body": "Ide ini bisa mengubah cara kita memikirkan pangan: tanah buruk pun bisa jadi lahan kalau diberi bahan organik.",
+    "icon": "globe",
+    "takeaway": "Bahan organik bisa menolong tanah yang buruk."
+   },
+   {
+    "type": "cta",
+    "title": "Kirim ke teman yang suka kentang",
+    "body": "Ikuti @alwaysfact_ untuk fakta sains tiap hari, dan kirim post ini ke temanmu.",
+    "icon": "heart"
+   }
+  ],
+  "caption": "Kentang berhasil ditanam di debu tiruan Bulan! Peneliti Oregon State University menanamnya di lima bahan tiruan tanah Bulan. Campuran dengan 30 persen kompos cacing tumbuh hampir sama baik seperti tanah biasa. Ini hasil di laboratorium dengan tanah tiruan, bukan di Bulan sungguhan. Kirim ke temanmu dan ikuti @alwaysfact_.\n\nSumber: Space.com, laporan tentang riset Oregon State University",
+  "hashtags": [
+   "sains",
+   "bulan",
+   "kentang",
+   "nasa",
+   "faktasains",
+   "alwaysfact",
+   "luarangkasa",
+   "pertanian"
+  ],
+  "claims": [
+   {
+    "text": "NASA berencana membangun pangkalan di Bulan untuk tempat tinggal astronotnya.",
+    "source_name": "Space.com",
+    "source_url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust"
+   },
+   {
+    "text": "Peneliti memakai lima bahan tiruan regolith, yaitu debu dan batu Bulan, dari dua jenis wilayah Bulan.",
+    "source_name": "Space.com",
+    "source_url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust"
+   },
+   {
+    "text": "Tanah tiruan dengan 30 persen kompos cacing bekerja hampir sama baik seperti tanah biasa untuk menanam kentang.",
+    "source_name": "Space.com",
+    "source_url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust"
+   },
+   {
+    "text": "Kentang bisa menyelesaikan seluruh daur hidupnya di tanah Bulan tiruan bila ditambah bahan organik.",
+    "source_name": "Space.com",
+    "source_url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust"
+   }
+  ],
+  "music_suggestions": [
+   "santai ceria tempo sedang",
+   "penasaran lembut tempo pelan",
+   "hangat ringan tempo sedang"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust",
+   "quote": "The space agency even plans to build a moon base for its astronauts to call home.",
+   "note": "rencana pangkalan Bulan"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust",
+   "quote": "the scientists used five different materials that are similar to regolith",
+   "note": "lima bahan"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust",
+   "quote": "They figured out that fake regolith mixed with 30 percent vermicompost worked about as well as growing potatoes with regular soil.",
+   "note": "30 persen"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust",
+   "quote": "potatoes can complete their entire life cycle in simulated lunar soil when supplemented with organic matter",
+   "note": "daur hidup"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}
