@@ -1,5 +1,205 @@
 [
   {
+    "id": "t77608825",
+    "origin": "feed",
+    "title": "'Urgent action' needed to protect lake",
+    "url": "https://www.bbc.co.uk/news/articles/cr78271e5j91o?at_medium=RSS&at_campaign=rss",
+    "summary": "Tourism and outdated septic tanks are said to be adding to the ecological decline of Buttermere.",
+    "source": "BBC Science",
+    "published": "2026-11-24T09:10:43+00:00",
+    "text_file": "state/sources/t77608825.txt"
+  },
+  {
+    "id": "t364d8eed",
+    "origin": "feed",
+    "title": "Super El Niño is making the global omega-3 shortage much worse",
+    "url": "https://www.newscientist.com/article/2600470-super-el-nino-is-making-the-global-omega-3-shortage-much-worse/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "There is already a scarcity of the long-chain omega-3s that are critical to our health, and this year’s massive El Niño is making it much worse. Columnist Michael Le Page says we have a solution – we just need to use it",
+    "source": "New Scientist",
+    "published": "2026-11-24T09:00:00+00:00",
+    "text_file": "state/sources/t364d8eed.txt"
+  },
+  {
+    "id": "t1c343a8d",
+    "origin": "feed",
+    "title": "New quasar record tightens constraints on black hole formation scenarios",
+    "url": "https://phys.org/news/2026-11-quasar-tightens-constraints-black-hole.html",
+    "summary": "A team of astronomers led by Julien Wolf, a postdoctoral researcher at the Max Planck Institute for Astronomy (MPIA) in Heidelberg, Germany (now at the European Southern Observatory in Garching bei München, Germany), discovered the most distant quasar to date. First identified in the Euclid Wide Survey (EWS), the object was confirmed to be a quasar by subsequent observations with some of the most ",
+    "source": "Phys.org",
+    "published": "2026-11-24T08:00:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t195ec324",
+    "origin": "feed",
+    "title": "The technology that could make government internet blackouts impossible",
+    "url": "https://www.newscientist.com/article/2600040-the-technology-that-could-make-government-internet-blackouts-impossible/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "Direct-to-cell technology could one day provide a lifeline for getting around authoritarian regimes’ internet shutdowns, but international law and technical limitations are holding the technology back for now",
+    "source": "New Scientist",
+    "published": "2026-11-24T08:00:00+00:00",
+    "text_file": "state/sources/t195ec324.txt"
+  },
+  {
+    "id": "tbf1a0107",
+    "origin": "feed",
+    "title": "Growing lava dome oozes ‘like toothpaste’ from superactive snow-covered volcano in Russia",
+    "url": "https://www.livescience.com/planet-earth/volcanoes/growing-lava-dome-oozes-like-toothpaste-from-superactive-snow-covered-volcano-in-russia-earth-from-space",
+    "summary": "A recent satellite image captured a striking scene at the Shiveluch volcano, which has been erupting for nearly 30 years in Russia's Kamchatka Peninsula.",
+    "source": "Live Science",
+    "published": "2026-11-24T08:00:00+00:00",
+    "text_file": "state/sources/tbf1a0107.txt"
+  },
+  {
+    "id": "tb71d86a1",
+    "origin": "feed",
+    "title": "Elders in Bali renew push against new offshore gas terminal",
+    "url": "https://news.mongabay.com/2026/11/elders-in-bali-renew-push-against-new-offshore-gas-terminal/",
+    "summary": "DENPASAR, Indonesia — Customary leaders from Serangan village in Bali have renewed local opposition to a planned liquefied natural gas terminal off the east coast of the Indonesian island, saying the floating LNG site is too close to customary fishing grounds. “We disagree with the 3.5-kilometer distance [2.2 miles] because the vessel is large, and […]",
+    "source": "Mongabay",
+    "published": "2026-11-24T07:42:36+00:00",
+    "text_file": "state/sources/tb71d86a1.txt"
+  },
+  {
+    "id": "t52ae3a14",
+    "origin": "feed",
+    "title": "Listyo Sigit dkk tersangka makar – Satu warga sipil jadi tersangka karena sablon baju bertuliskan ACAB",
+    "url": "https://www.bbc.com/indonesia/articles/cm62pkdeele0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Satu warga sipil dengan inisial NE dijadikan tersangka dalam kasus makar yang menjerat eks Kapolri Listyo Sigit. Penyebabnya adalah baju yang dia sablon.",
+    "source": "BBC Indonesia",
+    "published": "2026-11-24T07:10:56+00:00",
+    "text_file": "state/sources/t52ae3a14.txt"
+  },
+  {
+    "id": "tb51c0062",
+    "origin": "feed",
+    "title": "Indonesian Borneo’s forests go quiet as smoke silences gibbons. Their singing matters",
+    "url": "https://news.mongabay.com/2026/11/indonesian-borneos-forests-go-quiet-as-smoke-silences-gibbons-their-singing-matter/",
+    "summary": "Around dawn, a gibbon pair starts to sing. Their voices interweave, and the duet builds to a crescendo that fills the canopy. Across much of the Bornean forest, this is the sound of the morning. But since smoke from Indonesia’s worst fire crisis in over a decade has engulfed the island, forests have become noticeably […]",
+    "source": "Mongabay",
+    "published": "2026-11-24T06:57:07+00:00",
+    "text_file": "state/sources/tb51c0062.txt"
+  },
+  {
+    "id": "td14eda4c",
+    "origin": "feed",
+    "title": "Delia Smith joins opponents of £1.2bn data centre",
+    "url": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
+    "summary": "The TV cook and author is worried about the proposed Keswick facility's environmental impact.",
+    "source": "BBC Science",
+    "published": "2026-11-24T06:36:26+00:00",
+    "text_file": "state/sources/td14eda4c.txt"
+  },
+  {
+    "id": "t29e973e8",
+    "origin": "feed",
+    "title": "'Kekerasan yang sesungguhnya adalah kekerasan yang dilakukan negara' – Satu hari bersama kelompok ultra kiri Prancis",
+    "url": "https://www.bbc.com/indonesia/articles/cvn0d5p2dyx0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Seperti negara-negara lain di Eropa, Prancis dilanda gelombang demonstrasi besar selama berminggu-minggu. Siapa saja para pengunjuk rasa itu dan apa harapan mereka?",
+    "source": "BBC Indonesia",
+    "published": "2026-11-24T06:28:59+00:00",
+    "text_file": "state/sources/t29e973e8.txt"
+  },
+  {
+    "id": "ta3f32825",
+    "origin": "feed",
+    "title": "Goats drafted in to tame Greenwich Park slope",
+    "url": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Bagot goats are used to keep vegetation in check and help preserve the view from the Royal Observatory.",
+    "source": "BBC Science",
+    "published": "2026-11-24T06:16:51+00:00",
+    "text_file": "state/sources/ta3f32825.txt"
+  },
+  {
+    "id": "te603e16b",
+    "origin": "feed",
+    "title": "Bush dogs are very rare. You’re 100x more likely to see a jaguar",
+    "url": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/",
+    "summary": "Founder’s Briefs: An occasional series where Mongabay founder Rhett Ayers Butler shares analysis, perspectives and story summaries. Biologists can spend decades working in the Amazon without seeing a bush dog. A new study quantifies just how rare the wild canids are. Writing in Canid Biology & Conservation, Robert Wallace and his colleagues at the Wildlife […]",
+    "source": "Mongabay",
+    "published": "2026-11-24T06:08:50+00:00",
+    "text_file": "state/sources/te603e16b.txt"
+  },
+  {
+    "id": "tb327b259",
+    "origin": "feed",
+    "title": "Banggai dan Fenomena Kehidupan Dunia Bawah Tanah yang Belum Terungkap",
+    "url": "https://mongabay.co.id/2026/11/24/banggai-dan-fenomena-kehidupan-dunia-bawah-tanah-yang-belum-terungkap/",
+    "summary": "Di balik bentang alam Banggai Raya, Sulawesi Tengah, tersimpan dunia bawah tanah yang belum sepenuhnya terungkap. Gua-gua berair, lorong gelap, hingga ruang bawah tanah berukuran besar menyimpan fenomena geologi dan kehidupan yang menarik perhatian ilmuwan. Pada Agustus 2024, tim ekspedisi gabungan Indonesia, Malaysia, dan Amerika Serikat menjelajahi kawasan karst Banggai melalui International Exp",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-24T06:00:39+00:00",
+    "text_file": "state/sources/tb327b259.txt"
+  },
+  {
+    "id": "tc41d534f",
+    "origin": "feed",
+    "title": "Cerita dari COP31: Suara Masyarakat Adat, Penjaga Iklim yang Masih Terpinggirkan",
+    "url": "https://mongabay.co.id/2026/11/24/cerita-dari-cop31-suara-masyarakat-adat-penjaga-iklim-yang-masih-terpinggirkan/",
+    "summary": "Masyarakat adat merupakan penjaga alam dan hutan hingga jadi bagian penting dari solusi krisis iklim dunia. Di berbagai belahan bumi ini, mereka terus berjuang di tengah tekanan berlapis, dari hutan terampas, ruang hidup hilang maupun tercemar berbagai aktivitas ekstraktif. Masyarakat adat terutama para perempuan terdampak ketika hutan rusak. Bagi mereka, hutan itu sumber segala dari […] The post ",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-24T05:36:44+00:00",
+    "text_file": "state/sources/tc41d534f.txt"
+  },
+  {
+    "id": "tf09a9e79",
+    "origin": "feed",
+    "title": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/",
+    "summary": "APOD Science APOD APOD: 2026 November 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Galaxies Battle in […]",
+    "source": "NASA",
+    "published": "2026-11-24T05:05:00+00:00",
+    "text_file": "state/sources/tf09a9e79.txt"
+  },
+  {
+    "id": "te3618abe",
+    "origin": "feed",
+    "title": "Eruption Extends Iwo Jima’s Beach",
+    "url": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/",
+    "summary": "A volcanic eruption just off the southeast shore of the Pacific island has reshaped the coast, but it’s unclear how long the new land will survive.",
+    "source": "NASA",
+    "published": "2026-11-24T05:01:00+00:00",
+    "text_file": "state/sources/te3618abe.txt"
+  },
+  {
+    "id": "t4f7c3bbd",
+    "origin": "feed",
+    "title": "Pemerintah Akan Hidupkan BRGM, Ini Solusi Jangka Panjang?",
+    "url": "https://mongabay.co.id/short-article/2026/11/pemerintah-wacanakan-hidupkan-kembali-brgm-ini-solusi-jangka-panjang/",
+    "summary": "Pemerintah berencana menghidupkan kembali Badan Pengelolaan Gambut dan Mangrove Nasional (BPGMN) akibat kebakaran hutan dan lahan tahun 2026 ini. Badan ini rencananya akan menjalankan fungsi restorasi dan pengelolaan gambut seperti Badan Restorasi Gambut dan Mangrove (BRGM) sebelumnya. Usulan ini muncul pada rapat terbatas di Istana Negara pada September lalu bersama dengan sejumlah pakar. Sementa",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-24T05:00:08+00:00",
+    "text_file": "state/sources/t4f7c3bbd.txt"
+  },
+  {
+    "id": "t7a0c79c6",
+    "origin": "feed",
+    "title": "Anak-anak bukan objek, libatkan mereka saat membuat kebijakan digital",
+    "url": "https://theconversation.com/anak-anak-bukan-objek-libatkan-mereka-saat-membuat-kebijakan-digital-296310",
+    "summary": "Perlindungan anak tak cukup berhenti pada kebijakan satu arah dari pemerintah. Mereka juga berhak dilibatkan dalam keputusan yang menyangkut hidupnya, sesuai usia dan kemampuannya.",
+    "source": "The Conversation Indonesia",
+    "published": "2026-11-24T04:59:57+00:00",
+    "text_file": "state/sources/t7a0c79c6.txt"
+  },
+  {
+    "id": "tf03f09e2",
+    "origin": "feed",
+    "title": "Timor-Leste issues guidelines for whale-watching, but malpractice is rife as industry booms",
+    "url": "https://news.mongabay.com/2026/11/timor-leste-issues-guidelines-for-whale-watching-but-malpractice-is-rife-as-industry-booms/",
+    "summary": "DILI, Timor-Leste — As the annual whale migration gets into full swing in Timor-Leste, conservationists are raising concerns about increasingly aggressive tourist encounters with the world’s largest animals, despite new guidelines designed to protect them. Whale tourism is booming in a country whose waters are known as a “superhighway” for marine mammals. Migrating pygmy blue […]",
+    "source": "Mongabay",
+    "published": "2026-11-24T04:56:04+00:00",
+    "text_file": "state/sources/tf03f09e2.txt"
+  },
+  {
+    "id": "t3fe1c564",
+    "origin": "feed",
+    "title": "Funding must work better for SMEs to tackle energy challenges, finds research",
+    "url": "https://phys.org/news/2026-11-funding-smes-tackle-energy.html",
+    "summary": "Scotland's small food and drink businesses face significant financial and operational barriers that could see them frozen out of vital funding to cut emissions from keeping produce cold, according to research from Heriot-Watt University.",
+    "source": "Phys.org",
+    "published": "2026-11-24T04:20:02+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
     "id": "t866a6f3f",
     "origin": "feed",
     "title": "Workplace absenteeism: Why temporary disability is a right, not an expense",
@@ -96,8 +296,7 @@
     "url": "https://phys.org/news/2026-11-recipe-world-important-cancer-drugs.html",
     "summary": "More people around the world will receive a cancer diagnosis at some point in their lives. As this trend is expected to continue, researchers have been working to crack the code of how the widely used cancer drug Taxol (paclitaxel) is naturally produced, with the aim of making its production cheaper and more efficient in the future.",
     "source": "Phys.org",
-    "published": "2026-11-24T00:20:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-24T00:20:01+00:00"
   },
   {
     "id": "tdb8a83ba",
@@ -116,8 +315,7 @@
     "url": "https://phys.org/news/2026-11-local-reveal-global-quantum-properties.html",
     "summary": "A quantum device with more qubits is harder to verify. Describing a general quantum state takes an exponential number of parameters, and reconstructing it in full—a procedure known as state tomography—becomes impractical as the system grows. Yet most experiments do not need the full description. They need to know a few things: Is the state close to the target? Are the qubits entangled? And does th",
     "source": "Phys.org",
-    "published": "2026-11-24T00:00:02+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-24T00:00:02+00:00"
   },
   {
     "id": "te4ad13c4",
@@ -147,15 +345,6 @@
     "published": "2026-11-23T23:20:08+00:00"
   },
   {
-    "id": "t1aa0316b",
-    "origin": "feed",
-    "title": "Physics-guided AI reconstructs fluid flow from sparse, noisy data",
-    "url": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html",
-    "summary": "Medical imaging technologies have transformed how scientists and physicians visualize blood flowing through the human heart, but even the most advanced imaging techniques cannot capture every detail of fluid motion. Researchers at the University of California, Irvine, have developed a computational approach that combines fundamental physics with artificial intelligence to reconstruct a more comple",
-    "source": "Phys.org",
-    "published": "2026-11-23T23:20:01+00:00"
-  },
-  {
     "id": "t1d315b1c",
     "origin": "feed",
     "title": "Trenggiling Masuk Pemukiman di Banjarbaru, Korban Karhutla?",
@@ -164,15 +353,6 @@
     "source": "Mongabay Indonesia",
     "published": "2026-11-23T23:07:14+00:00",
     "text_file": "state/sources/t1d315b1c.txt"
-  },
-  {
-    "id": "tf81f5442",
-    "origin": "feed",
-    "title": "A nearly 100-million-year-old hairy snail pays tribute to the Prodigy's lead singer",
-    "url": "https://phys.org/news/2026-11-million-year-hairy-snail-pays.html",
-    "summary": "Myanmar amber (more commonly known as \"burmite\") is one of the most important sources of information about biodiversity during the Mesozoic Era. This amber dates back to the age of the dinosaurs and is approximately 99 million years old. Burmite preserves numerous now-extinct organisms (animals, plants, fungi, etc.) as inclusions, often in astonishing detail. This is because amber can preserve eve",
-    "source": "Phys.org",
-    "published": "2026-11-23T23:00:07+00:00"
   },
   {
     "id": "tf89eb23e",
@@ -321,8 +501,7 @@
     "url": "https://news.mongabay.com/2026/11/in-south-africas-limpopo-residents-wonder-what-the-next-flood-will-bring/",
     "summary": "“Everyone needs to understand their responsibilities before an emergency occurs.” This is the view of Hope Magidimisha, a national planning commissioner in the Office of the Presidency, South Africa. She said the January floods in South Africa’s Limpopo province, which is still feeling the effects, should serve as a reminder that disaster preparedness must begin […]",
     "source": "Mongabay",
-    "published": "2026-11-23T17:51:59+00:00",
-    "text_file": "state/sources/t617832ab.txt"
+    "published": "2026-11-23T17:51:59+00:00"
   },
   {
     "id": "t9e1f445f",
@@ -331,8 +510,7 @@
     "url": "https://news.mongabay.com/short-article/2026/11/analysis-the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making/",
     "summary": "NEW YORK (AP) — Going into this year’s U.N. climate talks in Turkey, expectations were notably low. Still, the outcome was even worse than expected—a failure to reach an overall agreement at a time of frequent extreme weather events fueled by climate change. While negotiations collapsed over one main point of contention—whether to include language […]",
     "source": "Mongabay",
-    "published": "2026-11-23T17:34:45+00:00",
-    "text_file": "state/sources/t9e1f445f.txt"
+    "published": "2026-11-23T17:34:45+00:00"
   },
   {
     "id": "t25af7379",
@@ -445,16 +623,6 @@
     "text_file": "state/sources/tcbf39485.txt"
   },
   {
-    "id": "t53869ab9",
-    "origin": "feed",
-    "title": "Village's concern over sewage discharge in dry river",
-    "url": "https://www.bbc.co.uk/news/articles/c60rkq78g05vo?at_medium=RSS&at_campaign=rss",
-    "summary": "Campaigners call for restrictions on sewage treatment plant discharging effluent during drought",
-    "source": "BBC Science",
-    "published": "2026-11-23T15:48:07+00:00",
-    "text_file": "state/sources/t53869ab9.txt"
-  },
-  {
     "id": "t275e2a5b",
     "origin": "feed",
     "title": "Move over, turkey: Add some seafood dishes to your Thanksgiving table",
@@ -531,8 +699,7 @@
     "url": "https://news.mongabay.com/2026/11/colombia-presidents-move-on-mining-oil-weakens-countrys-amazon-protections-experts-warn/",
     "summary": "After repealing a measure that banned large-scale mining and hydrocarbon extraction in the Amazon, the Colombian government is sending mixed signals, organizations and experts warn.",
     "source": "Mongabay",
-    "published": "2026-11-23T14:19:44+00:00",
-    "text_file": "state/sources/ta828bacc.txt"
+    "published": "2026-11-23T14:19:44+00:00"
   },
   {
     "id": "t55993621",
@@ -555,15 +722,6 @@
     "text_file": "state/sources/t56bbe888.txt"
   },
   {
-    "id": "t860dc875",
-    "origin": "feed",
-    "title": "What did the Soviet Union's final deep space probe actually see on Mars?",
-    "url": "https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars",
-    "summary": "Conspiracy theories surround the odd-looking appearance of a shadow seen in the final images captured by Phobos 2, the Soviet Union’s last mission into deep space.",
-    "source": "Space.com",
-    "published": "2026-11-23T13:00:00+00:00"
-  },
-  {
     "id": "t9e8bb14a",
     "origin": "feed",
     "title": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing",
@@ -573,14 +731,13 @@
     "published": "2026-11-23T13:00:00+00:00"
   },
   {
-    "id": "t52ae3a14",
+    "id": "t860dc875",
     "origin": "feed",
-    "title": "Listyo Sigit dkk tersangka makar – Bagaimana mengaitkan penyadapan dengan perbuatan makar?",
-    "url": "https://www.bbc.com/indonesia/articles/cm62pkdeele0o?at_medium=RSS&at_campaign=rss",
-    "summary": "Bareskrim Polri menetapkan mantan Kapolri Jenderal Listyo Sigit Prabowo sebagai salah satu tersangka kasus dugaan makar atau usaha menjatuhkan pemerintahan yang sah.",
-    "source": "BBC Indonesia",
-    "published": "2026-11-23T12:54:18+00:00",
-    "text_file": "state/sources/t52ae3a14.txt"
+    "title": "What did the Soviet Union's final deep space probe actually see on Mars?",
+    "url": "https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars",
+    "summary": "Conspiracy theories surround the odd-looking appearance of a shadow seen in the final images captured by Phobos 2, the Soviet Union’s last mission into deep space.",
+    "source": "Space.com",
+    "published": "2026-11-23T13:00:00+00:00"
   },
   {
     "id": "t0ac3b8d6",
@@ -589,8 +746,7 @@
     "url": "https://news.mongabay.com/2026/11/we-had-to-reinvent-the-system-completely-brazilian-philanthropy-leader-says/",
     "summary": "In November 2025, Indigenous and Afro-descendent peoples, frontline defenders and civil society movements mobilized in unprecedented numbers in Belém, Brazil, to advocate for their demands at the 30th U.N. Climate Change Conference (COP30). One of the key demands was for direct access to climate finance. At COP30, donors announced a new $1.8 billion pledge to […]",
     "source": "Mongabay",
-    "published": "2026-11-23T12:50:10+00:00",
-    "text_file": "state/sources/t0ac3b8d6.txt"
+    "published": "2026-11-23T12:50:10+00:00"
   },
   {
     "id": "tc798fdc7",
@@ -610,15 +766,6 @@
     "source": "New Scientist",
     "published": "2026-11-23T12:00:00+00:00",
     "text_file": "state/sources/t8effd2ea.txt"
-  },
-  {
-    "id": "t688083b5",
-    "origin": "feed",
-    "title": "From farm to airline plates, a Zambia farm closes its food-waste loop",
-    "url": "https://news.mongabay.com/2026/11/from-farm-to-airline-plates-a-zambia-farm-closes-its-food-waste-loop/",
-    "summary": "LUSAKA, Zambia — A passenger finishing a salad on a flight out of Lusaka may not know where the vegetables came from — or where some of the organic waste generated during meal preparation ends up. The answer to both questions could be: A 10-hectare (25-acre) farm on the outskirts of Zambia’s capital run by […]",
-    "source": "Mongabay",
-    "published": "2026-11-23T11:50:31+00:00"
   },
   {
     "id": "tdb0955a9",
@@ -700,15 +847,6 @@
     "text_file": "state/sources/td99763bd.txt"
   },
   {
-    "id": "taca24676",
-    "origin": "feed",
-    "title": "Wolves help wild blueberries grow, US study finds",
-    "url": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/",
-    "summary": "Every summer in northern Minnesota, gray wolves become fruit eaters, mostly. During peak berry season in July and August, berries make up as much as 83% of adult wolves’ weekly diets in the Greater Voyageurs Ecosystem, a southern boreal forest region that borders Canada. Now a new study shows the blueberries also get something out […]",
-    "source": "Mongabay",
-    "published": "2026-11-23T10:57:42+00:00"
-  },
-  {
     "id": "t3d84f8f3",
     "origin": "feed",
     "title": "Mysterious new viruses reveal a missing link in evolution",
@@ -768,15 +906,6 @@
     "published": "2026-11-23T08:00:00+00:00"
   },
   {
-    "id": "t1326a318",
-    "origin": "feed",
-    "title": "Bumblebees are problem-solvers too",
-    "url": "https://news.mongabay.com/short-article/2026/11/bumblebees-are-problem-solvers-too/",
-    "summary": "Turns out bumblebees are spontaneous problem solvers too! In a series of experiments, scientists found that untrained bumblebees were able to find novel solutions to get a reward. The research builds on previous experiments that showed that bumblebees can work as a team and possess cognitive abilities despite their tiny brains. Watch this video to […]",
-    "source": "Mongabay",
-    "published": "2026-11-23T07:40:22+00:00"
-  },
-  {
     "id": "tec55d8f5",
     "origin": "feed",
     "title": "Can you solve it? How Super Mario explains Renaissance art",
@@ -793,8 +922,7 @@
     "url": "https://mongabay.co.id/2026/11/23/opini-badak-jawa-dan-wacana-rumah-kedua/",
     "summary": "Di Ujung Kulon, bencana besar bisa mengancam populasi liar badak jawa (Rhinoceros sondaicus). Jika tsunami merendam bagian taman nasional tempat badak hidup, masa depan spesies ini akan bergantung pada satwa yang selamat dan habitat yang masih bisa mereka gunakan. Belum ada populasi liar lain di bentang alam terpisah. Setidaknya begitulah kerentanan yang jadi alasan […] The post Opini: Badak Jawa ",
     "source": "Mongabay Indonesia",
-    "published": "2026-11-23T07:08:54+00:00",
-    "text_file": "state/sources/t0ff4beff.txt"
+    "published": "2026-11-23T07:08:54+00:00"
   },
   {
     "id": "t2c120742",
@@ -836,15 +964,6 @@
     "text_file": "state/sources/t781c0604.txt"
   },
   {
-    "id": "te2522b31",
-    "origin": "feed",
-    "title": "Plan to breed rare Asian golden cats for pets raises conservation concerns",
-    "url": "https://news.mongabay.com/short-article/2026/11/plan-to-breed-rare-asian-golden-cats-for-pets-raises-conservation-concerns/",
-    "summary": "An Indonesian company has sought to register a captive-breeding facility with the Secretariat of CITES, the global wildlife trade treaty, to commercially breed and export rare Asian golden cats as pets, report Mongabay’s Spoorthy Raman and Fernanda Wenzel. If approved, PT Alam Nusantara Jayatama would become the first facility in the world to commercially breed […]",
-    "source": "Mongabay",
-    "published": "2026-11-23T05:27:42+00:00"
-  },
-  {
     "id": "tca50e279",
     "origin": "feed",
     "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
@@ -861,8 +980,7 @@
     "url": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
     "summary": "APOD Science APOD APOD: 2026 November 23 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Emergence […]",
     "source": "NASA",
-    "published": "2026-11-23T05:05:00+00:00",
-    "text_file": "state/sources/t8e16d10f.txt"
+    "published": "2026-11-23T05:05:00+00:00"
   },
   {
     "id": "t3f6729e1",
@@ -871,8 +989,7 @@
     "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
     "summary": "A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway.",
     "source": "NASA",
-    "published": "2026-11-23T05:01:00+00:00",
-    "text_file": "state/sources/t3f6729e1.txt"
+    "published": "2026-11-23T05:01:00+00:00"
   },
   {
     "id": "te0ddd422",
@@ -920,8 +1037,7 @@
     "url": "https://mongabay.co.id/2026/11/23/7-fakta-menarik-orangutan-tapanuli-yang-penting-kita-ketahui/",
     "summary": "Orangutan tapanuli (Pongo tapanuliensis) merupakan primata langka yang hidup di Ekosistem Batang Toru, Sumatera Utara. Spesies ini baru diakui secara ilmiah pada November 2017 melalui penelitian Alexander Nater dan kolega dalam jurnal Current Biology. Sebagai spesies orangutan ketiga di Indonesia, orangutan tapanuli memiliki sejumlah keunikan. Berikut tujuh fakta menariknya, berdasarkan buku Ekolo",
     "source": "Mongabay Indonesia",
-    "published": "2026-11-23T03:30:17+00:00",
-    "text_file": "state/sources/t0293ea83.txt"
+    "published": "2026-11-23T03:30:17+00:00"
   },
   {
     "id": "t5cec49b5",
@@ -940,8 +1056,7 @@
     "url": "https://mongabay.co.id/short-article/2026/11/bagaimana-perubahan-sosial-masyarakat-tobelo-dalam-dari-kacamata-antropolog-selama-dua-dekade/",
     "summary": "Lebih dari dua dekade, Safrudin Abdulrahman meneliti kehidupan masyarakat adat O’Hongana Manyawa di Pulau Halmahera, Maluku Utara. Dia menyaksikan secara langsung perubahan pola hidup, tekanan terhadap hutan, dan stereotip yang melekat pada masyarakat pedalaman Halmahera. Dia memulainya sejak 2002 dengan berulang kali masuk ke pedalaman Halmahera, tinggal bersama dan membaca literasi serta penelit",
     "source": "Mongabay Indonesia",
-    "published": "2026-11-23T03:05:43+00:00",
-    "text_file": "state/sources/t79d99adb.txt"
+    "published": "2026-11-23T03:05:43+00:00"
   },
   {
     "id": "te726cb0c",
@@ -1151,8 +1266,7 @@
     "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
     "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
     "source": "BBC Science",
-    "published": "2026-11-22T18:28:48+00:00",
-    "text_file": "state/sources/t48074c1f.txt"
+    "published": "2026-11-22T18:28:48+00:00"
   },
   {
     "id": "t65c20eee",
@@ -1194,23 +1308,13 @@
     "text_file": "state/sources/tb37954f1.txt"
   },
   {
-    "id": "tb1fb82b7",
-    "origin": "feed",
-    "title": "Kisah Amransyah, Petani di Banggai Kepulauan yang Mengabdikan Hidupnya untuk Satwa Langka",
-    "url": "https://mongabay.co.id/2026/11/22/kisah-amransyah-petani-di-banggai-kepulauan-yang-mengabdikan-hidupnya-untuk-satwa-langka/",
-    "summary": "Di Desa Patukuki, Kecamatan Peling Tengah, Kabupaten Banggai Kepulauan, Sulawesi Tengah, seorang petani memilih cara berbeda untuk menjaga hutan. Amransyah, atau Amran, tidak hanya berkebun, tetapi juga membeli lahan warga agar habitat satwa endemik tetap terlindungi. Lahan yang dibelinya tidak banyak diubah. Pepohonan dibiarkan tumbuh, sementara tanaman pala dikembangkan tanpa harus menebang poho",
-    "source": "Mongabay Indonesia",
-    "published": "2026-11-22T13:00:57+00:00"
-  },
-  {
     "id": "tf66d1622",
     "origin": "feed",
     "title": "2,200-year-old Celtic silver coin hoard unearthed at construction site in Hungary",
     "url": "https://www.livescience.com/archaeology/2-200-year-old-celtic-silver-coin-hoard-unearthed-at-construction-site-in-hungary",
     "summary": "Archaeologists discovered a stash of Celtic coins ahead of a construction project for an electrical substation in Hungary.",
     "source": "Live Science",
-    "published": "2026-11-22T13:00:00+00:00",
-    "text_file": "state/sources/tf66d1622.txt"
+    "published": "2026-11-22T13:00:00+00:00"
   },
   {
     "id": "t22d32e24",
@@ -1316,34 +1420,6 @@
     "text_file": "state/sources/t494b2aab.txt"
   },
   {
-    "id": "tf3a74cd5",
-    "origin": "feed",
-    "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
-    "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-    "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
-    "source": "BBC Science",
-    "published": "2026-11-22T10:44:12+00:00",
-    "text_file": "state/sources/tf3a74cd5.txt"
-  },
-  {
-    "id": "t3706a467",
-    "origin": "feed",
-    "title": "Pemerintah Cabut Izin PT RAPP",
-    "url": "https://mongabay.co.id/2026/11/22/pemerintah-cabut-izin-pt-rapp/",
-    "summary": "Pemerintah cabut izin raksasa kayu di Indonesia, PT Riau Andalan Pulp and Paper (RAPP) seluas 338.536 hektar. Ia mencakup seluruh area yang tersebar di Riau, Kabupaten Pelalawan, Siak, Kuantan Singingi, Indragiri Hulu, Kampar, hingga Kepulauan Meranti. Satuan Tugas Penertiban Kawasan Hutan (Satgas PKH), lakukan penyegelan di lapangan. Berdasarkan SK Menhut 971/2026 tertanggal 19 Nov 2026, […] The ",
-    "source": "Mongabay Indonesia",
-    "published": "2026-11-22T10:24:04+00:00"
-  },
-  {
-    "id": "td95f2ea4",
-    "origin": "feed",
-    "title": "Pertaruhan Masa Depan Badak Jawa di Ujung Kulon",
-    "url": "https://mongabay.co.id/2026/11/22/pertaruhan-masa-depan-badak-jawa-di-ujung-kulon/",
-    "summary": "Paket itu tiba di Paris pada 1821. Isinya, kulit dan kerangka seekor badak bercula satu dari Jawa. Kiriman disertai catatan Pierre Medard Diard tentang badak bercula satu. Pengirimnya Diard sendiri. Diard merupakan seorang naturalis berkebangsaan Prancis, pengumpul spesimen yang melakukan eksplorasi zoologi di Asia Tenggara termasuk Jawa. Setelah mempelajari spesimen, Anselme Gaetan Desmaret, seor",
-    "source": "Mongabay Indonesia",
-    "published": "2026-11-22T10:10:46+00:00"
-  },
-  {
     "id": "t1276d20d",
     "origin": "feed",
     "title": "Which came first: black holes or galaxies?",
@@ -1359,8 +1435,7 @@
     "url": "https://www.bbc.com/indonesia/articles/cje39194n5gro?at_medium=RSS&at_campaign=rss",
     "summary": "Pemerintah Tamil Nadu telah memerintahkan audit internal terhadap koleksi perpustakaan di seluruh negara bagian tersebut.",
     "source": "BBC Indonesia",
-    "published": "2026-11-22T08:15:48+00:00",
-    "text_file": "state/sources/t8d5b5156.txt"
+    "published": "2026-11-22T08:15:48+00:00"
   },
   {
     "id": "t0c257a1a",
@@ -1381,15 +1456,6 @@
     "source": "Antara Tekno",
     "published": "2026-11-22T06:37:29+00:00",
     "text_file": "state/sources/t0e829e65.txt"
-  },
-  {
-    "id": "t9884dabb",
-    "origin": "feed",
-    "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
-    "summary": "APODScienceAPODAPOD: 2026 November 22 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors on Jupiter from Juno Explanation: What creates the colors in J",
-    "source": "NASA",
-    "published": "2026-11-22T05:05:00+00:00"
   },
   {
     "id": "t53060625",
@@ -1446,15 +1512,6 @@
     "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our understanding of time and gravity.",
     "source": "ScienceDaily",
     "published": "2026-11-21T15:09:46+00:00"
-  },
-  {
-    "id": "ta7290a8c",
-    "origin": "feed",
-    "title": "Winter stargazing 2026: The best skywatching sights this winter (and how to see them)",
-    "url": "https://www.livescience.com/space/winter-stargazing-the-best-skywatching-sights-this-winter-and-how-to-see-them",
-    "summary": "All the must-see supermoons, meteor showers, star clusters, constellations and deep sky objects this winter — and the gear you need to see them.",
-    "source": "Live Science",
-    "published": "2026-11-21T15:00:00+00:00"
   },
   {
     "id": "t88875db0",
@@ -1551,24 +1608,6 @@
     "published": "2026-11-21T07:28:13+00:00"
   },
   {
-    "id": "t4b94fa45",
-    "origin": "feed",
-    "title": "Fakta-fakta yang tak banyak diketahui tentang Gedung Kunstkring",
-    "url": "https://www.bbc.com/indonesia/articles/cj62pz32ex4no?at_medium=RSS&at_campaign=rss",
-    "summary": "Seperti apa jejak sejarah Gedung Kunstkring menemani perjalanan Jakarta selama lebih dari satu abad?",
-    "source": "BBC Indonesia",
-    "published": "2026-11-21T05:41:41+00:00"
-  },
-  {
-    "id": "t9f54447f",
-    "origin": "feed",
-    "title": "APOD: 2026 November 21 – Voyager’s Neptune",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
-    "summary": "APODScienceAPODAPOD: 2026 November 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Voyager’s Neptune Explanation: Cruising through the outer solar system, the Voya",
-    "source": "NASA",
-    "published": "2026-11-21T05:05:00+00:00"
-  },
-  {
     "id": "t6a8cc5af",
     "origin": "feed",
     "title": "What do other planets smell like? The answer hides in their chemistry",
@@ -1621,8 +1660,7 @@
     "url": "https://www.newscientist.com/article/2600235-mathematicians-are-amazed-by-holy-grail-proof-of-riemann-hypothesis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "As news spread that an Anthropic researcher used AI to find an answer to one of the longest-standing questions in their field, mathematicians expressed awe, uncertainty and at least one claim of having a competing proof in the works",
     "source": "New Scientist",
-    "published": "2026-11-20T22:33:06+00:00",
-    "text_file": "state/sources/t8b10d1e5.txt"
+    "published": "2026-11-20T22:33:06+00:00"
   },
   {
     "id": "tf6e77b71",
@@ -1631,8 +1669,7 @@
     "url": "https://www.newscientist.com/article/2599897-quantum-effect-could-reverse-gravity-and-violate-einsteins-theory-of-relativity/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "Two mathematical investigations devised a way to possibly make gravity produce repulsion between objects, breaking away from a long-standing understanding of this force",
     "source": "New Scientist",
-    "published": "2026-11-20T22:00:00+00:00",
-    "text_file": "state/sources/tf6e77b71.txt"
+    "published": "2026-11-20T22:00:00+00:00"
   },
   {
     "id": "td4ba65c1",
@@ -1687,24 +1724,6 @@
     "summary": "The 1997–1998 El Niño drenched California and wreaked global havoc. Now the world is bracing for a Super El Niño superpowered by climate change.",
     "source": "Science News",
     "published": "2026-11-20T17:47:05+00:00"
-  },
-  {
-    "id": "ta5236f5e",
-    "origin": "feed",
-    "title": "US bill aiming to boost clean energy could backfire",
-    "url": "https://www.newscientist.com/article/2600126-us-bill-aiming-to-boost-clean-energy-could-backfire/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "The Bipartisan American Affordability and Jobs Act is a gamble that speeding up permits for energy projects would help renewables more than fossil fuels – but many environmentalists have doubts",
-    "source": "New Scientist",
-    "published": "2026-11-20T16:56:08+00:00"
-  },
-  {
-    "id": "t0abed500",
-    "origin": "feed",
-    "title": "Anthropic mathematician claims AI-assisted proof of the Riemann hypothesis",
-    "url": "https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "The Riemann hypothesis is one of the most difficult problems in mathematics, having stood for 167 years. It may have just been settled with the help of AI",
-    "source": "New Scientist",
-    "published": "2026-11-20T15:20:01+00:00"
   },
   {
     "id": "t2ba13ff0",
@@ -1793,8 +1812,7 @@
     "url": "https://theconversation.com/indonesia-mengakui-masyarakat-adat-tapi-menolak-perannya-melindungi-alam-296511",
     "summary": "Indonesia masih setengah hati mengakui keberadaan kaum adat di forum global, walaupun masyarakat adat memegang peran penting dalam perlindungan alam.",
     "source": "The Conversation Indonesia",
-    "published": "2026-11-20T02:33:46+00:00",
-    "text_file": "state/sources/td075595b.txt"
+    "published": "2026-11-20T02:33:46+00:00"
   },
   {
     "id": "t4dda2a82",
@@ -1896,14 +1914,5 @@
     "summary": "A national analysis identifies seven types of headwater systems in the contiguous United States, revealing that only about 30% fit the familiar perception of steep, forested landscapes.",
     "source": "Eos (AGU)",
     "published": "2026-11-18T13:00:00+00:00"
-  },
-  {
-    "id": "tf88593e9",
-    "origin": "feed",
-    "title": "Indonesia may need 350 years to recover land burnt in 2026 wildfires",
-    "url": "https://theconversation.com/indonesia-may-need-350-years-to-recover-land-burnt-in-2026-wildfires-296704",
-    "summary": "The 2026 wildfires in Indonesia destroyed carbon reserves formed over the last thousands of years. Recovery will take hundreds of years.",
-    "source": "The Conversation Indonesia",
-    "published": "2026-11-18T07:01:41+00:00"
   }
 ]
