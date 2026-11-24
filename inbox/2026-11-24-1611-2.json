@@ -1,0 +1,175 @@
+{
+ "topic_id": "tf423ade6",
+ "source_url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
+ "risk": "low",
+ "post": {
+  "topic": "Kapal Romawi 2.200 tahun lalu dilapisi tar dan lilin lebah",
+  "image_query": "Roman shipwreck amphoras",
+  "pillar": "Sains yang disepelekan",
+  "hook_options": [
+   "Kapal Romawi kuno dilapisi lilin lebah supaya tak bocor",
+   "Cara orang Romawi menahan bocor di kapal kayu"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Kapal Romawi kuno dilapisi lilin lebah supaya tak bocor",
+    "body": "Ilovik-Paržine 1 adalah kapal dagang Romawi yang karam di lepas pantai Kroasia sekitar 2.200 tahun lalu.",
+    "takeaway": "Rahasia antibocor dari 2.200 tahun lalu.",
+    "icon": "flask",
+    "image_query": "Roman shipwreck amphoras"
+   },
+   {
+    "type": "fact",
+    "title": "Musuh kapal kayu: air laut",
+    "body": "Kapal kayu harus tahan air asin dan cacing kapal. Cacing kapal sebenarnya moluska, yaitu hewan lunak seperti kerang, yang melubangi kayu dan merusaknya.",
+    "takeaway": "Air laut dan cacing kapal merusak kayu.",
+    "icon": "droplet",
+    "image_query": "Teredo navalis shipworm"
+   },
+   {
+    "type": "fact",
+    "title": "Dua resep antibocor",
+    "body": "Peneliti menemukan dua jenis lapisan di kapal itu. Satu dari tar pinus saja, satu lagi campuran tar pinus dan lilin lebah.",
+    "takeaway": "Tar pinus, kadang ditambah lilin lebah.",
+    "icon": "flask",
+    "image_query": "Pine tar"
+   },
+   {
+    "type": "fact",
+    "title": "Kenapa lilin lebah?",
+    "body": "Lilin lebah membuat lapisan lebih lentur dan lebih mudah dioleskan saat masih panas. Lentur itu penting karena papan kapal bergerak terkena ombak.",
+    "takeaway": "Lapisan lentur tidak gampang retak.",
+    "icon": "bulb",
+    "viz": {
+     "kind": "steps",
+     "items": [
+      "Tar pinus dipanaskan",
+      "Dicampur lilin lebah",
+      "Dioles saat panas",
+      "Lapisan lentur"
+     ],
+     "caption": "Alur resepnya"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Serbuk sari ikut terjebak",
+    "body": "Tar yang lengket menangkap serbuk sari tanaman sekitar dan menyimpannya ribuan tahun. Dari situ peneliti tahu tanaman apa di dekat tempat kapal dibuat atau diperbaiki.",
+    "takeaway": "Tar lengket jadi kapsul waktu.",
+    "icon": "leaf",
+    "image_query": "Pollen grains microscope"
+   },
+   {
+    "type": "fact",
+    "title": "Kapal ini dipermak 4-5 kali",
+    "body": "Lapisan antibocornya kemungkinan datang dalam empat atau lima kali pelapisan berbeda. Artinya kapal itu diperbaiki di beberapa tempat.",
+    "takeaway": "Kapal tua itu sering diperbaiki.",
+    "icon": "clock"
+   },
+   {
+    "type": "cta",
+    "title": "Ikuti @alwaysfact_ untuk fakta sains lainnya",
+    "body": "Kirim post ini ke temanmu yang suka bertanya 'masa sih?' dan ikuti @alwaysfact_ supaya tidak ketinggalan.",
+    "takeaway": "Ikuti dan kirim ke temanmu.",
+    "icon": "heart"
+   }
+  ],
+  "caption": "Kapal Romawi yang karam 2.200 tahun lalu ternyata dilapisi campuran tar pinus dan lilin lebah.\n\nLilin lebah membuat lapisan lebih lentur. Dan serbuk sari yang terjebak di tar membantu peneliti menebak di mana kapal dibuat dan diperbaiki.\n\nKirim ke temanmu dan ikuti @alwaysfact_.\n\nSumber: ScienceDaily (Frontiers in Materials).",
+  "hashtags": [
+   "kapal",
+   "romawi",
+   "arkeologi",
+   "sains",
+   "faktaunik",
+   "sejarah",
+   "alwaysfact"
+  ],
+  "claims": [
+   {
+    "text": "Sebuah kapal Romawi berusia 2.200 tahun karam di lepas pantai Kroasia.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
+   },
+   {
+    "text": "Peneliti menemukan dua jenis lapisan: tar pinus saja, dan campuran tar pinus dengan lilin lebah.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
+   },
+   {
+    "text": "Lilin lebah membuat lapisan lebih lentur dan lebih mudah dioleskan saat panas.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
+   },
+   {
+    "text": "Cacing kapal sebenarnya moluska laut yang melubangi kayu dan bisa merusaknya.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
+   },
+   {
+    "text": "Tar yang lengket menangkap serbuk sari dari tanaman sekitar dan menyimpannya ribuan tahun.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
+   },
+   {
+    "text": "Kapal itu kemungkinan menerima empat atau lima kali pelapisan berbeda.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
+   }
+  ],
+  "music_suggestions": [
+   "petualangan tenang",
+   "misterius sedang",
+   "penasaran ringan"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
+   "quote": "A 2,200-year-old Roman shipwreck off the coast of Croatia is revealing how ancient shipbuilders protected their vessels",
+   "note": "klaim didukung teks sumber"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
+   "quote": "one made of pine tar, also called pitch, and the other of a mixture of pine tar and beeswax.",
+   "note": "klaim didukung teks sumber"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
+   "quote": "The addition of beeswax made the coating more flexible and easier to apply while hot.",
+   "note": "klaim didukung teks sumber"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
+   "quote": "Despite their name, shipworms are actually marine mollusks that burrow into wood and can cause extensive structural damage.",
+   "note": "klaim didukung teks sumber"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
+   "quote": "It could capture tiny airborne pollen grains from surrounding vegetation and preserve them for thousands of years.",
+   "note": "klaim didukung teks sumber"
+  },
+  {
+   "claim": 6,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
+   "quote": "the vessel likely received four or five distinct batches of waterproofing coatings.",
+   "note": "klaim didukung teks sumber"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}
