@@ -1,5 +1,55 @@
 [
   {
+    "id": "tda6913a2",
+    "origin": "feed",
+    "title": "Images from Earth's asteroid defence test reveal new crater",
+    "url": "https://www.bbc.co.uk/news/videos/cmjwjnxp2jgno?at_medium=RSS&at_campaign=rss",
+    "summary": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
+    "source": "BBC Science",
+    "published": "2026-11-25T23:20:43+00:00",
+    "text_file": "state/sources/tda6913a2.txt"
+  },
+  {
+    "id": "t14bc7184",
+    "origin": "feed",
+    "title": "Minecraft-like DNA cubes self-assemble into complex 3D nanostructures",
+    "url": "https://phys.org/news/2026-11-minecraft-dna-cubes-complex-3d.html",
+    "summary": "Associate professor Petr Sulc and his research team have developed a programmable DNA-based building system that could open new possibilities for nanorobots, three-dimensional electronics and next-generation nanotechnology.",
+    "source": "Phys.org",
+    "published": "2026-11-25T22:40:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t15c50401",
+    "origin": "feed",
+    "title": "Artificial photosynthesis uses waste CO₂ to grow protein-rich edible fungus in seven days",
+    "url": "https://phys.org/news/2026-11-artificial-photosynthesis-protein-rich-edible.html",
+    "summary": "While many people think first of meat when they think about dietary protein, most protein ultimately depends on plants, since livestock feed on grass, hay and other plants. Meeting the demand for protein is taxing on the environment, requiring massive amounts of land and water while creating greenhouse gas emissions. And that demand is expected to require nearly 50% more agricultural production by",
+    "source": "Phys.org",
+    "published": "2026-11-25T22:20:08+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t27201727",
+    "origin": "feed",
+    "title": "Draining peatlands leaves a long legacy of warming",
+    "url": "https://phys.org/news/2026-11-peatlands-legacy.html",
+    "summary": "Peatland ecosystems like bogs and swamps perform an important balancing act: Their vegetation takes up huge amounts of carbon dioxide, while their soil microbes produce methane. Although methane is a potent greenhouse gas, peatlands exhibit a net cooling effect on the planet because of the sheer scale of carbon dioxide they remove from the atmosphere, which has amounted to hundreds of gigatons glo",
+    "source": "Phys.org",
+    "published": "2026-11-25T22:00:08+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tc4363a41",
+    "origin": "feed",
+    "title": "December full moon 2026: When, where and how to see the Cold Moon",
+    "url": "https://www.space.com/stargazing/december-full-moon-2026-when-where-and-how-to-see-the-cold-moon",
+    "summary": "Your guide to December's full Cold Moon, from peak times to skywatching highlights.",
+    "source": "Space.com",
+    "published": "2026-11-25T22:00:00+00:00",
+    "text_file": "state/sources/tc4363a41.txt"
+  },
+  {
     "id": "t93724069",
     "origin": "feed",
     "title": "Stabilizing atomically thin metals with sandwich structures: Machine learning expands the search",
@@ -66,8 +116,7 @@
     "url": "https://phys.org/news/2026-11-five-reasons-why-we-should.html",
     "summary": "It's 7 a.m. Still dark outside. \"Alex, time to wake up! You have a busy day ahead, with an important meeting at 8:30,\" announces the alarm in a soft but firm voice. Alex wakes up immediately, already thinking about the presentation that still needs a few finishing touches. In the kitchen, the coffee machine, set up for 7 a.m. sharp, has just finished brewing. \"Alexa, set the temperature to 20 degr",
     "source": "Phys.org",
-    "published": "2026-11-25T21:00:02+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-25T21:00:02+00:00"
   },
   {
     "id": "tc3e72b5c",
@@ -76,8 +125,7 @@
     "url": "https://phys.org/news/2026-11-inhibitor-antibiotic-drug-resistant-bacteria.html",
     "summary": "Researchers from Imperial College London and collaborators have identified a potent small-molecule inhibitor that can restore the activity of the antibiotic ciprofloxacin against methicillin-resistant Staphylococcus aureus (MRSA).",
     "source": "Phys.org",
-    "published": "2026-11-25T20:40:09+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-25T20:40:09+00:00"
   },
   {
     "id": "tf1820c51",
@@ -86,8 +134,7 @@
     "url": "https://phys.org/news/2026-11-nasa-europa-clipper-earth-jupiter.html",
     "summary": "NASA's Europa Clipper will soon swing past Earth before making a yearslong beeline for Jupiter, where the orbiter will probe whether the ocean beneath its moon Europa's icy shell has the ingredients for life. The flyby will offer a propellant-saving boost and an opportunity to prepare for the science-gathering that lies ahead.",
     "source": "Phys.org",
-    "published": "2026-11-25T20:40:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-25T20:40:01+00:00"
   },
   {
     "id": "taed82956",
@@ -168,24 +215,6 @@
     "text_file": "state/sources/t6e678d65.txt"
   },
   {
-    "id": "t46f040fd",
-    "origin": "feed",
-    "title": "Sustainable procurement in multinational corporations depends on people and the operating environment",
-    "url": "https://phys.org/news/2026-11-sustainable-multinational-corporations-people-environment.html",
-    "summary": "Elizabeth Jeromaa's doctoral dissertation in management, to be examined at the University of Vaasa, demonstrates that it is possible for companies to implement environmentally sustainable procurement practices, though there is no one-size-fits-all model.",
-    "source": "Phys.org",
-    "published": "2026-11-25T20:00:12+00:00"
-  },
-  {
-    "id": "ta758d8dd",
-    "origin": "feed",
-    "title": "Heaven scent: Study shows link between a partner's body odor and sexual intimacy",
-    "url": "https://phys.org/news/2026-11-heaven-scent-link-partner-body.html",
-    "summary": "Many people spend a considerable amount of time and money trying to disguise their natural body odor. But not everyone finds our natural scent unpleasant. In fact, it could be part of what makes a couple click.",
-    "source": "Phys.org",
-    "published": "2026-11-25T20:00:05+00:00"
-  },
-  {
     "id": "t7dbc4651",
     "origin": "feed",
     "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
@@ -194,15 +223,6 @@
     "source": "BBC Science",
     "published": "2026-11-25T19:54:52+00:00",
     "text_file": "state/sources/t7dbc4651.txt"
-  },
-  {
-    "id": "t4de56092",
-    "origin": "feed",
-    "title": "Using lunar craters as free radiation shields for moon base nuclear reactors",
-    "url": "https://phys.org/news/2026-11-lunar-craters-free-shields-moon.html",
-    "summary": "Powering any future lunar base is a massive engineering challenge. The two-week lunar night can drain batteries charged by solar panels during the two-week day, if the batteries themselves can even withstand the freezing temperatures that go along with it. So, for decades at this point, engineers have planned to use a nuclear reactor to at least partially power any future human settlement on the m",
-    "source": "Phys.org",
-    "published": "2026-11-25T19:50:01+00:00"
   },
   {
     "id": "tecb5d293",
@@ -448,8 +468,7 @@
     "url": "https://www.space.com/astronomy/asteroids/hera-spacecraft-gets-1st-up-close-look-at-stadium-sized-hole-punched-in-asteroid-by-nasa-dart-mission",
     "summary": "NASA's DART Earth-defence mission punched a stadium-sized hole in a distant asteroid, and we have seen it for the first time thanks to the Hera spacecraft.",
     "source": "Space.com",
-    "published": "2026-11-25T17:30:00+00:00",
-    "text_file": "state/sources/t99731108.txt"
+    "published": "2026-11-25T17:30:00+00:00"
   },
   {
     "id": "td9d5f7a3",
@@ -684,15 +703,6 @@
     "source": "BBC Indonesia",
     "published": "2026-11-25T11:57:55+00:00",
     "text_file": "state/sources/ta572a82b.txt"
-  },
-  {
-    "id": "t35159340",
-    "origin": "feed",
-    "title": "November's full moon dazzles skywatchers with a stunning Beaver Moon supermoon (photos)",
-    "url": "https://www.space.com/stargazing/novembers-full-moon-dazzles-skywatchers-with-a-stunning-beaver-moon-supermoon-photos-nov-24-2026",
-    "summary": "From the skyscrapers of New York to the ancient Parthenon in Athens, the Beaver Moon supermoon put on a spectacular show for skywatchers around the world.",
-    "source": "Space.com",
-    "published": "2026-11-25T11:22:59+00:00"
   },
   {
     "id": "t2c670382",
