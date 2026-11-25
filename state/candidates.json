@@ -1,13 +1,238 @@
 [
   {
-    "id": "t81bc0b81",
+    "id": "ta0bc11ec",
     "origin": "feed",
-    "title": "New measurements suggest surrounding liquids control water layer formation on submerged ice",
-    "url": "https://phys.org/news/2026-11-liquids-layer-formation-submerged-ice.html",
-    "summary": "The behavior of ice exposed to a vacuum or vapor has been studied extensively, but ice submerged in a liquid is more difficult to study. Temperature changes cause the ice to dissolve or grow, resulting in fluctuating interfaces.",
+    "title": "Voting rights for AI? The research behind an unsettling idea",
+    "url": "https://phys.org/news/2026-11-voting-rights-ai-unsettling-idea.html",
+    "summary": "AI researchers are giving increasing attention to the idea of AI models becoming conscious. The implications are potentially huge: A conscious AI model would no longer be a tool we can use as we wish, but a being with moral status and interests of its own. If AI also became capable of moral agency, it might one day have a claim to political voice.",
     "source": "Phys.org",
-    "published": "2026-11-25T13:30:04+00:00",
+    "published": "2026-11-25T15:40:14+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t539da667",
+    "origin": "feed",
+    "title": "Removing background noise brings cellular properties into focus",
+    "url": "https://phys.org/news/2026-11-background-noise-cellular-properties-focus.html",
+    "summary": "When light interacts with a material, a small part of it gets scattered with a different energy. This change can reveal information about the molecules within the material based on their unique molecular fingerprints. This phenomenon, which earned physicist C. V. Raman the 1930 Nobel Prize in Physics, forms the basis of Raman spectroscopy, a widely used technique for studying the chemical composit",
+    "source": "Phys.org",
+    "published": "2026-11-25T15:40:02+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tdec1169e",
+    "origin": "feed",
+    "title": "DNA storage system holds data in living human cells and protects access with genetic decoys",
+    "url": "https://phys.org/news/2026-11-dna-storage-human-cells-access.html",
+    "summary": "University of Texas at Dallas researchers have developed a method for securely storing data in the DNA of living human cells while protecting the information from unauthorized access. The researchers describe the technology in a paper published online Oct. 21 in Nature Communications.",
+    "source": "Phys.org",
+    "published": "2026-11-25T15:20:06+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t5cf9ceef",
+    "origin": "feed",
+    "title": "Hera's Didymos asteroid in eclipse",
+    "url": "https://phys.org/news/2026-11-hera-didymos-asteroid-eclipse.html",
+    "summary": "A solar eclipse in deep space was captured by the European Space Agency's Hera mission for planetary defense. In this view of the Didymos binary asteroids, the smaller Dimorphos moonlet is seen casting its shadow across part of its Didymos parent body, to blank out the sun across the shaded stretch of rocky surface.",
+    "source": "Phys.org",
+    "published": "2026-11-25T15:20:04+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t7e3c2e2e",
+    "origin": "feed",
+    "title": "Functional traits in two Asian pines covary with climate and genomic ancestry",
+    "url": "https://phys.org/news/2026-11-functional-traits-asian-covary-climate.html",
+    "summary": "Wood and needle traits in two closely related pines in southern Yunnan covary with climate and genomic ancestry, according to a new study published in Plant Diversity. Wood anatomical traits were more strongly associated with climate, while needle traits were linked to both climate and parental ancestry.",
+    "source": "Phys.org",
+    "published": "2026-11-25T15:00:03+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t9effb820",
+    "origin": "feed",
+    "title": "South Pole Telescope releases clearest map ever of matter in the distant universe",
+    "url": "https://phys.org/news/2026-11-south-pole-telescope-clearest-distant.html",
+    "summary": "The earliest light in the universe, known as the cosmic microwave background (CMB), has been traveling since the dawn of the universe more than 14 billion years ago. A group of scientists from 30 institutions has now released the sharpest and clearest map ever made of the mass in the universe, created by measuring how this ancient light was bent as it traveled.",
+    "source": "Phys.org",
+    "published": "2026-11-25T15:00:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t2c204d0c",
+    "origin": "feed",
+    "title": "Australia’s legless geckos evolved like snakes did",
+    "url": "https://www.sciencenews.org/article/legless-geckos-evolved-like-snakes",
+    "summary": "Pygopods — Australia’s limbless geckos — have taken an evolutionary path more like that of snakes than of other legless lizards.",
+    "source": "Science News",
+    "published": "2026-11-25T15:00:00+00:00",
+    "text_file": "state/sources/t2c204d0c.txt"
+  },
+  {
+    "id": "tbc3fd308",
+    "origin": "feed",
+    "title": "The 14 best science-fiction novels of 2026 – plus our book of the year",
+    "url": "https://www.newscientist.com/article/2600087-the-14-best-science-fiction-novels-of-2026-plus-our-book-of-the-year/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "From time-travel tales to space adventures, Emily H. Wilson rounds up the best science-fiction novels of the year. But one stood out as her absolute favourite",
+    "source": "New Scientist",
+    "published": "2026-11-25T15:00:00+00:00",
+    "text_file": "state/sources/tbc3fd308.txt"
+  },
+  {
+    "id": "tb325b12e",
+    "origin": "feed",
+    "title": "Satellites watch volcanic eruptions add new beaches on Iwo Jima | Space photo of the day for Nov. 25, 2026",
+    "url": "https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026",
+    "summary": "Iwo Jima looks remarkably different from space after a volcanic eruption created new land extending the Japanese island's beaches.",
+    "source": "Space.com",
+    "published": "2026-11-25T15:00:00+00:00",
+    "text_file": "state/sources/tb325b12e.txt"
+  },
+  {
+    "id": "t2f3a4d90",
+    "origin": "feed",
+    "title": "Ban AI, lose Google Search: Schools face tough choice over students' access",
+    "url": "https://phys.org/news/2026-11-ai-google-schools-tough-choice.html",
+    "summary": "Three major school districts in the United States are contemplating moving away from Google search engines, so students are not forced to use artificial intelligence (AI) in their daily schoolwork.",
+    "source": "Phys.org",
+    "published": "2026-11-25T14:50:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t79a39f07",
+    "origin": "feed",
+    "title": "The U.S. Army is blowing up five tons of toxic lead azide in Iowa",
+    "url": "https://www.scientificamerican.com/article/the-u-s-army-is-blowing-up-five-tons-of-toxic-lead-azide-in-iowa/",
+    "summary": "The detonation is necessary, officials say, because the material becomes explosively unstable at certain temperatures",
+    "source": "Scientific American",
+    "published": "2026-11-25T14:45:00+00:00",
+    "text_file": "state/sources/t79a39f07.txt"
+  },
+  {
+    "id": "t3ed2c70d",
+    "origin": "feed",
+    "title": "New York's annual Thanksgiving Parade threatened by approaching storm",
+    "url": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
+    "summary": "Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be impacted.",
+    "source": "BBC Science",
+    "published": "2026-11-25T14:41:42+00:00",
+    "text_file": "state/sources/t3ed2c70d.txt"
+  },
+  {
+    "id": "t245d5e78",
+    "origin": "feed",
+    "title": "Webb discovers farthest 'little red dot' from universe's first 500 million years",
+    "url": "https://phys.org/news/2026-11-webb-farthest-red-dot-universe.html",
+    "summary": "Following the discovery of faint supermassive black holes called little red dots (LRDs) in the early universe in 2022, an international team of researchers has found the farthest little red dot to date, reports a new study in The Astrophysical Journal Letters.",
+    "source": "Phys.org",
+    "published": "2026-11-25T14:40:04+00:00"
+  },
+  {
+    "id": "t7edbc8ff",
+    "origin": "feed",
+    "title": "OpenAI discovers efficiency limit for multiplying large sets of numbers",
+    "url": "https://www.newscientist.com/article/2600728-openai-discovers-efficiency-limit-for-multiplying-large-sets-of-numbers/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "Matrix multiplication is a problem intrinsic in almost all software, and now AI has revealed how efficiently algorithms can theoretically do it - but achieving this ideal is another matter",
+    "source": "New Scientist",
+    "published": "2026-11-25T14:32:58+00:00",
+    "text_file": "state/sources/t7edbc8ff.txt"
+  },
+  {
+    "id": "t07396690",
+    "origin": "feed",
+    "title": "Who identifies as a prepper? New study offers surprising answers",
+    "url": "https://phys.org/news/2026-11-prepper.html",
+    "summary": "Amid rising concerns about natural disasters, geopolitical instability, public health threats and emerging technologies, new research on who identifies as a \"prepper\" in the United States shows that the group is larger and more diverse than previously thought.",
+    "source": "Phys.org",
+    "published": "2026-11-25T14:20:17+00:00"
+  },
+  {
+    "id": "tc574dc88",
+    "origin": "feed",
+    "title": "A prickly surprise: Mexican hairy dwarf porcupines glow under UV light",
+    "url": "https://phys.org/news/2026-11-mexican-hairy-dwarf-porcupines-uv.html",
+    "summary": "Photoluminescence occurs when biological tissue absorbs short-wavelength light and re-emits it at longer wavelengths. It has been recorded in a growing number of mammals, but most records come from museum specimens, while records from live porcupines were anecdotal. As the authors write in their article:",
+    "source": "Phys.org",
+    "published": "2026-11-25T14:20:12+00:00"
+  },
+  {
+    "id": "te8c9089f",
+    "origin": "feed",
+    "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
+    "url": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
+    "summary": "Muhammad Zeeshan Ali – the first Pakistani to reach orbit – greeted with Chinese ‘space handshake’ at Tiangong station China has flown the first foreign astronaut to its Tiangong space station, starting what it says will be the globalisation of its space operations as the US-led International Space Station (ISS) enters its final years of operation. Floating through a hatch to enter Tiangong, Pakis",
+    "source": "The Guardian Science",
+    "published": "2026-11-25T14:18:29+00:00",
+    "text_file": "state/sources/te8c9089f.txt"
+  },
+  {
+    "id": "t05b1b424",
+    "origin": "feed",
+    "title": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
+    "url": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
+    "summary": "Scientists are inventing new ways to search for the missing mass of the universe. The post Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter first appeared on Quanta Magazine",
+    "source": "Quanta Magazine",
+    "published": "2026-11-25T14:00:49+00:00",
+    "text_file": "state/sources/t05b1b424.txt"
+  },
+  {
+    "id": "te048662f",
+    "origin": "feed",
+    "title": "Is there a way out of the current global wine crisis?",
+    "url": "https://phys.org/news/2026-11-current-global-wine-crisis.html",
+    "summary": "Drawing on decades of annual data on both nonpremium and fine wines, the research examined the causes and extent of the crisis and what is needed for the industry to recover.",
+    "source": "Phys.org",
+    "published": "2026-11-25T14:00:02+00:00"
+  },
+  {
+    "id": "tcbc0a4b6",
+    "origin": "feed",
+    "title": "Hannah Fry: The bizarre reason humans are so vulnerable to choking",
+    "url": "https://www.newscientist.com/article/2600006-hannah-fry-the-bizarre-reason-humans-are-so-vulnerable-to-choking/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "The human throat is organised in a ridiculous and illogical manner, writes columnist Hannah Fry. What can it tell us about the path of evolution?",
+    "source": "New Scientist",
+    "published": "2026-11-25T14:00:00+00:00",
+    "text_file": "state/sources/tcbc0a4b6.txt"
+  },
+  {
+    "id": "t2e24b0f6",
+    "origin": "feed",
+    "title": "Watch live: Europe unveils 1st close-up views of asteroid Dimorphos after NASA's DART impact",
+    "url": "https://www.space.com/space-exploration/asteroid-comet-missions/watch-live-europe-unveils-1st-close-up-views-of-asteroid-dimorphos-after-nasas-dart-impact",
+    "summary": "ESA will share the Hera probe's first images of asteroid Dimorphos today following NASA's historic DART mission that impacted the space rock two years ago.",
+    "source": "Space.com",
+    "published": "2026-11-25T14:00:00+00:00",
+    "text_file": "state/sources/t2e24b0f6.txt"
+  },
+  {
+    "id": "t54e7caf2",
+    "origin": "feed",
+    "title": "How the Galileo musical’s composer sets science to a score on Broadway",
+    "url": "https://www.scientificamerican.com/article/how-the-galileo-musicals-composer-sets-science-to-a-score-on-broadway/",
+    "summary": "Composer Zoe Sarnak set Galileo Galilei’s story to the sound of rock and indie pop, and she’s working on another musical about the Higgs boson",
+    "source": "Scientific American",
+    "published": "2026-11-25T14:00:00+00:00",
+    "text_file": "state/sources/t54e7caf2.txt"
+  },
+  {
+    "id": "t130f59ed",
+    "origin": "feed",
+    "title": "New PET tracer cocktail rapidly detects hospital-acquired bacterial infections",
+    "url": "https://phys.org/news/2026-11-pet-tracer-cocktail-rapidly-hospital.html",
+    "summary": "A novel radiotracer cocktail can accurately identify multiple strains of Pseudomonas aeruginosa—a leading cause of hospital-acquired infections—within hours, according to new research published in The Journal of Nuclear Medicine. By targeting multiple strains of the bacteria, this rapid detection approach has the potential to enable targeted therapy and reduce the use of broad-spectrum antibiotics",
+    "source": "Phys.org",
+    "published": "2026-11-25T13:50:02+00:00"
+  },
+  {
+    "id": "tead1e02b",
+    "origin": "feed",
+    "title": "Divided and displaced: Brazil’s Kaingang people wait for an end to illegal leasing conflict",
+    "url": "https://news.mongabay.com/2026/11/divided-and-displaced-brazils-kaingang-people-wait-for-an-end-to-illegal-leasing-conflict/",
+    "summary": "PITANGA, Brazil — Since February 2025, around 300 Indigenous Kaingang people have been living in rural Pitanga, a municipality in central Paraná, Brazil. Camping in a wooded area on private property, they survive in makeshift shelters covered with tarpaulins, without electricity or running water. The camp is not a village. Displaced residents describe it as […]",
+    "source": "Mongabay",
+    "published": "2026-11-25T13:31:35+00:00",
+    "text_file": "state/sources/tead1e02b.txt"
   },
   {
     "id": "tf1a56755",
@@ -18,26 +243,6 @@
     "source": "Eos (AGU)",
     "published": "2026-11-25T13:25:34+00:00",
     "text_file": "state/sources/tf1a56755.txt"
-  },
-  {
-    "id": "te9deb04c",
-    "origin": "feed",
-    "title": "Most precise measurement of coherent elastic neutrino–nucleus scattering to date tightens limits on new forces",
-    "url": "https://phys.org/news/2026-11-precise-coherent-elastic-neutrinonucleus-date.html",
-    "summary": "Neutrinos are tiny elementary particles with little mass and no electric charge. While most neutrinos pass through matter without interacting, a neutrino can occasionally scatter off an atomic nucleus, transferring a little energy to it and causing it to move.",
-    "source": "Phys.org",
-    "published": "2026-11-25T13:20:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "t1e70af85",
-    "origin": "feed",
-    "title": "Successful AI integration in manufacturing hinges on employees' attitudes to AI",
-    "url": "https://phys.org/news/2026-11-successful-ai-hinges-employees-attitudes.html",
-    "summary": "As artificial intelligence (AI) has grown more capable, industries across China are adopting AI to improve productivity and capability. One such industry is the textile and clothing industry, which has historically been very labor-intensive.",
-    "source": "Phys.org",
-    "published": "2026-11-25T13:10:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
     "id": "t9353f731",
@@ -60,36 +265,6 @@
     "text_file": "state/sources/t8bad537c.txt"
   },
   {
-    "id": "tadd56af7",
-    "origin": "feed",
-    "title": "Genetic analysis reveals peak orchid root fungal diversity at one of the most biodiverse places on Earth",
-    "url": "https://phys.org/news/2026-11-genetic-analysis-reveals-peak-orchid.html",
-    "summary": "The fungal communities living in the roots of epiphytic orchids vary with altitude, location and orchid species, according to research published in the journal Microbial Ecology. The study, conducted in Podocarpus National Park in southern Ecuador, found that mid-elevation forests harbor the greatest diversity of these microorganisms, while their richness decreases at higher elevations and their c",
-    "source": "Phys.org",
-    "published": "2026-11-25T12:40:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "t777beec7",
-    "origin": "feed",
-    "title": "How utilities, communities can help build resilience for vulnerable families during power outages",
-    "url": "https://phys.org/news/2026-11-communities-resilience-vulnerable-families-power.html",
-    "summary": "For low-income households, extended power outages can create devastating losses of food and money, as well as feelings of comfort and security within their homes, according to research led by the University of Michigan.",
-    "source": "Phys.org",
-    "published": "2026-11-25T12:20:07+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "tf0f1eac0",
-    "origin": "feed",
-    "title": "Board diversity and digital readiness linked to corporate adaptability during pandemic",
-    "url": "https://phys.org/news/2026-11-board-diversity-digital-readiness-linked.html",
-    "summary": "Think \"pandemic\" and the word \"pivot\" is not far behind. What happened to organizational communications during COVID-19, though, was an unprecedented sea change. For businesses trying to stay connected to investors like pension and mutual funds, in-person roadshows, brokerage-hosted conferences and \"analyst day\" meetings were adapted into virtual versions filtered through the safety of personal di",
-    "source": "Phys.org",
-    "published": "2026-11-25T12:10:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
     "id": "ta572a82b",
     "origin": "feed",
     "title": "Demo mahasiswa tuntut kesejahteraan guru dengan tunjukkan salam tiga jari – 'Ini simbol perlawanan, tak ada kaitan dengan makar'",
@@ -98,43 +273,6 @@
     "source": "BBC Indonesia",
     "published": "2026-11-25T11:57:55+00:00",
     "text_file": "state/sources/ta572a82b.txt"
-  },
-  {
-    "id": "t15886991",
-    "origin": "feed",
-    "title": "Ant rivalry temporarily protects native ants until one invader takes over",
-    "url": "https://phys.org/news/2026-11-ant-rivalry-temporarily-native-ants.html",
-    "summary": "When an invasive species enters a natural habitat, it can start competing for resources with native species and threaten their survival. If more than one invasive species occupies the same habitat, the interactions between them can further contribute to the damage and disruption that ensues.",
-    "source": "Phys.org",
-    "published": "2026-11-25T11:40:07+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "t41b5c20f",
-    "origin": "feed",
-    "title": "California braces for flooding threat from huge tides, El Niño",
-    "url": "https://phys.org/news/2026-11-california-braces-threat-huge-tides.html",
-    "summary": "Californians are preparing for a confluence of exceptionally high tides and El Niño-fueled weather that threatens coastal areas with extreme flooding during the busiest U.S. travel week of the year.",
-    "source": "Phys.org",
-    "published": "2026-11-25T11:40:04+00:00"
-  },
-  {
-    "id": "t9e9c5df0",
-    "origin": "feed",
-    "title": "Japan unveils rover prototype for moon water mission",
-    "url": "https://phys.org/news/2026-11-japan-unveils-rover-prototype-moon.html",
-    "summary": "Japan's space agency unveiled Wednesday a test model of a rover that will travel to the moon's south pole in a search for water, which could potentially be used for rocket fuel.",
-    "source": "Phys.org",
-    "published": "2026-11-25T11:27:27+00:00"
-  },
-  {
-    "id": "t3e5ec6b6",
-    "origin": "feed",
-    "title": "China launches Shenzhou 24 spacecraft carrying 2 Chinese and 1 Pakistani astronaut",
-    "url": "https://phys.org/news/2026-11-china-shenzhou-spacecraft-chinese-pakistani.html",
-    "summary": "China on Wednesday launched the Shenzhou 24 spacecraft with three astronauts—two Chinese and a Pakistani—sending the first foreign crew member to its space station.",
-    "source": "Phys.org",
-    "published": "2026-11-25T11:24:37+00:00"
   },
   {
     "id": "t35159340",
@@ -245,15 +383,6 @@
     "source": "The Guardian Science",
     "published": "2026-11-25T10:05:15+00:00",
     "text_file": "state/sources/t65619603.txt"
-  },
-  {
-    "id": "tf28892b2",
-    "origin": "feed",
-    "title": "Not everything that sounds plausible works: Testing ideas to win support for carbon pricing",
-    "url": "https://phys.org/news/2026-11-plausible-ideas-carbon-pricing.html",
-    "summary": "What makes people support a carbon price? To find out, 108 researchers, led by a research team at the University of Innsbruck, Austria, tested 55 different ideas at the same time, from information campaigns to reflection tasks. On average, there was a small but statistically significant positive effect. Individually, the effect was detectable for only 11 of the 55 ideas. One of the strongest effec",
-    "source": "Phys.org",
-    "published": "2026-11-25T10:00:02+00:00"
   },
   {
     "id": "tfeae6002",
@@ -446,15 +575,6 @@
     "text_file": "state/sources/ta0c281ae.txt"
   },
   {
-    "id": "t564aa6b3",
-    "origin": "feed",
-    "title": "New EU Bureaucracy Index: EU law has more than doubled since 2010",
-    "url": "https://phys.org/news/2026-11-eu-bureaucracy-index-law.html",
-    "summary": "The new EU Bureaucracy Index measures the volume of EU law in force, and it shows a record high: At the end of 2025, the EU regulations and directives in force comprised around 47,600 standard pages, 118% more than in 2010. The volume of EU law has thus more than doubled in 15 years, and it continued to grow in 2025. The main drivers are sanctions regulations and new sets of rules in environmental",
-    "source": "Phys.org",
-    "published": "2026-11-25T04:40:01+00:00"
-  },
-  {
     "id": "t51bb6cf1",
     "origin": "feed",
     "title": "Kenapa makin tua, kita justru makin pendek?",
@@ -511,8 +631,7 @@
     "url": "https://news.mongabay.com/2026/11/study-reveals-rising-double-threat-of-wildfire-smoke-and-heatwaves-in-indonesia/",
     "summary": "JAKARTA — While the worst of Indonesia’s wildfire and haze season for 2026 may be over with fewer hotspots detected in recent weeks, this wasn’t the only hazard faced by residents in the months-long crisis. Take, for example, Palangka Raya in Central Kalimantan province, one of the areas worst affected by this year’s wildfires in […]",
     "source": "Mongabay",
-    "published": "2026-11-25T02:15:02+00:00",
-    "text_file": "state/sources/t3cb3c4c5.txt"
+    "published": "2026-11-25T02:15:02+00:00"
   },
   {
     "id": "t9f6ec9c7",
@@ -551,8 +670,7 @@
     "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
     "summary": "India's food inflation is broadening, squeezing household budgets.",
     "source": "BBC Science",
-    "published": "2026-11-25T01:02:13+00:00",
-    "text_file": "state/sources/t7f6a68b6.txt"
+    "published": "2026-11-25T01:02:13+00:00"
   },
   {
     "id": "ta5ba49ea",
@@ -614,6 +732,26 @@
     "text_file": "state/sources/t5e41773f.txt"
   },
   {
+    "id": "t9deea424",
+    "origin": "feed",
+    "title": "The leading cities in the world for high-quality research in 2025",
+    "url": "https://www.nature.com/articles/d41586-026-03468-3",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-25T00:00:00+00:00",
+    "text_file": "state/sources/t9deea424.txt"
+  },
+  {
+    "id": "tfffee1d0",
+    "origin": "feed",
+    "title": "How Singapore has turned a nation into a smart-city testing ground",
+    "url": "https://www.nature.com/articles/d41586-026-03472-7",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-25T00:00:00+00:00",
+    "text_file": "state/sources/tfffee1d0.txt"
+  },
+  {
     "id": "t39fc564e",
     "origin": "feed",
     "title": "A powerful HIV vaccine is finally within reach — thanks to these super antibodies",
@@ -622,6 +760,16 @@
     "source": "Nature",
     "published": "2026-11-25T00:00:00+00:00",
     "text_file": "state/sources/t39fc564e.txt"
+  },
+  {
+    "id": "t2ef7619b",
+    "origin": "feed",
+    "title": "Can Beijing scale up its smart-city ambitions?",
+    "url": "https://www.nature.com/articles/d41586-026-03470-9",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-25T00:00:00+00:00",
+    "text_file": "state/sources/t2ef7619b.txt"
   },
   {
     "id": "tb2f14f20",
@@ -634,6 +782,16 @@
     "text_file": "state/sources/tb2f14f20.txt"
   },
   {
+    "id": "tdaa1cd4b",
+    "origin": "feed",
+    "title": "The world’s leading science cities are changing — here’s why",
+    "url": "https://www.nature.com/articles/d41586-026-03466-5",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-25T00:00:00+00:00",
+    "text_file": "state/sources/tdaa1cd4b.txt"
+  },
+  {
     "id": "t6713cea0",
     "origin": "feed",
     "title": "Gut microbes can adapt to our ageing bodies",
@@ -644,34 +802,49 @@
     "text_file": "state/sources/t6713cea0.txt"
   },
   {
-    "id": "tdc8d4658",
+    "id": "t71e16bd8",
     "origin": "feed",
-    "title": "The world has a golden chance to improve HIV prevention: don’t squander it",
-    "url": "https://www.nature.com/articles/d41586-026-03809-2",
+    "title": "China’s AI-powered smart-city model is going global",
+    "url": "https://www.nature.com/articles/d41586-026-03473-6",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-25T00:00:00+00:00",
-    "text_file": "state/sources/tdc8d4658.txt"
+    "published": "2026-11-25T00:00:00+00:00"
   },
   {
-    "id": "tef4bc255",
+    "id": "t04f07bca",
     "origin": "feed",
-    "title": "Succumbing to certainty is a failure in science",
-    "url": "https://www.nature.com/articles/d41586-026-03837-y",
+    "title": "Helsinki puts trust at the heart of its smart-city model",
+    "url": "https://www.nature.com/articles/d41586-026-03469-2",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-25T00:00:00+00:00",
-    "text_file": "state/sources/tef4bc255.txt"
+    "published": "2026-11-25T00:00:00+00:00"
   },
   {
-    "id": "t342c8988",
+    "id": "tfaf48cc6",
     "origin": "feed",
-    "title": "‘If we can solve Riemann, what can’t we do?’: mathematicians shocked and excited by AI breakthroughs",
-    "url": "https://www.nature.com/articles/d41586-026-03835-0",
+    "title": "London’s people-first approach to smart-city development",
+    "url": "https://www.nature.com/articles/d41586-026-03471-8",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-25T00:00:00+00:00",
-    "text_file": "state/sources/t342c8988.txt"
+    "published": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "id": "t275d3f47",
+    "origin": "feed",
+    "title": "Can smart cities attract the talent they need to thrive?",
+    "url": "https://www.nature.com/articles/d41586-026-03467-4",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "id": "tbd8d1341",
+    "origin": "feed",
+    "title": "The Mona Lisa Lottery",
+    "url": "https://www.nature.com/articles/d41586-026-03521-1",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-25T00:00:00+00:00"
   },
   {
     "id": "t51c78c67",
@@ -750,8 +923,7 @@
     "url": "https://www.space.com/entertainment/blade-runner-2099-executive-producers-talk-architectural-easter-eggs-and-franchise-continuity-for-prime-videos-new-sci-fi-series-interview",
     "summary": "'Today, sitting here in November of 2026, the world is catching up quicker to the world of 'Blade Runner.''",
     "source": "Space.com",
-    "published": "2026-11-24T21:00:00+00:00",
-    "text_file": "state/sources/t21cb10ef.txt"
+    "published": "2026-11-24T21:00:00+00:00"
   },
   {
     "id": "t468372b5",
@@ -829,8 +1001,7 @@
     "url": "https://www.space.com/astronomy/stars/1st-ever-detection-of-a-dying-stars-final-nuclear-heartbeat-challenges-what-we-know-about-our-suns-eventual-death",
     "summary": "Astronomers have caught a rare transitional phase at the end of a star's life, a fossilized remnant of stellar death throes, that could change our picture of the sun's final days.",
     "source": "Space.com",
-    "published": "2026-11-24T19:00:00+00:00",
-    "text_file": "state/sources/t9fbcca5e.txt"
+    "published": "2026-11-24T19:00:00+00:00"
   },
   {
     "id": "t519e3c24",
@@ -849,8 +1020,7 @@
     "url": "https://www.scientificamerican.com/article/read-the-age-of-alchemy-by-kit-chapman-with-scientific-american-in-december/",
     "summary": "In December join SciAm staff in our Book Club and participate in the discussion",
     "source": "Scientific American",
-    "published": "2026-11-24T19:00:00+00:00",
-    "text_file": "state/sources/t987c9f5f.txt"
+    "published": "2026-11-24T19:00:00+00:00"
   },
   {
     "id": "t40b4609b",
@@ -899,15 +1069,6 @@
     "summary": "Tadeu de Oliveira, founder and leader of the Tiger Cats Conservation Initiative, a group of scientists committed to studying the smallest wildcats of South and Central America, wanted to be crystal clear: “It is rare to catch a tiger cat. Period. Period!” he emphasized in a phone interview from Brazil with Mongabay. “You may ask […]",
     "source": "Mongabay",
     "published": "2026-11-24T17:41:52+00:00"
-  },
-  {
-    "id": "t90ebf29a",
-    "origin": "feed",
-    "title": "Army: Entire U.S. stockpile of lead azide is at Iowa plant and set to be detonated Wednesday morning",
-    "url": "https://news.mongabay.com/short-article/2026/11/army-entire-u-s-stockpile-of-lead-azide-is-at-iowa-plant-and-set-to-be-detonated-wednesday-morning/",
-    "summary": "MIDDLETOWN, Iowa (AP) — The U.S. Army says it plans to detonate its entire stockpile of lead azide in Iowa on Wednesday morning, warning that the dangerously degrading bomb-making chemicals could spread toxic lead within the area. Officials sought to assure residents Tuesday that they’ve taken steps to put barriers around the blast zone and […]",
-    "source": "Mongabay",
-    "published": "2026-11-24T17:35:17+00:00"
   },
   {
     "id": "t8d0e5850",
@@ -994,17 +1155,7 @@
     "url": "https://www.scientificamerican.com/article/lightning-strikes-could-more-than-double-by-2100-thanks-to-climate-change/",
     "summary": "As the climate warms, heat rising from Earth’s surface creates more potential for electric fields—and cloud-to-ground lightning—to form",
     "source": "Scientific American",
-    "published": "2026-11-24T15:11:00+00:00",
-    "text_file": "state/sources/te8c37b46.txt"
-  },
-  {
-    "id": "t6cdc7d96",
-    "origin": "feed",
-    "title": "YunLone Galaxy star projector review — a sub-$30 customizable night light",
-    "url": "https://www.space.com/technology/yunlone-galaxy-star-projector-review",
-    "summary": "The YunLone Galaxy Projector is inexpensive but competent and offers a surprising amount of customization.",
-    "source": "Space.com",
-    "published": "2026-11-24T15:00:00+00:00"
+    "published": "2026-11-24T15:11:00+00:00"
   },
   {
     "id": "t0a618c2e",
@@ -1012,6 +1163,15 @@
     "title": "Double asteroid solar eclipse caught on camera | Space photo of the day for Nov. 24, 2026",
     "url": "https://www.space.com/astronomy/asteroids/double-asteroid-solar-eclipse-caught-on-camera-space-photo-of-the-day-for-nov-24-2026",
     "summary": "A spacecraft far from Earth beamed home a rare sight: a solar eclipse caused by one asteroid casting its shadow on another.",
+    "source": "Space.com",
+    "published": "2026-11-24T15:00:00+00:00"
+  },
+  {
+    "id": "t6cdc7d96",
+    "origin": "feed",
+    "title": "YunLone Galaxy star projector review — a sub-$30 customizable night light",
+    "url": "https://www.space.com/technology/yunlone-galaxy-star-projector-review",
+    "summary": "The YunLone Galaxy Projector is inexpensive but competent and offers a surprising amount of customization.",
     "source": "Space.com",
     "published": "2026-11-24T15:00:00+00:00"
   },
@@ -1047,9 +1207,9 @@
   {
     "id": "t7e4839fe",
     "origin": "feed",
-    "title": "China's Shenzhou-24 mission launches 1st international astronaut to Tiangong space station",
+    "title": "China launches Pakistani astronaut to Tiangong space station, its 1st international visitor, alongside Shenzhou-24 crew (video)",
     "url": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-24-first-international-astronaut-launch-tiangong-space-station",
-    "summary": "China will launch an international astronaut to its Tiangong space station today (Nov. 24) for the first time ever, and you can watch the landmark liftoff live.",
+    "summary": "China launched an international astronaut to its Tiangong space station today (Nov. 24) for the first time ever.",
     "source": "Space.com",
     "published": "2026-11-24T13:59:17+00:00"
   },
@@ -1092,32 +1252,13 @@
     "published": "2026-11-24T13:30:00+00:00"
   },
   {
-    "id": "t49b7f162",
-    "origin": "feed",
-    "title": "Russia launches Progress 97 cargo ship to the International Space Station (video)",
-    "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
-    "summary": "Russia launched the robotic Progress 97 freighter toward the International Space Station from Kazakhstan today (Nov. 24), on a mission that will feature some unusual port-hopping activity.",
-    "source": "Space.com",
-    "published": "2026-11-24T13:16:26+00:00"
-  },
-  {
-    "id": "t2da7f341",
-    "origin": "feed",
-    "title": "Watch November's full Beaver Moon live online today with supermoon livestream",
-    "url": "https://www.space.com/stargazing/watch-novembers-full-beaver-moon-live-online-with-supermoon-livestream-nov-24-2026",
-    "summary": "Watch live online on Nov. 24 as the first of four consecutive supermoons rises to flood the night sky with moonlight.",
-    "source": "Space.com",
-    "published": "2026-11-24T13:00:00+00:00"
-  },
-  {
     "id": "t54854de9",
     "origin": "feed",
     "title": "Their loss changed Appalachian forests for ever. Now the American chestnut is back",
     "url": "https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe",
     "summary": "The trees have been functionally extinct in the US for nearly a century. But new techniques are creating plants resistant to the parasitic blight that almost wiped them out Jeff White is starstruck by a tree. The farmer and environmentalist from rural Maryland has an affinity with the American chestnut but has never seen one stretch from root to sky like this one. “About how tall is it?” he asks. ",
     "source": "The Guardian Science",
-    "published": "2026-11-24T12:00:44+00:00",
-    "text_file": "state/sources/t54854de9.txt"
+    "published": "2026-11-24T12:00:44+00:00"
   },
   {
     "id": "tbd63e96f",
@@ -1126,8 +1267,7 @@
     "url": "https://www.newscientist.com/article/2600041-18-brilliant-and-surprising-gifts-for-science-lovers-this-christmas/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "No more periodic table socks! New Scientist’s staff are full of inspiration for eclectic and unexpected presents for science lovers this festive season",
     "source": "New Scientist",
-    "published": "2026-11-24T12:00:00+00:00",
-    "text_file": "state/sources/tbd63e96f.txt"
+    "published": "2026-11-24T12:00:00+00:00"
   },
   {
     "id": "td1102d2c",
@@ -1136,8 +1276,7 @@
     "url": "https://www.newscientist.com/article/2600479-severe-eczema-healed-by-novel-immune-calming-pill-in-clinical-trial/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "An experimental drug has been found to be highly effective and safe for treating moderate to severe eczema in a clinical trial and has the advantage of being taken in pill form rather than injected",
     "source": "New Scientist",
-    "published": "2026-11-24T11:11:54+00:00",
-    "text_file": "state/sources/td1102d2c.txt"
+    "published": "2026-11-24T11:11:54+00:00"
   },
   {
     "id": "tf423ade6",
@@ -1164,8 +1303,7 @@
     "url": "https://www.newscientist.com/article/2600418-toddlers-form-complex-memories-but-may-then-lose-access-to-them/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "Few of us can remember events from our earliest years, but that might be because we lose the ability to recall memories - not because we didn't make them in the first place",
     "source": "New Scientist",
-    "published": "2026-11-24T11:00:00+00:00",
-    "text_file": "state/sources/t7cfe47fb.txt"
+    "published": "2026-11-24T11:00:00+00:00"
   },
   {
     "id": "t21714d64",
@@ -1183,15 +1321,6 @@
     "title": "Who is Levent Alpöge, the reclusive genius behind AI’s math conquest?",
     "url": "https://www.scientificamerican.com/article/who-is-levent-alpoege-the-reclusive-genius-behind-ais-math-conquest/",
     "summary": "The Anthropic mathematician’s Riemann hypothesis proof is the product of unfettered ambition",
-    "source": "Scientific American",
-    "published": "2026-11-24T11:00:00+00:00"
-  },
-  {
-    "id": "t378a7242",
-    "origin": "feed",
-    "title": "Lagging CDC vaccination data could hamstring doctors as flu season hits",
-    "url": "https://www.scientificamerican.com/article/lagging-cdc-vaccination-data-could-hamstring-doctors-as-flu-season-hits/",
-    "summary": "The data, which in prior years were sent out weekly and earlier in the season, are now being made available monthly",
     "source": "Scientific American",
     "published": "2026-11-24T11:00:00+00:00"
   },
@@ -1222,24 +1351,6 @@
     "summary": "Scientists have uncovered surprising evidence that Earth’s next ice age may have already begun, only to be stopped by global warming. By studying ancient plants preserved beneath the Barnes Ice Cap in the Canadian Arctic, researchers discovered that the remnants of a massive ice sheet began expanding again about 2,000 years ago, signaling the possible start of a new glacial period. But by the 1960",
     "source": "ScienceDaily",
     "published": "2026-11-24T09:29:15+00:00"
-  },
-  {
-    "id": "t364d8eed",
-    "origin": "feed",
-    "title": "Super El Niño is making the global omega-3 shortage much worse",
-    "url": "https://www.newscientist.com/article/2600470-super-el-nino-is-making-the-global-omega-3-shortage-much-worse/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "There is already a scarcity of the long-chain omega-3s that are critical to our health, and this year’s massive El Niño is making it much worse. Columnist Michael Le Page says we have a solution – we just need to use it",
-    "source": "New Scientist",
-    "published": "2026-11-24T09:00:00+00:00"
-  },
-  {
-    "id": "t195ec324",
-    "origin": "feed",
-    "title": "The technology that could make government internet blackouts impossible",
-    "url": "https://www.newscientist.com/article/2600040-the-technology-that-could-make-government-internet-blackouts-impossible/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "Direct-to-cell technology could one day provide a lifeline for getting around authoritarian regimes’ internet shutdowns, but international law and technical limitations are holding the technology back for now",
-    "source": "New Scientist",
-    "published": "2026-11-24T08:00:00+00:00"
   },
   {
     "id": "tbf1a0107",
@@ -1354,61 +1465,6 @@
     "published": "2026-11-24T00:14:26+00:00"
   },
   {
-    "id": "t4de07222",
-    "origin": "feed",
-    "title": "Fight AI slop without punishing legitimate researchers",
-    "url": "https://www.nature.com/articles/d41586-026-03824-3",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-24T00:00:00+00:00",
-    "text_file": "state/sources/t4de07222.txt"
-  },
-  {
-    "id": "t0d94c496",
-    "origin": "feed",
-    "title": "Richard of Wallingford and his Rectangulus",
-    "url": "https://www.nature.com/articles/d41586-026-03725-5",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-24T00:00:00+00:00"
-  },
-  {
-    "id": "tdff60e2c",
-    "origin": "feed",
-    "title": "The science on AI consciousness must acknowledge uncertainty",
-    "url": "https://www.nature.com/articles/d41586-026-03822-5",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-24T00:00:00+00:00"
-  },
-  {
-    "id": "t3817c614",
-    "origin": "feed",
-    "title": "Himalayan disasters demand biodiversity conservation across borders",
-    "url": "https://www.nature.com/articles/d41586-026-03825-2",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-24T00:00:00+00:00"
-  },
-  {
-    "id": "t39b063d7",
-    "origin": "feed",
-    "title": "Submission caps aren’t enough to tackle AI slop",
-    "url": "https://www.nature.com/articles/d41586-026-03823-4",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-24T00:00:00+00:00"
-  },
-  {
-    "id": "ta1cdb801",
-    "origin": "feed",
-    "title": "The brain keeps the score: how trauma leaves molecular scars in cells",
-    "url": "https://www.nature.com/articles/d41586-026-03821-6",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-24T00:00:00+00:00"
-  },
-  {
     "id": "tf89eb23e",
     "origin": "feed",
     "title": "BepiColombo ends 8-year interplanetary journey to Mercury. What's next for the ambitious spacecraft?",
@@ -1425,15 +1481,6 @@
     "summary": "From ancient coins to long-lost texts, archaeologists uncovered countless artifacts for centuries. Live Science asks its readers which one they'd want to discover themselves.",
     "source": "Live Science",
     "published": "2026-11-23T22:20:38+00:00"
-  },
-  {
-    "id": "tb9199da3",
-    "origin": "feed",
-    "title": "Thanksgiving holiday travel could be disrupted by floods, winds and rain",
-    "url": "https://www.scientificamerican.com/article/thanksgiving-holiday-travel-could-be-disrupted-by-floods-winds-and-rain/",
-    "summary": "Wild weather is set to affect roads and airports across the country",
-    "source": "Scientific American",
-    "published": "2026-11-23T21:07:00+00:00"
   },
   {
     "id": "t646ccdb8",
@@ -1471,15 +1518,6 @@
     "summary": "The answer to today’s puzzle Earlier today I set you the following puzzle. Here it is again with the solution. Consider a simplified game of Super Mario. He moves from platform to platform. He can either step forward 1 space, to the next platform, or jump forward 2 spaces, to the platform after that. 3 platforms? 4 platforms? 5 platforms? 10 platforms? step – step jump step – step – step step – ju",
     "source": "The Guardian Science",
     "published": "2026-11-23T17:00:52+00:00"
-  },
-  {
-    "id": "tf806a258",
-    "origin": "feed",
-    "title": "Submarine finds world’s deepest explosive volcanic activity in Mariana trench",
-    "url": "https://www.newscientist.com/article/2599436-submarine-finds-worlds-deepest-explosive-volcanic-activity-in-mariana-trench/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "A deep-sea robotic submarine has found evidence of explosive volcanic eruptions 6100 metres below sea level, surprising scientists who were only seeking geological samples",
-    "source": "New Scientist",
-    "published": "2026-11-23T17:00:00+00:00"
   },
   {
     "id": "tb965c67a",
@@ -1520,15 +1558,6 @@
     "source": "Quanta Magazine",
     "published": "2026-11-23T15:27:11+00:00",
     "text_file": "state/sources/tb80c607c.txt"
-  },
-  {
-    "id": "t30f657ec",
-    "origin": "feed",
-    "title": "Cranberry jam: warming winters and extreme weather threaten a traditional holiday fruit",
-    "url": "https://www.theguardian.com/us-news/2026/nov/23/cranberry-growing-climate-crisis",
-    "summary": "Scientists are racing to identify and breed new berry varieties that can thrive on an increasingly warmer planet It is harvest time in rural Wisconsin , and the Badger state’s most vibrant crop is painting the rolling countryside a brilliant, unmistakable red. For nearly three decades, Nicole Hansen has been farming cranberries here. Wisconsin produces more than 60% of the nation’s supply. On a cr",
-    "source": "The Guardian Science",
-    "published": "2026-11-23T15:00:49+00:00"
   },
   {
     "id": "tb4f179ca",
@@ -1612,8 +1641,7 @@
     "url": "https://www.sciencenews.org/article/ocean-deepest-spot-explained-challenger",
     "summary": "The deepest known remnants of explosive volcanism offer a new clue to how Challenger Deep became the ocean's deepest point.",
     "source": "Science News",
-    "published": "2026-11-23T05:00:00+00:00",
-    "text_file": "state/sources/t2d4c97de.txt"
+    "published": "2026-11-23T05:00:00+00:00"
   },
   {
     "id": "t5cec49b5",
@@ -1756,15 +1784,6 @@
     "title": "How do scientists learn from failure? This researcher has clues",
     "url": "https://www.sciencenews.org/article/scientists-learn-failure-sn-10-yian-yin",
     "summary": "Yian Yin found that scientists who revised rejected proposals using feedback found success faster than those who switched ideas.",
-    "source": "Science News",
-    "published": "2026-11-21T12:00:00+00:00"
-  },
-  {
-    "id": "tde05828c",
-    "origin": "feed",
-    "title": "How do tumors talk to nerves? This scientist is finding out",
-    "url": "https://www.sciencenews.org/article/tumors-talk-nerve-sn-10-sebnem-ece-eksi",
-    "summary": "After finding proteins linked to memory in prostate cancer cells, Sebnem Ece Eksi hopes to map nerve fibers in tumors.",
     "source": "Science News",
     "published": "2026-11-21T12:00:00+00:00"
   },
