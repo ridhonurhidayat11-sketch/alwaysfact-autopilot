@@ -1,0 +1,194 @@
+{
+ "topic_id": "t519e3c24",
+ "source_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/",
+ "risk": "low",
+ "post": {
+  "topic": "Jamur lendir tanpa otak yang bisa merancang jalur kereta",
+  "image_query": "Physarum polycephalum slime mold",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+   "Jamur lendir tanpa otak bisa merancang jalur kereta",
+   "Tanpa otak, ia bisa bikin peta kereta"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Jamur lendir tanpa otak bisa merancang jalur kereta",
+    "body": "Jamur lendir adalah makhluk satu sel tanpa otak, dan ia bisa membuat jaringan jalur yang efisien.",
+    "image_query": "Physarum polycephalum slime mold",
+    "icon": "bulb",
+    "takeaway": "Tanpa otak, tapi pandai membuat jaringan jalur."
+   },
+   {
+    "type": "fact",
+    "title": "Apa itu jamur lendir?",
+    "body": "Jamur lendir hanya satu sel. Ia bisa tumbuh sampai beberapa meter persegi. Ia tidak punya otak dan tidak punya sistem saraf rumit.",
+    "image_query": "Physarum polycephalum",
+    "icon": "bacteria",
+    "takeaway": "Satu sel, tanpa otak, tapi bisa sangat besar."
+   },
+   {
+    "type": "fact",
+    "title": "Kamu tahu soal jalur terpendek?",
+    "body": "Ia bisa mencari jalan terpendek di labirin. Ia juga tampak punya ingatan jangka pendek. Padahal ia tidak punya otak.",
+    "icon": "magnifier",
+    "takeaway": "Ia pandai mencari jalan tanpa otak."
+   },
+   {
+    "type": "fact",
+    "title": "Tes dengan peta Tokyo",
+    "body": "Tahun 2010, peneliti di Jepang menaruh serpihan oat sebagai kota. Ada Tokyo dan 35 kota sekitarnya.",
+    "viz": {
+     "kind": "stat",
+     "value": "35",
+     "label": "kota diwakili oat",
+     "note": "di sekitar Tokyo"
+    },
+    "icon": "globe",
+    "takeaway": "Oat dipakai sebagai pengganti kota."
+   },
+   {
+    "type": "fact",
+    "title": "Ia tumbuh pelan tapi pasti",
+    "body": "Jamur lendir tumbuh sekitar satu sentimeter per jam. Peneliti mengamatinya selama 26 jam.",
+    "viz": {
+     "kind": "stat",
+     "value": "26",
+     "label": "jam diamati",
+     "note": "tumbuh sekitar 1 cm per jam"
+    },
+    "icon": "clock",
+    "takeaway": "Dalam 26 jam, jaringannya sudah terbentuk."
+   },
+   {
+    "type": "fact",
+    "title": "Hasilnya mirip kereta Tokyo",
+    "body": "Ia menyambung semua oat dengan benang tipis. Polanya mirip jaringan kereta di sekitar Tokyo.",
+    "icon": "bolt",
+    "image_query": "Tokyo rail network map",
+    "takeaway": "Pola jamur lendir mirip jalur kereta Tokyo."
+   },
+   {
+    "type": "fact",
+    "title": "Buat kamu",
+    "body": "Mungkin lain kali kamu macet di kota, ingat: makhluk tanpa otak pun bisa merancang jalur efisien.",
+    "icon": "heart",
+    "takeaway": "Alam bisa jadi guru tata kota."
+   },
+   {
+    "type": "cta",
+    "title": "Suka fakta sains?",
+    "body": "Ikuti @alwaysfact_ untuk fakta sains yang bikin melongo. Kirim post ini ke temanmu yang suka tata kota!",
+    "icon": "rocket"
+   }
+  ],
+  "caption": "Jamur lendir tanpa otak bisa merancang jalur kereta.\n\nJamur lendir hanya satu sel, tapi di percobaan Jepang tahun 2010 polanya mirip jaringan kereta Tokyo. Kirim ke temanmu yang suka tata kota dan ikuti @alwaysfact_!\n\nSumber: Scientific American",
+  "hashtags": [
+   "sains",
+   "faktaunik",
+   "alwaysfact",
+   "jamurlendir",
+   "biologi",
+   "kereta",
+   "tokyo"
+  ],
+  "claims": [
+   {
+    "text": "Jamur lendir adalah makhluk satu sel yang bisa tumbuh sampai beberapa meter persegi.",
+    "source_name": "Scientific American",
+    "source_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/"
+   },
+   {
+    "text": "Jamur lendir tidak punya sistem saraf rumit dan tidak punya otak.",
+    "source_name": "Scientific American",
+    "source_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/"
+   },
+   {
+    "text": "Jamur lendir bisa mencari jalan terpendek di labirin, tampak punya ingatan jangka pendek, dan menyusun ulang jaringan kereta Tokyo.",
+    "source_name": "Scientific American",
+    "source_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/"
+   },
+   {
+    "text": "Tahun 2010, peneliti di Hokkaido University, Jepang, menata oat untuk mewakili Tokyo dan 35 kota di sekitarnya.",
+    "source_name": "Scientific American",
+    "source_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/"
+   },
+   {
+    "text": "Jamur lendir tumbuh sekitar satu sentimeter per jam.",
+    "source_name": "Scientific American",
+    "source_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/"
+   },
+   {
+    "text": "Peneliti mengamati jamur lendir selama 26 jam saat ia menyebar mencari serpihan oat.",
+    "source_name": "Scientific American",
+    "source_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/"
+   },
+   {
+    "text": "Pola yang dibuat jamur lendir mirip jaringan kereta Tokyo.",
+    "source_name": "Scientific American",
+    "source_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/"
+   }
+  ],
+  "music_suggestions": [
+   "santai penasaran, tempo sedang",
+   "ceria ringan, tempo cepat",
+   "tenang misterius, tempo lambat"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/",
+   "quote": "The gifted urban planner Physarum polycephalum is a single-celled organism that can grow to several square meters in size.",
+   "note": "sesuai teks"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/",
+   "quote": "Slime molds of this species possess neither a complex nervous system nor a brain.",
+   "note": "sesuai teks"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/",
+   "quote": "They find the shortest routes within mazes, appear to possess a kind of short-term memory and can reconstruct the connections of the rail network in the Tokyo metropolitan area.",
+   "note": "sesuai teks"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/",
+   "quote": "In 2010 researchers at Hokkaido University in Japan conducted an experiment in which the oats were arranged to represent Tokyo and 35 surrounding cities in the metropolitan area.",
+   "note": "sesuai teks"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/",
+   "quote": "The slime mold grew by about one centimeter per hour.",
+   "note": "sesuai teks"
+  },
+  {
+   "claim": 6,
+   "verdict": "supported",
+   "evidence_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/",
+   "quote": "The researchers observed the single-celled organism for 26 hours as it began to spread out flat in all directions in search of oat flakes.",
+   "note": "sesuai teks"
+  },
+  {
+   "claim": 7,
+   "verdict": "supported",
+   "evidence_url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/",
+   "quote": "The resulting pattern resembled the rail network of the Tokyo metropolitan area.",
+   "note": "sesuai teks"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}
