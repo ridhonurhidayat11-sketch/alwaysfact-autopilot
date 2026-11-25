@@ -1,0 +1,162 @@
+{
+  "topic": "Gunung api bawah laut menambah daratan baru di pulau Jepang",
+  "image_query": "Iwo Jima island",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+    "Letusan bawah laut membuat pulau Jepang jadi lebih luas",
+    "Pulau di Jepang tiba-tiba bertambah daratan"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Letusan bawah laut membuat pulau Jepang jadi lebih luas",
+      "body": "Iwo Jima adalah pulau kecil milik Jepang di Samudra Pasifik, dan letusan gunung api di bawah lautnya baru saja menambah daratan.",
+      "image_query": "Iwo Jima island",
+      "icon": "globe",
+      "takeaway": "Daratan baru muncul dalam hitungan minggu."
+    },
+    {
+      "type": "fact",
+      "title": "Gunung api di dasar laut meletus",
+      "body": "Pada 27 Oktober, badan cuaca Jepang mendeteksi letusan gunung api di bawah laut, tepat di lepas pantai Iwo Jima.",
+      "icon": "flame",
+      "takeaway": "Letusannya terjadi di bawah laut.",
+      "viz": {
+        "kind": "steps",
+        "items": [
+          "27 Oktober: letusan terdeteksi",
+          "Satelit mulai memantau",
+          "16 November: daratan baru dikonfirmasi"
+        ],
+        "caption": "Urutan kejadian di Iwo Jima"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Satelit memantau dari luar angkasa",
+      "body": "Satelit yang mengitari Bumi langsung mengamati pulau itu. Foto sebelum dan sesudah letusan terlihat sangat berbeda.",
+      "image_query": "Landsat 9 satellite",
+      "icon": "rocket",
+      "takeaway": "Perubahan terlihat jelas dari antariksa."
+    },
+    {
+      "type": "fact",
+      "title": "Daratan baru seluas 50 hektare",
+      "body": "Pada 16 November, penjaga pantai Jepang mengonfirmasi sekitar **50 hektare** daratan baru menyambung ke pantai tenggara pulau. Itu seluas puluhan lapangan sepak bola.",
+      "icon": "globe",
+      "takeaway": "Sekitar 50 hektare daratan baru.",
+      "viz": {
+        "kind": "stat",
+        "value": "50",
+        "label": "hektare",
+        "note": "daratan baru, sekitar 125 acre"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Gambarnya lengkap dari beberapa satelit",
+      "body": "Gabungan citra dari beberapa alat pengamat membuat peneliti bisa melihat gambaran lebih lengkap tentang jalannya letusan.",
+      "icon": "magnifier",
+      "takeaway": "Banyak satelit, satu gambaran besar."
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu",
+      "body": "Indonesia juga berada di jalur gunung api. Satelit membantu kita melihat perubahan pulau dan pantai tanpa harus ke sana.",
+      "icon": "bulb",
+      "takeaway": "Satelit membantu memantau gunung api."
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_",
+      "body": "Kirim post ini ke temanmu yang suka hewan, dan ikuti @alwaysfact_ untuk fakta sains tiap hari.",
+      "takeaway": "Ikuti dan kirim ke teman.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Letusan gunung api di bawah laut membuat Iwo Jima, pulau milik Jepang, bertambah sekitar 50 hektare daratan baru. Satelit merekam perubahannya dari luar angkasa. Kirim ke temanmu!\n\nSumber: Space.com",
+  "hashtags": [
+    "sains",
+    "faktaunik",
+    "gunungapi",
+    "jepang",
+    "satelit",
+    "alwaysfact",
+    "faktasains"
+  ],
+  "claims": [
+    {
+      "text": "Pada 27 Oktober, badan cuaca Jepang mendeteksi letusan gunung api bawah laut di lepas pantai Iwo Jima.",
+      "source_name": "Space.com",
+      "source_url": "https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026"
+    },
+    {
+      "text": "Pada 16 November, penjaga pantai Jepang mengonfirmasi sekitar 125 acre (50 hektare) daratan baru tersambung ke pantai tenggara pulau.",
+      "source_name": "Space.com",
+      "source_url": "https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026"
+    },
+    {
+      "text": "Citra satelit menunjukkan letusan itu menambah daratan ke pantai pulau.",
+      "source_name": "Space.com",
+      "source_url": "https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026"
+    },
+    {
+      "text": "Gabungan citra dari beberapa satelit memberi peneliti gambaran lebih lengkap tentang letusan dan dampaknya.",
+      "source_name": "Space.com",
+      "source_url": "https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026"
+    }
+  ],
+  "music_suggestions": [
+    "epik tenang, tempo sedang",
+    "misterius, tempo lambat",
+    "energik ringan, tempo cepat"
+  ],
+  "id": "052",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026",
+      "quote": "On Oct. 27, Japan's Meteorological Agency detected an underwater volcanic eruption off the shores of Iwo Jima.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026",
+      "quote": "On Nov. 16, Japan's Coast Guard confirmed in a statement that about 125 acres (50 hectares) of new land is now connected to the island's southeast beach",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026",
+      "quote": "with satellite imagery experts have been able to show that the eruption has actually added more land to the island's beaches.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026",
+      "quote": "Together, this imagery gave researchers a more complete picture of how the eruption continued and the effects it left behind.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026",
+  "topic_id": "tb325b12e",
+  "image_credits": [
+    "U.S. Marine Corps photo by Cpl. Daniel Yarnall. / Public domain (Wikimedia Commons)",
+    "none (Landsat) / Public domain (Wikimedia Commons)"
+  ]
+}

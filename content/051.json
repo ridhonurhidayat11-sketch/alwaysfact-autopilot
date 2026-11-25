@@ -1,0 +1,180 @@
+{
+  "topic": "Lumba-lumba yang punya banyak teman ternyata hidup lebih lama",
+  "image_query": "Indo-Pacific bottlenose dolphin",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+    "Lumba-lumba yang punya banyak teman hidup lebih lama",
+    "Lumba-lumba dengan lingkaran pertemanan kuat umurnya lebih panjang"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Lumba-lumba yang punya banyak teman hidup lebih lama",
+      "body": "Lumba-lumba hidung botol adalah mamalia laut yang bisa hidup lebih dari 50 tahun dan punya kehidupan sosial rumit.",
+      "image_query": "Indo-Pacific bottlenose dolphin",
+      "icon": "fish",
+      "takeaway": "Teman ternyata berkaitan dengan umur panjang."
+    },
+    {
+      "type": "fact",
+      "title": "Mereka hidup berkelompok",
+      "body": "Lumba-lumba hidup di laut bersama kelompok. Bisa lebih dari 50 tahun, mirip umur manusia yang sudah tua.",
+      "image_query": "bottlenose dolphin pod",
+      "icon": "fish",
+      "takeaway": "Umur lumba-lumba bisa lebih dari 50 tahun.",
+      "viz": {
+        "kind": "stat",
+        "value": "50+",
+        "label": "tahun",
+        "note": "umur lumba-lumba hidung botol"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Peneliti mengikuti mereka hampir 40 tahun",
+      "body": "Di Shark Bay, Australia Barat, peneliti mencatat lumba-lumba satu per satu. Dari tanda di punggung dan siripnya, tiap ekor bisa dikenali.",
+      "image_query": "Shark Bay Western Australia",
+      "icon": "magnifier",
+      "takeaway": "Datanya sangat panjang dan rinci.",
+      "viz": {
+        "kind": "stat",
+        "value": "40",
+        "label": "tahun",
+        "note": "catatan pengamatan di Shark Bay"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Kelompok kuat dan stabil, umur lebih panjang",
+      "body": "Lumba-lumba dengan kelompok paling kuat dan stabil ternyata hidup paling lama. Ini temuan studi, bukan bukti sebab-akibat.",
+      "icon": "heart",
+      "takeaway": "Pertemanan stabil cocok dengan umur panjang."
+    },
+    {
+      "type": "fact",
+      "title": "Jantan lebih suka rombongan besar",
+      "body": "Di setiap tahap hidup, lumba-lumba jantan umumnya berkumpul di kelompok lebih besar daripada betina.",
+      "image_query": "male bottlenose dolphins",
+      "icon": "fish",
+      "takeaway": "Jantan cenderung ikut rombongan besar."
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu",
+      "body": "Teman bisa membantu berbagi informasi dan mencari pasangan. Pertemanan mungkin juga penting bagi manusia, tapi studi ini tentang lumba-lumba.",
+      "icon": "bulb",
+      "takeaway": "Berteman itu hal yang dilakukan banyak hewan."
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_",
+      "body": "Kirim post ini ke temanmu yang suka hewan, dan ikuti @alwaysfact_ untuk fakta sains tiap hari.",
+      "takeaway": "Ikuti dan kirim ke teman.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Lumba-lumba yang punya banyak teman hidup lebih lama. Peneliti mengikuti lumba-lumba di Shark Bay selama hampir 40 tahun dan menemukan kelompok yang kuat dan stabil cocok dengan umur lebih panjang. Kirim ke temanmu!\n\nSumber: The Guardian, studi di PLOS Biology",
+  "hashtags": [
+    "sains",
+    "faktaunik",
+    "lumbalumba",
+    "hewan",
+    "alam",
+    "alwaysfact",
+    "faktasains"
+  ],
+  "claims": [
+    {
+      "text": "Lumba-lumba hidung botol Indo-Pasifik adalah mamalia laut yang bisa hidup lebih dari 50 tahun dan punya kehidupan sosial rumit.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer"
+    },
+    {
+      "text": "Lumba-lumba yang punya kelompok sosial paling kuat dan stabil juga hidup paling lama.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer"
+    },
+    {
+      "text": "Data berasal dari hampir 40 tahun pengamatan di Shark Bay, Australia Barat.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer"
+    },
+    {
+      "text": "Di setiap tahap hidup, lumba-lumba jantan umumnya berada di kelompok lebih besar daripada betina.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer"
+    },
+    {
+      "text": "Bersosialisasi membantu lumba-lumba membentuk ikatan, berbagi informasi dan mencari pasangan.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer"
+    }
+  ],
+  "music_suggestions": [
+    "tenang dan hangat, tempo sedang",
+    "ceria ringan, tempo cepat",
+    "misterius lembut, tempo lambat"
+  ],
+  "id": "051",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
+      "quote": "Indo-Pacific bottlenose dolphins are marine mammals that can live for more than 50 years and have complex social lives.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
+      "quote": "The study found that dolphins who maintained the strongest and most stable social groups also ended up living the longest.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
+      "quote": "The insights draw on nearly 40 years of data collected at Shark Bay, in Western Australia, including tens of thousands of observations of dolphins.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
+      "quote": "At every stage of life, males generally spent time in larger groups than females, the researchers found.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
+      "quote": "Socialising can enable dolphins to find and form bonds, share information and find mates.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
+  "topic_id": "tb85262f1",
+  "image_credits": [
+    "Bernard DUPONT / CC BY-SA 2.0 (Wikimedia Commons)",
+    "Bernard DUPONT / CC BY-SA 2.0 (Wikimedia Commons)",
+    "Moheen Reeyad / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Bernard DUPONT from FRANCE / CC BY-SA 2.0 (Wikimedia Commons)",
+    "Bernard DUPONT from FRANCE / CC BY-SA 2.0 (Wikimedia Commons)",
+    "Hillmist247365 / CC BY-SA 4.0 (Wikimedia Commons)",
+    "NASA / Public domain (Wikimedia Commons)",
+    "Mark Interrante from Silicon Valley, USA / CC BY-SA 2.0 (Wikimedia Commons)"
+  ]
+}
