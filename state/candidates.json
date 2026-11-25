@@ -1,43 +1,178 @@
 [
   {
-    "id": "t7cd1fd66",
+    "id": "t5e41773f",
     "origin": "feed",
-    "title": "Researchers reveal inner-core structural evolution of Typhoon Bavi using multisensor satellite observations",
-    "url": "https://phys.org/news/2026-11-reveal-core-evolution-typhoon-bavi.html",
-    "summary": "Tropical cyclones frequently undergo rapid, complex structural changes within their inner cores, such as eyewall replacement and wind-field expansion, that strongly influence typhoon intensity and coastal hazards. However, capturing these multilayered transformations continuously from the ocean surface to the upper cloud tops remains a major observational challenge.",
+    "title": "Extinct, long-legged grasshoppers walked on water alongside dinosaurs",
+    "url": "https://www.sciencenews.org/article/extinct-grasshoppers-walked-on-water",
+    "summary": "Clues in 99-million-year-old amber show why scientists think these insects could sit atop water and paddle across it.",
+    "source": "Science News",
+    "published": "2026-11-25T00:01:00+00:00",
+    "text_file": "state/sources/t5e41773f.txt"
+  },
+  {
+    "id": "td367e76e",
+    "origin": "feed",
+    "title": "Mitochondria rebranding: Goodbye, powerhouse of the cell. Hello, lungs of the cell?",
+    "url": "https://phys.org/news/2026-11-mitochondria-rebranding-goodbye-powerhouse-cell.html",
+    "summary": "If you remember one thing from high school biology, there's a good chance it's this: Mitochondria are the powerhouse of the cell.",
     "source": "Phys.org",
-    "published": "2026-11-24T21:40:09+00:00",
+    "published": "2026-11-25T00:00:03+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-    "id": "tf20e592e",
+    "id": "t51c78c67",
     "origin": "feed",
-    "title": "DNA at nuclear edges forms protective UV shield in developing roundworm embryos",
-    "url": "https://phys.org/news/2026-11-dna-nuclear-edges-uv-shield.html",
-    "summary": "Inside the cell nucleus, DNA is arranged into neighborhoods, some of which are tightly packed and mostly inactive. This so-called heterochromatin typically associates with the nuclear lamina, a meshwork lining the inside of the nuclear envelope. This arrangement helps organize the genome and regulate gene activity. But how and when it forms during embryonic development has remained unclear.",
+    "title": "Ada Tambang di Balik Wacana Badak Jawa Ujung Kulon ke Alas Purwo?",
+    "url": "https://mongabay.co.id/2026/11/24/ada-tambang-di-balik-wacana-badak-jawa-ujung-kulon-ke-alas-purwo/",
+    "summary": "Belum usai duka atas kematian badak Jawa, Musofa tak lama usai translokasi 7 November 2025, publik tersentak dengan wacana Hashim Djojohadikusumo, adik Presiden Prabowo Subianto sekalgus juga Utusan Khusus Presiden Bidang Iklim dan Energi. Dia mau memindahkan badak jawa (Rhinoceros sondaicus) dari Taman Nasional Ujung Kulon (TNUK), Banten, ke Taman Nasional Alas Purwo, Jawa Timur. […] The post Ada",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-24T23:43:46+00:00",
+    "text_file": "state/sources/t51c78c67.txt"
+  },
+  {
+    "id": "t355df02b",
+    "origin": "feed",
+    "title": "Local protein supply chain keeps nerve cells' mitochondria in check",
+    "url": "https://phys.org/news/2026-11-local-protein-chain-nerve-cells.html",
+    "summary": "Some tracers used in hospital scans to check what is happening inside a patient's body are so short-lived they must be made on demand on site or rushed in by courier. A new study led by Angelika Harbauer's group at the Max Planck Institute for Biological Intelligence shows that nerve cells use similar strategies to deliver a protein that checks for damage in their mitochondria, the tiny structures",
     "source": "Phys.org",
-    "published": "2026-11-24T21:40:01+00:00",
+    "published": "2026-11-24T23:40:04+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-    "id": "teb149b6b",
+    "id": "t082cb587",
     "origin": "feed",
-    "title": "Why disaster risks are systemic and co-evolutionary",
-    "url": "https://phys.org/news/2026-11-disaster-evolutionary.html",
-    "summary": "Disasters rarely happen in isolation. New research highlights the need to rethink how we assess disaster risks by recognizing how natural hazards, the people and places exposed, and their vulnerability are interconnected and change over time.",
+    "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+    "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain",
+    "source": "ScienceDaily",
+    "published": "2026-11-24T23:31:52+00:00",
+    "text_file": "state/sources/t082cb587.txt"
+  },
+  {
+    "id": "t1bba8830",
+    "origin": "feed",
+    "title": "Sex in Britain has changed significantly, especially among young people",
+    "url": "https://phys.org/news/2026-11-sex-britain-significantly-young-people.html",
+    "summary": "The sex lives of people in Britain have shifted markedly since 1990, and their sexual and reproductive health needs are substantial and varied, according to the fourth National Survey of Sexual Attitudes and Lifestyles (Natsal-4). The first five papers from the survey—one of the largest studies of sexual behavior in the world—are published in The Lancet.",
     "source": "Phys.org",
-    "published": "2026-11-24T21:20:09+00:00",
+    "published": "2026-11-24T23:30:02+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-    "id": "tf77102fb",
+    "id": "t2e9524ef",
     "origin": "feed",
-    "title": "The two ways rings are carved around a newborn star",
-    "url": "https://phys.org/news/2026-11-ways-newborn-star.html",
-    "summary": "How are planets formed in a solar system? While the question is simple, the answer is not so straightforward. Astrophysicists have long peeked into the sky, observing early stars and planets to find the answer. A common pattern observed in early stars is sequential rings of bright and dark areas emanating from the center, like grooves on a vinyl record.",
+    "title": "Microplastics in nearly 8 in 10 fish sampled off Oman's Sohar coast",
+    "url": "https://phys.org/news/2026-11-microplastics-fish-sampled-oman-sohar.html",
+    "summary": "Researchers at Sultan Qaboos University detected microplastics in the gills or digestive tracts of 95 of 120 fish sampled off Sohar in the Sea of Oman. Published in Scientific Reports, the study provides a baseline for tracking microplastic pollution in fish along this stretch of Oman's coast.",
     "source": "Phys.org",
-    "published": "2026-11-24T21:20:01+00:00",
+    "published": "2026-11-24T23:20:11+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t662bfae6",
+    "origin": "feed",
+    "title": "Blind sample test reveals how BepiColombo could decode Mercury's mineral makeup",
+    "url": "https://phys.org/news/2026-11-sample-reveals-bepicolombo-decode-mercury.html",
+    "summary": "An international team of researchers, including scientists from Planetary Science Institute (PSI), has demonstrated that instruments aboard the BepiColombo spacecraft can operate together to identify the minerals that make up Mercury's surface, addressing a longstanding challenge in planetary science. The findings, published in Planetary and Space Science, come as the joint European Space Agency (",
+    "source": "Phys.org",
+    "published": "2026-11-24T23:20:08+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t4c5204e3",
+    "origin": "feed",
+    "title": "Carbon-rich soil near old oaks does not attract more earthworms, study finds",
+    "url": "https://phys.org/news/2026-11-carbon-rich-soil-oaks-earthworms.html",
+    "summary": "Solitary oaks in traditional Romanian wood pastures create islands of carbon-rich soil around their trunks. However, a research team led by the Universities of Göttingen and Hildesheim found this does not mean more earthworms. In traditional wood pastures in Romania, the topsoil near the trunk held about a third more organic carbon and a quarter more nitrogen than the open grassland, yet earthworm",
+    "source": "Phys.org",
+    "published": "2026-11-24T23:10:02+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t9b5939b4",
+    "origin": "feed",
+    "title": "Self-assembling nanocarriers show promise for delivering CRISPR to tumors and slowing growth",
+    "url": "https://phys.org/news/2026-11-nanocarriers-crispr-tumors-growth.html",
+    "summary": "A self-assembling supramolecular nanocarrier protects Cas9 RNPs from degradation, enhances systemic delivery and preferential tumor accumulation, and enables pH-responsive intracellular release. Developed by researchers at the Institute of Science Tokyo, this platform achieved a 37.2% indel frequency at the luciferase target locus in HeLa-Luc tumor tissue in mice, compared with 1.5% with free RNPs",
+    "source": "Phys.org",
+    "published": "2026-11-24T23:00:02+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t347de5f3",
+    "origin": "feed",
+    "title": "Named 'Maria,' a new species of amphibian pays tribute to the world's most popular name",
+    "url": "https://phys.org/news/2026-11-maria-species-amphibian-pays-tribute.html",
+    "summary": "Maria, the most popular female name in Brazil and around the world, was chosen for a new species of caecilian, a type of amphibian commonly known as a \"blind snake,\" found in this South American country. The researchers chose the name Siphonops maria to raise awareness of this little-known animal, even among researchers in the field.",
+    "source": "Phys.org",
+    "published": "2026-11-24T22:50:02+00:00"
+  },
+  {
+    "id": "taf09425e",
+    "origin": "feed",
+    "title": "The enjoy-able effect: Why fun makes us feel more skilled than we are",
+    "url": "https://phys.org/news/2026-11-enjoy-effect-fun-skilled.html",
+    "summary": "Picture a hobby, a game or an activity you love. Maybe it's cooking or Wordle or playing pickup basketball. For a long time, I have loved playing video games. Now ask yourself: How good are you at it?",
+    "source": "Phys.org",
+    "published": "2026-11-24T22:40:09+00:00"
+  },
+  {
+    "id": "ta500af5f",
+    "origin": "feed",
+    "title": "NASA Hubble's new view of NGC 4394 raises the bar",
+    "url": "https://phys.org/news/2026-11-nasa-hubble-view-ngc-bar.html",
+    "summary": "A brilliant galaxy with a distinct galactic bar takes center stage in this NASA/ESA Hubble Space Telescope image. The galaxy, called NGC 4394, is in the constellation Coma Berenices (Berenice's Hair). At about 55 million light-years away, NGC 4394 is considered relatively nearby for a galaxy. It's one of more than 1,000 galaxies that make up the Virgo Cluster, which is the galaxy cluster closest t",
+    "source": "Phys.org",
+    "published": "2026-11-24T22:40:01+00:00"
+  },
+  {
+    "id": "tdbaed8ac",
+    "origin": "feed",
+    "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
+    "summary": "SpaceX launched its fifth classified mission for U.S. national security this month today (Nov. 24), from Vandenberg Space Force Base in California.",
+    "source": "Space.com",
+    "published": "2026-11-24T22:37:19+00:00",
+    "text_file": "state/sources/tdbaed8ac.txt"
+  },
+  {
+    "id": "tff26e302",
+    "origin": "feed",
+    "title": "Quantum blueprint maps a practical path to testing unusual entanglement",
+    "url": "https://phys.org/news/2026-11-quantum-blueprint-path-unusual-entanglement.html",
+    "summary": "Adrian Del Maestro knows how to engineer a quantum fingerprint. Rick Mukherjee has a gift for tuning atoms. Their combined expertise has taken a theory sketched out on paper and created a pathway for real experiments. The results, published in the journal Physical Review Letters, move a law-defying \"mathematical oddity\" ever so slightly up the technology readiness scale",
+    "source": "Phys.org",
+    "published": "2026-11-24T22:30:02+00:00"
+  },
+  {
+    "id": "t7415487f",
+    "origin": "feed",
+    "title": "Too much to do, but too little time? 5 tips to tackle your to-do list",
+    "url": "https://phys.org/news/2026-11-tackle.html",
+    "summary": "With the holidays approaching and the semester winding down, to-do lists are growing. Between shopping for gifts, planning gatherings, studying for finals and finishing projects, there's plenty to accomplish before the end of the year.",
+    "source": "Phys.org",
+    "published": "2026-11-24T22:20:10+00:00"
+  },
+  {
+    "id": "tbd44441c",
+    "origin": "feed",
+    "title": "On this day in space! Nov. 24, 1947: The US Navy launches the 1st Aerobee sounding rocket, but it didn't reach space",
+    "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-24-2026",
+    "summary": "On Nov. 24, 1947, the U.S. Navy launched the first Aerobee rocket into the sky, but it never reached space. Here's why it mattered.",
+    "source": "Space.com",
+    "published": "2026-11-24T21:47:34+00:00",
+    "text_file": "state/sources/tbd44441c.txt"
+  },
+  {
+    "id": "t259f7310",
+    "origin": "feed",
+    "title": "Secrecy surrounds claims of Russia’s push for nukes in space",
+    "url": "https://www.scientificamerican.com/article/secrecy-surrounds-claims-of-russias-push-for-nukes-in-space/",
+    "summary": "Despite international prohibitions on placing nuclear weapons in orbit—and the catastrophic effects of their use—some experts say the temptation to do so still remains",
+    "source": "Scientific American",
+    "published": "2026-11-24T21:45:00+00:00",
+    "text_file": "state/sources/t259f7310.txt"
   },
   {
     "id": "tf78eeb5c",
@@ -50,26 +185,6 @@
     "text_file": "state/sources/tf78eeb5c.txt"
   },
   {
-    "id": "tf6eaa5e1",
-    "origin": "feed",
-    "title": "A common language for pistachio growth: Researchers develop a crop-monitoring scale",
-    "url": "https://phys.org/news/2026-11-common-language-pistachio-growth-crop.html",
-    "summary": "The pistachio BBCH scale, created by the University of Córdoba, standardizes phenological monitoring of the crop, enabling researchers and farmers to identify its growth stage quickly and easily.",
-    "source": "Phys.org",
-    "published": "2026-11-24T21:10:04+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "t7bf94f7f",
-    "origin": "feed",
-    "title": "Flexible simulations model how dark matter collisions may leave their fingerprints on the universe",
-    "url": "https://phys.org/news/2026-11-flexible-simulations-dark-collisions-fingerprints.html",
-    "summary": "We cannot see or measure dark matter directly. Yet scientists are convinced that it exists and that it accounts for around 85% of all matter in the universe, including the matter that everything here on Earth is made of, from earthworms and mountains to seawater and washing machines.",
-    "source": "Phys.org",
-    "published": "2026-11-24T21:10:02+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
     "id": "tba44a48b",
     "origin": "feed",
     "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
@@ -78,16 +193,6 @@
     "source": "NASA",
     "published": "2026-11-24T21:04:32+00:00",
     "text_file": "state/sources/tba44a48b.txt"
-  },
-  {
-    "id": "t30292944",
-    "origin": "feed",
-    "title": "Evolution keeps returning to simple leaves",
-    "url": "https://phys.org/news/2026-11-evolution-simple.html",
-    "summary": "A study led by researchers from the University of Oxford has explained a long-standing riddle: why do most plants have leaves with a very simple shape? In a new study published Nov. 24, they explain why complex leaves have evolved again and again—only for evolution to repeatedly revert to simpler forms.",
-    "source": "Phys.org",
-    "published": "2026-11-24T21:00:12+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
     "id": "t21cb10ef",
@@ -110,6 +215,16 @@
     "text_file": "state/sources/t468372b5.txt"
   },
   {
+    "id": "td97b3689",
+    "origin": "feed",
+    "title": "A black hole the size of an atom could destroy an entire star",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261122060332.htm",
+    "summary": "MIT scientists have discovered that tiny black holes left over from the Big Bang could slowly devour stars from within, eventually triggering spectacular explosions visible across galaxies. Detecting these unusual cosmic events could reveal the existence of primordial black holes and help solve the mystery of dark matter.",
+    "source": "ScienceDaily",
+    "published": "2026-11-24T20:58:15+00:00",
+    "text_file": "state/sources/td97b3689.txt"
+  },
+  {
     "id": "tc45ff5fa",
     "origin": "feed",
     "title": "Medieval chain mail discovered during underwater excavation of 15th-century 'floating castle' that sank off Sweden",
@@ -118,51 +233,6 @@
     "source": "Live Science",
     "published": "2026-11-24T20:45:12+00:00",
     "text_file": "state/sources/tc45ff5fa.txt"
-  },
-  {
-    "id": "t36deffe3",
-    "origin": "feed",
-    "title": "Vaporized rock reveals titanium oxide around massive young star for first time",
-    "url": "https://phys.org/news/2026-11-vaporized-reveals-titanium-oxide-massive.html",
-    "summary": "Scientists have observed titanium oxide in gas form around a massive, young star for the first time. The finding identifies the first region in which scientists have been able to determine the composition of solid materials outside of our solar system without having to collect a sample and bring it back to Earth.",
-    "source": "Phys.org",
-    "published": "2026-11-24T20:40:08+00:00"
-  },
-  {
-    "id": "tb8e54eca",
-    "origin": "feed",
-    "title": "Body-positive imagery in ads resonates differently with men and women, study finds",
-    "url": "https://phys.org/news/2026-11-body-positive-imagery-ads-resonates.html",
-    "summary": "Advocates of body-positive advertising, which showcases models who do not fit the traditional molds of thin or muscular models, say they are challenging female beauty standards by rejecting an unhealthy obsession with often unattainable idealized bodies. However, a new Concordia study shows that while women generally respond positively to large-size models, body-positive advertising images are not",
-    "source": "Phys.org",
-    "published": "2026-11-24T20:40:01+00:00"
-  },
-  {
-    "id": "t4b28e346",
-    "origin": "feed",
-    "title": "Visible light powers new catalyst to turn carbon dioxide into industrial raw material",
-    "url": "https://phys.org/news/2026-11-visible-powers-catalyst-carbon-dioxide.html",
-    "summary": "Rice University researchers have demonstrated a way to split carbon dioxide using visible light without external heating, overcoming a major energy obstacle in sustainable chemical manufacturing.",
-    "source": "Phys.org",
-    "published": "2026-11-24T20:20:17+00:00"
-  },
-  {
-    "id": "t1e481a9d",
-    "origin": "feed",
-    "title": "California raised minimum wages for fast‑food workers—here's how it played out 2 years later",
-    "url": "https://phys.org/news/2026-11-california-minimum-wages-fastfood-workers.html",
-    "summary": "Even before the 2026 midterm elections delivered a clear message about cost-of-living concerns, many states had been raising their minimum wage on their own as one way to increase workers' purchasing power. And some have taken a more targeted approach, setting wage floors for specific industries.",
-    "source": "Phys.org",
-    "published": "2026-11-24T20:20:06+00:00"
-  },
-  {
-    "id": "t5a8f2449",
-    "origin": "feed",
-    "title": "Planktonic hyperiidean amphipod confirmed in the Aegean Sea, and a new study shows how to identify subadult males",
-    "url": "https://phys.org/news/2026-11-planktonic-hyperiidean-amphipod-aegean-sea.html",
-    "summary": "Amphipods change in size and shape each time they molt. When a species is told apart from its relatives by small anatomical details, this creates a practical problem: a trait that identifies an adult may be absent or different in the younger animal. A recently published study in Biodiversity Data Journal tests this problem on Phronima atlantica, a planktonic amphipod of the open ocean, and identif",
-    "source": "Phys.org",
-    "published": "2026-11-24T20:00:14+00:00"
   },
   {
     "id": "tb4aaa1b0",
@@ -257,7 +327,7 @@
   {
     "id": "t496ebd25",
     "origin": "feed",
-    "title": "'The worry was that I was totally out of my league': How Francis Halzen bet his career on 'ghost particles' beneath the South Pole — and won the 2026 Nobel Prize in Physics",
+    "title": "Why Nobel physics prize winner Francis Halzen staked his career on an 'almost non-existent piece of reality'",
     "url": "https://www.livescience.com/physics-mathematics/particle-physics/the-worry-was-that-i-was-totally-out-of-my-league-how-francis-halzen-bet-his-career-on-ghost-particles-beneath-the-south-pole-and-won-the-2026-nobel-prize-in-physics",
     "summary": "Live Science spoke with Nobel laureate Francis Halzen on how he got into physics \"by accident\" and built a neutrino detector that changed it forever.",
     "source": "Live Science",
@@ -559,8 +629,7 @@
     "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
     "summary": "Russia launched the robotic Progress 97 freighter toward the International Space Station from Kazakhstan today (Nov. 24), on a mission that will feature some unusual port-hopping activity.",
     "source": "Space.com",
-    "published": "2026-11-24T13:16:26+00:00",
-    "text_file": "state/sources/t49b7f162.txt"
+    "published": "2026-11-24T13:16:26+00:00"
   },
   {
     "id": "t2da7f341",
@@ -569,8 +638,7 @@
     "url": "https://www.space.com/stargazing/watch-novembers-full-beaver-moon-live-online-with-supermoon-livestream-nov-24-2026",
     "summary": "Watch live online on Nov. 24 as the first of four consecutive supermoons rises to flood the night sky with moonlight.",
     "source": "Space.com",
-    "published": "2026-11-24T13:00:00+00:00",
-    "text_file": "state/sources/t2da7f341.txt"
+    "published": "2026-11-24T13:00:00+00:00"
   },
   {
     "id": "t1c77fe3c",
@@ -662,9 +730,9 @@
   {
     "id": "td1c6006d",
     "origin": "feed",
-    "title": "Researcher who helped improve melanoma survival rates among winners of top Australian science prize",
+    "title": "Researcher who helped improve melanoma survival rates wins top Australian science prize",
     "url": "https://www.theguardian.com/australia-news/2026/nov/24/georgina-long-melanoma-anthony-thomas-2026-prime-ministers-prizes-for-science",
-    "summary": "Georgina Long and subatomic physicist Anthony Thomas recognised in Prime Minister’s prizes for science Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast When Prof Georgina Long was starting out in melanoma treatment and research, “my waiting room would change so rapidly”. Referring to her patients with stage 4 melanoma, the onco",
+    "summary": "Georgina Long and subatomic physicist Anthony Thomas recognised by prime minister’s prizes for science Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast When Prof Georgina Long was starting out in melanoma treatment and research, “my waiting room would change so rapidly”. Referring to her patients with stage 4 melanoma, the onco",
     "source": "The Guardian Science",
     "published": "2026-11-24T11:00:45+00:00",
     "text_file": "state/sources/td1c6006d.txt"
@@ -715,8 +783,7 @@
     "url": "https://www.scientificamerican.com/article/lagging-cdc-vaccination-data-could-hamstring-doctors-as-flu-season-hits/",
     "summary": "The data, which in prior years were sent out weekly and earlier in the season, are now being made available monthly",
     "source": "Scientific American",
-    "published": "2026-11-24T11:00:00+00:00",
-    "text_file": "state/sources/t378a7242.txt"
+    "published": "2026-11-24T11:00:00+00:00"
   },
   {
     "id": "tf5bfa0c7",
@@ -911,8 +978,7 @@
     "url": "https://mongabay.co.id/2026/11/24/perjuangan-masyarakat-tananuhu-pertahankan-tanah-adat/",
     "summary": "“Tananahu bukan lahan kosong.” “Tolak Ekspansi PTPN, Demi Masa Depan Generasi” “Tolak HGU Bodong PTPN” Kalimat-kalimat itu antara lain isi poster warga Negeri Tananahu, Kabupaten Maluku Tengah, saat berunjuk rasa di depan Kantor Bupati Maluku Tengah, Kamis (24/9/26). Kerumunan massa mengenakan ikat kepala merah dan pakaian bermotif kotak-kotak. Ada juga desakan agar pemerintah dan perusahaan […] T",
     "source": "Mongabay Indonesia",
-    "published": "2026-11-24T02:04:39+00:00",
-    "text_file": "state/sources/t75690eb2.txt"
+    "published": "2026-11-24T02:04:39+00:00"
   },
   {
     "id": "t6c4f661c",
@@ -1024,6 +1090,15 @@
     "text_file": "state/sources/t495ab3ee.txt"
   },
   {
+    "id": "t9088e5c5",
+    "origin": "feed",
+    "title": "Watch out, AlphaFold: Claude and ChatGPT’s new biology skills wow scientists",
+    "url": "https://www.nature.com/articles/d41586-026-03836-z",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-24T00:00:00+00:00"
+  },
+  {
     "id": "tee55f013",
     "origin": "feed",
     "title": "How acidic compounds in human sweat open a mosquito ion channel",
@@ -1055,15 +1130,6 @@
     "origin": "feed",
     "title": "AI is ‘the end of mathematics as we know it’ — where does the field go next?",
     "url": "https://www.nature.com/articles/d41586-026-03719-3",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-24T00:00:00+00:00"
-  },
-  {
-    "id": "tcbcec919",
-    "origin": "feed",
-    "title": "Menopause can speed up brain ageing — hormone therapy might protect it",
-    "url": "https://www.nature.com/articles/d41586-026-03667-y",
     "summary": "",
     "source": "Nature",
     "published": "2026-11-24T00:00:00+00:00"
@@ -1106,15 +1172,6 @@
     "published": "2026-11-23T22:00:00+00:00"
   },
   {
-    "id": "tb01c4197",
-    "origin": "feed",
-    "title": "Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419!",
-    "url": "https://www.space.com/stargazing/skywatching-kit/join-our-free-space-com-membership-giveaway-for-a-chance-to-win-this-dwarflab-mini-smart-telescope-worth-usd419",
-    "summary": "Our Space.com Community team just launched a new giveaway exclusively for our Space+ members. Join free now for a chance to win a Dwarflab Mini smart telescope.",
-    "source": "Space.com",
-    "published": "2026-11-23T21:21:13+00:00"
-  },
-  {
     "id": "tb9199da3",
     "origin": "feed",
     "title": "Thanksgiving holiday travel could be disrupted by floods, winds and rain",
@@ -1132,15 +1189,6 @@
     "source": "Science News",
     "published": "2026-11-23T21:01:59+00:00",
     "text_file": "state/sources/t646ccdb8.txt"
-  },
-  {
-    "id": "t4cbe4a31",
-    "origin": "feed",
-    "title": "How sci‑fi imagines sports in microgravity, and how zero‑g sports might actually work",
-    "url": "https://www.space.com/entertainment/how-sci-fi-imagines-sports-in-microgravity-and-how-zero-g-sports-might-actually-work",
-    "summary": "How realistic are the zero-g sports we see in sci-fi? We talk to Les Johnson, former Chief Technologist for NASA, to find out.",
-    "source": "Space.com",
-    "published": "2026-11-23T19:00:00+00:00"
   },
   {
     "id": "tba615657",
@@ -1323,8 +1371,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm",
     "summary": "Astronomers have discovered the oldest known compact pair of quasars, powered by two enormous black holes that existed just 900 million years after the Big Bang. Weighing an astonishing 1.5 billion and 400 million times the mass of the Sun, these cosmic giants somehow grew to incredible sizes far earlier than current theories can explain.",
     "source": "ScienceDaily",
-    "published": "2026-11-23T11:21:06+00:00",
-    "text_file": "state/sources/t47887992.txt"
+    "published": "2026-11-23T11:21:06+00:00"
   },
   {
     "id": "t98a61272",
@@ -1360,8 +1407,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
     "summary": "Scientists have discovered previously unknown viruses that could help explain how some of life’s earliest biological structures evolved. The surprising findings challenge a longstanding evolutionary theory and suggest that viruses may have hidden capabilities far beyond simply infecting cells.",
     "source": "ScienceDaily",
-    "published": "2026-11-23T10:45:53+00:00",
-    "text_file": "state/sources/t3d84f8f3.txt"
+    "published": "2026-11-23T10:45:53+00:00"
   },
   {
     "id": "t56024785",
@@ -1503,15 +1549,6 @@
     "text_file": "state/sources/t5cec49b5.txt"
   },
   {
-    "id": "t79d99adb",
-    "origin": "feed",
-    "title": "Bagaimana Perubahan Sosial Masyarakat Tobelo Dalam Dari Kacamata Antropolog Selama Dua Dekade?",
-    "url": "https://mongabay.co.id/short-article/2026/11/bagaimana-perubahan-sosial-masyarakat-tobelo-dalam-dari-kacamata-antropolog-selama-dua-dekade/",
-    "summary": "Lebih dari dua dekade, Safrudin Abdulrahman meneliti kehidupan masyarakat adat O’Hongana Manyawa di Pulau Halmahera, Maluku Utara. Dia menyaksikan secara langsung perubahan pola hidup, tekanan terhadap hutan, dan stereotip yang melekat pada masyarakat pedalaman Halmahera. Dia memulainya sejak 2002 dengan berulang kali masuk ke pedalaman Halmahera, tinggal bersama dan membaca literasi serta penelit",
-    "source": "Mongabay Indonesia",
-    "published": "2026-11-23T03:05:43+00:00"
-  },
-  {
     "id": "td3a74bec",
     "origin": "feed",
     "title": "Kebakaran pabrik permen di Banten: Tim evakuasi kumpulkan bagian tubuh para korban tewas dalam 24 kantong jenazah",
@@ -1540,15 +1577,6 @@
     "source": "Antara Tekno",
     "published": "2026-11-22T22:54:20+00:00",
     "text_file": "state/sources/t8f3bd85f.txt"
-  },
-  {
-    "id": "t6bfc2203",
-    "origin": "feed",
-    "title": "Common medications may secretly rewire your gut, with effects lasting for years",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
-    "summary": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments, can leave microbial “fingerprints” long after patients stop taking them. Surprisingly, some anxiety medications had effects comparable to br",
-    "source": "ScienceDaily",
-    "published": "2026-11-22T21:35:19+00:00"
   },
   {
     "id": "t17b12f2a",
@@ -1582,29 +1610,11 @@
   {
     "id": "tb37954f1",
     "origin": "feed",
-    "title": "Beaver Moon 2026: When to see a full 'supermoon' rise this week, and another on Christmas Eve",
+    "title": "Beaver Moon 2026: See a bright, full 'supermoon' rise tonight, and another on Christmas Eve",
     "url": "https://www.livescience.com/space/the-moon/beaver-moon-2026-when-to-see-a-full-supermoon-rise-this-week-and-another-on-christmas-eve",
     "summary": "November's full Beaver Moon rises on Tuesday, Nov. 24, giving us a preview of the spectacular Christmas Eve supermoon coming next month.",
     "source": "Live Science",
     "published": "2026-11-22T14:00:00+00:00"
-  },
-  {
-    "id": "t22d32e24",
-    "origin": "feed",
-    "title": "Erectile dysfunction drug could hold promise for Alzheimer’s disease",
-    "url": "https://www.scientificamerican.com/article/erectile-dysfunction-drug-could-hold-promise-for-alzheimers-disease/",
-    "summary": "Early results from a phase III clinical suggest the drug holds promise",
-    "source": "Scientific American",
-    "published": "2026-11-22T13:00:00+00:00"
-  },
-  {
-    "id": "tfb014a1e",
-    "origin": "feed",
-    "title": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261120071305.htm",
-    "summary": "Scientists have discovered a surprising obstacle to interstellar travel: at extreme speeds, the light propelling futuristic solar sails could actually begin slowing them down. Once a spacecraft reaches 75% of the speed of light, some scattered light starts producing drag, potentially complicating humanity’s plans to reach distant stars.",
-    "source": "ScienceDaily",
-    "published": "2026-11-22T11:59:29+00:00"
   },
   {
     "id": "t8d5b5156",
@@ -1690,8 +1700,7 @@
     "url": "https://www.sciencenews.org/article/telescope-data-isabel-angelo-sn-10",
     "summary": "At the SETI Institute, she uses machine learning to look for signs of cosmic phenomena astronomers have never seen before.",
     "source": "Science News",
-    "published": "2026-11-21T12:00:00+00:00",
-    "text_file": "state/sources/t082418af.txt"
+    "published": "2026-11-21T12:00:00+00:00"
   },
   {
     "id": "te569459c",
@@ -1774,15 +1783,6 @@
     "source": "The Conversation Indonesia",
     "published": "2026-11-21T02:04:08+00:00",
     "text_file": "state/sources/t4d809a7b.txt"
-  },
-  {
-    "id": "tce0488e4",
-    "origin": "feed",
-    "title": "This year’s El Niño is unlike any other on record",
-    "url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
-    "summary": "Pacific Ocean waters reached historic high temperatures in 2026, dramatically shaping hurricane seasons and global trends in precipitation.",
-    "source": "Science News",
-    "published": "2026-11-20T21:00:00+00:00"
   },
   {
     "id": "t2ba13ff0",
