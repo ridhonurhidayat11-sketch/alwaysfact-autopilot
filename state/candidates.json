@@ -1,13 +1,242 @@
 [
   {
+    "id": "t857c941a",
+    "origin": "feed",
+    "title": "Early Stone Age rock carvings in Scandinavia may have been signposts for hunting grounds",
+    "url": "https://phys.org/news/2026-11-early-stone-age-scandinavia-signposts.html",
+    "summary": "Between roughly 9,000 and 4,000 B.C., artists in ancient Scandinavia painstakingly carved large, sometimes life-size images of elk, reindeer, bears and other creatures into rock faces teetering on the edge of fjords, rivers and lakes. But their meaning has long been debated.",
+    "source": "Phys.org",
+    "published": "2026-11-26T13:00:05+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t1e0b9caf",
+    "origin": "feed",
+    "title": "'I would love to discover Attila's grave': Live Science readers weigh in on which archaeological discoveries they would want to find",
+    "url": "https://www.livescience.com/archaeology/i-would-love-to-discover-attilas-grave-live-science-readers-weigh-in-on-which-archaeological-discoveries-they-would-want-to-find",
+    "summary": "Live Science asked its readers what type of archaeological find they'd want to discover.",
+    "source": "Live Science",
+    "published": "2026-11-26T13:00:00+00:00",
+    "text_file": "state/sources/t1e0b9caf.txt"
+  },
+  {
+    "id": "tb8ee5b9d",
+    "origin": "feed",
+    "title": "Thanksgiving night sky 2026 — What to look for after dinner tonight",
+    "url": "https://www.space.com/stargazing/thanksgiving-night-sky-2026-what-to-look-for-after-dinner-tonight",
+    "summary": "From Saturn's magnificent rings to the waning gibbous moon, here's how to turn your Thanksgiving celebrations into a family skywatching adventure.",
+    "source": "Space.com",
+    "published": "2026-11-26T13:00:00+00:00",
+    "text_file": "state/sources/tb8ee5b9d.txt"
+  },
+  {
+    "id": "taaca7c36",
+    "origin": "feed",
+    "title": "Sensory deterrents aren't a 'one-size-fits-all' solution for sharks and rays",
+    "url": "https://phys.org/news/2026-11-sensory-deterrents-size-solution-sharks.html",
+    "summary": "A study on how select species of rays and sharks respond to sensory deterrents has reinforced why there isn't a one-size-fits-all solution to prevent fisheries bycatch.",
+    "source": "Phys.org",
+    "published": "2026-11-26T12:40:02+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t1eaefe62",
+    "origin": "feed",
+    "title": "Stars in your eyes? These are the best Black Friday telescopes, smart telescopes and binocular deals we've found to raise your skywatching game",
+    "url": "https://www.livescience.com/products/optics/stars-in-your-eyes-these-are-the-best-black-friday-telescopes-smart-telescopes-and-binocular-deals-weve-found-to-raise-your-skywatching-game",
+    "summary": "We've found the stargazing deals worth your money this Black Friday at retailers like Amazon and B&H, including some of our favorite models that we've personally tried and tested.",
+    "source": "Live Science",
+    "published": "2026-11-26T12:33:31+00:00",
+    "text_file": "state/sources/t1eaefe62.txt"
+  },
+  {
+    "id": "tbe0ae520",
+    "origin": "feed",
+    "title": "Many buyers willing to pay more to know where their food comes from",
+    "url": "https://phys.org/news/2026-11-buyers-pay-food.html",
+    "summary": "New research from Curtin University reveals many Australians are prepared to pay more for food when they know where it comes from and how animals are treated, despite ongoing cost-of-living pressures.",
+    "source": "Phys.org",
+    "published": "2026-11-26T12:20:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t5a1a127b",
+    "origin": "feed",
+    "title": "Suit alleges Louisiana land deal between SpaceX and ExxonMobil violates open meetings law",
+    "url": "https://www.theguardian.com/us-news/2026/nov/26/louisiana-spacex-exxonmobil-land-deal-lawsuit",
+    "summary": "Suit says parish board was manipulated to allow deal to go through and settlement agreement hidden from public After ending a lawsuit over ExxonMobil ’s damage to wetlands, Louisiana officials moved quickly to approve a deal giving SpaceX access to 125,000 acres (50,600 hectares) of marsh formerly owned by the oil company. A new lawsuit now alleges they did so in violation of the state’s open meet",
+    "source": "The Guardian Science",
+    "published": "2026-11-26T12:00:33+00:00",
+    "text_file": "state/sources/t5a1a127b.txt"
+  },
+  {
+    "id": "t5c38bb16",
+    "origin": "feed",
+    "title": "Mathematics fact fluency interventions for students with mathematics difficulties",
+    "url": "https://phys.org/news/2026-11-mathematics-fact-fluency-interventions-students.html",
+    "summary": "Associate professor Jonté Myers knows that developing fluency with mathematics facts is key to mathematics proficiency. However, many students struggle to develop these foundational skills.",
+    "source": "Phys.org",
+    "published": "2026-11-26T12:00:02+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tb5f2ad6b",
+    "origin": "feed",
+    "title": "Ultracold atoms could help unravel a major flaw in quantum theory",
+    "url": "https://www.newscientist.com/article/2600718-ultracold-atoms-could-help-unravel-a-major-flaw-in-quantum-theory/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "Standard quantum theory struggles to predict how long a particle will take to get from one place to another, but an experiment with ultracold atoms could help rule out some interpretations",
+    "source": "New Scientist",
+    "published": "2026-11-26T12:00:00+00:00",
+    "text_file": "state/sources/tb5f2ad6b.txt"
+  },
+  {
+    "id": "t45bf8521",
+    "origin": "feed",
+    "title": "The surprising reason women seem better at multitasking than men",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm",
+    "summary": "Men and women appear to be similarly capable of multitasking, but men are more than twice as likely to ignore conversation while juggling multiple activities. Researchers believe this unexpected difference may help explain why women are widely perceived as better multitaskers.",
+    "source": "ScienceDaily",
+    "published": "2026-11-26T11:21:47+00:00",
+    "text_file": "state/sources/t45bf8521.txt"
+  },
+  {
+    "id": "t33bbc851",
+    "origin": "feed",
+    "title": "Deep beneath Australia, hidden caves could unlock the secrets of alien worlds",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm",
+    "summary": "Scientists have solved the mystery of strange trenches scattered across Australia’s vast Nullarbor Plain, revealing an extensive hidden world beneath the surface. These subtle landscape features are created as deeply buried cave systems slowly collapse upward over millions of years. The discovery could help researchers locate unexplored caves containing ancient environmental records and unusual li",
+    "source": "ScienceDaily",
+    "published": "2026-11-26T11:06:15+00:00",
+    "text_file": "state/sources/t33bbc851.txt"
+  },
+  {
+    "id": "taaba79d2",
+    "origin": "feed",
+    "title": "Space plants with hot sauce: What ISS astronauts will be eating on Thanksgiving (video)",
+    "url": "https://www.space.com/space-exploration/human-spaceflight/space-plants-with-hot-sauce-what-iss-astronauts-will-be-eating-on-thanksgiving-video",
+    "summary": "The astronauts on the International Space Station will celebrate Thanksgiving with some nontraditional fare. Tortillas, hot sauce and pasta are on the menu, at least for one of them.",
+    "source": "Space.com",
+    "published": "2026-11-26T11:00:00+00:00",
+    "text_file": "state/sources/taaba79d2.txt"
+  },
+  {
+    "id": "t309f0b1d",
+    "origin": "feed",
+    "title": "The hidden math behind this paradoxical Black Friday sale strategy",
+    "url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/",
+    "summary": "Game theory explains why price-matching offers could paradoxically cost consumers more and why many stores switch them off for Black Friday",
+    "source": "Scientific American",
+    "published": "2026-11-26T11:00:00+00:00",
+    "text_file": "state/sources/t309f0b1d.txt"
+  },
+  {
+    "id": "t69b1c544",
+    "origin": "feed",
+    "title": "Relearning how to live with wolves in Europe",
+    "url": "https://news.mongabay.com/short-article/2026/11/relearning-how-to-live-with-wolves-in-europe/",
+    "summary": "Across much of Europe, gray wolves were hunted to near extinction by the mid-20th century. In the past couple of decades, though, strict protections have helped the population rebound in some countries. The return of the gray wolf (Canis lupus) has posed a conundrum. Conservation groups view it as a conservation success. However, wolves sometimes […]",
+    "source": "Mongabay",
+    "published": "2026-11-26T10:55:19+00:00",
+    "text_file": "state/sources/t69b1c544.txt"
+  },
+  {
+    "id": "tc198f2fe",
+    "origin": "feed",
+    "title": "'You had one job': Astrophysicist and Star Trek science advisor Erin MacDonald on the secret to her success and the science flubs that haunt her",
+    "url": "https://www.livescience.com/space/astronomy/you-had-one-job-astrophysicist-and-star-trek-science-advisor-erin-macdonald-on-the-secret-to-her-success-and-the-science-flubs-that-haunt-her",
+    "summary": "Live Science spoke with astrophysicist Erin Macdonald about her role as a science adviser for 'Star Trek' and other Hollywood movies.",
+    "source": "Live Science",
+    "published": "2026-11-26T10:51:27+00:00",
+    "text_file": "state/sources/tc198f2fe.txt"
+  },
+  {
+    "id": "t068f6765",
+    "origin": "feed",
+    "title": "US gains foothold in race for Africa’s critical minerals in Kenya’s Mrima Hill project",
+    "url": "https://news.mongabay.com/short-article/2026/11/us-gains-foothold-in-race-for-africas-critical-minerals-in-kenyas-mrima-hill-project/",
+    "summary": "Kenya’s Cabinet Secretary for Mining and Blue Economy has announced that the mining ministry has issued a “notice of intention” to award the tender for the development of the Mrima Hill mining project to U.S.-based mining consortium Frontier Minerals. Mrima Hill is thought to be rich in critical minerals sought after by electronics, aerospace and […]",
+    "source": "Mongabay",
+    "published": "2026-11-26T10:47:12+00:00",
+    "text_file": "state/sources/t068f6765.txt"
+  },
+  {
+    "id": "t34e52cea",
+    "origin": "feed",
+    "title": "This 345-million-year-old fossil had scientists fooled for decades",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm",
+    "summary": "A famous 345-million-year-old fossil has turned out to be something entirely different from what scientists believed for decades. Advanced X-ray imaging revealed hidden gills and thousands of tiny teeth, exposing a primitive aquatic or amphibious creature rather than an early reptile. The discovery suggests that several adaptations associated with life on land actually evolved in animals still dep",
+    "source": "ScienceDaily",
+    "published": "2026-11-26T10:46:17+00:00",
+    "text_file": "state/sources/t34e52cea.txt"
+  },
+  {
+    "id": "tc1fbed2b",
+    "origin": "feed",
+    "title": "'King tide' waves batter California coast, soaking San Francisco",
+    "url": "https://phys.org/news/2026-11-king-tide-batter-california-coast.html",
+    "summary": "Massive waves carried on king tides battered California's coast Wednesday, prompting evacuations and soaking San Francisco, but sparing feared mass disruptions to Thanksgiving holiday travel.",
+    "source": "Phys.org",
+    "published": "2026-11-26T10:40:06+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t7dbc4651",
+    "origin": "feed",
+    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+    "summary": "Officials say no lead has been detected in the surrounding area, which continues to be tested following concerns from locals.",
+    "source": "BBC Science",
+    "published": "2026-11-26T10:38:35+00:00",
+    "text_file": "state/sources/t7dbc4651.txt"
+  },
+  {
+    "id": "t95f3a272",
+    "origin": "feed",
+    "title": "Wildfires raze homes, displace wildlife on Australian island",
+    "url": "https://phys.org/news/2026-11-wildfires-raze-homes-displace-wildlife.html",
+    "summary": "Wildfires have forced road closures, displaced animals and razed homes while engulfing over 10% of Australia's southeastern Flinders Island, emergency services said Thursday.",
+    "source": "Phys.org",
+    "published": "2026-11-26T10:20:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ta01ec18d",
+    "origin": "feed",
+    "title": "Catch up on 60 years of Star Trek this Thanksgiving weekend on Paramount+ — plans now 79% off",
+    "url": "https://www.space.com/entertainment/space-movies-shows/catch-up-on-60-years-of-star-trek-this-thanksgiving-weekend-on-paramount-plans-now-79-percent-off",
+    "summary": "Paramount+ memberships are now only $2.99 per month for the first two months for Black Friday 2026. This gets you access to almost every season of Star Trek and a host of great movies. The offer ends Nov. 30.",
+    "source": "Space.com",
+    "published": "2026-11-26T10:16:31+00:00",
+    "text_file": "state/sources/ta01ec18d.txt"
+  },
+  {
+    "id": "t88fdfc98",
+    "origin": "feed",
+    "title": "AS kenakan tarif baru terhadap Indonesia setelah Trump puji Prabowo sebagai pemimpin hebat",
+    "url": "https://www.bbc.com/indonesia/articles/cwvg2822qle6o?at_medium=RSS&at_campaign=rss",
+    "summary": "Pungutan baru tersebut akan berdampak pada banyak mitra dagang terbesar Amerika, termasuk China dan Uni Eropa.",
+    "source": "BBC Indonesia",
+    "published": "2026-11-26T10:11:20+00:00",
+    "text_file": "state/sources/t88fdfc98.txt"
+  },
+  {
+    "id": "t7e9652dc",
+    "origin": "feed",
+    "title": "Some miniature Cas12m proteins can cut DNA after all",
+    "url": "https://phys.org/news/2026-11-miniature-cas12m-proteins-dna.html",
+    "summary": "An international research group led by graduate student Hayato Morinaga, Assistant Professor Satoshi N. Omura and Professor Osamu Nureki from the University of Tokyo has demonstrated for the first time that some Cas12m proteins do have an active state capable of cutting, or \"cleaving,\" DNA. The team also clarified the structural differences between the active and inactive variations.",
+    "source": "Phys.org",
+    "published": "2026-11-26T10:00:06+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
     "id": "t5cb019b6",
     "origin": "feed",
     "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
     "url": "https://phys.org/news/2026-11-fcc-spacex-deploy-million-satellites.html",
     "summary": "The Trump administration on Wednesday gave SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a long-held, lofty goal of Elon Musk's rocket company, in a move that has raised both skepticism and alarm among some scientists.",
     "source": "Phys.org",
-    "published": "2026-11-26T09:33:26+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-26T09:33:26+00:00"
   },
   {
     "id": "t27217ba3",
@@ -66,8 +295,7 @@
     "url": "https://phys.org/news/2026-11-dragonflies-feast-insects-autumn-migrations.html",
     "summary": "Dragonflies feast on a host of insects—and each other—during their autumn migrations, new research shows. Scientists studied dragonflies at the Pass of Bujaruelo—a 30-meter (98-foot) gap between two high peaks in the Pyrenees, through which millions of insects migrate every year.",
     "source": "Phys.org",
-    "published": "2026-11-26T07:30:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-26T07:30:01+00:00"
   },
   {
     "id": "ta2c9576b",
@@ -176,8 +404,7 @@
     "url": "https://phys.org/news/2026-11-world-fastest-animal-livable-territory.html",
     "summary": "Global warming and climate change could have the unexpected bounty of making Great Britain a more welcoming home for the fastest animal on Earth. The area suitable for peregrine falcons within the UK could grow by 74% by the year 2080 under a high-emissions climate scenario, a new study has shown.",
     "source": "Phys.org",
-    "published": "2026-11-26T05:00:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-26T05:00:01+00:00"
   },
   {
     "id": "tca224abb",
@@ -186,8 +413,7 @@
     "url": "https://phys.org/news/2026-11-australian-astronaut-space-expensive-worth.html",
     "summary": "Australia is currently in talks with the European Space Agency (ESA) over potentially flying Katherine Bennell-Pegg on a future space mission. If accepted, Bennell-Pegg—who is the director of space technology at the Australian Space Agency and completed ESA training in 2024—would become the first officially funded Australian astronaut.",
     "source": "Phys.org",
-    "published": "2026-11-26T04:40:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-26T04:40:01+00:00"
   },
   {
     "id": "tac94ab44",
@@ -226,8 +452,7 @@
     "url": "https://phys.org/news/2026-11-eyes-sky-timber-harvesting-forest.html",
     "summary": "Flying thousands of feet above northern and eastern Maine, Dave Sandilands searched for illegally dumped trash. On behalf of the New England Forestry Foundation, the University of Maine pilot was surveying both the 760,000-acre (308,000-hectare) Pingree Easement in northern Maine, home to the state's most productive peregrine falcon nesting area, and 335,000 acres (136,000 hectares) in Washington ",
     "source": "Phys.org",
-    "published": "2026-11-26T03:40:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-26T03:40:01+00:00"
   },
   {
     "id": "t37b02ce0",
@@ -248,16 +473,6 @@
     "source": "ScienceDaily",
     "published": "2026-11-26T02:42:37+00:00",
     "text_file": "state/sources/t91374f1d.txt"
-  },
-  {
-    "id": "t34168332",
-    "origin": "feed",
-    "title": "Do we really know more about space than the ocean?",
-    "url": "https://phys.org/news/2026-11-space-ocean.html",
-    "summary": "New discoveries are made about the world every day—a species of deep-sea fish here, a new galaxy there. There's a saying, \"We know more about space than the ocean.\" But is this true? How do we determine knowing? Is it the number of things we have directly observed, or is it a matter of resolution?",
-    "source": "Phys.org",
-    "published": "2026-11-26T02:40:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
     "id": "tf73da65a",
@@ -310,16 +525,6 @@
     "text_file": "state/sources/t7199c642.txt"
   },
   {
-    "id": "t24df4753",
-    "origin": "feed",
-    "title": "From solving to 'digesting': How mathematicians can adapt to the dramatic changes AI has brought to their field",
-    "url": "https://phys.org/news/2026-11-digesting-mathematicians-ai-brought-field.html",
-    "summary": "Mathematics is having an existential crisis. On Nov. 20, 2026, a mathematician at the AI company Anthropic claimed that while working with the model Claude, he had solved the generalized Riemann hypothesis, the most famous problem in mathematics. This problem has stood unsolved for 167 years, and solving it could easily warrant a Fields Medal—considered equivalent to a Nobel Prize, but for mathema",
-    "source": "Phys.org",
-    "published": "2026-11-26T01:40:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
     "id": "tdbf1f5ff",
     "origin": "feed",
     "title": "California warns of flooding as King Tides peak over Thanksgiving",
@@ -328,16 +533,6 @@
     "source": "BBC Science",
     "published": "2026-11-26T01:22:55+00:00",
     "text_file": "state/sources/tdbf1f5ff.txt"
-  },
-  {
-    "id": "t7dbc4651",
-    "origin": "feed",
-    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-    "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-    "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-    "source": "BBC Science",
-    "published": "2026-11-26T00:23:05+00:00",
-    "text_file": "state/sources/t7dbc4651.txt"
   },
   {
     "id": "tc759af60",
@@ -350,24 +545,6 @@
     "text_file": "state/sources/tc759af60.txt"
   },
   {
-    "id": "t70bde9eb",
-    "origin": "feed",
-    "title": "Dinosaurs likely tore meat like birds of prey",
-    "url": "https://phys.org/news/2026-11-dinosaurs-tore-meat-birds-prey.html",
-    "summary": "Meat-eating dinosaurs probably fed by dragging their teeth backward through flesh like a saw rather than biting straight down like a dagger, new experiments suggest.",
-    "source": "Phys.org",
-    "published": "2026-11-26T00:10:04+00:00"
-  },
-  {
-    "id": "t4d3311e8",
-    "origin": "feed",
-    "title": "Disliking AI doesn't deter its influence",
-    "url": "https://phys.org/news/2026-11-ai-doesnt-deter.html",
-    "summary": "An aversion to artificial intelligence (AI) does not lessen the influence of the technology on people and their decision-making, according to new research from City St George's, University of London.",
-    "source": "Phys.org",
-    "published": "2026-11-26T00:10:02+00:00"
-  },
-  {
     "id": "tc3c1b3a4",
     "origin": "feed",
     "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
@@ -378,31 +555,24 @@
     "text_file": "state/sources/tc3c1b3a4.txt"
   },
   {
-    "id": "t2d8756cc",
+    "id": "t909c8697",
     "origin": "feed",
-    "title": "Sweden tops global media freedom support rankings as international funding declines",
-    "url": "https://phys.org/news/2026-11-sweden-tops-global-media-freedom.html",
-    "summary": "Sweden has been ranked the world's leading supporter of international media freedom, according to a new index. The index also highlights a decline in funding from 30 leading donor countries, despite growing threats to independent journalism worldwide.",
-    "source": "Phys.org",
-    "published": "2026-11-26T00:00:13+00:00"
+    "title": "Navigating grief in academia: ways to find balance",
+    "url": "https://www.nature.com/articles/d41586-026-02752-6",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-26T00:00:00+00:00",
+    "text_file": "state/sources/t909c8697.txt"
   },
   {
-    "id": "t24f65136",
+    "id": "t8d39e5db",
     "origin": "feed",
-    "title": "Giant deer bones may push human arrival in Ireland back by 1,000 years",
-    "url": "https://phys.org/news/2026-11-giant-deer-bones-human-ireland.html",
-    "summary": "A team of archaeologists and scientists has uncovered tantalizing new evidence that Late Upper Paleolithic hunter-gatherers may have lived in southern Ireland around 13,500 years ago—nearly a millennium earlier than currently confirmed.",
-    "source": "Phys.org",
-    "published": "2026-11-26T00:00:06+00:00"
-  },
-  {
-    "id": "t46d9ab9a",
-    "origin": "feed",
-    "title": "Fermented milk may have held ritual power in Neolithic Denmark",
-    "url": "https://phys.org/news/2026-11-fermented-held-ritual-power-neolithic.html",
-    "summary": "Experimental archaeology sheds light on the substances fermented in Neolithic Scandinavian pottery and deposited in tombs, suggesting fermented dairy products held symbolic significance in prehistoric funerary rituals.",
-    "source": "Phys.org",
-    "published": "2026-11-26T00:00:02+00:00"
+    "title": "Orangutans face bleak future after Indonesia’s devastating wildfires",
+    "url": "https://www.nature.com/articles/d41586-026-03828-z",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-26T00:00:00+00:00",
+    "text_file": "state/sources/t8d39e5db.txt"
   },
   {
     "id": "tda6913a2",
@@ -488,7 +658,7 @@
     "origin": "feed",
     "title": "Ancient 'supermountains' under Antarctica supercharged complex life on Earth, study claims ‪—‬ but not everyone agrees",
     "url": "https://www.livescience.com/planet-earth/antarctica/ancient-supermountains-under-antarctica-supercharged-complex-life-on-earth-study-claims-but-not-everyone-agrees",
-    "summary": "A study claims that ancient 'supervolcanoes' hidden under Antarctica may have provided the nutrients that led to an explosion of complex life millions of years later. But not everyone agrees.",
+    "summary": "A study claims that ancient \"supervolcanoes\" hidden under Antarctica may have provided the nutrients that led to an explosion of complex life millions of years later. But not everyone agrees.",
     "source": "Live Science",
     "published": "2026-11-25T20:06:43+00:00",
     "text_file": "state/sources/teda4b500.txt"
@@ -500,8 +670,7 @@
     "url": "https://news.mongabay.com/2026/11/despite-heavy-rains-farmers-hope-for-a-viable-waterleaf-harvest-in-nigeria/",
     "summary": "This is Part 2 in a two-part series on Nigerian waterleaf. Read Part 1 here. Except for the occasional roar of an airplane landing on the runway, it’s all quiet and lonely in the plantations surrounding the local airport in Calabar, southeastern Nigeria. Across the vast fields are strips of farmland studded with waterleaf crops […]",
     "source": "Mongabay",
-    "published": "2026-11-25T20:00:31+00:00",
-    "text_file": "state/sources/t6e678d65.txt"
+    "published": "2026-11-25T20:00:31+00:00"
   },
   {
     "id": "tecb5d293",
@@ -610,8 +779,7 @@
     "url": "https://www.newscientist.com/article/2600279-twisteddoodles-7/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "This week's cartoon from Twisteddoodles",
     "source": "New Scientist",
-    "published": "2026-11-25T18:00:00+00:00",
-    "text_file": "state/sources/t90c2f84a.txt"
+    "published": "2026-11-25T18:00:00+00:00"
   },
   {
     "id": "tbc903ae6",
@@ -632,23 +800,13 @@
     "published": "2026-11-25T18:00:00+00:00"
   },
   {
-    "id": "t2c0562e9",
-    "origin": "feed",
-    "title": "Why don’t dogs look up when a low-flying plane passes overhead? Part 7",
-    "url": "https://www.newscientist.com/article/2600098-why-dont-dogs-look-up-when-a-low-flying-plane-passes-overhead-part-7/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "This question was posed as part of New Scientist’s Last Word series, in which readers give scientific answers to each other’s questions. Here’s what our readers had to say",
-    "source": "New Scientist",
-    "published": "2026-11-25T18:00:00+00:00"
-  },
-  {
     "id": "tf20d10d8",
     "origin": "feed",
     "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
     "url": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
     "summary": "I just tested the new Vaonis Vespera Pro 2 and captured some amazing wide-field color astrophotography and now it's $500 cheaper in this black friday telescope deal.",
     "source": "Space.com",
-    "published": "2026-11-25T18:00:00+00:00",
-    "text_file": "state/sources/tf20d10d8.txt"
+    "published": "2026-11-25T18:00:00+00:00"
   },
   {
     "id": "t38ec0a6e",
@@ -657,8 +815,7 @@
     "url": "https://www.space.com/entertainment/space-movies-shows/blade-runner-2099-cast-praise-the-incredible-set-designs-that-brought-the-sci-fi-universe-to-life-it-was-all-so-well-realized-interview",
     "summary": "'Throwing myself into that, especially after how well Silka crafted the story and script, was something I was totally ready for.'",
     "source": "Space.com",
-    "published": "2026-11-25T18:00:00+00:00",
-    "text_file": "state/sources/t38ec0a6e.txt"
+    "published": "2026-11-25T18:00:00+00:00"
   },
   {
     "id": "t62460124",
@@ -687,8 +844,7 @@
     "url": "https://www.livescience.com/planet-earth/rivers-oceans/california-braces-for-triple-flooding-threat-as-king-tides-overlap-with-super-el-nino",
     "summary": "Exceptionally high tides, El Niño-fueled conditions and abnormally warm water are converging on California's coast, with authorities urging residents to limit unnecessary travel this Thanksgiving.",
     "source": "Live Science",
-    "published": "2026-11-25T17:52:45+00:00",
-    "text_file": "state/sources/t824e67cd.txt"
+    "published": "2026-11-25T17:52:45+00:00"
   },
   {
     "id": "t539e41e2",
@@ -697,8 +853,7 @@
     "url": "https://news.mongabay.com/2026/11/nations-hail-new-shark-finning-rules-in-the-atlantic-conservationists-say-japan-blocked-better-ones/",
     "summary": "VILAMOURA, Portugal — Shark finning entails slashing fins off sharks and dumping the bodies into the sea, often while they’re still alive. In the Atlantic Ocean, the practice has been banned on paper since 2004, yet some Japanese and Chinese vessels still do it. The fins end up in shark fin soup, a delicacy in parts […]",
     "source": "Mongabay",
-    "published": "2026-11-25T17:52:18+00:00",
-    "text_file": "state/sources/t539e41e2.txt"
+    "published": "2026-11-25T17:52:18+00:00"
   },
   {
     "id": "tbab24ed3",
@@ -707,8 +862,7 @@
     "url": "https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-becomes-1st-international-visitor-to-chinas-tiangong-space-station-photos",
     "summary": "Pakistan's Muhammad Zeeshan Ali became the first international astronaut to visit China's Tiangong space station today (Nov. 25), when he and his Shenzhou-24 crewmates docked with the outpost.",
     "source": "Space.com",
-    "published": "2026-11-25T17:41:11+00:00",
-    "text_file": "state/sources/tbab24ed3.txt"
+    "published": "2026-11-25T17:41:11+00:00"
   },
   {
     "id": "ta8e9ed99",
@@ -783,7 +937,7 @@
     "summary": "The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks […]",
     "source": "NASA",
     "published": "2026-11-25T16:21:04+00:00",
-    "text_file": "state/sources/t0a54c50c.txt"
+    "fetch_error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
     "id": "tf5ff8407",
@@ -811,8 +965,7 @@
     "url": "https://www.livescience.com/archaeology/human-evolution/scientists-may-have-discovered-new-branch-on-the-human-family-tree-100-000-year-old-tooth-in-china-suggests",
     "summary": "One tooth from a cave in southern China may upend how we think about early human origins in Asia.",
     "source": "Live Science",
-    "published": "2026-11-25T16:00:00+00:00",
-    "text_file": "state/sources/t30e1a4e2.txt"
+    "published": "2026-11-25T16:00:00+00:00"
   },
   {
     "id": "t2c204d0c",
@@ -823,15 +976,6 @@
     "source": "Science News",
     "published": "2026-11-25T15:00:00+00:00",
     "text_file": "state/sources/t2c204d0c.txt"
-  },
-  {
-    "id": "tb325b12e",
-    "origin": "feed",
-    "title": "Satellites watch volcanic eruptions add new beaches on Iwo Jima | Space photo of the day for Nov. 25, 2026",
-    "url": "https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026",
-    "summary": "Iwo Jima looks remarkably different from space after a volcanic eruption created new land extending the Japanese island's beaches.",
-    "source": "Space.com",
-    "published": "2026-11-25T15:00:00+00:00"
   },
   {
     "id": "t1d9cf67c",
@@ -874,15 +1018,6 @@
     "text_file": "state/sources/t05b1b424.txt"
   },
   {
-    "id": "t2e24b0f6",
-    "origin": "feed",
-    "title": "Watch live: Europe unveils 1st close-up views of asteroid Dimorphos after NASA's DART impact",
-    "url": "https://www.space.com/space-exploration/asteroid-comet-missions/watch-live-europe-unveils-1st-close-up-views-of-asteroid-dimorphos-after-nasas-dart-impact",
-    "summary": "ESA will share the Hera probe's first images of asteroid Dimorphos today following NASA's historic DART mission that impacted the space rock two years ago.",
-    "source": "Space.com",
-    "published": "2026-11-25T14:00:00+00:00"
-  },
-  {
     "id": "t54e7caf2",
     "origin": "feed",
     "title": "How the Galileo musical’s composer sets science to a score on Broadway",
@@ -893,15 +1028,6 @@
     "text_file": "state/sources/t54e7caf2.txt"
   },
   {
-    "id": "tead1e02b",
-    "origin": "feed",
-    "title": "Divided and displaced: Brazil’s Kaingang people wait for an end to illegal leasing conflict",
-    "url": "https://news.mongabay.com/2026/11/divided-and-displaced-brazils-kaingang-people-wait-for-an-end-to-illegal-leasing-conflict/",
-    "summary": "PITANGA, Brazil — Since February 2025, around 300 Indigenous Kaingang people have been living in rural Pitanga, a municipality in central Paraná, Brazil. Camping in a wooded area on private property, they survive in makeshift shelters covered with tarpaulins, without electricity or running water. The camp is not a village. Displaced residents describe it as […]",
-    "source": "Mongabay",
-    "published": "2026-11-25T13:31:35+00:00"
-  },
-  {
     "id": "tf1a56755",
     "origin": "feed",
     "title": "Degrading Rock Glaciers Place Himalayan Villages’ Water at Risk",
@@ -910,24 +1036,6 @@
     "source": "Eos (AGU)",
     "published": "2026-11-25T13:25:34+00:00",
     "text_file": "state/sources/tf1a56755.txt"
-  },
-  {
-    "id": "t9353f731",
-    "origin": "feed",
-    "title": "Cargill publicly backs EU deforestation law while lobbying to weaken it, probe finds",
-    "url": "https://news.mongabay.com/2026/11/cargill-publicly-backs-eu-deforestation-law-while-lobbying-to-weaken-it-probe-finds/",
-    "summary": "Cargill, one of the world’s largest agribusiness companies, says it’s prepared to comply with the European Union’s new antideforestation law when it takes effect at the end of this year. But a recent investigation has found that the company has been simultaneously working behind the scenes to weaken the law and delay its implementation. The […]",
-    "source": "Mongabay",
-    "published": "2026-11-25T13:00:53+00:00"
-  },
-  {
-    "id": "t8bad537c",
-    "origin": "feed",
-    "title": "Astronomers discover the most distant and ancient supermassive black hole-powered quasar in the universe",
-    "url": "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar",
-    "summary": "The Euclid space telescope has spotted the most distant and ancient quasar ever seen, a bright cosmic event powered by a supermassive black hole with 360 million times the mass of the sun.",
-    "source": "Space.com",
-    "published": "2026-11-25T13:00:00+00:00"
   },
   {
     "id": "ta572a82b",
@@ -946,8 +1054,7 @@
     "url": "https://www.livescience.com/health/a-woman-gulped-ice-cold-drinks-and-ended-up-with-torn-arteries-diagnostic-dilemma",
     "summary": "A woman's heart issues seemed to be tied to her rapid gulping of ice-cold drinks.",
     "source": "Live Science",
-    "published": "2026-11-25T11:00:00+00:00",
-    "text_file": "state/sources/tf98eeee4.txt"
+    "published": "2026-11-25T11:00:00+00:00"
   },
   {
     "id": "t760eecb4",
@@ -1025,8 +1132,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
     "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and thought. Their findings challenge the assumption that increasingly powerful computers could eventually dev",
     "source": "ScienceDaily",
-    "published": "2026-11-25T09:30:54+00:00",
-    "text_file": "state/sources/t9226f079.txt"
+    "published": "2026-11-25T09:30:54+00:00"
   },
   {
     "id": "t7a90f762",
@@ -1064,8 +1170,7 @@
     "url": "https://www.theguardian.com/science/2026/nov/25/new-way-of-measuring-tides-flood-forecasts-accurate",
     "summary": "Analysis of differences in tidal height across beaches could lead to more localised tide and flood forecasts The sea might look level, but it turns out tidal height can vary by as much as a metre across the length of a single beach, new research shows. This development is important when it comes to flood predictions and when forecasting which locations are most vulnerable to storm surges. Up until",
     "source": "The Guardian Science",
-    "published": "2026-11-25T06:00:08+00:00",
-    "text_file": "state/sources/t0d1f8732.txt"
+    "published": "2026-11-25T06:00:08+00:00"
   },
   {
     "id": "tf8165500",
@@ -1092,8 +1197,7 @@
     "url": "https://www.scientificamerican.com/article/do-you-need-to-be-worried-about-flying-for-thanksgiving-this-year-we-asked-the-experts/",
     "summary": "Holiday travel season this year is hitting in the wake of numerous tech and airline outages",
     "source": "Scientific American",
-    "published": "2026-11-25T05:00:00+00:00",
-    "text_file": "state/sources/t6ac34d2e.txt"
+    "published": "2026-11-25T05:00:00+00:00"
   },
   {
     "id": "tc7b5fca4",
@@ -1131,8 +1235,7 @@
     "url": "https://www.bbc.com/indonesia/articles/cjy5xe579dv5o?at_medium=RSS&at_campaign=rss",
     "summary": "Paus Fransiskus mengklaim telah melihat iblis sebanyak tiga kali sepanjang hidupnya serta \"gerbang neraka\", menurut kutipan buku harian pribadinya.",
     "source": "BBC Indonesia",
-    "published": "2026-11-25T03:18:42+00:00",
-    "text_file": "state/sources/tcc2e70ba.txt"
+    "published": "2026-11-25T03:18:42+00:00"
   },
   {
     "id": "t1e6d1e22",
@@ -1150,8 +1253,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm",
     "summary": "Scientists have successfully transmitted a message through a brick wall using nothing but gravity, an old elevator, and an incredibly sensitive detector. By moving a massive counterweight between two positions, researchers encoded the word \"Gravity\" into tiny changes in gravitational pull. Unlike Wi-Fi or radio signals, gravity passes through ordinary barriers without being blocked, offering a pot",
     "source": "ScienceDaily",
-    "published": "2026-11-25T02:29:38+00:00",
-    "text_file": "state/sources/t48e6eb0f.txt"
+    "published": "2026-11-25T02:29:38+00:00"
   },
   {
     "id": "t9f6ec9c7",
@@ -1169,8 +1271,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261121221119.htm",
     "summary": "A surprising discovery by MIT and UC Santa Barbara physicists reveals that Einstein’s famous theory of particle motion misses something important when particles travel near the speed of light. Their new calculations show that heavy quarks moving through an ultra-hot plasma experience rare but unusually powerful jolts that Einstein’s traditional model cannot fully explain.",
     "source": "ScienceDaily",
-    "published": "2026-11-25T01:35:04+00:00",
-    "text_file": "state/sources/t45a8edf6.txt"
+    "published": "2026-11-25T01:35:04+00:00"
   },
   {
     "id": "td8f656c0",
@@ -1258,8 +1359,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03854-x",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-25T00:00:00+00:00",
-    "text_file": "state/sources/t3ee73409.txt"
+    "published": "2026-11-25T00:00:00+00:00"
   },
   {
     "id": "t8970b1cc",
@@ -1268,8 +1368,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03475-4",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-25T00:00:00+00:00",
-    "text_file": "state/sources/t8970b1cc.txt"
+    "published": "2026-11-25T00:00:00+00:00"
   },
   {
     "id": "t23280d20",
@@ -1294,24 +1393,6 @@
     "origin": "feed",
     "title": "Can Beijing scale up its smart-city ambitions?",
     "url": "https://www.nature.com/articles/d41586-026-03470-9",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-25T00:00:00+00:00"
-  },
-  {
-    "id": "tb2f14f20",
-    "origin": "feed",
-    "title": "From sketch to publication-ready flowchart: how AI tools can bridge the gap",
-    "url": "https://www.nature.com/articles/d41586-026-03513-1",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-25T00:00:00+00:00"
-  },
-  {
-    "id": "tdaa1cd4b",
-    "origin": "feed",
-    "title": "The world’s leading science cities are changing — here’s why",
-    "url": "https://www.nature.com/articles/d41586-026-03466-5",
     "summary": "",
     "source": "Nature",
     "published": "2026-11-25T00:00:00+00:00"
@@ -1409,24 +1490,6 @@
     "published": "2026-11-24T19:00:00+00:00"
   },
   {
-    "id": "t496ebd25",
-    "origin": "feed",
-    "title": "Why Nobel physics prize winner Francis Halzen staked his career on an 'almost non-existent piece of reality'",
-    "url": "https://www.livescience.com/physics-mathematics/particle-physics/the-worry-was-that-i-was-totally-out-of-my-league-how-francis-halzen-bet-his-career-on-ghost-particles-beneath-the-south-pole-and-won-the-2026-nobel-prize-in-physics",
-    "summary": "Live Science spoke with Nobel laureate Francis Halzen on how he got into physics \"by accident\" and built a neutrino detector that changed it forever.",
-    "source": "Live Science",
-    "published": "2026-11-24T18:27:32+00:00"
-  },
-  {
-    "id": "t88f33e13",
-    "origin": "feed",
-    "title": "It's time to look at Uranus: How to see the solar system's strangest planet at its best this week",
-    "url": "https://www.livescience.com/space/uranus/uranus-reaches-opposition-how-to-see-the-solar-systems-strangest-planet-at-its-best-this-week",
-    "summary": "On Wednesday (Nov. 25), the distant ice giant Uranus will be at its best and brightest. Here's when, where and how to look for the seventh planet.",
-    "source": "Live Science",
-    "published": "2026-11-24T18:12:55+00:00"
-  },
-  {
     "id": "tcb955dee",
     "origin": "feed",
     "title": "Who needs perfume? The incredible link between body odour and relationships that last",
@@ -1456,15 +1519,6 @@
     "text_file": "state/sources/tf10fb924.txt"
   },
   {
-    "id": "t5dec369a",
-    "origin": "feed",
-    "title": "'A new record in quantum error correction': Scientists say breakthrough brings powerful, fault-tolerant quantum computers closer to reality",
-    "url": "https://www.livescience.com/technology/quantum/a-new-record-in-quantum-error-correction-scientists-say-breakthrough-brings-powerful-fault-tolerant-quantum-computers-closer-to-reality",
-    "summary": "Quantinuum's Helios processor achieved a record-low failure rate of just 0.0005%, suggesting fault-tolerant quantum systems may need far fewer qubits than previously thought.",
-    "source": "Live Science",
-    "published": "2026-11-24T16:00:00+00:00"
-  },
-  {
     "id": "te8c37b46",
     "origin": "feed",
     "title": "Lightning strikes could more than double by 2100 thanks to climate change",
@@ -1472,15 +1526,6 @@
     "summary": "As the climate warms, heat rising from Earth’s surface creates more potential for electric fields—and cloud-to-ground lightning—to form",
     "source": "Scientific American",
     "published": "2026-11-24T15:11:00+00:00"
-  },
-  {
-    "id": "t09749173",
-    "origin": "feed",
-    "title": "The number of babies getting vaccinated for hepatitis B at birth is dropping precipitously",
-    "url": "https://www.scientificamerican.com/article/the-number-of-babies-getting-vaccinated-for-hepatitis-b-at-birth-is-dropping-precipitously/",
-    "summary": "Hepatitis B, which can be passed from mother to baby, is a liver disease that can be fatal if left untreated",
-    "source": "Scientific American",
-    "published": "2026-11-24T14:30:00+00:00"
   },
   {
     "id": "t2499adb2",
@@ -1522,15 +1567,6 @@
     "published": "2026-11-24T12:00:44+00:00"
   },
   {
-    "id": "tf423ade6",
-    "origin": "feed",
-    "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
-    "summary": "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine tar and beeswax. Microscopic pollen grains trapped in the ancient coatings are now helping scientists reconstruct where the vessel may have traveled and undergone repairs more than two millennia ago.",
-    "source": "ScienceDaily",
-    "published": "2026-11-24T11:09:06+00:00"
-  },
-  {
     "id": "td1c6006d",
     "origin": "feed",
     "title": "Researcher who helped improve melanoma survival rates wins top Australian science prize",
@@ -1538,24 +1574,6 @@
     "summary": "Georgina Long and subatomic physicist Anthony Thomas recognised by prime minister’s prizes for science Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast When Prof Georgina Long was starting out in melanoma treatment and research, “my waiting room would change so rapidly”. Referring to her patients with stage 4 melanoma, the onco",
     "source": "The Guardian Science",
     "published": "2026-11-24T11:00:45+00:00"
-  },
-  {
-    "id": "td9e86a5d",
-    "origin": "feed",
-    "title": "Ancient rocks from the Moon’s far side rewrite the Solar System’s violent past",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261121221136.htm",
-    "summary": "Scientists studying ancient rocks from the Moon’s far side have uncovered surprising evidence that challenges decades of thinking about the Solar System’s violent past. Instead of a single catastrophic bombardment, asteroid impacts appear to have declined gradually over billions of years, revealing new clues about Earth's early evolution and the origins of life.",
-    "source": "ScienceDaily",
-    "published": "2026-11-24T10:24:43+00:00"
-  },
-  {
-    "id": "tc871e71d",
-    "origin": "feed",
-    "title": "Earth's next ice age may have already begun. Global warming stopped it",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
-    "summary": "Scientists have uncovered surprising evidence that Earth’s next ice age may have already begun, only to be stopped by global warming. By studying ancient plants preserved beneath the Barnes Ice Cap in the Canadian Arctic, researchers discovered that the remnants of a massive ice sheet began expanding again about 2,000 years ago, signaling the possible start of a new glacial period. But by the 1960",
-    "source": "ScienceDaily",
-    "published": "2026-11-24T09:29:15+00:00"
   },
   {
     "id": "t52ae3a14",
@@ -1615,22 +1633,13 @@
     "text_file": "state/sources/t646ccdb8.txt"
   },
   {
-    "id": "t6e3bfd83",
+    "id": "tba615657",
     "origin": "feed",
-    "title": "Cop31 failed. What happens now? - video",
-    "url": "https://www.theguardian.com/science/video/2026/nov/23/cop31-failed-what-happens-now-video",
-    "summary": "The longest ever Cop climate talks have ended in failure after countries were unable to agree a deal. The key sticking point was the omission of any mention of fossil fuels in the final draft. To find out how it all went so wrong and what could come next, Madeleine Finlay speaks to Guardian environment editor Fiona Harvey who has been in Antalya, Turkey covering the talks. Continue reading...",
+    "title": "Cop31 failed. What happens now? – podcast",
+    "url": "https://www.theguardian.com/science/audio/2026/nov/23/cop31-failed-what-happens-now-podcast",
+    "summary": "The longest ever Cop climate talks have ended in failure after countries were unable to agree a deal. The key sticking point was the omission of any mention of fossil fuels in the final draft. To find out how it all went so wrong and what could come next, Madeleine Finlay speaks to Guardian environment editor Fiona Harvey, who has been in Antalya, Turkey, covering the talks Clips: Reuters Fill in ",
     "source": "The Guardian Science",
-    "published": "2026-11-23T17:52:57+00:00"
-  },
-  {
-    "id": "t5c038d64",
-    "origin": "feed",
-    "title": "Did you solve it? How Super Mario explains Renaissance art",
-    "url": "https://www.theguardian.com/science/2026/nov/23/did-you-solve-it-how-super-mario-explains-renaissance-art",
-    "summary": "The answer to today’s puzzle Earlier today I set you the following puzzle. Here it is again with the solution. Consider a simplified game of Super Mario. He moves from platform to platform. He can either step forward 1 space, to the next platform, or jump forward 2 spaces, to the platform after that. 3 platforms? 4 platforms? 5 platforms? 10 platforms? step – step jump step – step – step step – ju",
-    "source": "The Guardian Science",
-    "published": "2026-11-23T17:00:52+00:00"
+    "published": "2026-11-23T18:22:29+00:00"
   },
   {
     "id": "tb965c67a",
@@ -1690,15 +1699,6 @@
     "summary": "The newest season of The Big Dig podcast tells of how Mitt Romney and Ted Kennedy briefly joined forces to reform healthcare laws.",
     "source": "Science News",
     "published": "2026-11-23T14:00:00+00:00"
-  },
-  {
-    "id": "tdb0955a9",
-    "origin": "feed",
-    "title": "Amran Sulaiman dan Sugiono menjadi cawapres pilihan Presiden Prabowo",
-    "url": "https://www.bbc.com/indonesia/articles/cxyvdmm794qro?at_medium=RSS&at_campaign=rss",
-    "summary": "Jadwal penyerahan dua nama calon wakil presiden sempat mendapat sorotan sebelum akhirnya MPR mengubah jadwalnya kembali.",
-    "source": "BBC Indonesia",
-    "published": "2026-11-23T11:44:58+00:00"
   },
   {
     "id": "t56024785",
