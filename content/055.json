@@ -1,0 +1,216 @@
+{
+  "topic": "Domba dari Dieng bisa seberat 120 kg, lebih dari orang dewasa",
+  "image_query": "Domba Batur sheep Dieng",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+    "Domba di Dieng bisa seberat 120 kg, lebih dari orang dewasa",
+    "Domba Dieng mirip Shaun the Sheep, tapi jauh lebih besar"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Domba di Dieng bisa seberat 120 kg, lebih dari orang dewasa",
+      "body": "Domba Batur adalah domba berbulu putih keriting dari Banjarnegara, Jawa Tengah, yang ukurannya jauh di atas domba biasa.",
+      "image_query": "Domba Batur sheep",
+      "takeaway": "Domba asli Jawa Tengah ini raksasa.",
+      "icon": "leaf"
+    },
+    {
+      "type": "fact",
+      "title": "Mirip Shaun the Sheep",
+      "body": "Bulunya putih, halus, dan keriting. Menutupi hampir seluruh badan, kecuali **wajah dan kaki**.",
+      "image_query": "Shaun the Sheep",
+      "takeaway": "Bulunya tebal dan keriting.",
+      "icon": "heart"
+    },
+    {
+      "type": "fact",
+      "title": "Jantan bisa 120 kilogram",
+      "body": "Domba jantan bisa mencapai **120 kg** di usia dua tahun. Kira-kira seberat dua orang dewasa.",
+      "viz": {
+        "kind": "compare",
+        "items": [
+          {
+            "label": "Jantan",
+            "value": 120
+          },
+          {
+            "label": "Betina",
+            "value": 80
+          }
+        ],
+        "unit": "kg",
+        "caption": "Bobot Domba Batur di usia dua tahun"
+      },
+      "takeaway": "Jantan jauh lebih berat dari betina.",
+      "icon": "burst"
+    },
+    {
+      "type": "fact",
+      "title": "Hasil silang sejak 1974",
+      "body": "Domba ini lahir dari persilangan domba merino dan domba ekor tipis. Peternak setempat mengembangkannya turun-temurun sejak **1974**.",
+      "viz": {
+        "kind": "stat",
+        "value": "1974",
+        "label": "mulai dikembangkan",
+        "note": "oleh masyarakat setempat"
+      },
+      "takeaway": "Dikembangkan warga selama beberapa generasi.",
+      "icon": "dna"
+    },
+    {
+      "type": "fact",
+      "title": "Hidup di tempat sejuk",
+      "body": "Kecamatan Batur ada di ketinggian sekitar **1.600-1.700 meter**, dengan suhu rata-rata **18 derajat Celsius**.",
+      "viz": {
+        "kind": "stat",
+        "value": "18°C",
+        "label": "suhu rata-rata di Batur",
+        "note": "dataran tinggi Dieng"
+      },
+      "takeaway": "Udara sejuk Dieng cocok untuk domba ini.",
+      "icon": "cloud"
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu",
+      "body": "Domba Batur menghasilkan daging sekaligus wol, yaitu bulu domba untuk bahan kain dan karpet. Ini milik Indonesia.",
+      "image_query": "wool yarn",
+      "takeaway": "Satu domba, dua manfaat.",
+      "icon": "bulb"
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_",
+      "body": "Suka fakta hewan Indonesia? Ikuti @alwaysfact_ dan kirim post ini ke temanmu."
+    }
+  ],
+  "caption": "Domba di Dieng ini bisa seberat 120 kg, lebih berat dari kebanyakan orang dewasa!\n\nDomba Batur dikembangkan warga Banjarnegara sejak 1974 dari persilangan domba merino dan domba ekor tipis. Ia menghasilkan daging sekaligus wol.\n\nKirim ke temanmu yang suka hewan, dan ikuti @alwaysfact_ untuk fakta sains lain.\n\nSumber: Mongabay Indonesia, 26 Nov 2026.",
+  "hashtags": [
+    "fakta",
+    "sains",
+    "dombabatur",
+    "dieng",
+    "banjarnegara",
+    "alwaysfact",
+    "hewan",
+    "faktaunik"
+  ],
+  "music_suggestions": [
+    "santai, tempo sedang",
+    "penasaran, tempo pelan",
+    "ceria, tempo cepat"
+  ],
+  "claims": [
+    {
+      "text": "Domba Batur jantan dapat mencapai bobot 120 kilogram pada usia dua tahun.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/"
+    },
+    {
+      "text": "Domba Batur betina dapat mencapai sekitar 80 kilogram.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/"
+    },
+    {
+      "text": "Domba Batur hasil persilangan domba merino dan domba ekor tipis yang dikembangkan masyarakat setempat sejak 1974.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/"
+    },
+    {
+      "text": "Kecamatan Batur berada di ketinggian sekitar 1.600-1.700 meter, dengan suhu rata-rata 18 derajat Celsius.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/"
+    },
+    {
+      "text": "Dombat penghasil daging sekaligus wol.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/"
+    },
+    {
+      "text": "Bulu Domba Batur berpotensi menjadi bahan kain dan karpet.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/"
+    },
+    {
+      "text": "Bulu Domba Batur putih, halus, keriting, menutupi hampir seluruh tubuh kecuali wajah dan kaki.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/"
+    }
+  ],
+  "id": "055",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/",
+      "quote": "Domba Batur jantan dapat mencapai bobot 120 kilogram pada usia dua tahun.",
+      "note": "kalimat langsung dari artikel",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/",
+      "quote": "Sementara betinanya, dapat mencapai sekitar 80 kilogram.",
+      "note": "kalimat langsung dari artikel",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/",
+      "quote": "Domba ini merupakan hasil persilangan antara domba merino dan domba ekor tipis yang telah dikembangkan turun-temurun masyarakat setempat sejak 1974.",
+      "note": "kalimat langsung dari artikel",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/",
+      "quote": "Kecamatan Batur berada pada ketinggian sekitar 1.600-1.700 meter di atas permukaan laut, dengan suhu rata-rata 18 derajat Celsius.",
+      "note": "kalimat langsung dari artikel",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/",
+      "quote": "Dombat memiliki keunggulan sebagai ternak dwiguna, yaitu penghasil daging sekaligus wol.",
+      "note": "kalimat langsung dari artikel",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 6,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/",
+      "quote": "Wol Domba Batur dapat dikembangkan menjadi berbagai produk, seperti kain, karpet, dan kerajinan tangan bernilai ekonomi.",
+      "note": "kalimat langsung dari artikel",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 7,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/",
+      "quote": "Bulunya berwarna putih, halus, dan keriting, menutupi hampir seluruh tubuh kecuali bagian wajah dan kaki.",
+      "note": "kalimat langsung dari artikel",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/",
+  "topic_id": "t37b02ce0",
+  "image_credits": [
+    "Haridi123 / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Kukuh Bhahari / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Koeh Bhahari / CC BY-SA 4.0 (Wikimedia Commons)",
+    "F Delventhal from Outside Washington, D.C., US / CC BY 2.0 (Wikimedia Commons)",
+    "Theo Oppewal / CC0 (Wikimedia Commons)"
+  ]
+}
