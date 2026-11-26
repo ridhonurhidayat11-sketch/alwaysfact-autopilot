@@ -1,0 +1,150 @@
+{
+ "topic_id": "t707980af",
+ "source_url": "https://www.space.com/astronomy/cosmic-betta-fish-glows-in-spectacular-nebula-portrait-space-photo-of-the-day-for-nov-26-2026",
+ "risk": "low",
+ "post": {
+  "topic": "Awan di luar angkasa yang bentuknya persis ikan cupang",
+  "image_query": "Betta Fish Nebula SNR G295.5+09.7",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+   "Ada awan di luar angkasa yang bentuknya persis ikan cupang",
+   "Ikan cupang raksasa berenang di luar angkasa"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Ada awan di luar angkasa yang bentuknya persis ikan cupang",
+    "body": "Awan itu disebut nebula, yaitu awan gas dan debu di luar angkasa, dan fotonya baru dirilis lewat teleskop di Chile.",
+    "image_query": "Betta Fish Nebula SNR G295.5+09.7",
+    "icon": "planet"
+   },
+   {
+    "type": "fact",
+    "title": "Julukannya: Si Ikan Cupang",
+    "body": "Ikan betta adalah nama lain ikan cupang. Awan biru ini dijuluki begitu karena bentuknya yang melayang seperti ikan.",
+    "takeaway": "Julukannya datang dari bentuk, bukan dari isinya.",
+    "image_query": "Betta fish",
+    "icon": "fish"
+   },
+   {
+    "type": "fact",
+    "title": "Jauhnya bukan main",
+    "body": "Awan ini sekitar **6,800 tahun cahaya** dari Bumi, tepatnya di arah rasi bintang Centaurus.",
+    "takeaway": "Cahayanya butuh 6,800 tahun untuk sampai ke kita.",
+    "viz": {
+     "kind": "stat",
+     "value": "6,800",
+     "label": "tahun cahaya dari Bumi",
+     "note": "Tahun cahaya = jarak yang ditempuh cahaya dalam setahun"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Sisa ledakan bintang raksasa",
+    "body": "Awan ini muncul saat sebuah bintang yang **jauh lebih besar dari matahari** meledak dan melontarkan lapisan luarnya.",
+    "takeaway": "Ikan cantik ini lahir dari ledakan dahsyat.",
+    "icon": "burst"
+   },
+   {
+    "type": "fact",
+    "title": "Dipotret di Chile",
+    "body": "Fotonya diambil kamera yang dipasang di teleskop Blanco berukuran **4 meter** di Chile.",
+    "takeaway": "Teleskop di daratan bisa memotret benda sejauh ini.",
+    "image_query": "Victor M. Blanco Telescope",
+    "icon": "magnifier"
+   },
+   {
+    "type": "fact",
+    "title": "Kamera pemburu energi gelap",
+    "body": "Kamera itu dibuat untuk meneliti energi gelap, yaitu sesuatu misterius yang membuat alam semesta mengembang makin cepat.",
+    "takeaway": "Foto cantik ini bonus dari riset besar.",
+    "icon": "atom"
+   },
+   {
+    "type": "fact",
+    "title": "Kaitannya denganmu",
+    "body": "Langit malam menyimpan sisa ledakan bintang. Dan fotonya bisa kamu lihat gratis dari layar HP.",
+    "takeaway": "Alam semesta ternyata bisa terlihat lucu.",
+    "icon": "bulb"
+   },
+   {
+    "type": "cta",
+    "title": "Ikuti @alwaysfact_",
+    "body": "Kirim ke temanmu yang suka berburu diskon, lalu ikuti @alwaysfact_ untuk fakta sains tiap hari.",
+    "icon": "heart"
+   }
+  ],
+  "caption": "Ada awan di luar angkasa yang bentuknya mirip ikan cupang! Sisa ledakan bintang besar ini sekitar 6,800 tahun cahaya dari Bumi. Kirim ke temanmu pencinta cupang!\n\nSumber: Space.com",
+  "hashtags": [
+   "sains",
+   "faktaunik",
+   "luarangkasa",
+   "nebula",
+   "astronomi",
+   "cupang",
+   "alwaysfact"
+  ],
+  "claims": [
+   {
+    "text": "Awan berbentuk ikan cupang ini sekitar 6,800 tahun cahaya dari Bumi dan dijuluki Nebula Ikan Betta karena bentuknya.",
+    "source_name": "Space.com",
+    "source_url": "https://www.space.com/astronomy/cosmic-betta-fish-glows-in-spectacular-nebula-portrait-space-photo-of-the-day-for-nov-26-2026"
+   },
+   {
+    "text": "Awan itu terbentuk saat sebuah bintang yang jauh lebih besar dari matahari meledak dan melontarkan lapisan luarnya.",
+    "source_name": "Space.com",
+    "source_url": "https://www.space.com/astronomy/cosmic-betta-fish-glows-in-spectacular-nebula-portrait-space-photo-of-the-day-for-nov-26-2026"
+   },
+   {
+    "text": "Fotonya diambil kamera yang dipasang di teleskop Blanco 4 meter di Chile.",
+    "source_name": "Space.com",
+    "source_url": "https://www.space.com/astronomy/cosmic-betta-fish-glows-in-spectacular-nebula-portrait-space-photo-of-the-day-for-nov-26-2026"
+   },
+   {
+    "text": "Kamera itu dibuat untuk mempelajari energi gelap, nama yang diberikan ilmuwan untuk sesuatu misterius yang membuat alam semesta mengembang makin cepat.",
+    "source_name": "Space.com",
+    "source_url": "https://www.space.com/astronomy/cosmic-betta-fish-glows-in-spectacular-nebula-portrait-space-photo-of-the-day-for-nov-26-2026"
+   }
+  ],
+  "music_suggestions": [
+   "ambient luar angkasa, tempo lambat",
+   "synth lembut, tempo sedang",
+   "cinematic ringan, tempo sedang"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.space.com/astronomy/cosmic-betta-fish-glows-in-spectacular-nebula-portrait-space-photo-of-the-day-for-nov-26-2026",
+   "quote": "Roughly 6,800 light-years from Earth and nestled in the Centaurus constellation, this piece of the supernova remnant SNR G295.5+09.7 has earned the nickname the Betta Fish Nebula for its floaty, fishy shape.",
+   "note": "kutipan persis dari teks sumber"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.space.com/astronomy/cosmic-betta-fish-glows-in-spectacular-nebula-portrait-space-photo-of-the-day-for-nov-26-2026",
+   "quote": "This almost ghostly whirl of gas and dust was created when a star much more massive than our sun exploded, blasting its outer layers of material outward in the process.",
+   "note": "kutipan persis dari teks sumber"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.space.com/astronomy/cosmic-betta-fish-glows-in-spectacular-nebula-portrait-space-photo-of-the-day-for-nov-26-2026",
+   "quote": "The camera is installed on the National Science Foundation's Víctor M. Blanco 4-meter Telescope in Chile.",
+   "note": "kutipan persis dari teks sumber"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.space.com/astronomy/cosmic-betta-fish-glows-in-spectacular-nebula-portrait-space-photo-of-the-day-for-nov-26-2026",
+   "quote": "which is the name scientists have given for whatever mysterious something is causing the universe to expand at an accelerating rate",
+   "note": "kutipan persis dari teks sumber"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}
