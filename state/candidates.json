@@ -1,5 +1,85 @@
 [
   {
+    "id": "tac5892c4",
+    "origin": "feed",
+    "title": "Protein redesign boosts DNA insertion activity and reveals how molecular machinery selects targets",
+    "url": "https://phys.org/news/2026-11-protein-redesign-boosts-dna-insertion.html",
+    "summary": "Genome engineering is exciting, given its vast potential to treat and even cure diseases, but it is still a largely uncharted biomedical innovation. Scientists at St. Jude Children's Research Hospital recently uncovered the mechanisms involved in precisely integrating DNA into a target genomic location using CRISPR-associated transposases (CASTs). By studying type I-F3 CAST, the researchers unveil",
+    "source": "Phys.org",
+    "published": "2026-11-26T15:40:02+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t2cbc3d32",
+    "origin": "feed",
+    "title": "Do all groups drift toward rule by the few? Not when time is on their side",
+    "url": "https://phys.org/news/2026-11-groups-drift-side.html",
+    "summary": "For more than a century, a bleak idea has hung over the ideal of democracy: Given enough time, every group ends up ruled by a few. The idea, known as the iron law of oligarchy, was first proposed by the sociologist Robert Michels in the early 1900s.",
+    "source": "Phys.org",
+    "published": "2026-11-26T15:20:06+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t969d824e",
+    "origin": "feed",
+    "title": "Learning facts out of interest may take less mental effort than learning them for money",
+    "url": "https://phys.org/news/2026-11-facts-mental-effort-money.html",
+    "summary": "When completing tasks or acquiring information, humans can be driven by intrinsic and extrinsic motivations. The term intrinsic motivation entails doing something because it is interesting to us or we find it enjoyable, while extrinsic motivation means doing it to obtain a reward, such as money, praise or a good grade.",
+    "source": "Phys.org",
+    "published": "2026-11-26T15:00:05+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t707980af",
+    "origin": "feed",
+    "title": "Cosmic 'betta fish' glows in spectacular nebula portrait | Space photo of the day for Nov. 26, 2026",
+    "url": "https://www.space.com/astronomy/cosmic-betta-fish-glows-in-spectacular-nebula-portrait-space-photo-of-the-day-for-nov-26-2026",
+    "summary": "The striking blue of the Betta Fish Nebula swims across the cosmic landscape in a new image from the Dark Energy Camera.",
+    "source": "Space.com",
+    "published": "2026-11-26T15:00:00+00:00",
+    "text_file": "state/sources/t707980af.txt"
+  },
+  {
+    "id": "t5da5d5db",
+    "origin": "feed",
+    "title": "Two mechanisms of amino acid transport in a rare disease-associated protein revealed",
+    "url": "https://phys.org/news/2026-11-mechanisms-amino-acid-rare-disease.html",
+    "summary": "Cells must constantly exchange amino acids with their environment to make proteins and support numerous bodily processes. To do this, they have specialized transporters located in their membranes.",
+    "source": "Phys.org",
+    "published": "2026-11-26T14:40:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tb5cec188",
+    "origin": "feed",
+    "title": "Prepare for Avengers: Doomsday and catch the entire MCU on Disney+ — now only $4.99/month",
+    "url": "https://www.space.com/entertainment/space-movies-shows/prepare-for-avengers-doomsday-and-catch-the-entire-mcu-on-disney-now-only-4-99-month",
+    "summary": "This Disney+ and Hulu bundle is now only $4.99 per month for a whole year, giving you access to the entire Marvel Cinematic Universe among other huge sci-fi franchises.",
+    "source": "Space.com",
+    "published": "2026-11-26T14:35:13+00:00",
+    "text_file": "state/sources/tb5cec188.txt"
+  },
+  {
+    "id": "t5fe18022",
+    "origin": "feed",
+    "title": "Scientists discover quasar formed within a mere 630 million years of the Big Bang, setting a record",
+    "url": "https://phys.org/news/2026-11-scientists-quasar-mere-million-years.html",
+    "summary": "Scientists have discovered the most distant quasar yet, the core of a galaxy with a slow-chomping black hole at its center dating back to nearly the dawn of the universe.",
+    "source": "Phys.org",
+    "published": "2026-11-26T14:00:02+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t155c774d",
+    "origin": "feed",
+    "title": "Contraceptive pill usage in Great Britain fell drastically in last decade, research finds",
+    "url": "https://www.theguardian.com/society/2026/nov/26/contraceptive-pill-usage-in-great-britain-fell-drastically-in-last-decade-research-finds",
+    "summary": "Survey published in Lancet reveals ‘hormonal hesitancy’ on the rise – with implants and injections also increasingly spurned The number of young women using hormonal contraception fell drastically in the past decade, with social media fuelling the “hormonal hesitancy” phenomenon. New findings from the fourth National Survey of Sexual Attitudes and Lifestyles (Natsal-4), published in The Lancet, fo",
+    "source": "The Guardian Science",
+    "published": "2026-11-26T13:00:51+00:00",
+    "text_file": "state/sources/t155c774d.txt"
+  },
+  {
     "id": "t857c941a",
     "origin": "feed",
     "title": "Early Stone Age rock carvings in Scandinavia may have been signposts for hunting grounds",
@@ -56,8 +136,7 @@
     "url": "https://phys.org/news/2026-11-buyers-pay-food.html",
     "summary": "New research from Curtin University reveals many Australians are prepared to pay more for food when they know where it comes from and how animals are treated, despite ongoing cost-of-living pressures.",
     "source": "Phys.org",
-    "published": "2026-11-26T12:20:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-26T12:20:01+00:00"
   },
   {
     "id": "t5a1a127b",
@@ -76,8 +155,7 @@
     "url": "https://phys.org/news/2026-11-mathematics-fact-fluency-interventions-students.html",
     "summary": "Associate professor Jonté Myers knows that developing fluency with mathematics facts is key to mathematics proficiency. However, many students struggle to develop these foundational skills.",
     "source": "Phys.org",
-    "published": "2026-11-26T12:00:02+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-26T12:00:02+00:00"
   },
   {
     "id": "tb5f2ad6b",
@@ -88,6 +166,16 @@
     "source": "New Scientist",
     "published": "2026-11-26T12:00:00+00:00",
     "text_file": "state/sources/tb5f2ad6b.txt"
+  },
+  {
+    "id": "tdad3bf8a",
+    "origin": "feed",
+    "title": "Young people are having less sex. What's going on? - video",
+    "url": "https://www.theguardian.com/science/video/2026/nov/26/young-people-are-having-less-sex-than-ever-whats-going-on-video",
+    "summary": "Sex among British adults has slumped in recent decades, with under-45s having half as many monthly encounters as in 1990 and one in three under-25s reporting that they have never had sexual intercourse. To unpick some of the possible reasons behind these declines, Madeleine Finlay hears from science editor and co-host Ian Sample. He tells her why young people might be having sex later, and what co",
+    "source": "The Guardian Science",
+    "published": "2026-11-26T11:35:55+00:00",
+    "text_file": "state/sources/tdad3bf8a.txt"
   },
   {
     "id": "t45bf8521",
@@ -176,8 +264,7 @@
     "url": "https://phys.org/news/2026-11-king-tide-batter-california-coast.html",
     "summary": "Massive waves carried on king tides battered California's coast Wednesday, prompting evacuations and soaking San Francisco, but sparing feared mass disruptions to Thanksgiving holiday travel.",
     "source": "Phys.org",
-    "published": "2026-11-26T10:40:06+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-26T10:40:06+00:00"
   },
   {
     "id": "t7dbc4651",
@@ -196,8 +283,7 @@
     "url": "https://phys.org/news/2026-11-wildfires-raze-homes-displace-wildlife.html",
     "summary": "Wildfires have forced road closures, displaced animals and razed homes while engulfing over 10% of Australia's southeastern Flinders Island, emergency services said Thursday.",
     "source": "Phys.org",
-    "published": "2026-11-26T10:20:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-26T10:20:01+00:00"
   },
   {
     "id": "ta01ec18d",
@@ -226,17 +312,7 @@
     "url": "https://phys.org/news/2026-11-miniature-cas12m-proteins-dna.html",
     "summary": "An international research group led by graduate student Hayato Morinaga, Assistant Professor Satoshi N. Omura and Professor Osamu Nureki from the University of Tokyo has demonstrated for the first time that some Cas12m proteins do have an active state capable of cutting, or \"cleaving,\" DNA. The team also clarified the structural differences between the active and inactive variations.",
     "source": "Phys.org",
-    "published": "2026-11-26T10:00:06+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "t5cb019b6",
-    "origin": "feed",
-    "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-    "url": "https://phys.org/news/2026-11-fcc-spacex-deploy-million-satellites.html",
-    "summary": "The Trump administration on Wednesday gave SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a long-held, lofty goal of Elon Musk's rocket company, in a move that has raised both skepticism and alarm among some scientists.",
-    "source": "Phys.org",
-    "published": "2026-11-26T09:33:26+00:00"
+    "published": "2026-11-26T10:00:06+00:00"
   },
   {
     "id": "t27217ba3",
@@ -287,15 +363,6 @@
     "source": "Mongabay",
     "published": "2026-11-26T08:00:13+00:00",
     "text_file": "state/sources/tc119b5d5.txt"
-  },
-  {
-    "id": "tdf7c8e19",
-    "origin": "feed",
-    "title": "Dragonflies feast on other insects during autumn migrations",
-    "url": "https://phys.org/news/2026-11-dragonflies-feast-insects-autumn-migrations.html",
-    "summary": "Dragonflies feast on a host of insects—and each other—during their autumn migrations, new research shows. Scientists studied dragonflies at the Pass of Bujaruelo—a 30-meter (98-foot) gap between two high peaks in the Pyrenees, through which millions of insects migrate every year.",
-    "source": "Phys.org",
-    "published": "2026-11-26T07:30:01+00:00"
   },
   {
     "id": "ta2c9576b",
@@ -378,16 +445,6 @@
     "text_file": "state/sources/tcfea6ef4.txt"
   },
   {
-    "id": "t6075bc02",
-    "origin": "feed",
-    "title": "Britain’s sex slump, nuclear weapons in space, key suspect in bowel cancer rise – podcast",
-    "url": "https://www.theguardian.com/science/audio/2026/nov/26/britains-sex-slump-nuclear-weapons-in-space-key-suspect-in-bowel-cancer-rise-podcast",
-    "summary": "Madeleine Finlay and co-host Ian Sample discuss the three science stories you need to know about this week, including a breakdown of what the average Briton is – or isn’t – up to in the bedroom. They also discuss what detonating a nuclear weapon in space could mean for everyone on Earth and how a bacterial toxin might be contributing to a rise in cases of some early-onset bowel cancers. ‘Not about",
-    "source": "The Guardian Science",
-    "published": "2026-11-26T05:00:45+00:00",
-    "text_file": "state/sources/t6075bc02.txt"
-  },
-  {
     "id": "t4f0ee478",
     "origin": "feed",
     "title": "Panjangnya 12 Meter, Ular Purba Raksasa Ini Hidup di Gurun Sahara",
@@ -396,24 +453,6 @@
     "source": "Mongabay Indonesia",
     "published": "2026-11-26T05:00:08+00:00",
     "text_file": "state/sources/t4f0ee478.txt"
-  },
-  {
-    "id": "t8721d7ae",
-    "origin": "feed",
-    "title": "World's fastest animal could nearly double its livable territory by 2080 in the UK due to climate change",
-    "url": "https://phys.org/news/2026-11-world-fastest-animal-livable-territory.html",
-    "summary": "Global warming and climate change could have the unexpected bounty of making Great Britain a more welcoming home for the fastest animal on Earth. The area suitable for peregrine falcons within the UK could grow by 74% by the year 2080 under a high-emissions climate scenario, a new study has shown.",
-    "source": "Phys.org",
-    "published": "2026-11-26T05:00:01+00:00"
-  },
-  {
-    "id": "tca224abb",
-    "origin": "feed",
-    "title": "Sending an Australian astronaut to space is expensive. How do we work out if it's worth it?",
-    "url": "https://phys.org/news/2026-11-australian-astronaut-space-expensive-worth.html",
-    "summary": "Australia is currently in talks with the European Space Agency (ESA) over potentially flying Katherine Bennell-Pegg on a future space mission. If accepted, Bennell-Pegg—who is the director of space technology at the Australian Space Agency and completed ESA training in 2024—would become the first officially funded Australian astronaut.",
-    "source": "Phys.org",
-    "published": "2026-11-26T04:40:01+00:00"
   },
   {
     "id": "tac94ab44",
@@ -444,15 +483,6 @@
     "source": "BBC Indonesia",
     "published": "2026-11-26T03:59:08+00:00",
     "text_file": "state/sources/t719f94de.txt"
-  },
-  {
-    "id": "t68a8293a",
-    "origin": "feed",
-    "title": "New eyes in the sky make timber harvesting and forest conservation easier and more efficient",
-    "url": "https://phys.org/news/2026-11-eyes-sky-timber-harvesting-forest.html",
-    "summary": "Flying thousands of feet above northern and eastern Maine, Dave Sandilands searched for illegally dumped trash. On behalf of the New England Forestry Foundation, the University of Maine pilot was surveying both the 760,000-acre (308,000-hectare) Pingree Easement in northern Maine, home to the state's most productive peregrine falcon nesting area, and 335,000 acres (136,000 hectares) in Washington ",
-    "source": "Phys.org",
-    "published": "2026-11-26T03:40:01+00:00"
   },
   {
     "id": "t37b02ce0",
@@ -709,8 +739,7 @@
     "url": "https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos",
     "summary": "Explore Ashley Zelinskie's 'The Weight of Space' Monuments in marble, Ejecta prints, Launch Sequence sculptures and interactive Crowded Sky at Heft Gallery in New York City.",
     "source": "Space.com",
-    "published": "2026-11-25T19:00:00+00:00",
-    "text_file": "state/sources/t03cef94a.txt"
+    "published": "2026-11-25T19:00:00+00:00"
   },
   {
     "id": "t90539dd8",
@@ -729,8 +758,7 @@
     "url": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites",
     "summary": "The FCC has given SpaceX approval to deploy one million of its Starmind AI data-center satellites in orbit, a move that could transform the landscape of the final frontier.",
     "source": "Space.com",
-    "published": "2026-11-25T18:49:15+00:00",
-    "text_file": "state/sources/t16c4dd60.txt"
+    "published": "2026-11-25T18:49:15+00:00"
   },
   {
     "id": "tdf4413dc",
@@ -874,15 +902,6 @@
     "published": "2026-11-25T17:30:16+00:00"
   },
   {
-    "id": "t99731108",
-    "origin": "feed",
-    "title": "Hera spacecraft gets 1st up-close look at stadium-sized hole punched in asteroid by NASA DART mission",
-    "url": "https://www.space.com/astronomy/asteroids/hera-spacecraft-gets-1st-up-close-look-at-stadium-sized-hole-punched-in-asteroid-by-nasa-dart-mission",
-    "summary": "NASA's DART Earth-defence mission punched a stadium-sized hole in a distant asteroid, and we have seen it for the first time thanks to the Hera spacecraft.",
-    "source": "Space.com",
-    "published": "2026-11-25T17:30:00+00:00"
-  },
-  {
     "id": "td9d5f7a3",
     "origin": "feed",
     "title": "As Indonesia burns, communities look to fire-free agriculture for relief",
@@ -921,15 +940,6 @@
     "text_file": "state/sources/tafc105b1.txt"
   },
   {
-    "id": "ta3527d66",
-    "origin": "feed",
-    "title": "NASA sends planes to monitor US Army's lead detonation. 'Irresponsible' to compare it to Chernobyl, agency chief says",
-    "url": "https://www.space.com/technology/aerospace/nasa-sends-planes-to-monitor-us-armys-lead-detonation-irresponsible-to-compare-it-to-chernobyl-agency-chief-says",
-    "summary": "NASA is sending research aircraft and using satellites as the Army prepares to detonate degrading explosives in Iowa.",
-    "source": "Space.com",
-    "published": "2026-11-25T16:24:24+00:00"
-  },
-  {
     "id": "t0a54c50c",
     "origin": "feed",
     "title": "Eye of the Sahara",
@@ -937,7 +947,7 @@
     "summary": "The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks […]",
     "source": "NASA",
     "published": "2026-11-25T16:21:04+00:00",
-    "fetch_error": "HTTPError: HTTP Error 429: Too Many Requests"
+    "text_file": "state/sources/t0a54c50c.txt"
   },
   {
     "id": "tf5ff8407",
@@ -1160,8 +1170,7 @@
     "url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
     "summary": "Decades of data collected at WA’s Shark Bay shows level of socialising may affect longevity for Indo-Pacific bottlenose dolphins Dolphins who spend time socialising in large and consistently sized social groups tend to live longer, new research has found. Indo-Pacific bottlenose dolphins are marine mammals that can live for more than 50 years and have complex social lives. They spend time socialis",
     "source": "The Guardian Science",
-    "published": "2026-11-25T06:02:05+00:00",
-    "text_file": "state/sources/tb85262f1.txt"
+    "published": "2026-11-25T06:02:05+00:00"
   },
   {
     "id": "t0d1f8732",
@@ -1631,15 +1640,6 @@
     "source": "Science News",
     "published": "2026-11-23T21:01:59+00:00",
     "text_file": "state/sources/t646ccdb8.txt"
-  },
-  {
-    "id": "tba615657",
-    "origin": "feed",
-    "title": "Cop31 failed. What happens now? – podcast",
-    "url": "https://www.theguardian.com/science/audio/2026/nov/23/cop31-failed-what-happens-now-podcast",
-    "summary": "The longest ever Cop climate talks have ended in failure after countries were unable to agree a deal. The key sticking point was the omission of any mention of fossil fuels in the final draft. To find out how it all went so wrong and what could come next, Madeleine Finlay speaks to Guardian environment editor Fiona Harvey, who has been in Antalya, Turkey, covering the talks Clips: Reuters Fill in ",
-    "source": "The Guardian Science",
-    "published": "2026-11-23T18:22:29+00:00"
   },
   {
     "id": "tb965c67a",
