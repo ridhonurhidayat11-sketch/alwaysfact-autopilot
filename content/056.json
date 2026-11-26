@@ -1,0 +1,197 @@
+{
+  "topic": "Janji 'kami samakan harga' ternyata bisa menjaga harga tetap mahal",
+  "image_query": "",
+  "pillar": "Sains yang disepelekan",
+  "hook_options": [
+    "Janji 'kami samakan harga' ternyata bisa bikin harga tetap mahal",
+    "Kenapa toko mematikan janji samakan harga saat Black Friday?"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Janji 'kami samakan harga' ternyata bisa bikin harga tetap mahal",
+      "body": "Janji samakan harga adalah tulisan di toko besar yang berkata akan menyamai harga toko lain kalau kamu menemukan yang lebih murah.",
+      "icon": "magnifier"
+    },
+    {
+      "type": "fact",
+      "title": "Kedengarannya untung buat kamu",
+      "body": "Kamu lihat TV lebih murah di toko lain. Toko pertama langsung menyamakan harganya. Enak, kan?",
+      "takeaway": "Sekilas, janji ini memang terlihat berpihak padamu.",
+      "icon": "bulb"
+    },
+    {
+      "type": "fact",
+      "title": "Tanpa janji, toko saling banting harga",
+      "body": "Dua toko menjual TV yang sama. Toko B membalas dengan menurunkan harga lagi, ke 898 dolar, dan seterusnya.",
+      "takeaway": "Persaingan membuat harga terus turun.",
+      "viz": {
+        "kind": "steps",
+        "items": [
+          "Toko A turun",
+          "Toko B ikut turun",
+          "Turun lagi"
+        ],
+        "caption": "Saling banting harga"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Dengan janji, tidak ada yang mau turun",
+      "body": "Kalau ada janji samakan harga, memotong harga tidak lagi untung. Kedua toko bertahan di **900 dolar**.",
+      "takeaway": "Janji itu menahan harga tetap tinggi.",
+      "icon": "gas"
+    },
+    {
+      "type": "fact",
+      "title": "Contoh nyata: Amazon",
+      "body": "Setelah toko besar berjanji menyamai harga Amazon, harga Amazon naik sekitar **enam poin persentase**.",
+      "takeaway": "Harga naik setelah janji dipasang.",
+      "image_query": "Amazon fulfillment center",
+      "icon": "bolt"
+    },
+    {
+      "type": "fact",
+      "title": "Papan itu pesan untuk saingan",
+      "body": "Papan janji itu sebenarnya ditujukan ke toko saingan. Artinya: jangan coba menurunkan harga, tidak akan untung.",
+      "takeaway": "Bukan untuk pembeli, tapi untuk toko lain.",
+      "icon": "magnifier"
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu",
+      "body": "Banyak toko mematikan janji ini saat **Black Friday**. Kalau janji menghemat uangmu, pakai saja.",
+      "takeaway": "Pakai kalau menguntungkan, tapi bandingkan harga sendiri.",
+      "icon": "clock"
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_",
+      "body": "Kirim ke temanmu yang suka berburu diskon, lalu ikuti @alwaysfact_ untuk fakta sains tiap hari.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Janji 'kami samakan harga' kedengarannya berpihak padamu. Ternyata menurut teori permainan, janji itu bisa menjaga harga tetap tinggi, dan banyak toko mematikannya saat Black Friday. Kirim ke temanmu yang suka berburu diskon!\n\nSumber: Scientific American",
+  "hashtags": [
+    "sains",
+    "faktaunik",
+    "blackfriday",
+    "ekonomi",
+    "diskon",
+    "belanja",
+    "alwaysfact"
+  ],
+  "claims": [
+    {
+      "text": "Banyak toko mematikan janji samakan harga saat Black Friday dan Cyber Monday, masa belanja paling ramai persaingan dalam setahun.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/"
+    },
+    {
+      "text": "Menurut teori permainan, janji samakan harga tidak sedermawan kelihatannya dan bisa membuat harga tetap tinggi.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/"
+    },
+    {
+      "text": "Dua toko yang menjual TV sama saling membalas menurunkan harga, misalnya ke 898 dolar, terus turun tanpa janji.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/"
+    },
+    {
+      "text": "Saat ada janji samakan harga, memotong harga tidak lagi untung, jadi kedua toko bertahan di 900 dolar.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/"
+    },
+    {
+      "text": "Setelah toko besar berjanji menyamai harga Amazon, harga Amazon naik sekitar enam poin persentase.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/"
+    },
+    {
+      "text": "Papan janji samakan harga sebenarnya pesan untuk toko saingan, bukan untuk pembeli.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/"
+    },
+    {
+      "text": "Kalau janji samakan harga menghemat uangmu, pakai saja.",
+      "source_name": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/"
+    }
+  ],
+  "music_suggestions": [
+    "santai ceria, tempo sedang",
+    "lo-fi ringan, tempo lambat",
+    "pop elektronik, tempo cepat"
+  ],
+  "id": "056",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/",
+      "quote": "One telling clue is that many retailers switch off their competitor price matching around Black Friday and Cyber Monday, the most competitive shopping stretch of the year.",
+      "note": "kutipan persis dari teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/",
+      "quote": "But game theory suggests these guarantees are less generous than they appear. In fact, they can paradoxically keep prices high.",
+      "note": "kutipan persis dari teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/",
+      "quote": "In the face of this, Store B drops its price to $898, and so on in a race to the bottom.",
+      "note": "kutipan persis dari teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/",
+      "quote": "When these guarantees are in place, cutting prices no longer pays, so both stores stay at $900.",
+      "note": "kutipan persis dari teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/",
+      "quote": "Amazon’s prices rose by roughly six percentage points after the guarantees took effect, according to the paper.",
+      "note": "kutipan persis dari teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 6,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/",
+      "quote": "Third, the sign looks like it’s addressed to consumers, but it’s actually a message to rival stores.",
+      "note": "kutipan persis dari teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 7,
+      "verdict": "supported",
+      "evidence_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/",
+      "quote": "If a guarantee saves you money, use it.",
+      "note": "kutipan persis dari teks sumber",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/",
+  "topic_id": "t309f0b1d",
+  "image_credits": [
+    "Michael Rivera / CC0 (Wikimedia Commons)"
+  ]
+}
