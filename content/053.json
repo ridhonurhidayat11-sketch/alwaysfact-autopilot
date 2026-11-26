@@ -1,0 +1,205 @@
+{
+  "topic": "Ular di Iran punya ekor laba-laba palsu yang dulu dikira tumor",
+  "image_query": "Pseudocerastes urarachnoides spider-tailed horned viper",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+    "Ular ini punya laba-laba palsu di ujung ekornya",
+    "Ekor ular ini dulu dikira tumor, ternyata umpan"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Ular ini punya laba-laba palsu di ujung ekornya",
+      "body": "Namanya ular tanduk berekor laba-laba, hidup di Iran, dan ujung ekornya meniru bentuk laba-laba untuk memancing burung.",
+      "image_query": "Pseudocerastes urarachnoides spider-tailed horned viper",
+      "takeaway": "Ekornya meniru laba-laba.",
+      "icon": "magnifier"
+    },
+    {
+      "type": "fact",
+      "title": "Umpan itu dipakai buat memancing burung",
+      "body": "Ular ini diam saja. Hanya ujung ekornya yang digerakkan, jadi **laba-laba palsu** itu tampak merayap di batu.",
+      "image_query": "Pseudocerastes urarachnoides",
+      "takeaway": "Ular diam, ekornya yang bergerak.",
+      "icon": "fish"
+    },
+    {
+      "type": "fact",
+      "title": "Burung turun, malah jadi santapan",
+      "body": "Burung yang turun mau menangkap laba-laba itu justru dimakan si ular. Umpannya berhasil.",
+      "takeaway": "Burung tertipu umpan.",
+      "icon": "bulb"
+    },
+    {
+      "type": "fact",
+      "title": "Dulu ekor aneh ini dikira tumor",
+      "body": "Ular ini pertama dikumpulkan tahun **1968**. Ekornya yang ganjil waktu itu dikira tumor.",
+      "viz": {
+        "kind": "stat",
+        "value": "1968",
+        "label": "tahun pertama dikumpulkan",
+        "note": "ekornya dikira tumor"
+      },
+      "takeaway": "Selama puluhan tahun salah paham.",
+      "icon": "clock"
+    },
+    {
+      "type": "fact",
+      "title": "Ternyata tidak ada tulang di dalamnya",
+      "body": "Tubuh ular itu dipindai dengan mesin selama **44 menit** dan menghasilkan 3.848 gambar. Hasilnya: umpan itu tanpa tulang, hanya sisik.",
+      "viz": {
+        "kind": "stat",
+        "value": "44 menit",
+        "label": "lama pemindaian",
+        "note": "3.848 gambar"
+      },
+      "takeaway": "Laba-laba palsu itu murni sisik.",
+      "icon": "atom"
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu: tampilan bisa menipu",
+      "body": "Dari luar ekornya tampak rumit, tapi dalamnya biasa saja. Alam sering menipu mata, termasuk mata kita.",
+      "takeaway": "Yang tampak belum tentu yang sebenarnya.",
+      "icon": "bulb"
+    },
+    {
+      "type": "fact",
+      "title": "Hewan aslinya bisa jauh lebih aneh",
+      "body": "Sisik dan perilaku jarang meninggalkan jejak pada fosil. Jadi hewan di balik tulang purba bisa jauh lebih aneh dari yang kita kira.",
+      "takeaway": "Tulang tidak menceritakan semuanya.",
+      "icon": "globe"
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_ untuk fakta aneh lainnya",
+      "body": "Kirim ke temanmu yang takut ular atau laba-laba, lalu follow @alwaysfact_.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Ular di Iran ini punya ujung ekor berbentuk laba-laba palsu, dan dulu dikira tumor. 🕷️🐍\n\nUjung ekornya digerakkan pelan supaya tampak seperti laba-laba merayap di batu. Burung yang turun malah jadi santapan si ular. Setelah dipindai 44 menit, ketahuan umpan itu seluruhnya dari sisik, tanpa tulang.\n\nKirim ke temanmu dan follow @alwaysfact_!\n\nSumber: Mongabay Indonesia, 26 Nov 2026.",
+  "hashtags": [
+    "alwaysfact",
+    "faktaunik",
+    "sains",
+    "ular",
+    "hewan",
+    "alam",
+    "faktahewan",
+    "tahukahkamu"
+  ],
+  "claims": [
+    {
+      "text": "Ular tanduk berekor laba-laba dari Iran punya ujung ekor berbentuk laba-laba palsu yang seluruhnya terbuat dari sisik.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/"
+    },
+    {
+      "text": "Ular ini diam dan hanya menggerakkan ujung ekornya sehingga laba-laba palsu itu tampak merayap di bebatuan.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/"
+    },
+    {
+      "text": "Burung yang turun untuk menangkap umpan itu justru menjadi santapan si ular.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/"
+    },
+    {
+      "text": "Spesimen pertamanya dikumpulkan pada 1968 dan ujung ekornya dulu dikira tumor.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/"
+    },
+    {
+      "text": "Pemindaian berlangsung 44 menit dan menghasilkan 3.848 gambar.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/"
+    },
+    {
+      "text": "Umpan berbentuk laba-laba itu seluruhnya terbuat dari sisik, tanpa ada tulang yang menopangnya.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/"
+    },
+    {
+      "text": "Sisik, warna, dan perilaku jarang meninggalkan jejak pada fosil, sehingga hewan di balik sekumpulan tulang bisa jauh lebih aneh daripada yang terlihat.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/"
+    }
+  ],
+  "music_suggestions": [
+    "misterius pelan, 80 bpm",
+    "rasa ingin tahu ringan, 100 bpm",
+    "petualangan alam santai, 90 bpm"
+  ],
+  "id": "053",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/",
+      "quote": "Ujung ekornya berbentuk laba-laba palsu, lengkap dengan badan gemuk dan kaki panjang yang menjuntai, dan seluruhnya terbuat dari sisik.",
+      "note": "kutipan langsung dari artikel",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/",
+      "quote": "Ular ini diam dan hanya menggerakkan ujung ekornya, sehingga “laba-laba” itu tampak merayap di atas bebatuan.",
+      "note": "kutipan langsung dari artikel",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/",
+      "quote": "Burung yang turun untuk menangkapnya justru menjadi santapan si ular.",
+      "note": "kutipan langsung dari artikel",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/",
+      "quote": "Spesimen pertamanya dikumpulkan pada 1968, dan ujung ekornya dulu dikira tumor.",
+      "note": "kutipan langsung dari artikel",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/",
+      "quote": "Pemindaian ini berlangsung 44 menit dan menghasilkan 3.848 gambar.",
+      "note": "kutipan langsung dari artikel",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 6,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/",
+      "quote": "Umpan berbentuk laba-laba itu seluruhnya terbuat dari sisik, tanpa ada tulang yang menopangnya.",
+      "note": "kutipan langsung dari artikel",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 7,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/",
+      "quote": "Sisik, warna, dan perilaku jarang meninggalkan jejak pada fosil, sehingga hewan di balik sekumpulan tulang bisa jauh lebih aneh daripada yang terlihat.",
+      "note": "kutipan langsung dari artikel",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/",
+  "topic_id": "tf73da65a",
+  "image_credits": [
+    "Kian kaftarbaz / CC BY 4.0 (Wikimedia Commons)",
+    "compiled by rbrausse with Quantum GIS Map data: Made with Na / CC BY-SA 3.0 (Wikimedia Commons)"
+  ]
+}
