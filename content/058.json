@@ -1,0 +1,171 @@
+{
+  "topic": "Venus tampil paling terang minggu ini di langit subuh",
+  "image_query": "Venus planet",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+    "Venus lagi paling terang minggu ini, cek langit subuh",
+    "Venus sedang paling terang, ini cara melihatnya"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Venus lagi paling terang minggu ini, cek langit subuh",
+      "body": "Venus adalah planet yang sekarang tampil paling terang di langit sebelum matahari terbit.",
+      "image_query": "Venus planet",
+      "icon": "planet",
+      "takeaway": "Venus sedang di puncak terangnya."
+    },
+    {
+      "type": "fact",
+      "title": "Venus bukan bintang",
+      "body": "Venus adalah planet, bukan bintang. Dari Bumi, ia tampak sebagai titik terang di dekat cakrawala.",
+      "icon": "planet",
+      "image_query": "Venus planet",
+      "takeaway": "Titik terang itu planet, bukan bintang."
+    },
+    {
+      "type": "fact",
+      "title": "Venus tidak jauh dari ufuk",
+      "body": "Venus tidak pernah menjauh dari garis cakrawala. Jupiter dan Mars bisa terlihat sepanjang malam, Venus tidak.",
+      "icon": "globe",
+      "takeaway": "Venus hanya terlihat dekat garis cakrawala."
+    },
+    {
+      "type": "fact",
+      "title": "Pagi atau sore, gantian",
+      "body": "Venus bergantian tampil di pagi hari dan di sore hari. Sekarang gilirannya muncul di pagi hari.",
+      "icon": "clock",
+      "takeaway": "Venus bergantian pagi dan sore."
+    },
+    {
+      "type": "fact",
+      "title": "Puncak terang: 27 November",
+      "body": "Menurut situs astronomi In-The-Sky, Venus mencapai puncak terangnya pada **27 November**. Terangnya naik turun karena bentuk bayangannya berubah seperti Bulan dan jaraknya ke Bumi berubah.",
+      "icon": "bulb",
+      "takeaway": "Venus terang puncak pada 27 November."
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu",
+      "body": "Tidak perlu teleskop. Cukup lihat langit sebelum matahari terbit dan cari titik paling terang di dekat cakrawala.",
+      "icon": "magnifier",
+      "takeaway": "Bangun lebih pagi, cukup mata telanjang."
+    },
+    {
+      "type": "fact",
+      "title": "Teman bintangnya: Spica",
+      "body": "Venus berdekatan dengan bintang terang bernama Spica. Jaraknya kurang dari lima derajat, kira-kira lebar **tiga jari tengah** saat tanganmu lurus ke depan.",
+      "icon": "bulb",
+      "image_query": "Spica star",
+      "takeaway": "Spica hanya selebar tiga jari dari Venus."
+    },
+    {
+      "type": "cta",
+      "title": "Kirim ke teman yang suka bangun subuh",
+      "body": "Ikuti @alwaysfact_ untuk fakta langit dan sains lainnya, dan kirim post ini ke temanmu.",
+      "icon": "heart"
+    }
+  ],
+  "caption": "Venus lagi paling terang minggu ini. Tidak perlu teleskop, cukup lihat langit sebelum matahari terbit. Puncak terangnya pada 27 November, dekat bintang Spica. Kirim ke temanmu yang suka bangun pagi!\n\nSumber: Live Science (Anthony Wood, 26 November 2026)",
+  "hashtags": [
+    "venus",
+    "astronomi",
+    "langit",
+    "sains",
+    "faktaunik",
+    "alwaysfact",
+    "planet"
+  ],
+  "claims": [
+    {
+      "text": "Venus mencapai puncak kecerlangannya pada 27 November pagi, menurut situs astronomi In-The-Sky.",
+      "source_name": "Live Science",
+      "source_url": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026"
+    },
+    {
+      "text": "Venus bergantian tampil di pagi hari dan di sore hari.",
+      "source_name": "Live Science",
+      "source_url": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026"
+    },
+    {
+      "text": "Kecerlangan Venus naik turun karena bentuk fasenya mirip Bulan dan jaraknya ke Bumi yang terus berubah.",
+      "source_name": "Live Science",
+      "source_url": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026"
+    },
+    {
+      "text": "Venus tidak pernah menjauh dari cakrawala, tidak seperti Jupiter dan Mars yang bisa terlihat sepanjang malam.",
+      "source_name": "Live Science",
+      "source_url": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026"
+    },
+    {
+      "text": "Bintang terang Spica berjarak kurang dari lima derajat dari Venus pada 27 November, kira-kira lebar tiga jari tengah.",
+      "source_name": "Live Science",
+      "source_url": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026"
+    }
+  ],
+  "music_suggestions": [
+    "tenang dan misterius, tempo lambat",
+    "lembut dan penuh kagum, tempo sedang",
+    "ringan dan ceria, tempo sedang"
+  ],
+  "id": "058",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026",
+      "quote": "Venus will reach peak brightness during its current morning apparition at 1:37 p.m. EST (1837 GMT) on Nov. 27 according to the astronomy website In-The-Sky",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026",
+      "quote": "Instead, Venus alternates between morning and evening appearances.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026",
+      "quote": "its shifting moon-like phases and ever-changing proximity to Earth causes its brightness to wax and wane.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026",
+      "quote": "As an inner planet, Venus never strays far from the horizon, at least compared to outer planets like Jupiter and Mars which can be visible all night long",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026",
+      "quote": "The bright star Spica will glow less than five degrees away from Venus before dawn on Nov. 27 — roughly the width of your three middle fingers held at arm's length against the night sky.",
+      "note": "kutipan persis dari teks tersimpan",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026",
+  "topic_id": "t4f4addb4",
+  "image_credits": [
+    "Akif Dar / CC BY-SA 4.0 (Wikimedia Commons)",
+    "José Gonçalves / CC BY-SA 3.0 (Wikimedia Commons)",
+    "NASA/JPL-Caltech/Ames / NASA media (public domain unless noted) (NASA)",
+    "Gustav Holst / Public domain (Wikimedia Commons)",
+    "JSC / NASA media (public domain unless noted) (NASA)",
+    "Haoreima / Public domain (Wikimedia Commons)"
+  ]
+}
