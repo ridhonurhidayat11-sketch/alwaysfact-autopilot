@@ -1,23 +1,278 @@
 [
   {
-    "id": "t24d51d59",
+    "id": "t128bd72f",
     "origin": "feed",
-    "title": "New soil test could help farmers avoid costly crop damage",
-    "url": "https://phys.org/news/2026-11-soil-farmers-crop.html",
-    "summary": "Herbicides are essential for controlling weeds, but chemicals remaining in the soil after application can damage crops planted in subsequent seasons, particularly during dry conditions.",
+    "title": "The faintest supernova ever observed refuses to go out, staying visible for nearly a year",
+    "url": "https://phys.org/news/2026-11-faintest-supernova-staying-visible-year.html",
+    "summary": "An international team of astronomers, including Paul Groot of Radboud University, has discovered that a supernova explosion does not always have to be extremely bright. The team has identified the faintest supernova observed to date. It remained visible for an exceptionally long time and appears to have been caused by a so-called white dwarf and a relatively small companion star. The discovery may",
     "source": "Phys.org",
-    "published": "2026-11-27T13:00:11+00:00",
+    "published": "2026-11-27T15:40:27+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-    "id": "t7f27cbcb",
+    "id": "t7d6ae724",
     "origin": "feed",
-    "title": "Drones offer a new view of wildlife health. But what are they missing?",
-    "url": "https://phys.org/news/2026-11-drones-view-wildlife-health.html",
-    "summary": "Drones are transforming how scientists study wildlife, allowing researchers to photograph and measure animals in their natural environments, monitor larger populations and collect observations with less disturbance. While a photograph can reveal changes in an animal's size and shape, it cannot confidently tell researchers what those changes mean for its health.",
+    "title": "Brazil loses up to 75 days of rainy season as extreme heat threatens food production",
+    "url": "https://phys.org/news/2026-11-brazil-days-rainy-season-extreme.html",
+    "summary": "Parts of Brazil have lost up to 75 days of their rainy season over the past three decades, while extreme heat is becoming increasingly common across millions of hectares of farmland, according to new research involving The University of Manchester.",
     "source": "Phys.org",
-    "published": "2026-11-27T13:00:01+00:00",
+    "published": "2026-11-27T15:40:11+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "te3a2efda",
+    "origin": "feed",
+    "title": "Refugee families use agroforestry to restore degraded landscape in Bangladesh camp",
+    "url": "https://news.mongabay.com/2026/11/refugee-families-use-agroforestry-to-restore-degraded-landscape-in-bangladesh-camp/",
+    "summary": "KUTUPALONG REFUGEE CAMP, Bangladesh —”It is like a jail, but it isn’t a jail,” says Roshid Ahamed Bin, a 47-year-old Rohingya farmer, living in what is now a refugee camp in Bangladesh. It is far from the farmland where he used to live in Myanmar, before he and thousands of Rohingya people like him fled […]",
+    "source": "Mongabay",
+    "published": "2026-11-27T15:32:02+00:00",
+    "text_file": "state/sources/te3a2efda.txt"
+  },
+  {
+    "id": "td1a2a3fa",
+    "origin": "feed",
+    "title": "'Can't control the weather': Sadness as Macy's Thanksgiving parade postponed",
+    "url": "https://www.bbc.co.uk/news/videos/cmx29qd8ew4xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Macy's postpones its 100th annual Thanksgiving Day Parade in New York because of severe weather.",
+    "source": "BBC Science",
+    "published": "2026-11-27T15:27:00+00:00",
+    "text_file": "state/sources/td1a2a3fa.txt"
+  },
+  {
+    "id": "t4bbaf803",
+    "origin": "feed",
+    "title": "3D modeling questions Viking 'fast fashion'",
+    "url": "https://phys.org/news/2026-11-3d-viking-fast-fashion.html",
+    "summary": "High-resolution 3D modeling of Viking brooches and the molds used to make them identifies surprisingly few matches between them, indicating the brooches were not mass-produced, as previously thought, but instead made by individual, creative artisans.",
+    "source": "Phys.org",
+    "published": "2026-11-27T15:20:17+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t406dbd82",
+    "origin": "feed",
+    "title": "Raman spectroscopy meets the sugar shack",
+    "url": "https://phys.org/news/2026-11-raman-spectroscopy-sugar-shack.html",
+    "summary": "Tasting 250 maple syrup samples a day for six months can tire the palate of even the best-trained taster. But that's the job of the inspectors who sample about half of the 400,000 barrels graded every year by the Producteurs et productrices acéricoles du Québec (PPAQ). This step, however, slows down the entire marketing chain.",
+    "source": "Phys.org",
+    "published": "2026-11-27T15:20:02+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t86550bf2",
+    "origin": "feed",
+    "title": "In Republic of Congo, residents and a scientist take on a fight against lead pollution",
+    "url": "https://news.mongabay.com/2026/11/in-republic-of-congo-residents-and-a-scientist-take-on-a-fight-against-lead-pollution/",
+    "summary": "Nearly 120 residents of Vindoulou, a neighborhood in Pointe-Noire, Republic of Congo, have filed a civil claim before the city’s High Court in relation to pollution allegedly caused by a foundry. “We want tests, but also compensation for damages and losses,” Cyrille Traoré Ndembi, a plaintiff and president of the Vindoulou Residents’ Collective, which represents […]",
+    "source": "Mongabay",
+    "published": "2026-11-27T15:19:59+00:00",
+    "text_file": "state/sources/t86550bf2.txt"
+  },
+  {
+    "id": "tb01830c0",
+    "origin": "feed",
+    "title": "Could a hidden planet twice Earth's mass explain strange orbits beyond Neptune?",
+    "url": "https://phys.org/news/2026-11-hidden-planet-earth-mass-strange.html",
+    "summary": "In the cold, dark Kuiper belt region beyond Neptune, some icy bodies travel on steeply tilted paths, while others stay far from the giant planets even at their closest approach to the sun. A simulation study suggests that a hidden planet about twice Earth's mass could help explain both populations of objects.",
+    "source": "Phys.org",
+    "published": "2026-11-27T15:10:32+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tdce688ed",
+    "origin": "feed",
+    "title": "Familiar faces help children develop emotional understanding",
+    "url": "https://phys.org/news/2026-11-familiar-children-emotional.html",
+    "summary": "Across two studies, researchers from Adelaide University, the University of Queensland and Victoria University of Wellington studied parents' and children's recognition of emotional expressions.",
+    "source": "Phys.org",
+    "published": "2026-11-27T15:10:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "td9826319",
+    "origin": "feed",
+    "title": "Make the most of the new moon on Dec. 8 and get closer views of the stars with the Celestron Inspire 100AZ",
+    "url": "https://www.space.com/stargazing/skywatching-kit/make-the-most-of-the-new-moon-on-dec-8-and-get-closer-views-of-the-stars-with-the-celestron-inspire-100az",
+    "summary": "The Celestron Inspire 100AZ is a great first telescope and will give you better views of the stars and Saturn in the moonless skies come Dec. 8. It is now 15% cheaper for Black Friday.",
+    "source": "Space.com",
+    "published": "2026-11-27T15:10:00+00:00",
+    "text_file": "state/sources/td9826319.txt"
+  },
+  {
+    "id": "tb19d9256",
+    "origin": "feed",
+    "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+    "url": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+    "summary": "NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026. During Artemis III, four RS-25 engines will power the SLS (Space Launch System) rocket core stage to send the Orion […]",
+    "source": "NASA",
+    "published": "2026-11-27T15:01:00+00:00",
+    "text_file": "state/sources/tb19d9256.txt"
+  },
+  {
+    "id": "tbd41f92f",
+    "origin": "feed",
+    "title": "Three studies link glyphosate to cancer, contradicting claims of Trump EPA",
+    "url": "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa",
+    "summary": "Experts say NIH research raises concerns about chemical companies’ influence on US agency’s pesticide division The US government’s top medical research agency has released three new studies linking glyphosate, the world’s most widely used pesticide and an active ingredient in Roundup, to cancer . The National Institutes of Health (NIH) findings contradicts a controversial recent Environmental Prot",
+    "source": "The Guardian Science",
+    "published": "2026-11-27T15:00:13+00:00",
+    "text_file": "state/sources/tbd41f92f.txt"
+  },
+  {
+    "id": "t2cc46146",
+    "origin": "feed",
+    "title": "Artemis III astronauts meet their spacecraft | Space photo of the day for Nov. 27, 2026",
+    "url": "https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-meet-their-moonship-space-photo-of-the-day-for-nov-27-2026",
+    "summary": "3's up for Artemis!",
+    "source": "Space.com",
+    "published": "2026-11-27T15:00:00+00:00",
+    "text_file": "state/sources/t2cc46146.txt"
+  },
+  {
+    "id": "td0f3f33f",
+    "origin": "feed",
+    "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+    "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+    "source": "BBC Science",
+    "published": "2026-11-27T14:49:59+00:00",
+    "text_file": "state/sources/td0f3f33f.txt"
+  },
+  {
+    "id": "tf7e359c6",
+    "origin": "feed",
+    "title": "Internet cables double as seismic sensors to map earthquake faults in fine detail",
+    "url": "https://phys.org/news/2026-11-internet-cables-seismic-sensors-earthquake.html",
+    "summary": "Along the rugged spine of New Zealand's South Island lies the Alpine Fault, a major tectonic boundary between the Australian and Pacific plates. The fault last unleashed a major earthquake in 1717, and geoscientists estimate a 75% probability of a rupture of magnitude 7 or greater occurring within the next 50 years.",
+    "source": "Phys.org",
+    "published": "2026-11-27T14:48:24+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t7b35447e",
+    "origin": "feed",
+    "title": "What kind of wealth do Borneo’s ancient rainforests hold?",
+    "url": "https://news.mongabay.com/short-article/2026/11/what-kind-of-wealth-do-borneos-ancient-rainforests-hold/",
+    "summary": "What kind of wealth do Borneo’s ancient rainforests hold? Industries such as logging and palm oil have generated vast monetary wealth for some. But for the Indigenous communities who call the Malaysian Borneo home—its forests, rivers and mountains hold a different kind of value. These forests are interconnected ecosystems that sustain communities with food, medicine […]",
+    "source": "Mongabay",
+    "published": "2026-11-27T14:42:01+00:00",
+    "text_file": "state/sources/t7b35447e.txt"
+  },
+  {
+    "id": "ta98557a2",
+    "origin": "feed",
+    "title": "Constantly following war-related news can cause worry and anxiety",
+    "url": "https://phys.org/news/2026-11-constantly-war-news-anxiety.html",
+    "summary": "\"If a student is very confident about their ability to cope even in difficult situations, following war-related news will not cause them much anxiety. Confidence in one's ability to cope can therefore help protect against the psychological distress associated with various crises—in this case, distress linked to following war-related news,\" says Taina Hintsa, professor of health psychology.",
+    "source": "Phys.org",
+    "published": "2026-11-27T14:40:06+00:00"
+  },
+  {
+    "id": "t1afa69da",
+    "origin": "feed",
+    "title": "How ancient builders helped the Lighthouse of Alexandria withstand 18 earthquakes",
+    "url": "https://phys.org/news/2026-11-ancient-builders-lighthouse-alexandria-earthquakes.html",
+    "summary": "More than 2,000 years after it was built, the legendary Lighthouse of Alexandria is being brought back to life through scientific research and the use of virtual universes. For the first time, a scientifically complete 3D reconstruction reveals how one of the Seven Wonders of the World was built.",
+    "source": "Phys.org",
+    "published": "2026-11-27T14:40:02+00:00"
+  },
+  {
+    "id": "tb804cd83",
+    "origin": "feed",
+    "title": "The structure of large corporations changes the rules of innovation",
+    "url": "https://phys.org/news/2026-11-large-corporations.html",
+    "summary": "Why do two large multinationals operating in the same industry choose completely different organizational structures? And why are some subsidiaries in direct contact with the parent company, while others are separated from the top by numerous hierarchical levels?",
+    "source": "Phys.org",
+    "published": "2026-11-27T14:30:06+00:00"
+  },
+  {
+    "id": "t6121335b",
+    "origin": "feed",
+    "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+    "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+    "summary": "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human hea",
+    "source": "NASA",
+    "published": "2026-11-27T14:22:00+00:00",
+    "text_file": "state/sources/t6121335b.txt"
+  },
+  {
+    "id": "t1e38699f",
+    "origin": "feed",
+    "title": "The first flash of a dying star can reveal its hidden surroundings",
+    "url": "https://phys.org/news/2026-11-dying-star-reveal-hidden.html",
+    "summary": "When a massive star dies, the universe does not always announce it with the familiar, slowly expanding glow of a supernova. Its very first signal can be a dazzling, short-lived flash of invisible light—a cosmic camera flash that lasts only hours. That fleeting moment offers an unusually direct glimpse of the star at the instant of destruction. But what if the light has to fight its way through a c",
+    "source": "Phys.org",
+    "published": "2026-11-27T14:20:01+00:00"
+  },
+  {
+    "id": "t81b7b84b",
+    "origin": "feed",
+    "title": "Operasi pencarian penambang emas Pongkor memasuki 'fase kritis' – Bagaimana awal mula munculnya gurandil, siapa dua tersangka yang terlibat?",
+    "url": "https://www.bbc.com/indonesia/articles/cmkgdekg0e7lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Polisi menetapkan dua tersangka dalam insiden tambang di Gunung Butak. Pemodal besar ditelusuri dengan UU Tindak Pidana Pencucian Uang.",
+    "source": "BBC Indonesia",
+    "published": "2026-11-27T14:14:46+00:00",
+    "text_file": "state/sources/t81b7b84b.txt"
+  },
+  {
+    "id": "tbcb0b002",
+    "origin": "feed",
+    "title": "Aerial photos show recovery of Florida Bay, US, as restoration sends Everglades water",
+    "url": "https://news.mongabay.com/custom-story/2026/11/aerial-photos-show-recovery-of-florida-bay-us-as-restoration-sends-everglades-water/",
+    "summary": "Freshwater flows into Florida Bay, significantly reduced by decades of Everglades drainage, are slowly increasing under the Comprehensive Everglades Restoration Plan. Helicopter surveys by avian ecologist Mark Ian Cook document returning wading birds, wintering waterfowl, American flamingos and threatened American crocodiles. Wading bird nesting reached a record high in 2018 but has since declined",
+    "source": "Mongabay",
+    "published": "2026-11-27T14:04:23+00:00",
+    "text_file": "state/sources/tbcb0b002.txt"
+  },
+  {
+    "id": "t33729459",
+    "origin": "feed",
+    "title": "‘I felt a zap race through my body’: what happens when someone is hit by lightning?",
+    "url": "https://www.theguardian.com/science/2026/nov/28/what-happens-when-someone-is-hit-by-lightning",
+    "summary": "Tens of thousands of people experience strikes each year. What are the effects of a current five times hotter than the sun – and how can you keep safe? Caitlin Thomas recalls knowing that something terrible had happened but not fully understanding what. She and her partner had arrived at a music festival some 270km north of Melbourne in the early afternoon and began setting up their tents and a ga",
+    "source": "The Guardian Science",
+    "published": "2026-11-27T14:00:12+00:00",
+    "text_file": "state/sources/t33729459.txt"
+  },
+  {
+    "id": "t606a5b33",
+    "origin": "feed",
+    "title": "Roller-coaster flight reveals hidden electricity in clouds",
+    "url": "https://phys.org/news/2026-11-roller-coaster-flight-reveals-hidden.html",
+    "summary": "Measuring the electric charge in widespread, dull gray clouds could help scientists better understand droplets within them, a new study suggests.",
+    "source": "Phys.org",
+    "published": "2026-11-27T14:00:08+00:00"
+  },
+  {
+    "id": "tc300afa9",
+    "origin": "feed",
+    "title": "Vagus nerve stimulation slows growth and spread of pancreatic cancer",
+    "url": "https://www.newscientist.com/article/2601187-vagus-nerve-stimulation-slows-growth-and-spread-of-pancreatic-cancer/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "summary": "An electrical implant around the oesophagus that stimulates the vagus nerve improved outcomes in mice with pancreatic cancer by making their tumours more susceptible to immunotherapy",
+    "source": "New Scientist",
+    "published": "2026-11-27T14:00:00+00:00",
+    "text_file": "state/sources/tc300afa9.txt"
+  },
+  {
+    "id": "te4074e74",
+    "origin": "feed",
+    "title": "‘Vote for trees’: Taiwan community pins hope on ‘Forest Grandma’ to save beloved woods",
+    "url": "https://news.mongabay.com/2026/11/vote-for-trees-taiwan-community-pins-hope-on-forest-grandma-to-save-beloved-woods/",
+    "summary": "KAOHSIUNG, Taiwan — At dawn, just as the birds begin to sing, Chiang Huang-nu usually puts on her traditional straw hat and walks through the wooded grounds of a former sugar factory in Ciaotou district in southwest Taiwan. Along the way, the 83-year-old might greet around 30 other regular strollers, most of them retirees. Chiang […]",
+    "source": "Mongabay",
+    "published": "2026-11-27T13:52:03+00:00",
+    "text_file": "state/sources/te4074e74.txt"
+  },
+  {
+    "id": "tb751f41a",
+    "origin": "feed",
+    "title": "Rare turtles found inside baggage at Amsterdam airport",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+    "summary": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
+    "source": "BBC Science",
+    "published": "2026-11-27T13:38:07+00:00",
+    "text_file": "state/sources/tb751f41a.txt"
   },
   {
     "id": "t4a637f4f",
@@ -30,16 +285,6 @@
     "text_file": "state/sources/t4a637f4f.txt"
   },
   {
-    "id": "t8735ba99",
-    "origin": "feed",
-    "title": "Bushfire disaster ignites citizen science tourism",
-    "url": "https://phys.org/news/2026-11-bushfire-disaster-ignites-citizen-science.html",
-    "summary": "The devastating Black Summer wildfires on Kangaroo Island accelerated interest in citizen science tourism—a movement gaining momentum as climate-related disasters place unprecedented pressure on native species and landscapes.",
-    "source": "Phys.org",
-    "published": "2026-11-27T12:50:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
     "id": "t1e223da6",
     "origin": "feed",
     "title": "A tiny deep-sea fish eaten 42 years ago has now been named a new species",
@@ -48,46 +293,6 @@
     "source": "Mongabay",
     "published": "2026-11-27T12:40:25+00:00",
     "text_file": "state/sources/t1e223da6.txt"
-  },
-  {
-    "id": "t7f96a659",
-    "origin": "feed",
-    "title": "Nonlinear optical lattice boosts spatial coherence by concentrating light in a single mode",
-    "url": "https://phys.org/news/2026-11-nonlinear-optical-lattice-boosts-spatial.html",
-    "summary": "Light waves can have varying degrees of coherence, which means that the consistency of the relationship between their phases across space or time can differ. Reliable methods to enhance the coherence of light could pave the way for the development of high-quality lasers and scientific instruments.",
-    "source": "Phys.org",
-    "published": "2026-11-27T12:40:10+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "t71a48462",
-    "origin": "feed",
-    "title": "Study finds lasting changes in daily mobility patterns across Latin America after COVID-19",
-    "url": "https://phys.org/news/2026-11-daily-mobility-patterns-latin-america.html",
-    "summary": "Researchers at the University of Liverpool have used anonymized Facebook mobility data to explore how everyday movement patterns changed across Latin American countries in the wake of the COVID-19 pandemic.",
-    "source": "Phys.org",
-    "published": "2026-11-27T12:30:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "t3887d94c",
-    "origin": "feed",
-    "title": "What are the odds of a volcano erupting through a salt lake?",
-    "url": "https://phys.org/news/2026-11-odds-volcano-erupting-salt-lake.html",
-    "summary": "An experimental study of what happens when volcanoes erupt through salt lakes is rewriting the genesis story on the formation of some iron ore and rare earth deposits. The Australian National University (ANU) research looks beyond common assumptions, reconciling decades of research. The findings indicate that the various proposed mineral formation routes, or genesis pathways, are not necessarily m",
-    "source": "Phys.org",
-    "published": "2026-11-27T12:20:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "t455f5121",
-    "origin": "feed",
-    "title": "Decoding how fish adapt to varying salt concentrations",
-    "url": "https://phys.org/news/2026-11-decoding-fish-varying-salt.html",
-    "summary": "Freshwater and seawater fishes face different challenges in maintaining the balance of salts and water in their bodies. To survive these changing conditions, they rely on specialized transport proteins in organs like the kidneys and intestine to regulate electrolyte transport. However, important questions regarding the molecular mechanisms that support salt transport and acclimatization to differe",
-    "source": "Phys.org",
-    "published": "2026-11-27T12:10:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
     "id": "t3a017276",
@@ -140,15 +345,6 @@
     "text_file": "state/sources/ta0a575a3.txt"
   },
   {
-    "id": "t34c18d40",
-    "origin": "feed",
-    "title": "Beeswax and pine link crocodile mummies made centuries apart at one Egyptian site",
-    "url": "https://phys.org/news/2026-11-beeswax-link-crocodile-mummies-centuries.html",
-    "summary": "In a practice spanning centuries, ancient Egyptians mummified thousands of crocodiles they associated with Sobek, a god linked to the Nile, fertility and royal power. In one unique example, embalmers from the middle of the 1st millennium BC at Kom Ombo in southern Egypt mounted more than 25 hatchlings on reeds along the back and neck of a crocodile nearly 4 meters (13 feet) long. The arrangement m",
-    "source": "Phys.org",
-    "published": "2026-11-27T11:00:01+00:00"
-  },
-  {
     "id": "t4a109ee6",
     "origin": "feed",
     "title": "James Webb telescope discovers mysterious red object just 450 million years after the Big Bang — and it could be a baby black hole",
@@ -175,8 +371,7 @@
     "url": "https://news.mongabay.com/short-article/2026/11/zambian-court-again-delays-copper-miners-bid-to-block-pollution-lawsuit/",
     "summary": "Zambia’s top court has postponed for the fourth time an appeal by copper miner Sino Metals, which is trying to block a lawsuit against it from proceeding. The latest adjournment comes amid ongoing concerns over disputed resettlement offers. In February 2025, the dam holding the mining waste at the Sino Metals Leach Zambia Limited mine […]",
     "source": "Mongabay",
-    "published": "2026-11-27T10:27:47+00:00",
-    "text_file": "state/sources/t79e6a831.txt"
+    "published": "2026-11-27T10:27:47+00:00"
   },
   {
     "id": "t286b8fcf",
@@ -187,24 +382,6 @@
     "source": "ScienceDaily",
     "published": "2026-11-27T10:01:39+00:00",
     "text_file": "state/sources/t286b8fcf.txt"
-  },
-  {
-    "id": "t4af06839",
-    "origin": "feed",
-    "title": "Bacterial colonies turn themselves inside out when oxygen is scarce",
-    "url": "https://phys.org/news/2026-11-bacterial-colonies-oxygen-scarce.html",
-    "summary": "Bacteria can protect themselves from external threats by forming colonies. The physical principles that govern the structure of such colonies, and in particular their structural transformations, are poorly understood.",
-    "source": "Phys.org",
-    "published": "2026-11-27T10:00:05+00:00"
-  },
-  {
-    "id": "teafa907a",
-    "origin": "feed",
-    "title": "New atlas unites nearly 3,500 laser surveys to map forests across 56 countries",
-    "url": "https://phys.org/news/2026-11-atlas-laser-surveys-forests-countries.html",
-    "summary": "An international team of researchers led by the University of Bristol in the U.K. has unveiled the Global Canopy Atlas—the largest integrated collection of high-resolution 3D maps of forests, woodlands and savannas ever assembled.",
-    "source": "Phys.org",
-    "published": "2026-11-27T10:00:01+00:00"
   },
   {
     "id": "t80d54bc1",
@@ -273,8 +450,7 @@
     "url": "https://news.mongabay.com/2026/11/meet-the-few-liberian-women-rangers-in-a-race-to-protect-wildlife-and-forests/",
     "summary": "ZORTAPA, Liberia — Grace Kotee-Zansi is living a dream she had as a child: patrolling the East Nimba Nature Reserve (ENNR) as a biologist ranger to stop hunters from killing protected animals. Her job today brings relief from her childhood memories of her grandfather hunting and farming in the forest. The ENNR, a proposed extension […]",
     "source": "Mongabay",
-    "published": "2026-11-27T08:00:23+00:00",
-    "text_file": "state/sources/t151b828e.txt"
+    "published": "2026-11-27T08:00:23+00:00"
   },
   {
     "id": "tcecd5d6d",
@@ -285,16 +461,6 @@
     "source": "Mongabay Indonesia",
     "published": "2026-11-27T06:23:22+00:00",
     "text_file": "state/sources/tcecd5d6d.txt"
-  },
-  {
-    "id": "t81b7b84b",
-    "origin": "feed",
-    "title": "Operasi pencarian penambang emas Pongkor memasuki 'fase kritis' – Bagaimana awal mula munculnya gurandil dan siapa saja 'aktor' yang terlibat?",
-    "url": "https://www.bbc.com/indonesia/articles/cmkgdekg0e7lo?at_medium=RSS&at_campaign=rss",
-    "summary": "Pemerintah pusat didesak melakukan audit lingkungan atas keberadaan tambang di wilayah Bogor, Jawa Barat, jika tidak ingin kejadian meninggalnya belasan penambang emas ilegal di Kecamatan Nanggung terulang.",
-    "source": "BBC Indonesia",
-    "published": "2026-11-27T06:21:56+00:00",
-    "text_file": "state/sources/t81b7b84b.txt"
   },
   {
     "id": "te8e16084",
@@ -363,8 +529,7 @@
     "url": "https://news.mongabay.com/short-article/2026/11/hong-kong-becomes-key-link-in-illegal-trade-of-australias-native-reptiles/",
     "summary": "From lizards to snakes, Hong Kong is emerging as a primary trafficking center for native Australian reptiles, reports contributor Selina Cheng for Mongabay. In December 2025, customs authorities intercepted a consignment from Australia containing 13 live lizards stuffed inside winter boots. Hong Kong’s customs agency said the air cargo was falsely declared as snacks. This […]",
     "source": "Mongabay",
-    "published": "2026-11-27T04:55:14+00:00",
-    "text_file": "state/sources/tde688d36.txt"
+    "published": "2026-11-27T04:55:14+00:00"
   },
   {
     "id": "t4a0799a9",
@@ -383,8 +548,7 @@
     "url": "https://news.mongabay.com/short-article/2026/11/sri-lanka-deploys-elephant-army-to-protect-rare-tuskers-but-experts-urge-caution/",
     "summary": "A beloved male elephant named Kavantissa that frequented a rural village in Sri Lanka recently died from a gunshot injury, sparking public outrage. Environmentalists condemned authorities for what they called a “lack of care” for this iconic elephant, while local animal rights groups demanded an independent investigation into the death. In response, the Sri Lankan […]",
     "source": "Mongabay",
-    "published": "2026-11-27T04:43:37+00:00",
-    "text_file": "state/sources/t0cabf6d5.txt"
+    "published": "2026-11-27T04:43:37+00:00"
   },
   {
     "id": "t4d0647aa",
@@ -463,8 +627,7 @@
     "url": "https://news.mongabay.com/2026/11/in-nepal-experts-debate-future-of-mega-dams-after-augusts-flood/",
     "summary": "KATHMANDU — Until recently, residents living in the lap of the Himalayas saw the peaks as immovable giants silently nurturing them with snowmelt. But on Aug. 26, there was a road from the mountain overlooking the Bhotekoshi rivershed in central Nepal roared. What appears to have been an avalanche on Langtang Lirung sent a churning […]",
     "source": "Mongabay",
-    "published": "2026-11-27T02:15:40+00:00",
-    "text_file": "state/sources/t4b45eb80.txt"
+    "published": "2026-11-27T02:15:40+00:00"
   },
   {
     "id": "t55e36c66",
@@ -497,15 +660,6 @@
     "text_file": "state/sources/tb1139b39.txt"
   },
   {
-    "id": "ta260c551",
-    "origin": "feed",
-    "title": "Digital access to early music",
-    "url": "https://phys.org/news/2026-11-digital-access-early-music.html",
-    "summary": "What may look to modern readers like a form of secret code in fact opens the door to a fascinating world of historical music: German lute tablature. Developed specifically for the Renaissance lute, this rich notational tradition preserves dances, songs and other musical works that were immensely popular some 500 years ago. As part of an interdisciplinary team of experts, researchers at the Univers",
-    "source": "Phys.org",
-    "published": "2026-11-27T01:00:01+00:00"
-  },
-  {
     "id": "tbdda71c1",
     "origin": "feed",
     "title": "'Kami petani sudah kehabisan modal' – Gagal panen dan mundurnya masa tanam akibat El Niño ancam pasokan dan harga beras tahun depan",
@@ -522,8 +676,7 @@
     "url": "https://www.bbc.co.uk/weather/videos/c6y0xq8y757ko?at_medium=RSS&at_campaign=rss",
     "summary": "BBC Weather's Matt Taylor takes us on a tour of the Met Office control room.",
     "source": "BBC Science",
-    "published": "2026-11-27T00:09:30+00:00",
-    "text_file": "state/sources/t5717dc47.txt"
+    "published": "2026-11-27T00:09:30+00:00"
   },
   {
     "id": "t5f07086e",
@@ -576,23 +729,13 @@
     "text_file": "state/sources/t9e913075.txt"
   },
   {
-    "id": "td0af14d8",
-    "origin": "feed",
-    "title": "Why molecular cage catalysts show enormous differences in performance",
-    "url": "https://phys.org/news/2026-11-molecular-cage-catalysts-enormous-differences.html",
-    "summary": "Chemistry researchers have developed a new way to identify and understand highly effective artificial enzyme-like catalysts using powerful \"molecular cages\" that mimic the behavior of nature's enzymes. These tiny, hollow molecular structures act like miniature reaction chambers to trap molecules and accelerate chemical reactions. The cages showed enormous differences in performance, with the best ",
-    "source": "Phys.org",
-    "published": "2026-11-26T23:20:02+00:00"
-  },
-  {
     "id": "teff173bb",
     "origin": "feed",
     "title": "Watch: Man and dog narrowly escape powerful king tide in Oregon",
     "url": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss",
     "summary": "Both the man and his dog escaped unharmed, the police department says.",
     "source": "BBC Science",
-    "published": "2026-11-26T21:51:16+00:00",
-    "text_file": "state/sources/teff173bb.txt"
+    "published": "2026-11-26T21:51:16+00:00"
   },
   {
     "id": "t086c38bc",
@@ -603,15 +746,6 @@
     "source": "ScienceDaily",
     "published": "2026-11-26T21:36:09+00:00",
     "text_file": "state/sources/t086c38bc.txt"
-  },
-  {
-    "id": "t11f42c86",
-    "origin": "feed",
-    "title": "Community forests offer hope for conservation in DRC, but major hurdles remain",
-    "url": "https://news.mongabay.com/2026/11/community-forests-offer-hope-for-conservation-in-drc-but-major-hurdles-remain/",
-    "summary": "LUBUMBASHI, Democratic Republic of Congo — In the Democratic Republic of Congo, an initiative is underway to award community-based forestry land titles to 7.1 million hectares of land, or about 17.5 million acres — an area the size of Ireland. This is one of several conservation strategies aimed at protecting the DRC’s biodiversity while recognizing […]",
-    "source": "Mongabay",
-    "published": "2026-11-26T21:30:06+00:00"
   },
   {
     "id": "t26e60328",
@@ -630,17 +764,7 @@
     "url": "https://www.bbc.co.uk/sounds/play/w3ct978n?at_medium=RSS&at_campaign=rss",
     "summary": "One of the greatest problems in the history of mathematics has been solved by AI.",
     "source": "BBC Science",
-    "published": "2026-11-26T21:00:00+00:00",
-    "text_file": "state/sources/t19762d79.txt"
-  },
-  {
-    "id": "te0c25974",
-    "origin": "feed",
-    "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
-    "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
-    "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
-    "source": "BBC Science",
-    "published": "2026-11-26T19:26:16+00:00"
+    "published": "2026-11-26T21:00:00+00:00"
   },
   {
     "id": "tb3843671",
@@ -651,15 +775,6 @@
     "source": "Space.com",
     "published": "2026-11-26T19:00:00+00:00",
     "text_file": "state/sources/tb3843671.txt"
-  },
-  {
-    "id": "t0f11655c",
-    "origin": "feed",
-    "title": "Second court defeat for Trump's deep-sea mining ambitions",
-    "url": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
-    "summary": "Second judge rules against Trump administration's plans to lease areas of ocean floor and survey for mining.",
-    "source": "BBC Science",
-    "published": "2026-11-26T18:22:28+00:00"
   },
   {
     "id": "tb174d2de",
@@ -682,15 +797,6 @@
     "text_file": "state/sources/t1b673da6.txt"
   },
   {
-    "id": "t2d89e861",
-    "origin": "feed",
-    "title": "US bill to speed up clean energy projects could also fast-track fossil fuels",
-    "url": "https://news.mongabay.com/short-article/2026/11/us-bill-to-speed-up-clean-energy-projects-could-also-fast-track-fossil-fuels/",
-    "summary": "On Nov. 19, the U.S. Senate passed a bill that aims to speed up permitting for energy infrastructure projects. The 62-33 vote on the Bipartisan American Affordability and Jobs Act (BAAJA) included support from pro-environment Democratic senators like Sheldon Whitehouse from Rhode Island. The legislation would ease development for renewable energy and transmission lines, but […]",
-    "source": "Mongabay",
-    "published": "2026-11-26T17:58:01+00:00"
-  },
-  {
     "id": "t3fcac1d2",
     "origin": "feed",
     "title": "Can't wait for Dune: Part 3? Catch up on the sandy sci-fi saga with this half-price HBO Max Black Friday deal",
@@ -707,8 +813,7 @@
     "url": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026",
     "summary": "Venus reaches peak brightness in the predawn sky this week, here's how to find it.",
     "source": "Space.com",
-    "published": "2026-11-26T17:00:00+00:00",
-    "text_file": "state/sources/t4f4addb4.txt"
+    "published": "2026-11-26T17:00:00+00:00"
   },
   {
     "id": "t1b94abe1",
@@ -717,17 +822,7 @@
     "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-26-2026",
     "summary": "On November 26, 2011, the NASA Curiosity rover launched to Mars. Here's why it mattered.",
     "source": "Space.com",
-    "published": "2026-11-26T16:55:48+00:00",
-    "text_file": "state/sources/t1b94abe1.txt"
-  },
-  {
-    "id": "tcb6452bf",
-    "origin": "feed",
-    "title": "Fireball steals the show during Thanksgiving drone display in Indiana",
-    "url": "https://www.bbc.co.uk/news/videos/c6n4e3yypylxo?at_medium=RSS&at_campaign=rss",
-    "summary": "The glowing object was captured on video as holiday-themed drones illuminated the night sky.",
-    "source": "BBC Science",
-    "published": "2026-11-26T16:18:30+00:00"
+    "published": "2026-11-26T16:55:48+00:00"
   },
   {
     "id": "t85cc5e11",
@@ -751,20 +846,11 @@
   {
     "id": "t93cbb17b",
     "origin": "feed",
-    "title": "Rocket Lab sending Japanese satellite to orbit on Thanksgiving Day launch: Watch it live",
+    "title": "Rocket Lab launches Japanese satellite into orbit in record-setting Thanksgiving Day liftoff (video)",
     "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-sending-japanese-satellite-to-orbit-on-thanksgiving-day-launch-watch-it-live",
-    "summary": "The Thanksgiving Day launch will be Rocket Lab's 14th mission for Tokyo-based Synspective, its largest customer.",
+    "summary": "Rocket Lab launched a radar imaging satellite for the Tokyo-based company Synspective, its largest customer, in a Thanksgiving Day liftoff.",
     "source": "Space.com",
     "published": "2026-11-26T16:00:00+00:00"
-  },
-  {
-    "id": "t5ee00321",
-    "origin": "feed",
-    "title": "Tequila’s hangover: How the drink’s success drove deforestation in Mexico",
-    "url": "https://news.mongabay.com/2026/11/tequilas-hangover-how-the-drinks-success-drove-deforestation-in-mexico/",
-    "summary": "For decades, Manuel García Castro has grown corn, squash and beans to feed his family and livestock. In 2019, he followed in the footsteps of prosperous local farmers and dedicated a portion of his land in the highlands of Jalisco, western Mexico, to planting blue agave, used to make tequila. A friend persuaded him to […]",
-    "source": "Mongabay",
-    "published": "2026-11-26T15:44:26+00:00"
   },
   {
     "id": "t707980af",
@@ -774,15 +860,6 @@
     "summary": "The striking blue of the Betta Fish Nebula swims across the cosmic landscape in a new image from the Dark Energy Camera.",
     "source": "Space.com",
     "published": "2026-11-26T15:00:00+00:00"
-  },
-  {
-    "id": "tb5cec188",
-    "origin": "feed",
-    "title": "Prepare for Avengers: Doomsday and catch the entire MCU on Disney+ — now only $4.99/month",
-    "url": "https://www.space.com/entertainment/space-movies-shows/prepare-for-avengers-doomsday-and-catch-the-entire-mcu-on-disney-now-only-4-99-month",
-    "summary": "This Disney+ and Hulu bundle is now only $4.99 per month for a whole year, giving you access to the entire Marvel Cinematic Universe among other huge sci-fi franchises.",
-    "source": "Space.com",
-    "published": "2026-11-26T14:35:13+00:00"
   },
   {
     "id": "t155c774d",
@@ -805,18 +882,9 @@
     "text_file": "state/sources/t1e0b9caf.txt"
   },
   {
-    "id": "tb8ee5b9d",
-    "origin": "feed",
-    "title": "Thanksgiving night sky 2026 — What to look for after dinner tonight",
-    "url": "https://www.space.com/stargazing/thanksgiving-night-sky-2026-what-to-look-for-after-dinner-tonight",
-    "summary": "From Saturn's magnificent rings to the waning gibbous moon, here's how to turn your Thanksgiving celebrations into a family skywatching adventure.",
-    "source": "Space.com",
-    "published": "2026-11-26T13:00:00+00:00"
-  },
-  {
     "id": "t1eaefe62",
     "origin": "feed",
-    "title": "Stars in your eyes? These are the best Black Friday telescopes, smart telescopes and binocular deals we've found to raise your skywatching game",
+    "title": "Stars in your eyes? These are the best Black Friday telescope, smart telescope, binoculars and star projector deals we've found to raise your skywatching game",
     "url": "https://www.livescience.com/products/optics/stars-in-your-eyes-these-are-the-best-black-friday-telescopes-smart-telescopes-and-binocular-deals-weve-found-to-raise-your-skywatching-game",
     "summary": "We've found the stargazing deals worth your money this Black Friday at retailers like Amazon and B&H, including some of our favorite models that we've personally tried and tested.",
     "source": "Live Science",
@@ -873,15 +941,6 @@
     "text_file": "state/sources/t309f0b1d.txt"
   },
   {
-    "id": "t69b1c544",
-    "origin": "feed",
-    "title": "Relearning how to live with wolves in Europe",
-    "url": "https://news.mongabay.com/short-article/2026/11/relearning-how-to-live-with-wolves-in-europe/",
-    "summary": "Across much of Europe, gray wolves were hunted to near extinction by the mid-20th century. In the past couple of decades, though, strict protections have helped the population rebound in some countries. The return of the gray wolf (Canis lupus) has posed a conundrum. Conservation groups view it as a conservation success. However, wolves sometimes […]",
-    "source": "Mongabay",
-    "published": "2026-11-26T10:55:19+00:00"
-  },
-  {
     "id": "tc198f2fe",
     "origin": "feed",
     "title": "'You had one job': Astrophysicist and Star Trek science advisor Erin MacDonald on the secret to her success and the science flubs that haunt her",
@@ -890,15 +949,6 @@
     "source": "Live Science",
     "published": "2026-11-26T10:51:27+00:00",
     "text_file": "state/sources/tc198f2fe.txt"
-  },
-  {
-    "id": "t068f6765",
-    "origin": "feed",
-    "title": "US gains foothold in race for Africa’s critical minerals in Kenya’s Mrima Hill project",
-    "url": "https://news.mongabay.com/short-article/2026/11/us-gains-foothold-in-race-for-africas-critical-minerals-in-kenyas-mrima-hill-project/",
-    "summary": "Kenya’s Cabinet Secretary for Mining and Blue Economy has announced that the mining ministry has issued a “notice of intention” to award the tender for the development of the Mrima Hill mining project to U.S.-based mining consortium Frontier Minerals. Mrima Hill is thought to be rich in critical minerals sought after by electronics, aerospace and […]",
-    "source": "Mongabay",
-    "published": "2026-11-26T10:47:12+00:00"
   },
   {
     "id": "t34e52cea",
@@ -1181,8 +1231,7 @@
     "url": "https://www.newscientist.com/article/2600830-seabird-spies-could-help-spot-ships-that-arent-broadcasting-their-location/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
     "summary": "Researchers have found that seabirds equipped with audio recorders and GPS trackers can detect ships, offering a way to monitor fishing vessels that are operating illegally",
     "source": "New Scientist",
-    "published": "2026-11-25T19:00:00+00:00",
-    "text_file": "state/sources/t55bf2eb5.txt"
+    "published": "2026-11-25T19:00:00+00:00"
   },
   {
     "id": "t5578813e",
@@ -1232,15 +1281,6 @@
     "published": "2026-11-25T18:00:00+00:00"
   },
   {
-    "id": "t74d5c828",
-    "origin": "feed",
-    "title": "Is The Time Traveler’s Wife the perfect audiobook to experience on shuffle?",
-    "url": "https://www.newscientist.com/article/2600285-is-the-time-travelers-wife-the-perfect-audiobook-to-experience-on-shuffle/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "summary": "Feedback learns of someone who accidentally listened to The Time Traveler’s Wife on shuffle - without realising. Are there any other stories - whether about time travel or not - that might survive the experience?",
-    "source": "New Scientist",
-    "published": "2026-11-25T18:00:00+00:00"
-  },
-  {
     "id": "t62460124",
     "origin": "feed",
     "title": "In 2022 NASA struck an asteroid. Now we are finally seeing the massive impact up close",
@@ -1257,8 +1297,7 @@
     "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
     "summary": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving. Recent testing points to strawberries, […]",
     "source": "NASA",
-    "published": "2026-11-25T17:53:42+00:00",
-    "text_file": "state/sources/t8cd7bb44.txt"
+    "published": "2026-11-25T17:53:42+00:00"
   },
   {
     "id": "t824e67cd",
@@ -1286,8 +1325,7 @@
     "url": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/",
     "summary": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” […]",
     "source": "NASA",
-    "published": "2026-11-25T16:47:29+00:00",
-    "text_file": "state/sources/tafc105b1.txt"
+    "published": "2026-11-25T16:47:29+00:00"
   },
   {
     "id": "t0a54c50c",
@@ -1317,15 +1355,6 @@
     "source": "Science News",
     "published": "2026-11-25T15:00:00+00:00",
     "text_file": "state/sources/t2c204d0c.txt"
-  },
-  {
-    "id": "t1d9cf67c",
-    "origin": "feed",
-    "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
-    "summary": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
-    "source": "NASA",
-    "published": "2026-11-25T14:56:54+00:00"
   },
   {
     "id": "t79a39f07",
@@ -1411,8 +1440,7 @@
     "url": "https://www.theguardian.com/science/video/2026/nov/25/beaver-supermoon-lights-up-skylines-around-the-world-video",
     "summary": "A stunning supermoon rose over skylines around the world. Supermoons occur when the full moon coincides with the moon being at or near its closest point to Earth, making it appear larger than usual. The November full moon is also known as the beaver moon, a name thought to date to when hunters traditionally set traps for beavers in autumn to secure a supply of warm fur for the winter Continue read",
     "source": "The Guardian Science",
-    "published": "2026-11-25T10:59:18+00:00",
-    "text_file": "state/sources/t6e5c2f5d.txt"
+    "published": "2026-11-25T10:59:18+00:00"
   },
   {
     "id": "t8f5e714b",
@@ -1430,8 +1458,7 @@
     "url": "https://www.theguardian.com/commentisfree/2026/nov/25/ai-mathematics-human-knowledge-progress-technology-industry",
     "summary": "Machines are bulldozing through hard problems to assert the power of their tech bro creators, not to advance human knowledge In most walks of life, trying something 12,363,153,437,138 times and getting the same result is reason enough to assume it works every time. Not in maths, where a conjecture that holds up more than 12tn times looks very probably true but doesn’t qualify as proven. That was t",
     "source": "The Guardian Science",
-    "published": "2026-11-25T10:05:15+00:00",
-    "text_file": "state/sources/t65619603.txt"
+    "published": "2026-11-25T10:05:15+00:00"
   },
   {
     "id": "t7a90f762",
@@ -1443,15 +1470,6 @@
     "published": "2026-11-25T08:36:46+00:00"
   },
   {
-    "id": "tb85262f1",
-    "origin": "feed",
-    "title": "Dolphins with active social lives and big friendship groups live longer, Australian researchers discover",
-    "url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
-    "summary": "Decades of data collected at WA’s Shark Bay shows level of socialising may affect longevity for Indo-Pacific bottlenose dolphins Dolphins who spend time socialising in large and consistently sized social groups tend to live longer, new research has found. Indo-Pacific bottlenose dolphins are marine mammals that can live for more than 50 years and have complex social lives. They spend time socialis",
-    "source": "The Guardian Science",
-    "published": "2026-11-25T06:02:05+00:00"
-  },
-  {
     "id": "t0d1f8732",
     "origin": "feed",
     "title": "How a new way of measuring tides could make flood forecasts more accurate",
@@ -1459,15 +1477,6 @@
     "summary": "Analysis of differences in tidal height across beaches could lead to more localised tide and flood forecasts The sea might look level, but it turns out tidal height can vary by as much as a metre across the length of a single beach, new research shows. This development is important when it comes to flood predictions and when forecasting which locations are most vulnerable to storm surges. Up until",
     "source": "The Guardian Science",
     "published": "2026-11-25T06:00:08+00:00"
-  },
-  {
-    "id": "tf8165500",
-    "origin": "feed",
-    "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
-    "summary": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
-    "source": "NASA",
-    "published": "2026-11-25T05:05:00+00:00"
   },
   {
     "id": "t6ac34d2e",
@@ -1514,6 +1523,15 @@
     "summary": "Ketangguhan guru honorer memang patut diapresiasi, tetapi negara tak boleh berlindung di balik narasi “pengabdian” untuk membiarkan mereka terus berjuang sendirian.",
     "source": "The Conversation Indonesia",
     "published": "2026-11-25T00:51:35+00:00"
+  },
+  {
+    "id": "tefb8fdf5",
+    "origin": "feed",
+    "title": "The beaver supermoon glows across the globe – in pictures",
+    "url": "https://www.theguardian.com/science/gallery/2026/nov/25/2026-beaver-supermoon-delights-skywatchers-around-the-world-photographs",
+    "summary": "The largest supermoon of the year, known as the beaver moon, illuminated the night sky on 24 November to the delight of skywatchers around the world. From Salzburg to Srinagar, here is a selection of some of the best views Continue reading...",
+    "source": "The Guardian Science",
+    "published": "2026-11-25T00:45:52+00:00"
   },
   {
     "id": "t5e41773f",
@@ -1630,24 +1648,6 @@
     "source": "NOAA",
     "published": "2026-11-24T13:39:35+00:00",
     "text_file": "state/sources/t1950e616.txt"
-  },
-  {
-    "id": "t54854de9",
-    "origin": "feed",
-    "title": "Their loss changed Appalachian forests for ever. Now the American chestnut is back",
-    "url": "https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe",
-    "summary": "The trees have been functionally extinct in the US for nearly a century. But new techniques are creating plants resistant to the parasitic blight that almost wiped them out Jeff White is starstruck by a tree. The farmer and environmentalist from rural Maryland has an affinity with the American chestnut but has never seen one stretch from root to sky like this one. “About how tall is it?” he asks. ",
-    "source": "The Guardian Science",
-    "published": "2026-11-24T12:00:44+00:00"
-  },
-  {
-    "id": "td1c6006d",
-    "origin": "feed",
-    "title": "Researcher who helped improve melanoma survival rates wins top Australian science prize",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/24/georgina-long-melanoma-anthony-thomas-2026-prime-ministers-prizes-for-science",
-    "summary": "Georgina Long and subatomic physicist Anthony Thomas recognised by prime minister’s prizes for science Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast When Prof Georgina Long was starting out in melanoma treatment and research, “my waiting room would change so rapidly”. Referring to her patients with stage 4 melanoma, the onco",
-    "source": "The Guardian Science",
-    "published": "2026-11-24T11:00:45+00:00"
   },
   {
     "id": "t7a0c79c6",
@@ -1887,52 +1887,5 @@
     "summary": "Grand Theft Auto VI (GTA VI) akhirnya resmi dirilis pada 19 November 2026. Setelah penantian selama kurang lebih 13 ...",
     "source": "Antara Tekno",
     "published": "2026-11-21T04:39:42+00:00"
-  },
-  {
-    "id": "t2ba13ff0",
-    "origin": "feed",
-    "title": "Charting the course on recreational fishing data: A message from NOAA's Laura Grimm",
-    "url": "https://www.noaa.gov/stories/charting-course-on-recreational-fishing-data-message-from-noaas-laura-grimm",
-    "summary": "Charting the course on recreational fishing data: A message from NOAA's Laura Grimm People recreational fishing from a small ocean boat in Florida Keys National Marine Sanctuary. (Image credit: NOAA) Download Image November 20, 2026 Fisheries NOAA leadership recreational fishing economic data 0 Off",
-    "source": "NOAA",
-    "published": "2026-11-20T15:18:32+00:00",
-    "text_file": "state/sources/t2ba13ff0.txt"
-  },
-  {
-    "id": "t488f394a",
-    "origin": "feed",
-    "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
-    "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
-    "summary": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame. The post Network Researchers Nail Down Theory of ‘Perfect Resilience’ first appeared on Quanta Magazine",
-    "source": "Quanta Magazine",
-    "published": "2026-11-20T14:50:41+00:00",
-    "text_file": "state/sources/t488f394a.txt"
-  },
-  {
-    "id": "t52973e09",
-    "origin": "feed",
-    "title": "Seven Ways to Use LLMs in the Earth and Space Sciences",
-    "url": "https://eos.org/opinions/seven-ways-to-use-llms-in-the-earth-and-space-sciences",
-    "summary": "Large language models can participate in every stage of the scientific process because each stage is connected through language.",
-    "source": "Eos (AGU)",
-    "published": "2026-11-20T14:12:55+00:00"
-  },
-  {
-    "id": "t9e792e98",
-    "origin": "feed",
-    "title": "Quake Traced to a Fault Deep Below Mars’s Largest Canyon",
-    "url": "https://eos.org/articles/quake-traced-to-a-fault-deep-below-marss-largest-canyon",
-    "summary": "A seismic event from Valles Marineris spotted by the InSight lander has been identified as an actual marsquake, with implications for seismicity on worlds without tectonic plates.",
-    "source": "Eos (AGU)",
-    "published": "2026-11-20T14:11:45+00:00"
-  },
-  {
-    "id": "t42b11440",
-    "origin": "feed",
-    "title": "With Little Time Before Lead Azide Detonation, Iowa Scientists and Residents Assemble Monitoring Plans",
-    "url": "https://eos.org/research-and-developments/with-little-time-before-lead-azide-detonation-iowa-scientists-and-residents-assemble-monitoring-plans",
-    "summary": "Scientists and Iowa residents are planning to independently monitor lead levels in the air and soil in the days before and after a planned detonation of lead azide, a military explosive, near Middletown, Iowa on Monday.",
-    "source": "Eos (AGU)",
-    "published": "2026-11-20T14:03:46+00:00"
   }
 ]
