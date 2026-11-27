@@ -1,13 +1,93 @@
 [
   {
+    "id": "t4b5f5a3a",
+    "origin": "feed",
+    "title": "Nasib Mangrove Sumut Kian Mengkhawatirkan",
+    "url": "https://mongabay.co.id/2026/11/27/nasib-mangrove-sumut-kian-mengkhawatirkan/",
+    "summary": "Ekosistem mangrove di Sumatera Utara banyak alami kerusakan. Walhi Sumatera Utara menilai, terjadi kegagalan melindungi ekosistem yang kaya biodiversitas serta tumpuan hidup masyarakat pesisir, termasuk nelayan. Jaka Kelana Damanik, Manajer Advokasi dan Kampanye Walhi Sumut, mengatakan, pada 2024–2025, sekitar 15.000 hektar ekosistem mangrove Sumut dalam kondisi rusak parah atau kritis. Sejalan de",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-27T03:30:27+00:00",
+    "text_file": "state/sources/t4b5f5a3a.txt"
+  },
+  {
+    "id": "t66354751",
+    "origin": "feed",
+    "title": "'Ini adalah benteng pertahanan terakhir kami' – Rentetan perusakan salib raksasa milik warga yang tolak proyek PSN di Papua Selatan",
+    "url": "https://www.bbc.com/indonesia/articles/c623jm55yx5eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Sepanjang 2026 setidaknya sudah tiga kali sejumlah salib raksasa milik warga penolak PSN dirusak dan dibakar. Apa dampaknya bagi orang asli Papua di Merauke?",
+    "source": "BBC Indonesia",
+    "published": "2026-11-27T03:27:31+00:00",
+    "text_file": "state/sources/t66354751.txt"
+  },
+  {
+    "id": "ta002a078",
+    "origin": "feed",
+    "title": "'Juan pulang, anakmu sudah lahir!' – Jerit pilu istri mencari keadilan suami ABK yang tewas tanpa kepala di 'neraka kedua', kapal ikan China bendera Rusia",
+    "url": "https://www.bbc.com/indonesia/articles/cz6z9x11pywo?at_medium=RSS&at_campaign=rss",
+    "summary": "Enam ABK melompat ke laut untuk melarikan diri dari kondisi kerja yang disebut \"neraka kedua\", namun hanya Juanna Bay yang tak kembali. BBC News Indonesia menelusuri dugaan perdagangan orang, perbudakan, dan misteri kematiannya yang hingga kini belum terpecahkan.",
+    "source": "BBC Indonesia",
+    "published": "2026-11-27T02:52:33+00:00",
+    "text_file": "state/sources/ta002a078.txt"
+  },
+  {
+    "id": "t4b45eb80",
+    "origin": "feed",
+    "title": "In Nepal, experts debate future of mega-dams after August’s flood",
+    "url": "https://news.mongabay.com/2026/11/in-nepal-experts-debate-future-of-mega-dams-after-augusts-flood/",
+    "summary": "KATHMANDU — Until recently, residents living in the lap of the Himalayas saw the peaks as immovable giants silently nurturing them with snowmelt. But on Aug. 26, there was a road from the mountain overlooking the Bhotekoshi rivershed in central Nepal roared. What appears to have been an avalanche on Langtang Lirung sent a churning […]",
+    "source": "Mongabay",
+    "published": "2026-11-27T02:15:40+00:00",
+    "text_file": "state/sources/t4b45eb80.txt"
+  },
+  {
+    "id": "t55e36c66",
+    "origin": "feed",
+    "title": "‘Salam Tiga Jari’ dan bendera ‘One Piece’: Bagaimana simbol budaya pop digunakan untuk gerakan sosial",
+    "url": "https://theconversation.com/salam-tiga-jari-dan-bendera-one-piece-bagaimana-simbol-budaya-pop-digunakan-untuk-gerakan-sosial-296312",
+    "summary": "Mengapa simbol dari budaya populer seperti salam tiga jari dan bendera One Piece dijadikan media dalam melawan ketidakadilan?",
+    "source": "The Conversation Indonesia",
+    "published": "2026-11-27T02:08:43+00:00",
+    "text_file": "state/sources/t55e36c66.txt"
+  },
+  {
+    "id": "ta260c551",
+    "origin": "feed",
+    "title": "Digital access to early music",
+    "url": "https://phys.org/news/2026-11-digital-access-early-music.html",
+    "summary": "What may look to modern readers like a form of secret code in fact opens the door to a fascinating world of historical music: German lute tablature. Developed specifically for the Renaissance lute, this rich notational tradition preserves dances, songs and other musical works that were immensely popular some 500 years ago. As part of an interdisciplinary team of experts, researchers at the Univers",
+    "source": "Phys.org",
+    "published": "2026-11-27T01:00:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
     "id": "t94d2e60b",
     "origin": "feed",
     "title": "Major Thanksgiving storm brings flooding, flight delays across US",
     "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-    "summary": "Massive storms are descending on both US coasts, with wind gusts, heavy rain, downed trees, and power outages for hundreds of thousands of customers.",
+    "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
     "source": "BBC Science",
-    "published": "2026-11-26T23:25:44+00:00",
+    "published": "2026-11-27T00:52:11+00:00",
     "text_file": "state/sources/t94d2e60b.txt"
+  },
+  {
+    "id": "tbdda71c1",
+    "origin": "feed",
+    "title": "'Kami petani sudah kehabisan modal' – Gagal panen dan mundurnya masa tanam akibat El Niño ancam pasokan dan harga beras tahun depan",
+    "url": "https://www.bbc.com/indonesia/articles/cmvg2wq7k6vpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Serikat Petani Indonesia (SPI) menyebut dampak cuaca ekstrem tahun ini tidak hanya berupa gagal panen, tetapi juga gagal tanam dan penurunan produktivitas di berbagai sentra pertanian akibat kekeringan, banjir, dan kebakaran hutan serta lahan.",
+    "source": "BBC Indonesia",
+    "published": "2026-11-27T00:24:14+00:00",
+    "text_file": "state/sources/tbdda71c1.txt"
+  },
+  {
+    "id": "t5717dc47",
+    "origin": "feed",
+    "title": "Inside the control room feeding your weather app",
+    "url": "https://www.bbc.co.uk/weather/videos/c6y0xq8y757ko?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Weather's Matt Taylor takes us on a tour of the Met Office control room.",
+    "source": "BBC Science",
+    "published": "2026-11-27T00:09:30+00:00",
+    "text_file": "state/sources/t5717dc47.txt"
   },
   {
     "id": "td0af14d8",
@@ -206,8 +286,7 @@
     "url": "https://phys.org/news/2026-11-thailand-high-arsenic-river-shellfish.html",
     "summary": "Thai authorities have found dangerous levels of arsenic and lead in shellfish and other species in rivers contaminated by suspected mining pollution from neighboring Myanmar, an official said Thursday.",
     "source": "Phys.org",
-    "published": "2026-11-26T17:00:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-26T17:00:01+00:00"
   },
   {
     "id": "t4f4addb4",
@@ -254,8 +333,7 @@
     "url": "https://www.bbc.co.uk/news/videos/c6n4e3yypylxo?at_medium=RSS&at_campaign=rss",
     "summary": "The glowing object was captured on video as holiday-themed drones illuminated the night sky.",
     "source": "BBC Science",
-    "published": "2026-11-26T16:18:30+00:00",
-    "text_file": "state/sources/tcb6452bf.txt"
+    "published": "2026-11-26T16:18:30+00:00"
   },
   {
     "id": "t696de519",
@@ -313,15 +391,6 @@
     "summary": "Genome engineering is exciting, given its vast potential to treat and even cure diseases, but it is still a largely uncharted biomedical innovation. Scientists at St. Jude Children's Research Hospital recently uncovered the mechanisms involved in precisely integrating DNA into a target genomic location using CRISPR-associated transposases (CASTs). By studying type I-F3 CAST, the researchers unveil",
     "source": "Phys.org",
     "published": "2026-11-26T15:40:02+00:00"
-  },
-  {
-    "id": "t2cbc3d32",
-    "origin": "feed",
-    "title": "Do all groups drift toward rule by the few? Not when time is on their side",
-    "url": "https://phys.org/news/2026-11-groups-drift-side.html",
-    "summary": "For more than a century, a bleak idea has hung over the ideal of democracy: Given enough time, every group ends up ruled by a few. The idea, known as the iron law of oligarchy, was first proposed by the sociologist Robert Michels in the early 1900s.",
-    "source": "Phys.org",
-    "published": "2026-11-26T15:20:06+00:00"
   },
   {
     "id": "t707980af",
@@ -499,15 +568,6 @@
     "text_file": "state/sources/t88fdfc98.txt"
   },
   {
-    "id": "t27217ba3",
-    "origin": "feed",
-    "title": "Musk's plan to send a million SpaceX data satellites into space approved",
-    "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-    "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-    "source": "BBC Science",
-    "published": "2026-11-26T09:27:44+00:00"
-  },
-  {
     "id": "te5d2f86c",
     "origin": "feed",
     "title": "Mengapa Asal-Usul Induk Kucing Hibrida Penting Bagi Perlindungan Kucing Kuwuk?",
@@ -544,8 +604,7 @@
     "url": "https://news.mongabay.com/2026/11/how-uttarakhands-women-farmers-are-reviving-endangered-himalayan-medicinal-plants/",
     "summary": "RAMNI, Uttarakhand, India — At state fairs across Uttarakhand, while most farmers set up stalls featuring local millet varieties, Guddi Devi and her fellow farmers showcase saplings of high-altitude medicinal plants. “In the past, people used to bring kutki [Picrorhiza kurroa] and other herbs like sugandha bala [Valeriana jatamansi] from the bugyals [alpine meadows]. Since […]",
     "source": "Mongabay",
-    "published": "2026-11-26T08:00:13+00:00",
-    "text_file": "state/sources/tc119b5d5.txt"
+    "published": "2026-11-26T08:00:13+00:00"
   },
   {
     "id": "ta2c9576b",
@@ -723,8 +782,7 @@
     "url": "https://mongabay.co.id/2026/11/26/ekonomi-sirkular-masih-munculkan-ketidakadilan/",
     "summary": "Konsep ekonomi sirkular tidak selamanya positif. Metode pengurangan limbah, penggunaan kembali material, dan daur ulang ini kerap mendapat tempat dalam penanganan krisis iklim. Meski begitu, jutaan orang yang menjadi penggerak utamanya justru berada di luar perlindungan dan pengakuan sistem formal, ada ketidakadilan sosial di dalamnya. Mariel Vilella, Direktur Program Iklim Global (Global Alliance",
     "source": "Mongabay Indonesia",
-    "published": "2026-11-26T01:50:09+00:00",
-    "text_file": "state/sources/t7199c642.txt"
+    "published": "2026-11-26T01:50:09+00:00"
   },
   {
     "id": "t0976ce0a",
@@ -968,15 +1026,6 @@
     "published": "2026-11-25T17:52:45+00:00"
   },
   {
-    "id": "t539e41e2",
-    "origin": "feed",
-    "title": "Nations hail new shark finning rules in the Atlantic. Conservationists say Japan blocked better ones",
-    "url": "https://news.mongabay.com/2026/11/nations-hail-new-shark-finning-rules-in-the-atlantic-conservationists-say-japan-blocked-better-ones/",
-    "summary": "VILAMOURA, Portugal — Shark finning entails slashing fins off sharks and dumping the bodies into the sea, often while they’re still alive. In the Atlantic Ocean, the practice has been banned on paper since 2004, yet some Japanese and Chinese vessels still do it. The fins end up in shark fin soup, a delicacy in parts […]",
-    "source": "Mongabay",
-    "published": "2026-11-25T17:52:18+00:00"
-  },
-  {
     "id": "t8d2b6f88",
     "origin": "feed",
     "title": "A cosmically close supernova may spill the stellar explosion’s secrets",
@@ -1004,7 +1053,7 @@
     "summary": "The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks […]",
     "source": "NASA",
     "published": "2026-11-25T16:21:04+00:00",
-    "text_file": "state/sources/t0a54c50c.txt"
+    "fetch_error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
     "id": "tf5ff8407",
@@ -1102,8 +1151,7 @@
     "url": "https://www.bbc.com/indonesia/articles/cm36gxj9y4k7o?at_medium=RSS&at_campaign=rss",
     "summary": "Simbol tiga jari diacungkan para demonstran di Jakarta meski kepolisian mengaitkannya dengan kasus dugaan makar. Apa saja tuntutan warga yang berdemo?",
     "source": "BBC Indonesia",
-    "published": "2026-11-25T11:57:55+00:00",
-    "text_file": "state/sources/ta572a82b.txt"
+    "published": "2026-11-25T11:57:55+00:00"
   },
   {
     "id": "tf98eeee4",
@@ -1190,8 +1238,7 @@
     "url": "https://www.bbc.com/indonesia/articles/ck1ew65e59ljo?at_medium=RSS&at_campaign=rss",
     "summary": "Sebagian kalangan menilai kenaikan upah buruh merupakan wujud keberpihakan pemerintah terhadap para pekerja. Tapi apakah upah yang meningkat tak sampai 10% bisa sejahterakan buruh pabrik hingga dosen?",
     "source": "BBC Indonesia",
-    "published": "2026-11-25T08:36:46+00:00",
-    "text_file": "state/sources/t7a90f762.txt"
+    "published": "2026-11-25T08:36:46+00:00"
   },
   {
     "id": "te075fdd3",
@@ -1254,8 +1301,7 @@
     "url": "https://www.bbc.com/indonesia/articles/cmkgk62erpneo?at_medium=RSS&at_campaign=rss",
     "summary": "Dalam beberapa tahun terakhir, berbagai simbol yang digunakan warga untuk menyampaikan kritik kepada pemerintah diseret ke perkara pidana. Namun warga lantas menemukan simbol-simbol baru lainnya.",
     "source": "BBC Indonesia",
-    "published": "2026-11-25T04:53:14+00:00",
-    "text_file": "state/sources/tc7b5fca4.txt"
+    "published": "2026-11-25T04:53:14+00:00"
   },
   {
     "id": "t51bb6cf1",
@@ -1414,15 +1460,6 @@
     "summary": "",
     "source": "Nature",
     "published": "2026-11-25T00:00:00+00:00"
-  },
-  {
-    "id": "t51c78c67",
-    "origin": "feed",
-    "title": "Ada Tambang di Balik Wacana Badak Jawa Ujung Kulon ke Alas Purwo?",
-    "url": "https://mongabay.co.id/2026/11/24/ada-tambang-di-balik-wacana-badak-jawa-ujung-kulon-ke-alas-purwo/",
-    "summary": "Belum usai duka atas kematian badak Jawa, Musofa tak lama usai translokasi 7 November 2025, publik tersentak dengan wacana Hashim Djojohadikusumo, adik Presiden Prabowo Subianto sekalgus juga Utusan Khusus Presiden Bidang Iklim dan Energi. Dia mau memindahkan badak jawa (Rhinoceros sondaicus) dari Taman Nasional Ujung Kulon (TNUK), Banten, ke Taman Nasional Alas Purwo, Jawa Timur. […] The post Ada",
-    "source": "Mongabay Indonesia",
-    "published": "2026-11-24T23:43:46+00:00"
   },
   {
     "id": "t082cb587",
@@ -1585,24 +1622,6 @@
     "published": "2026-11-24T11:00:45+00:00"
   },
   {
-    "id": "t52ae3a14",
-    "origin": "feed",
-    "title": "Listyo Sigit dkk tersangka makar – Satu warga sipil jadi tersangka karena sablon baju bertuliskan ACAB",
-    "url": "https://www.bbc.com/indonesia/articles/cm62pkdeele0o?at_medium=RSS&at_campaign=rss",
-    "summary": "Satu warga sipil dengan inisial NE dijadikan tersangka dalam kasus makar yang menjerat eks Kapolri Listyo Sigit. Penyebabnya adalah baju yang dia sablon.",
-    "source": "BBC Indonesia",
-    "published": "2026-11-24T07:10:56+00:00"
-  },
-  {
-    "id": "t29e973e8",
-    "origin": "feed",
-    "title": "'Kekerasan yang sesungguhnya adalah kekerasan yang dilakukan negara' – Satu hari bersama kelompok ultra kiri Prancis",
-    "url": "https://www.bbc.com/indonesia/articles/cvn0d5p2dyx0o?at_medium=RSS&at_campaign=rss",
-    "summary": "Seperti negara-negara lain di Eropa, Prancis dilanda gelombang demonstrasi besar selama berminggu-minggu. Siapa saja para pengunjuk rasa itu dan apa harapan mereka?",
-    "source": "BBC Indonesia",
-    "published": "2026-11-24T06:28:59+00:00"
-  },
-  {
     "id": "t7a0c79c6",
     "origin": "feed",
     "title": "Anak-anak bukan objek, libatkan mereka saat membuat kebijakan digital",
@@ -1619,17 +1638,7 @@
     "url": "https://theconversation.com/saat-pemerintah-pusat-mengatur-hutan-daerah-sulit-pegang-kendali-penanganan-bencana-makin-rumit-296411",
     "summary": "Sentralisasi kehutanan melemahkan pengawasan karhutla. Saatnya mengembalikan peran daerah melalui pembagian kewenangan yang kolaboratif.",
     "source": "The Conversation Indonesia",
-    "published": "2026-11-24T01:52:02+00:00",
-    "text_file": "state/sources/t6c4f661c.txt"
-  },
-  {
-    "id": "tdb8a83ba",
-    "origin": "feed",
-    "title": "Flora Carita Minuman Dewa: Riwayat budaya minuman alkohol di Indonesia",
-    "url": "https://www.bbc.com/indonesia/articles/cy82d3gx8z6o?at_medium=RSS&at_campaign=rss",
-    "summary": "Organisasi Kesehatan Dunia sudah bertahun-tahun menyatakan tak ada kadar alkohol pada minuman yang aman bagi kesehatan, tapi mengapa minuman beralkohol tradisional masih eksis di Indonesia?",
-    "source": "BBC Indonesia",
-    "published": "2026-11-24T00:14:26+00:00"
+    "published": "2026-11-24T01:52:02+00:00"
   },
   {
     "id": "t646ccdb8",
@@ -1925,14 +1934,5 @@
     "summary": "Memaksakan kerja sama BPJS dengan klinik kopdes berisiko mengganggu kelangsungan ekosistem BPJS Kesehatan.",
     "source": "The Conversation Indonesia",
     "published": "2026-11-20T04:01:02+00:00"
-  },
-  {
-    "id": "t55458e18",
-    "origin": "feed",
-    "title": "Perang Iran dan Pemilu AS mempengaruhi negosiasi dan percakapan energi fosil di COP 31",
-    "url": "https://theconversation.com/perang-iran-dan-pemilu-as-mempengaruhi-negosiasi-dan-percakapan-energi-fosil-di-cop-31-296844",
-    "summary": "Negosiasi iklim beberapa tahun terakhir diwarnai kekhawatiran besar bahwa bahan bakar fosil terus menguras anggaran dan mengganggu ketahanan energi serta lingkungan.",
-    "source": "The Conversation Indonesia",
-    "published": "2026-11-20T02:34:20+00:00"
   }
 ]
