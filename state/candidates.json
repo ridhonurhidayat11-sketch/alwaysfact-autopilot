@@ -1,82 +1,128 @@
 [
   {
-    "id": "tb0ecc486",
+    "id": "tdea35207",
     "origin": "feed",
-    "title": "Why a warmer atmosphere doesn't guarantee more water in rivers",
-    "url": "https://phys.org/news/2026-11-warmer-atmosphere-doesnt-rivers.html",
-    "summary": "Austria experienced an exceptional drought in 2026. From the start of the year until the end of October, rainfall was around a third lower than the long-term average. The consequences are low river flows and groundwater levels. But how is water availability linked to global warming? Shouldn't a warmer atmosphere, which can hold more water vapor, also lead to more rainfall?",
+    "title": "AI simulates electron hops over far longer times than conventional quantum calculations",
+    "url": "https://phys.org/news/2026-11-ai-simulates-electron-longer-conventional.html",
+    "summary": "To predict how a material will behave, we need to know which atoms are located where. This allows us, for example, to explain whether a material is suitable as a catalyst for certain chemical reactions. But often, that is not enough: even if all the atoms stay exactly where they are, the distribution of electric charge within the material can change dramatically. Electrons can jump from one atom t",
     "source": "Phys.org",
-    "published": "2026-11-27T21:40:04+00:00",
+    "published": "2026-11-27T23:40:05+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-    "id": "t4d02c59c",
+    "id": "t4b6d65a3",
     "origin": "feed",
-    "title": "Can storybook characters teach children about perseverance?",
-    "url": "https://phys.org/news/2026-11-storybook-characters-children-perseverance.html",
-    "summary": "Many storybooks incorporate messages about not giving up when faced with a challenge—something that perhaps isn't surprising given that perseverance is an important factor for learning and long-term success.",
+    "title": "Targeted conversion of carbon dioxide into chemical feedstocks: CO₂ helps shape its own catalyst",
+    "url": "https://phys.org/news/2026-11-conversion-carbon-dioxide-chemical-feedstocks.html",
+    "summary": "Electrochemists at the University of Duisburg-Essen have discovered through computer simulations that carbon dioxide (CO₂) helps shape the surface of its own catalyst when the catalyst is restructured using voltage pulses. The calculations suggest that this allows CO₂ to be converted preferentially into formic acid. The findings have been published in Advanced Functional Materials.",
     "source": "Phys.org",
-    "published": "2026-11-27T21:40:01+00:00",
+    "published": "2026-11-27T23:40:01+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-    "id": "t0c846a9a",
+    "id": "t4bc508bb",
     "origin": "feed",
-    "title": "AI could be used to write your child's report. Is this a problem?",
-    "url": "https://phys.org/news/2026-11-ai-child-problem.html",
-    "summary": "For many families, it's that time of year when school reports land in parents' inboxes.",
+    "title": "Rocks under the lens: A simple microscope opens new possibilities for quantitative rock analysis",
+    "url": "https://phys.org/news/2026-11-lens-simple-microscope-possibilities-quantitative.html",
+    "summary": "Rocks hold a wealth of information about Earth's history. The size, shape and orientation of the mineral grains that make them up can reveal how rocks formed, deformed and changed deep beneath the surface. However, collecting this information has traditionally required specialized equipment and time-consuming analysis.",
     "source": "Phys.org",
-    "published": "2026-11-27T21:20:04+00:00",
+    "published": "2026-11-27T23:20:10+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-    "id": "ta9f113c9",
+    "id": "tee873d21",
     "origin": "feed",
-    "title": "Denisovan remains and an unknown archaic human lineage discovered in southern China",
-    "url": "https://phys.org/news/2026-11-denisovan-unknown-archaic-human-lineage.html",
-    "summary": "An international team of researchers, including first author Song Xing, a researcher affiliated with the Centro Nacional de Investigación sobre la Evolución Humana (CENIEH), has just published a study in the journal Nature that analyzed four fossil teeth recovered from two caves in southern China. The team has identified two possible human lineages dating to the Middle and Late Pleistocene: one wi",
+    "title": "Lab experiments suggest bat RSV can enter human cells, but existing antibodies block it",
+    "url": "https://phys.org/news/2026-11-lab-rsv-human-cells-antibodies.html",
+    "summary": "Respiratory syncytial virus (RSV) causes severe respiratory disease and is responsible for numerous deaths each year. A research team led by DZIF scientist Dr. Wendy K. Jo and DZIF scientist Dr. Jan Felix Drexler at Charité—University Medicine Berlin, as well as DZIF board member Dr. Thomas Pietschmann and Dr. Sibylle Haid from TWINCORE in Hanover, has now characterized a virus in West African fru",
     "source": "Phys.org",
-    "published": "2026-11-27T21:20:01+00:00",
+    "published": "2026-11-27T23:20:01+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-    "id": "tb518d157",
+    "id": "t42707007",
     "origin": "feed",
-    "title": "The world is experiencing a string of abnormally hot days—and records are being shattered",
-    "url": "https://phys.org/news/2026-11-world-experiencing-abnormally-hot-days.html",
-    "summary": "We're becoming used to seeing records being broken whenever we look at data telling us about Earth's climate. Whether it's the amount of carbon dioxide in the atmosphere, heat in the ocean or shrinking sea ice around the poles, the signs of human-caused climate change are all around us.",
+    "title": "Battery-free implant harvests ultrasound energy and glows to reveal its condition",
+    "url": "https://phys.org/news/2026-11-battery-free-implant-harvests-ultrasound.html",
+    "summary": "Implantable bioelectronics enable health care professionals to continuously monitor patients' physiological conditions, deliver targeted treatments and support recovery. However, once implanted, these devices are difficult to inspect directly, and damage or degradation may go undetected until complications occur. Limited battery lifetimes and leakage risks also raise safety concerns.",
     "source": "Phys.org",
-    "published": "2026-11-27T21:00:05+00:00",
+    "published": "2026-11-27T23:00:04+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-    "id": "t9078fa0d",
+    "id": "te5bd1f9a",
     "origin": "feed",
-    "title": "Strawberries, cucumbers and lemon basil show promise for future moon and Mars menus",
-    "url": "https://phys.org/news/2026-11-strawberries-cucumbers-lemon-basil-future.html",
-    "summary": "As NASA prepares for future missions to the moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving.",
+    "title": "Work-life balance predicts job satisfaction more strongly than pay or flexible working in study",
+    "url": "https://phys.org/news/2026-11-life-job-satisfaction-strongly-pay.html",
+    "summary": "Work-life balance has a stronger association with job satisfaction than pay or flexible working arrangements, according to a study of employees in small and medium-sized enterprises (SMEs) published in the International Journal of Economics and Business Research.",
     "source": "Phys.org",
-    "published": "2026-11-27T21:00:01+00:00",
+    "published": "2026-11-27T23:00:01+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-    "id": "taa18962f",
+    "id": "te32f1fe8",
     "origin": "feed",
-    "title": "Is AI‑assisted thinking devaluing business degrees?",
-    "url": "https://phys.org/news/2026-11-aiassisted-devaluing-business-degrees.html",
-    "summary": "As AI models improve, high-quality knowledge is becoming easier to access. A degree therefore has to certify something more durable than the ability to retrieve knowledge or produce a plausible answer. It must show that a student can exercise judgment, make decisions and defend them.",
+    "title": "New research establishes fundamental complexity limit for quantum circuit optimization",
+    "url": "https://phys.org/news/2026-11-fundamental-complexity-limit-quantum-circuit.html",
+    "summary": "Quantum circuit optimization is an important research area, as the computational resources required to execute quantum algorithms remain a major challenge. In particular, two-qubit operations are generally associated with higher error rates than single-qubit gates on current quantum hardware, making reducing the number of two-qubit gates an important objective.",
     "source": "Phys.org",
-    "published": "2026-11-27T20:40:06+00:00",
+    "published": "2026-11-27T22:40:04+00:00",
     "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-    "id": "t8edf2552",
+    "id": "t02ae263f",
     "origin": "feed",
-    "title": "Melting Barents Sea ice gives Eastern Europe's farmers a spring boost",
-    "url": "https://phys.org/news/2026-11-barents-sea-ice-eastern-europe.html",
-    "summary": "For decades, sea ice in the Barents Sea, a part of the Arctic Ocean north of Norway and Russia, has been shrinking as the Arctic warms. The loss of so much ice can alter weather patterns well beyond the polar region, including in Europe. But how these changes might affect vegetation growth and agricultural production is less well understood.",
+    "title": "Fiber-optic sensing unearths surprising complexity in small California earthquake",
+    "url": "https://phys.org/news/2026-11-fiber-optic-unearths-complexity-small.html",
+    "summary": "More than 20,000 earthquakes are located worldwide each year, but the vast majority of those are small—many too small to be felt by humans. Scientists have historically assumed most of these small earthquakes break as small, circular ruptures in which the rocks in a fault slip past each other in a single, smooth motion, and the crack spreads outward from one point like a ripple in a pond, unlike t",
     "source": "Phys.org",
-    "published": "2026-11-27T20:40:02+00:00"
+    "published": "2026-11-27T22:40:01+00:00"
+  },
+  {
+    "id": "td0f3f33f",
+    "origin": "feed",
+    "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+    "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+    "source": "BBC Science",
+    "published": "2026-11-27T22:29:46+00:00",
+    "text_file": "state/sources/td0f3f33f.txt"
+  },
+  {
+    "id": "t3bfaeb77",
+    "origin": "feed",
+    "title": "Engineers reveal the interlayer elastic limits of van der Waals crystals",
+    "url": "https://phys.org/news/2026-11-reveal-interlayer-elastic-limits-van.html",
+    "summary": "A research team led by Professor Yang Lu from the Department of Mechanical Engineering in the Faculty of Engineering at The University of Hong Kong (HKU), in collaboration with Tsinghua University, has measured the interlayer elastic limits of graphite and hexagonal boron nitride, two representative van der Waals crystals, and revealed the physical mechanism that sets them. The work is published i",
+    "source": "Phys.org",
+    "published": "2026-11-27T22:20:04+00:00"
+  },
+  {
+    "id": "t4171e6ef",
+    "origin": "feed",
+    "title": "Using a drone and a poop-sniffing dog, scientists perform health checks on endangered orcas",
+    "url": "https://phys.org/news/2026-11-drone-poop-sniffing-dog-scientists.html",
+    "summary": "Every fall for the last few years, Deborah Giles starts her workday with one question in mind: Where are the orcas?",
+    "source": "Phys.org",
+    "published": "2026-11-27T22:20:01+00:00"
+  },
+  {
+    "id": "t1a15464a",
+    "origin": "feed",
+    "title": "'That's when the chaos began': The fall of the Berlin Wall in the words of East and West Germans",
+    "url": "https://phys.org/news/2026-11-chaos-began-fall-berlin-wall.html",
+    "summary": "Germany's far right is on the rise, with current polls suggesting the Alternative für Deutschland (AfD) has the backing of 28% of voters nationally. This makes it the most popular party in the country, ahead of German Chancellor Friedrich Merz's Christian Democrats at 20%.",
+    "source": "Phys.org",
+    "published": "2026-11-27T22:10:01+00:00"
+  },
+  {
+    "id": "t079aaecc",
+    "origin": "feed",
+    "title": "Newly discovered barrier could explain why nucleic acid medicines remain trapped inside cells",
+    "url": "https://phys.org/news/2026-11-newly-barrier-nucleic-acid-medicines.html",
+    "summary": "Researchers from the Department of Chemistry at The University of Hong Kong (HKU) and their collaborators have discovered a barrier that may prevent some promising nucleic acid medicines from reaching their targets inside subcellular compartments. Published in Nature Cell Biology, the findings could help guide the development of more effective drug delivery strategies.",
+    "source": "Phys.org",
+    "published": "2026-11-27T22:00:01+00:00"
   },
   {
     "id": "t6b38497d",
@@ -97,42 +143,6 @@
     "source": "Space.com",
     "published": "2026-11-27T20:29:57+00:00",
     "text_file": "state/sources/t1bc70961.txt"
-  },
-  {
-    "id": "t0d2a7156",
-    "origin": "feed",
-    "title": "Once logging stops, recovery of Vietnam's tropical forests isn't guaranteed",
-    "url": "https://phys.org/news/2026-11-recovery-vietnam-tropical-forests-isnt.html",
-    "summary": "Deep in the jungle of central Vietnam, the heat is heavy, the mosquitoes are relentless and the terrain offers no easy paths. My colleagues and I don't hike on clear trails; we wade up riverbeds, stepping carefully over slippery rocks to access the thousands of trees we have been measuring for the last decade.",
-    "source": "Phys.org",
-    "published": "2026-11-27T20:20:08+00:00"
-  },
-  {
-    "id": "t032ed52b",
-    "origin": "feed",
-    "title": "Hera reveals stadium-sized asteroid crater from spacecraft impact",
-    "url": "https://phys.org/news/2026-11-hera-reveals-stadium-sized-asteroid.html",
-    "summary": "Arriving at the site of humankind's first planetary defense experiment, the European Space Agency's Hera mission has found a miniature world of surprises. Dimorphos—the small asteroid whose orbit around a second, larger asteroid was deflected by a spacecraft impact—now has one face flattened with a stadium-sized crater and is tumbling chaotically. Meanwhile, hundreds of previously unknown boulders",
-    "source": "Phys.org",
-    "published": "2026-11-27T20:20:06+00:00"
-  },
-  {
-    "id": "t8464323c",
-    "origin": "feed",
-    "title": "Income inequality is rising while becoming more similar across countries",
-    "url": "https://phys.org/news/2026-11-income-inequality-similar-countries.html",
-    "summary": "Inequality is a much-debated issue in politics and society. International comparative research shows that income inequality has risen in most countries. At the same time, however, the differences in disposable income levels between countries have narrowed.",
-    "source": "Phys.org",
-    "published": "2026-11-27T20:00:06+00:00"
-  },
-  {
-    "id": "t35869b4e",
-    "origin": "feed",
-    "title": "When bad weather hits a fragile financial system",
-    "url": "https://phys.org/news/2026-11-bad-weather-fragile-financial.html",
-    "summary": "An extreme weather event does more than just destroy buildings, facilities or infrastructure. It can also reduce the value of collateral, weaken banks, make credit more expensive and force businesses to postpone investment. Consequently, the damage risks spreading well beyond the locality where the event occurred.",
-    "source": "Phys.org",
-    "published": "2026-11-27T20:00:02+00:00"
   },
   {
     "id": "t913f46b8",
@@ -163,16 +173,6 @@
     "source": "Space.com",
     "published": "2026-11-27T19:00:00+00:00",
     "text_file": "state/sources/tc45294a9.txt"
-  },
-  {
-    "id": "td0f3f33f",
-    "origin": "feed",
-    "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-    "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-    "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
-    "source": "BBC Science",
-    "published": "2026-11-27T18:45:05+00:00",
-    "text_file": "state/sources/td0f3f33f.txt"
   },
   {
     "id": "t4e209576",
