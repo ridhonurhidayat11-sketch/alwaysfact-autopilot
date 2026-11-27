@@ -1,0 +1,161 @@
+{
+ "topic_id": "t286b8fcf",
+ "source_url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+ "risk": "low",
+ "post": {
+  "topic": "Taring narwhal ternyata berisi dua pilinan yang berlawanan arah",
+  "image_query": "Monodon monoceros narwhal",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+   "Taring narwhal ternyata dipilin seperti tali",
+   "Si 'tanduk unicorn' ternyata gigi berpilin ganda"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Taring narwhal ternyata dipilin seperti tali",
+    "body": "Narwhal adalah paus kecil Arktik; si jantan punya satu gigi panjang mirip tanduk unicorn di moncongnya."
+   },
+   {
+    "type": "fact",
+    "title": "Dulu dikira tanduk unicorn",
+    "body": "Raja Denmark abad ke-17 tahu tanduk unicorn berasal dari hewan nyata. Ia mengirim ekspedisi ke Greenland dan membuat singgasana dari 'tanduk' itu.",
+    "image_query": "Narwhal tusk",
+    "takeaway": "Tanduk unicorn itu sebenarnya gigi paus.",
+    "icon": "bulb"
+   },
+   {
+    "type": "fact",
+    "title": "Bukan tanduk, tapi gigi",
+    "body": "Taring narwhal adalah gigi taring kiri atas yang tumbuh menembus bibir. Ia berpilin berlawanan arah jarum jam.",
+    "takeaway": "Gigi biasa tumbuh melengkung, ini berpilin seperti bor.",
+    "icon": "magnifier"
+   },
+   {
+    "type": "fact",
+    "title": "Panjangnya sampai 2 meter",
+    "body": "Taring itu bisa mencapai dua meter, sampai setengah panjang tubuh narwhal. Itu sekitar sepanjang pintu rumah.",
+    "viz": {
+     "kind": "stat",
+     "value": "2 m",
+     "label": "panjang taring",
+     "note": "hingga setengah panjang tubuh"
+    },
+    "takeaway": "Satu gigi bisa sepanjang separuh badan.",
+    "icon": "fish"
+   },
+   {
+    "type": "fact",
+    "title": "Di dalamnya ada dua pilinan",
+    "body": "Peneliti memakai sinar-X canggih. Mereka menemukan dua pilinan kecil yang saling melilit dan berputar berlawanan arah.",
+    "viz": {
+     "kind": "steps",
+     "items": [
+      "Lapisan luar berpilin ke kiri",
+      "Lapisan dalam berpilin ke arah sebaliknya",
+      "Keduanya saling mengunci"
+     ],
+     "caption": "Seperti serat tali yang dipilin"
+    },
+    "takeaway": "Dua pilinan berlawanan membuat taring stabil.",
+    "icon": "atom"
+   },
+   {
+    "type": "fact",
+    "title": "Kenapa itu penting buatmu",
+    "body": "Cara yang sama dipakai pada tali: serat yang berlawanan arah membuat tali kuat dan tidak mudah terpuntir. Alam sudah memakainya lebih dulu.",
+    "takeaway": "Insinyur bisa belajar dari desain taring ini.",
+    "icon": "bulb"
+   },
+   {
+    "type": "cta",
+    "title": "Ikuti @alwaysfact_",
+    "body": "Ikuti @alwaysfact_ untuk fakta sains yang bikin melongo, dan kirim post ini ke temanmu yang suka hewan.",
+    "icon": "heart"
+   }
+  ],
+  "caption": "Taring narwhal ternyata dipilin seperti tali, dengan dua pilinan berlawanan arah di dalamnya.\n\nPenelitian memakai sinar-X untuk melihat susunan seratnya. Kirim ke temanmu yang suka hewan laut!\n\nSumber: ScienceDaily (Paul Scherrer Institute), Nature Communications",
+  "hashtags": [
+   "sains",
+   "faktaunik",
+   "narwhal",
+   "hewanlaut",
+   "alwaysfact",
+   "edukasi"
+  ],
+  "claims": [
+   {
+    "text": "Taring narwhal jantan biasanya adalah gigi taring kiri atas yang tumbuh menembus bibir dan berpilin berlawanan arah jarum jam.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm"
+   },
+   {
+    "text": "Taring narwhal bisa mencapai dua meter, setara hingga setengah panjang tubuh hewan itu.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm"
+   },
+   {
+    "text": "Taring terdiri dari dua pilinan kecil yang saling melilit dan berputar berlawanan arah.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm"
+   },
+   {
+    "text": "Dua pilinan berlawanan membantu taring menahan gaya puntir, seperti serat tali.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm"
+   },
+   {
+    "text": "Raja Denmark Frederik III mengirim ekspedisi ke Greenland dan mendapat singgasana dari 'tanduk unicorn'.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm"
+   }
+  ],
+  "music_suggestions": [
+   "misterius pelan",
+   "penasaran sedang",
+   "tenang ringan"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+   "quote": "Typically, the upper left canine grows forward through the upper lip, twisting counterclockwise as it extends.",
+   "note": "ok"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+   "quote": "It can reach two meters (6.6 feet) in length, equivalent to as much as half the animal's body length.",
+   "note": "ok"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+   "quote": "the tusk's tiny structural components create two intertwined helices that twist in opposite directions.",
+   "note": "ok"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+   "quote": "Their arrangement helps the tusk resist twisting forces, known as torsion, as well as other forms of mechanical stress.",
+   "note": "ok"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+   "quote": "The successful mission earned him a throne fashioned entirely from \"unicorn horns,\"",
+   "note": "ok"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}

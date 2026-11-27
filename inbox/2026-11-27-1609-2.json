@@ -1,0 +1,158 @@
+{
+ "topic_id": "t1e223da6",
+ "source_url": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/",
+ "risk": "low",
+ "post": {
+  "topic": "Spesies ikan baru ditemukan dari perut ikan lain, setelah 42 tahun",
+  "image_query": "Epigonus deep-sea cardinalfish",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+   "Ikan baru ditemukan di perut ikan lain",
+   "Ikan baru ini disimpan 42 tahun tanpa ada yang sadar"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Ikan baru ditemukan di perut ikan lain",
+    "body": "Peneliti Jepang menemukan jenis ikan laut dalam yang belum pernah dikenal, tersimpan di museum selama 42 tahun."
+   },
+   {
+    "type": "fact",
+    "title": "Dimakan ikan lain tahun 1984",
+    "body": "Ikan beardfish tertangkap kapal riset pada Juli 1984. Di perutnya ada ikan kecil yang belum dikenal.",
+    "image_query": "Polymixia japonica",
+    "viz": {
+     "kind": "stat",
+     "value": "1984",
+     "label": "tahun ikan itu tertangkap",
+     "note": "di kedalaman sekitar 370-450 meter"
+    },
+    "takeaway": "Ikan kecil itu ditemukan di dalam perut pemangsanya.",
+    "icon": "fish"
+   },
+   {
+    "type": "fact",
+    "title": "Lalu tersimpan 42 tahun",
+    "body": "Ikan itu disimpan di koleksi museum di Tokyo. Staf dan relawan museum baru memeriksanya setelah 42 tahun.",
+    "viz": {
+     "kind": "stat",
+     "value": "42",
+     "label": "tahun di rak museum",
+     "note": "sampai ada yang memeriksa"
+    },
+    "takeaway": "Penemuan besar kadang menunggu di rak museum.",
+    "icon": "clock"
+   },
+   {
+    "type": "fact",
+    "title": "Ukurannya kecil saja",
+    "body": "Ikan ini hanya sekitar 8 cm, kira-kira sepanjang korek api besar. Matanya besar, seperti ikan yang hidup di laut gelap.",
+    "takeaway": "Mata besar membantu melihat di laut dalam yang gelap.",
+    "icon": "magnifier"
+   },
+   {
+    "type": "fact",
+    "title": "Belum ada yang lihat hidupnya",
+    "body": "Tidak ada yang pernah melihatnya hidup, jadi warnanya pun belum diketahui. Namanya Epigonus masamunei, dari pembuat pedang Jepang kuno.",
+    "takeaway": "Hanya satu contoh ikan ini yang diketahui.",
+    "icon": "bulb"
+   },
+   {
+    "type": "fact",
+    "title": "Kaitannya denganmu",
+    "body": "Laut dalam masih sangat sedikit dijelajahi. Peneliti yakin masih banyak makhluk yang belum dikenal, mungkin tak jauh dari kita.",
+    "takeaway": "Planet kita masih menyimpan banyak kejutan.",
+    "icon": "globe"
+   },
+   {
+    "type": "cta",
+    "title": "Ikuti @alwaysfact_",
+    "body": "Ikuti @alwaysfact_ untuk fakta sains yang bikin melongo, dan kirim post ini ke temanmu yang suka laut.",
+    "icon": "heart"
+   }
+  ],
+  "caption": "Ikan jenis baru ini ditemukan dari perut ikan lain, lalu menunggu 42 tahun di museum.\n\nKirim ke temanmu yang suka hewan laut!\n\nSumber: Mongabay",
+  "hashtags": [
+   "sains",
+   "faktaunik",
+   "lautdalam",
+   "ikan",
+   "alwaysfact",
+   "edukasi"
+  ],
+  "claims": [
+   {
+    "text": "Spesies ikan laut dalam baru dijelaskan dari satu contoh yang ditemukan di perut ikan pemangsa pada 1984.",
+    "source_name": "Mongabay",
+    "source_url": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/"
+   },
+   {
+    "text": "Contoh itu tersimpan di museum Tokyo selama 42 tahun sebelum diperiksa staf dan relawan.",
+    "source_name": "Mongabay",
+    "source_url": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/"
+   },
+   {
+    "text": "Ikan itu berukuran sekitar 8 sentimeter dan bermata besar.",
+    "source_name": "Mongabay",
+    "source_url": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/"
+   },
+   {
+    "text": "Belum ada yang pernah melihat spesies ini hidup, sehingga warnanya tidak diketahui.",
+    "source_name": "Mongabay",
+    "source_url": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/"
+   },
+   {
+    "text": "Ikan pemangsa beardfish ditangkap kapal riset pada Juli 1984 di kedalaman sekitar 370-450 meter.",
+    "source_name": "Mongabay",
+    "source_url": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/"
+   }
+  ],
+  "music_suggestions": [
+   "misterius pelan",
+   "penasaran sedang",
+   "tenang ringan"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/",
+   "quote": "A new-to-science species of deep-sea fish has been described from a single specimen found in the stomach contents of a predatory fish that ate it in 1984.",
+   "note": "ok"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/",
+   "quote": "The specimen sat in a Tokyo museum collection for 42 years until it was examined by museum staff and volunteers.",
+   "note": "ok"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/",
+   "quote": "has large eyes, which is common for fish that live in the dark waters of the deep sea, and measures about 8 centimeters",
+   "note": "ok"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/",
+   "quote": "No one has ever seen the species alive, and so no one knows what color it is either",
+   "note": "ok"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/",
+   "quote": "In July 1984, a research vessel caught the beardfish at an estimated depth of 370-450 meters",
+   "note": "ok"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}
