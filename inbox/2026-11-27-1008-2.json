@@ -1,0 +1,177 @@
+{
+ "topic_id": "t086c38bc",
+ "source_url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm",
+ "risk": "low",
+ "post": {
+  "topic": "Sel otak ternyata bukan tukang spesialis, tapi serba bisa",
+  "image_query": "Swiss Army knife",
+  "pillar": "Tubuh manusia",
+  "hook_options": [
+   "Sel otakmu ternyata bukan spesialis, tapi serba bisa",
+   "Sel otak itu seperti palu atau pisau lipat?"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Sel otakmu ternyata bukan spesialis, tapi serba bisa",
+    "body": "Neuron adalah sel saraf, yaitu satuan kerja terkecil di otak. Peneliti lama berdebat apa tugas tiap sel itu.",
+    "image_query": "Swiss Army knife",
+    "takeaway": "Sel otak bisa mengerjakan banyak hal.",
+    "icon": "bulb"
+   },
+   {
+    "type": "fact",
+    "title": "Dua dugaan yang bersaing",
+    "body": "Apakah tiap sel saraf seperti palu dan gergaji, satu alat untuk satu tugas? Atau seperti pisau lipat serba guna?",
+    "takeaway": "Perdebatan ini sudah berlangsung lama.",
+    "icon": "magnifier",
+    "viz": {
+     "kind": "steps",
+     "items": [
+      "Palu: hanya untuk paku",
+      "Pisau lipat: cocok untuk banyak hal",
+      "Sel otak yang mana?"
+     ],
+     "caption": "Gambaran yang diperdebatkan peneliti"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Peneliti memeriksa 43 bagian otak",
+    "body": "Tim di Universitas Columbia menganalisis rekaman sel saraf tikus di 43 bagian otak, semuanya saat mengerjakan jenis tugas yang sama.",
+    "takeaway": "Datanya jauh lebih besar dari studi biasa.",
+    "icon": "atom",
+    "viz": {
+     "kind": "stat",
+     "value": "43",
+     "label": "bagian otak tikus",
+     "note": "rekaman sel saraf yang dianalisis"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Hasilnya: kebanyakan serba bisa",
+    "body": "Sebagian besar sel saraf menanggapi banyak jenis informasi sekaligus. Sel spesialis ada, tapi jumlahnya jadi pengecualian, bukan aturan.",
+    "takeaway": "Serba bisa itu aturannya, spesialis pengecualian.",
+    "icon": "dna"
+   },
+   {
+    "type": "fact",
+    "title": "Kecuali di bagian indra",
+    "body": "Sel saraf di bagian yang mengolah penglihatan cenderung lebih spesialis. Di bagian lain, tanggapannya jauh lebih beragam.",
+    "image_query": "Mus musculus laboratory mouse",
+    "takeaway": "Pusat penglihatan lebih spesialis.",
+    "icon": "magnifier"
+   },
+   {
+    "type": "fact",
+    "title": "Kaitannya denganmu",
+    "body": "Ini studi pada tikus, tapi peneliti menduga temuan ini membantu menjelaskan kenapa otak bisa mengerjakan tugas serumit itu, termasuk otakmu.",
+    "takeaway": "Otak hebat karena selnya fleksibel.",
+    "icon": "heart"
+   },
+   {
+    "type": "cta",
+    "title": "Ikuti @alwaysfact_",
+    "body": "Kirim ke temanmu yang merasa otaknya penuh, lalu ikuti @alwaysfact_ untuk fakta sains yang sering dilewatkan.",
+    "icon": "rocket"
+   }
+  ],
+  "caption": "Sel otak ternyata bukan tukang spesialis yang cuma punya satu tugas. Menurut studi besar pada tikus, kebanyakan sel saraf justru serba bisa, seperti pisau lipat.\n\nSumber: ScienceDaily (Zuckerman Institute, Universitas Columbia)",
+  "hashtags": [
+   "fakta",
+   "sains",
+   "otak",
+   "neuroscience",
+   "faktaunik",
+   "alwaysfact",
+   "tahukahkamu"
+  ],
+  "claims": [
+   {
+    "text": "Peneliti lama berdebat apakah sel saraf seperti alat khusus (palu dan gergaji) atau seperti pisau lipat serba guna.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm"
+   },
+   {
+    "text": "Rekaman mencakup sel saraf di 43 bagian korteks otak tikus.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm"
+   },
+   {
+    "text": "Para peneliti menyimpulkan sel serba bisa, bukan spesialis, mendominasi sebagian besar korteks.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm"
+   },
+   {
+    "text": "Sel saraf spesialis memang ada, tetapi mereka pengecualian, bukan aturan.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm"
+   },
+   {
+    "text": "Sel saraf di area indra utama, termasuk pengolah penglihatan, cenderung lebih spesialis.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm"
+   },
+   {
+    "text": "Temuan ini dapat membantu menjelaskan kemampuan otak mengerjakan tugas yang kompleks.",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm"
+   }
+  ],
+  "music_suggestions": [
+   "penasaran tempo sedang",
+   "ringan ceria",
+   "misterius pelan"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm",
+   "quote": "Do neurons operate like individual tools, such as hammers and saws, each designed for a particular job?",
+   "note": "debat"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm",
+   "quote": "captured the activity of individual neurons across 43 regions of the mouse cerebral cortex.",
+   "note": "43"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm",
+   "quote": "The overall findings suggest that generalists, rather than specialists, dominate much of the cortex.",
+   "note": "generalis"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm",
+   "quote": "We're saying they are the exceptions. They're not the rule.",
+   "note": "pengecualian"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm",
+   "quote": "Neurons in primary sensory regions, including areas responsible for processing visual information, tended to exhibit more specialized responses.",
+   "note": "indra"
+  },
+  {
+   "claim": 6,
+   "verdict": "supported",
+   "evidence_url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm",
+   "quote": "The discovery could help explain how the brain achieves its remarkable ability to perform complex tasks.",
+   "note": "kompleks"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}

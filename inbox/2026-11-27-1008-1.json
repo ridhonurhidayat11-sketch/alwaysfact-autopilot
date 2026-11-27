@@ -1,0 +1,177 @@
+{
+ "topic_id": "t14fedaa5",
+ "source_url": "https://www.newscientist.com/article/2601034-new-scientist-book-club-how-urine-changed-the-course-of-human-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+ "risk": "low",
+ "post": {
+  "topic": "Air kencing ternyata pernah mengubah sejarah manusia",
+  "image_query": "Hennig Brand alchemist phosphorus painting",
+  "pillar": "Sains yang disepelekan",
+  "hook_options": [
+   "Air kencing ternyata pernah dipajaki kaisar Romawi",
+   "Kenapa kaisar Romawi memajaki air kencing?"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Air kencing ternyata pernah dipajaki kaisar Romawi",
+    "body": "Ribuan tahun lalu, air kencing manusia dipakai sebagai bahan kerja, dari mencuci baju sampai membuat senjata.",
+    "image_query": "Colosseum Rome",
+    "takeaway": "Air kencing dulu bernilai uang.",
+    "icon": "flask"
+   },
+   {
+    "type": "fact",
+    "title": "Dulu belum ada sabun pabrik",
+    "body": "Orang zaman dulu butuh bahan pembersih dan pelembut kulit. Air kencing ternyata mengandung urea, yang diubah bakteri jadi amonia.",
+    "takeaway": "Amonia bisa melunakkan kulit hewan dan membersihkan kain.",
+    "icon": "bacteria",
+    "viz": {
+     "kind": "steps",
+     "items": [
+      "Air kencing",
+      "Bakteri mengurai urea",
+      "Jadi amonia"
+     ],
+     "caption": "Amonia: bahan yang melunakkan kulit hewan"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Toga putih berkat air kencing",
+    "body": "Di Roma kuno, tukang cuci memakai air kencing supaya toga makin putih. Kaisar Vespasianus lalu memajaki saluran pembuangannya.",
+    "image_query": "Vespasian bust",
+    "takeaway": "Pajak ini ikut membiayai Colosseum.",
+    "icon": "bulb"
+   },
+   {
+    "type": "fact",
+    "title": "Mesiu juga pakai air kencing",
+    "body": "Untuk membuat bubuk mesiu, orang mengumpulkan bahan peledaknya dari tumpukan kotoran yang dibasahi air kencing. Cara ini dipakai dari Eropa sampai Jepang.",
+    "takeaway": "Senjata kuno pun bergantung pada air kencing.",
+    "icon": "flame"
+   },
+   {
+    "type": "fact",
+    "title": "Dari 1.500 galon, muncul cahaya",
+    "body": "Tahun 1669, alkemis Hennig Brand menyimpan 1.500 galon air kencing di ruang bawah tanah, setara ratusan galon air minum isi ulang. Hasil pekatnya tiba-tiba bersinar.",
+    "takeaway": "Ia tak sengaja menemukan fosfor, unsur kimia baru.",
+    "icon": "bolt",
+    "viz": {
+     "kind": "stat",
+     "value": "1.500",
+     "label": "galon air kencing",
+     "note": "dikumpulkan di ruang bawah tanah"
+    }
+   },
+   {
+    "type": "fact",
+    "title": "Kaitannya denganmu",
+    "body": "Hari ini air kencing masih dipakai dokter untuk tes di laboratorium. Jadi cairan yang kamu buang tiap hari bukan sekadar limbah.",
+    "takeaway": "Tes laboratorium memakai air kencingmu.",
+    "icon": "heart"
+   },
+   {
+    "type": "cta",
+    "title": "Ikuti @alwaysfact_",
+    "body": "Kirim ke temanmu yang suka fakta aneh, lalu ikuti @alwaysfact_ untuk fakta sains yang sering dilewatkan.",
+    "icon": "rocket"
+   }
+  ],
+  "caption": "Air kencing pernah dipajaki kaisar Romawi, dipakai membuat mesiu, dan bahkan membuat penemu menemukan unsur yang bersinar. Sains kadang datang dari tempat yang tak terduga.\n\nSumber: New Scientist (kutipan dari buku The Age of Alchemy karya Kit Chapman)",
+  "hashtags": [
+   "fakta",
+   "sains",
+   "faktaunik",
+   "sejarah",
+   "kimia",
+   "alwaysfact",
+   "tahukahkamu"
+  ],
+  "claims": [
+   {
+    "text": "Di Roma kuno, air kencing dipakai tukang cuci untuk memutihkan toga, dan Kaisar Vespasianus memajaki saluran pembuangannya.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2601034-new-scientist-book-club-how-urine-changed-the-course-of-human-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "Bagian dana pajak itu dipakai membangun Colosseum di Roma.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2601034-new-scientist-book-club-how-urine-changed-the-course-of-human-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "Air kencing mengandung urea yang bisa diurai bakteri jadi amonia, yang melunakkan bahan organik dan menyamak kulit.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2601034-new-scientist-book-club-how-urine-changed-the-course-of-human-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "Tahun 1669, Hennig Brand mengumpulkan 1500 galon air kencing fermentasi di ruang bawah tanahnya, dan hasil pekatnya bersinar.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2601034-new-scientist-book-club-how-urine-changed-the-course-of-human-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "Bahan mesiu, yaitu kalium nitrat, dikumpulkan dari tumpukan pupuk kandang yang dibasahi air kencing, cara yang dipakai dari Eropa sampai Jepang.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2601034-new-scientist-book-club-how-urine-changed-the-course-of-human-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   {
+    "text": "Hari ini air kencing masih jadi sumber biomarker untuk tes diagnostik di bidang kedokteran.",
+    "source_name": "New Scientist",
+    "source_url": "https://www.newscientist.com/article/2601034-new-scientist-book-club-how-urine-changed-the-course-of-human-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   }
+  ],
+  "music_suggestions": [
+   "misterius pelan",
+   "penasaran tempo sedang",
+   "ceria ringan"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2601034-new-scientist-book-club-how-urine-changed-the-course-of-human-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "In ancient Rome, urine was so useful for laundries to keep togas whiter-than-white that Emperor Vespasian levied a tax on draining urinals.",
+   "note": "toga dan pajak"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2601034-new-scientist-book-club-how-urine-changed-the-course-of-human-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "Part of the funds were used to build the Colosseum in Rome, today recognised as one of the wonders of the world.",
+   "note": "Colosseum"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2601034-new-scientist-book-club-how-urine-changed-the-course-of-human-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "Urine is a source of urea, which bacteria can break down into ammonia, granting early humans easy access to a base that could soften organic matter and tan hides.",
+   "note": "urea"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2601034-new-scientist-book-club-how-urine-changed-the-course-of-human-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "In 1669, an alchemist in Hamburg, Hennig Brand, was searching for the philosopher’s stone using 1500 gallons of fermented urine he had collected in his basement.",
+   "note": "1500 galon"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2601034-new-scientist-book-club-how-urine-changed-the-course-of-human-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "This was gathered from nitre beds, stinking manure heaps mixed with potash and mortar, all moistened with urine to claim the nitrates. This method, used from Europe to Japan, continued well into the 19th century",
+   "note": "mesiu"
+  },
+  {
+   "claim": 6,
+   "verdict": "supported",
+   "evidence_url": "https://www.newscientist.com/article/2601034-new-scientist-book-club-how-urine-changed-the-course-of-human-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "quote": "particularly in medicine, where it is a source of biomarkers used in diagnostic tests",
+   "note": "tes"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}
