@@ -1,5 +1,232 @@
 [
   {
+    "id": "t24d51d59",
+    "origin": "feed",
+    "title": "New soil test could help farmers avoid costly crop damage",
+    "url": "https://phys.org/news/2026-11-soil-farmers-crop.html",
+    "summary": "Herbicides are essential for controlling weeds, but chemicals remaining in the soil after application can damage crops planted in subsequent seasons, particularly during dry conditions.",
+    "source": "Phys.org",
+    "published": "2026-11-27T13:00:11+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t7f27cbcb",
+    "origin": "feed",
+    "title": "Drones offer a new view of wildlife health. But what are they missing?",
+    "url": "https://phys.org/news/2026-11-drones-view-wildlife-health.html",
+    "summary": "Drones are transforming how scientists study wildlife, allowing researchers to photograph and measure animals in their natural environments, monitor larger populations and collect observations with less disturbance. While a photograph can reveal changes in an animal's size and shape, it cannot confidently tell researchers what those changes mean for its health.",
+    "source": "Phys.org",
+    "published": "2026-11-27T13:00:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t4a637f4f",
+    "origin": "feed",
+    "title": "The scientific quest to understand alpha-gal, a tick-borne allergy to red meat",
+    "url": "https://www.scientificamerican.com/article/the-scientific-quest-to-understand-alpha-gal-a-tick-borne-allergy-to-red-meat/",
+    "summary": "Diagnoses are rising, yet much about this potentially life-threatening condition remains unexplained",
+    "source": "Scientific American",
+    "published": "2026-11-27T13:00:00+00:00",
+    "text_file": "state/sources/t4a637f4f.txt"
+  },
+  {
+    "id": "t8735ba99",
+    "origin": "feed",
+    "title": "Bushfire disaster ignites citizen science tourism",
+    "url": "https://phys.org/news/2026-11-bushfire-disaster-ignites-citizen-science.html",
+    "summary": "The devastating Black Summer wildfires on Kangaroo Island accelerated interest in citizen science tourism—a movement gaining momentum as climate-related disasters place unprecedented pressure on native species and landscapes.",
+    "source": "Phys.org",
+    "published": "2026-11-27T12:50:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t1e223da6",
+    "origin": "feed",
+    "title": "A tiny deep-sea fish eaten 42 years ago has now been named a new species",
+    "url": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/",
+    "summary": "A new-to-science species of deep-sea fish has been described from a single specimen found in the stomach contents of a predatory fish that ate it in 1984. The specimen sat in a Tokyo museum collection for 42 years until it was examined by museum staff and volunteers. The newly described deepwater cardinalfish (Epigonus masamunei) has […]",
+    "source": "Mongabay",
+    "published": "2026-11-27T12:40:25+00:00",
+    "text_file": "state/sources/t1e223da6.txt"
+  },
+  {
+    "id": "t7f96a659",
+    "origin": "feed",
+    "title": "Nonlinear optical lattice boosts spatial coherence by concentrating light in a single mode",
+    "url": "https://phys.org/news/2026-11-nonlinear-optical-lattice-boosts-spatial.html",
+    "summary": "Light waves can have varying degrees of coherence, which means that the consistency of the relationship between their phases across space or time can differ. Reliable methods to enhance the coherence of light could pave the way for the development of high-quality lasers and scientific instruments.",
+    "source": "Phys.org",
+    "published": "2026-11-27T12:40:10+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t71a48462",
+    "origin": "feed",
+    "title": "Study finds lasting changes in daily mobility patterns across Latin America after COVID-19",
+    "url": "https://phys.org/news/2026-11-daily-mobility-patterns-latin-america.html",
+    "summary": "Researchers at the University of Liverpool have used anonymized Facebook mobility data to explore how everyday movement patterns changed across Latin American countries in the wake of the COVID-19 pandemic.",
+    "source": "Phys.org",
+    "published": "2026-11-27T12:30:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t3887d94c",
+    "origin": "feed",
+    "title": "What are the odds of a volcano erupting through a salt lake?",
+    "url": "https://phys.org/news/2026-11-odds-volcano-erupting-salt-lake.html",
+    "summary": "An experimental study of what happens when volcanoes erupt through salt lakes is rewriting the genesis story on the formation of some iron ore and rare earth deposits. The Australian National University (ANU) research looks beyond common assumptions, reconciling decades of research. The findings indicate that the various proposed mineral formation routes, or genesis pathways, are not necessarily m",
+    "source": "Phys.org",
+    "published": "2026-11-27T12:20:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t455f5121",
+    "origin": "feed",
+    "title": "Decoding how fish adapt to varying salt concentrations",
+    "url": "https://phys.org/news/2026-11-decoding-fish-varying-salt.html",
+    "summary": "Freshwater and seawater fishes face different challenges in maintaining the balance of salts and water in their bodies. To survive these changing conditions, they rely on specialized transport proteins in organs like the kidneys and intestine to regulate electrolyte transport. However, important questions regarding the molecular mechanisms that support salt transport and acclimatization to differe",
+    "source": "Phys.org",
+    "published": "2026-11-27T12:10:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t3a017276",
+    "origin": "feed",
+    "title": "Karhutla Reda, Banjir Bandang dan Tanah Longsor Datang",
+    "url": "https://mongabay.co.id/2026/11/27/karhutla-reda-banjir-bandang-dan-tanah-longsor-datang/",
+    "summary": "Bencana bertubi-tubi menerpa di berbagai wilayah Indonesia. Ibarat habis gelap, terbitlah kelam. Setelah kebakaran hutan dan lahan (karhutla) di Indonesia mulai mereda, hujan turun, berganti banjir dan longsor melanda. “Sejalan dengan pola musim hujan. Statistik di November, lima tahun terakhir ini menunjukkan bahwa hujan merupakan bencana paling sering terjadi pada November, sebanyak tiga sampai ",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-27T11:58:19+00:00",
+    "text_file": "state/sources/t3a017276.txt"
+  },
+  {
+    "id": "tbef905b7",
+    "origin": "feed",
+    "title": "Opini: Satwa Tak Dilindungi, Bolehkah Diburu Tanpa Batas?",
+    "url": "https://mongabay.co.id/2026/11/27/opini-satwa-tak-dilindungi-bolehkah-diburu-tanpa-batas/",
+    "summary": "Baru-baru ini, sebuah unggahan media sosial memicu perdebatan hangat. Seseorang di pelosok Sumatera menangkap burung kareo (Amaurornis phoenicurus) untuk memenuhi kebutuhan protein keluarganya. Sebagian hasil tangkapannya bahkan dijual sebagai lauk pengganti ayam. Sebagian warganet mengecam perburuan itu, sementara yang lain membela karena kareo bukan satwa yang dilindungi dan masih mudah dijumpai",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-27T11:48:17+00:00",
+    "text_file": "state/sources/tbef905b7.txt"
+  },
+  {
+    "id": "ta2b44399",
+    "origin": "feed",
+    "title": "Where are all the Milky Way’s black holes?",
+    "url": "https://www.scientificamerican.com/article/where-are-all-the-milky-ways-black-holes/",
+    "summary": "Astronomers are missing hundreds of millions of quiet black holes",
+    "source": "Scientific American",
+    "published": "2026-11-27T11:45:00+00:00",
+    "text_file": "state/sources/ta2b44399.txt"
+  },
+  {
+    "id": "t9a070812",
+    "origin": "feed",
+    "title": "Whales return to Patagonia, but face new threats in Argentina",
+    "url": "https://news.mongabay.com/2026/11/whales-return-to-patagonia-but-face-new-threats-in-argentina/",
+    "summary": "Whales are coming back to Argentina’s coast. Decades after commercial hunting decimated their populations, different species of cetaceans are once again repopulating parts of the Argentine Sea. Scientists are now monitoring this recovery through new sightings and technologies that track their migratory routes and feeding grounds. While the growing whale population offers an encouraging sign […]",
+    "source": "Mongabay",
+    "published": "2026-11-27T11:07:04+00:00",
+    "text_file": "state/sources/t9a070812.txt"
+  },
+  {
+    "id": "ta0a575a3",
+    "origin": "feed",
+    "title": "Is Russia about to send a nuclear weapon into space? - video",
+    "url": "https://www.theguardian.com/science/video/2026/nov/27/is-russia-about-to-send-a-nuclear-weapon-into-space-video",
+    "summary": "Amid reports that Russia might be planning to launch a satellite with a nuclear weapon onboard, Science Editor Ian Sample asks Madeleine Finlay what a nuclear detonation in space would mean for everyone back on Earth. Continue reading...",
+    "source": "The Guardian Science",
+    "published": "2026-11-27T11:05:43+00:00",
+    "text_file": "state/sources/ta0a575a3.txt"
+  },
+  {
+    "id": "t34c18d40",
+    "origin": "feed",
+    "title": "Beeswax and pine link crocodile mummies made centuries apart at one Egyptian site",
+    "url": "https://phys.org/news/2026-11-beeswax-link-crocodile-mummies-centuries.html",
+    "summary": "In a practice spanning centuries, ancient Egyptians mummified thousands of crocodiles they associated with Sobek, a god linked to the Nile, fertility and royal power. In one unique example, embalmers from the middle of the 1st millennium BC at Kom Ombo in southern Egypt mounted more than 25 hatchlings on reeds along the back and neck of a crocodile nearly 4 meters (13 feet) long. The arrangement m",
+    "source": "Phys.org",
+    "published": "2026-11-27T11:00:01+00:00"
+  },
+  {
+    "id": "t4a109ee6",
+    "origin": "feed",
+    "title": "James Webb telescope discovers mysterious red object just 450 million years after the Big Bang — and it could be a baby black hole",
+    "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-discovers-earliest-little-red-dot-candidate-yet-just-450-million-years-after-the-big-bang",
+    "summary": "The James Webb Space Telescope has spotted a tiny, extremely red object in the infant universe. It may be one of the earliest black holes, but researchers can't yet rule out a very different explanation.",
+    "source": "Live Science",
+    "published": "2026-11-27T11:00:00+00:00",
+    "text_file": "state/sources/t4a109ee6.txt"
+  },
+  {
+    "id": "td958e64b",
+    "origin": "feed",
+    "title": "Astronomers watch a red giant star greedily devour a stellar 'Bao bun' before erupting: 'We couldn't quite believe our luck'",
+    "url": "https://www.space.com/astronomy/stars/astronomers-watch-a-red-giant-star-greedily-devour-a-stellar-bao-bun-before-erupting-we-couldnt-quite-believe-our-luck",
+    "summary": "Astronomers witnessed the spectacular cosmic indigestion that resulted from a red giant star that devoured a stellar Bao bun in the form of its smaller companion star.",
+    "source": "Space.com",
+    "published": "2026-11-27T11:00:00+00:00",
+    "text_file": "state/sources/td958e64b.txt"
+  },
+  {
+    "id": "t79e6a831",
+    "origin": "feed",
+    "title": "Zambian court again delays copper miner’s bid to block pollution lawsuit",
+    "url": "https://news.mongabay.com/short-article/2026/11/zambian-court-again-delays-copper-miners-bid-to-block-pollution-lawsuit/",
+    "summary": "Zambia’s top court has postponed for the fourth time an appeal by copper miner Sino Metals, which is trying to block a lawsuit against it from proceeding. The latest adjournment comes amid ongoing concerns over disputed resettlement offers. In February 2025, the dam holding the mining waste at the Sino Metals Leach Zambia Limited mine […]",
+    "source": "Mongabay",
+    "published": "2026-11-27T10:27:47+00:00",
+    "text_file": "state/sources/t79e6a831.txt"
+  },
+  {
+    "id": "t286b8fcf",
+    "origin": "feed",
+    "title": "The narwhal’s legendary “unicorn horn” holds a remarkable engineering secret",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+    "summary": "The narwhal’s iconic spiral tusk, once prized in Europe as the horn of a mythical unicorn, conceals an extraordinary feat of natural engineering. Using advanced X-ray technology, an international team of scientists discovered that the tusk contains two intertwined microscopic spirals that twist in opposite directions.",
+    "source": "ScienceDaily",
+    "published": "2026-11-27T10:01:39+00:00",
+    "text_file": "state/sources/t286b8fcf.txt"
+  },
+  {
+    "id": "t4af06839",
+    "origin": "feed",
+    "title": "Bacterial colonies turn themselves inside out when oxygen is scarce",
+    "url": "https://phys.org/news/2026-11-bacterial-colonies-oxygen-scarce.html",
+    "summary": "Bacteria can protect themselves from external threats by forming colonies. The physical principles that govern the structure of such colonies, and in particular their structural transformations, are poorly understood.",
+    "source": "Phys.org",
+    "published": "2026-11-27T10:00:05+00:00"
+  },
+  {
+    "id": "teafa907a",
+    "origin": "feed",
+    "title": "New atlas unites nearly 3,500 laser surveys to map forests across 56 countries",
+    "url": "https://phys.org/news/2026-11-atlas-laser-surveys-forests-countries.html",
+    "summary": "An international team of researchers led by the University of Bristol in the U.K. has unveiled the Global Canopy Atlas—the largest integrated collection of high-resolution 3D maps of forests, woodlands and savannas ever assembled.",
+    "source": "Phys.org",
+    "published": "2026-11-27T10:00:01+00:00"
+  },
+  {
+    "id": "t80d54bc1",
+    "origin": "feed",
+    "title": "DARPA is assessing Microsoft's controversial quantum computing technology. What will happen if the Majorana 2 platform is vindicated?",
+    "url": "https://www.livescience.com/technology/quantum/darpa-is-assessing-microsofts-controversial-quantum-computing-technology-what-will-happen-if-the-majorana-2-platform-is-vindicated",
+    "summary": "Microsoft has doubled down on its Majorana 2 quantum computing platform despite pushback from the physics community, with DARPA researchers now set to evaluate the bold claims.",
+    "source": "Live Science",
+    "published": "2026-11-27T10:00:00+00:00",
+    "text_file": "state/sources/t80d54bc1.txt"
+  },
+  {
+    "id": "tdcbee2fc",
+    "origin": "feed",
+    "title": "Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm",
+    "summary": "Virginia Tech scientists have discovered how to transform one of the world's hardest-to-recycle plastics into a valuable ingredient for high-performance engine oil. Their innovative process converts discarded PVC into a useful lubricant material in just three hours. The breakthrough could turn a major source of plastic pollution into a valuable industrial resource while making lubricant production",
+    "source": "ScienceDaily",
+    "published": "2026-11-27T09:52:24+00:00",
+    "text_file": "state/sources/tdcbee2fc.txt"
+  },
+  {
     "id": "t14fedaa5",
     "origin": "feed",
     "title": "New Scientist Book Club: How urine changed the course of human history",
@@ -276,8 +503,7 @@
     "url": "https://phys.org/news/2026-11-digital-access-early-music.html",
     "summary": "What may look to modern readers like a form of secret code in fact opens the door to a fascinating world of historical music: German lute tablature. Developed specifically for the Renaissance lute, this rich notational tradition preserves dances, songs and other musical works that were immensely popular some 500 years ago. As part of an interdisciplinary team of experts, researchers at the Univers",
     "source": "Phys.org",
-    "published": "2026-11-27T01:00:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-27T01:00:01+00:00"
   },
   {
     "id": "tbdda71c1",
@@ -300,14 +526,63 @@
     "text_file": "state/sources/t5717dc47.txt"
   },
   {
+    "id": "t5f07086e",
+    "origin": "feed",
+    "title": "The haunting loveliness of boglands: Books in brief",
+    "url": "https://www.nature.com/articles/d41586-026-03885-4",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-27T00:00:00+00:00",
+    "text_file": "state/sources/t5f07086e.txt"
+  },
+  {
+    "id": "tc1267254",
+    "origin": "feed",
+    "title": "Brain area’s mysterious role in speech decoded at last",
+    "url": "https://www.nature.com/articles/d41586-026-03800-x",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-27T00:00:00+00:00",
+    "text_file": "state/sources/tc1267254.txt"
+  },
+  {
+    "id": "t7a705742",
+    "origin": "feed",
+    "title": "Life-saving cancer drug pumped out by a plant",
+    "url": "https://www.nature.com/articles/d41586-026-03801-w",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-27T00:00:00+00:00",
+    "text_file": "state/sources/t7a705742.txt"
+  },
+  {
+    "id": "t78522e62",
+    "origin": "feed",
+    "title": "Postcards from your graves",
+    "url": "https://www.nature.com/articles/d41586-026-03523-z",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-27T00:00:00+00:00",
+    "text_file": "state/sources/t78522e62.txt"
+  },
+  {
+    "id": "t9e913075",
+    "origin": "feed",
+    "title": "Why the incoming US Congress should ban the development of self-improving AI",
+    "url": "https://www.nature.com/articles/d41586-026-03849-8",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-27T00:00:00+00:00",
+    "text_file": "state/sources/t9e913075.txt"
+  },
+  {
     "id": "td0af14d8",
     "origin": "feed",
     "title": "Why molecular cage catalysts show enormous differences in performance",
     "url": "https://phys.org/news/2026-11-molecular-cage-catalysts-enormous-differences.html",
     "summary": "Chemistry researchers have developed a new way to identify and understand highly effective artificial enzyme-like catalysts using powerful \"molecular cages\" that mimic the behavior of nature's enzymes. These tiny, hollow molecular structures act like miniature reaction chambers to trap molecules and accelerate chemical reactions. The cages showed enormous differences in performance, with the best ",
     "source": "Phys.org",
-    "published": "2026-11-26T23:20:02+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-26T23:20:02+00:00"
   },
   {
     "id": "teff173bb",
@@ -318,16 +593,6 @@
     "source": "BBC Science",
     "published": "2026-11-26T21:51:16+00:00",
     "text_file": "state/sources/teff173bb.txt"
-  },
-  {
-    "id": "t1ff75957",
-    "origin": "feed",
-    "title": "DESTINY model tracks molecular chemistry on uneven, ice-covered grains in interstellar space",
-    "url": "https://phys.org/news/2026-11-destiny-tracks-molecular-chemistry-uneven.html",
-    "summary": "Interstellar space is the scene of active chemical processes: molecules form there in the gas, but also on the surface of tiny dust grains covered in ice. To better represent what happens on these surfaces, astrophysicists at the University of Liège are proposing a deterministic approach based on Markov chains with absorbing states, a mathematical tool that had not yet been utilized in astrochemis",
-    "source": "Phys.org",
-    "published": "2026-11-26T21:40:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
     "id": "t086c38bc",
@@ -346,8 +611,7 @@
     "url": "https://news.mongabay.com/2026/11/community-forests-offer-hope-for-conservation-in-drc-but-major-hurdles-remain/",
     "summary": "LUBUMBASHI, Democratic Republic of Congo — In the Democratic Republic of Congo, an initiative is underway to award community-based forestry land titles to 7.1 million hectares of land, or about 17.5 million acres — an area the size of Ireland. This is one of several conservation strategies aimed at protecting the DRC’s biodiversity while recognizing […]",
     "source": "Mongabay",
-    "published": "2026-11-26T21:30:06+00:00",
-    "text_file": "state/sources/t11f42c86.txt"
+    "published": "2026-11-26T21:30:06+00:00"
   },
   {
     "id": "t26e60328",
@@ -360,24 +624,14 @@
     "text_file": "state/sources/t26e60328.txt"
   },
   {
-    "id": "t71212526",
+    "id": "t19762d79",
     "origin": "feed",
     "title": "BBC Inside Science",
-    "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct978n?at_medium=RSS&at_campaign=rss",
     "summary": "One of the greatest problems in the history of mathematics has been solved by AI.",
     "source": "BBC Science",
     "published": "2026-11-26T21:00:00+00:00",
-    "text_file": "state/sources/t71212526.txt"
-  },
-  {
-    "id": "tbe352f5a",
-    "origin": "feed",
-    "title": "JWST studies a tiny, metal-poor galaxy with just a fraction of the sun's oxygen abundance",
-    "url": "https://phys.org/news/2026-11-jwst-tiny-metal-poor-galaxy.html",
-    "summary": "Astronomers using the James Webb Space Telescope (JWST) have studied one of the most metal-poor galaxies known. Seen as it was around 12.2 billion years ago, LAP2 is a tiny system with a stellar mass comparable to that of a massive star cluster. The research paper was posted to the arXiv preprint server on Nov. 3.",
-    "source": "Phys.org",
-    "published": "2026-11-26T20:00:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "text_file": "state/sources/t19762d79.txt"
   },
   {
     "id": "te0c25974",
@@ -389,16 +643,6 @@
     "published": "2026-11-26T19:26:16+00:00"
   },
   {
-    "id": "t0dec0d50",
-    "origin": "feed",
-    "title": "Wave-like displays in animal groups may have evolved to deceive predators",
-    "url": "https://phys.org/news/2026-11-displays-animal-groups-evolved-predators.html",
-    "summary": "Some of the most striking patterns in collective behavior emerge in the face of danger. When a predator approaches, some animal groups morph into a vision of pulsing waves. These patterns might be more than a side effect of group living; they could have evolved as a form of deception, argue Dr. Eduardo Sampaio and professor Iain Couzin of the Max Planck Institute of Animal Behavior (MPI-AB) and th",
-    "source": "Phys.org",
-    "published": "2026-11-26T19:00:15+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
     "id": "tb3843671",
     "origin": "feed",
     "title": "This pocket-sized smart telescope is small enough to take anywhere, now 19% cheaper for Black Friday — plus a chance to win one for free!",
@@ -407,26 +651,6 @@
     "source": "Space.com",
     "published": "2026-11-26T19:00:00+00:00",
     "text_file": "state/sources/tb3843671.txt"
-  },
-  {
-    "id": "t7286802a",
-    "origin": "feed",
-    "title": "Runaway pulsar escapes the remnant of its own supernova",
-    "url": "https://phys.org/news/2026-11-runaway-pulsar-remnant-supernova.html",
-    "summary": "A team of astronomers has spotted a rare example of a pulsar that has escaped the cloud of debris left by the supernova explosion in which it formed. Led by Rohit Dokara, formerly at the Max Planck Institute for Radio Astronomy, the team made the discovery by chance, adding to just a handful of similar known cases.",
-    "source": "Phys.org",
-    "published": "2026-11-26T18:50:02+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-    "id": "tc29798d3",
-    "origin": "feed",
-    "title": "Can Elon Musk really put AI datacentres in space? - The Latest",
-    "url": "https://www.theguardian.com/news/video/2026/nov/26/can-elon-musk-really-put-ai-datacentres-in-space-the-latest",
-    "summary": "The Trump administration has approved Elon Musk’s plan to create datacentres in space. US federal regulators have authorised the launch of one million Starmind orbital satellites, which are built by Musk’s SpaceX, to process data in space. Supporters argue the project will be more energy-efficient and reduce the environmental impact of datacentres on Earth as the AI industry grows. But how realist",
-    "source": "The Guardian Science",
-    "published": "2026-11-26T18:34:17+00:00",
-    "text_file": "state/sources/tc29798d3.txt"
   },
   {
     "id": "t0f11655c",
@@ -464,18 +688,7 @@
     "url": "https://news.mongabay.com/short-article/2026/11/us-bill-to-speed-up-clean-energy-projects-could-also-fast-track-fossil-fuels/",
     "summary": "On Nov. 19, the U.S. Senate passed a bill that aims to speed up permitting for energy infrastructure projects. The 62-33 vote on the Bipartisan American Affordability and Jobs Act (BAAJA) included support from pro-environment Democratic senators like Sheldon Whitehouse from Rhode Island. The legislation would ease development for renewable energy and transmission lines, but […]",
     "source": "Mongabay",
-    "published": "2026-11-26T17:58:01+00:00",
-    "text_file": "state/sources/t2d89e861.txt"
-  },
-  {
-    "id": "tf340aa54",
-    "origin": "feed",
-    "title": "5G interference can alter high-impact weather forecasts",
-    "url": "https://phys.org/news/2026-11-5g-high-impact-weather.html",
-    "summary": "Could leaks from future 5G networks interfere with satellite weather measurements and potentially alter forecasts? That's the concern of a group of researchers from the U.S. states of New Jersey and Maryland, with lead author Behzad Golparvar from Rutgers University in New Jersey.",
-    "source": "Phys.org",
-    "published": "2026-11-26T17:40:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-26T17:58:01+00:00"
   },
   {
     "id": "t3fcac1d2",
@@ -486,15 +699,6 @@
     "source": "Space.com",
     "published": "2026-11-26T17:30:00+00:00",
     "text_file": "state/sources/t3fcac1d2.txt"
-  },
-  {
-    "id": "ta5b8eda1",
-    "origin": "feed",
-    "title": "Thailand tests find high lead, arsenic in river shellfish",
-    "url": "https://phys.org/news/2026-11-thailand-high-arsenic-river-shellfish.html",
-    "summary": "Thai authorities have found dangerous levels of arsenic and lead in shellfish and other species in rivers contaminated by suspected mining pollution from neighboring Myanmar, an official said Thursday.",
-    "source": "Phys.org",
-    "published": "2026-11-26T17:00:01+00:00"
   },
   {
     "id": "t4f4addb4",
@@ -517,24 +721,6 @@
     "text_file": "state/sources/t1b94abe1.txt"
   },
   {
-    "id": "tcb1ad45c",
-    "origin": "feed",
-    "title": "Spain races to stop oil spill after ship capsizes off Ibiza",
-    "url": "https://phys.org/news/2026-11-spain-oil-ship-capsizes-ibiza.html",
-    "summary": "Spanish authorities raced to contain any damage to ecologically valuable Mediterranean waters on Thursday after a tanker carrying up to 7,000 tonnes (7,700 tons) of diesel capsized off Ibiza, leaving one dead.",
-    "source": "Phys.org",
-    "published": "2026-11-26T16:40:04+00:00"
-  },
-  {
-    "id": "t782de457",
-    "origin": "feed",
-    "title": "God-faced rings may have identified Mesoamerica's long-distance merchants",
-    "url": "https://phys.org/news/2026-11-god-mesoamerica-distance-merchants.html",
-    "summary": "Over 1,000 years ago, a Mesoamerican may have been traveling through foreign lands. Upon arriving at his destination, he held up his hand, adorned with a ring showing the face of a god, but what was this ring's purpose?",
-    "source": "Phys.org",
-    "published": "2026-11-26T16:20:01+00:00"
-  },
-  {
     "id": "tcb6452bf",
     "origin": "feed",
     "title": "Fireball steals the show during Thanksgiving drone display in Indiana",
@@ -542,15 +728,6 @@
     "summary": "The glowing object was captured on video as holiday-themed drones illuminated the night sky.",
     "source": "BBC Science",
     "published": "2026-11-26T16:18:30+00:00"
-  },
-  {
-    "id": "t696de519",
-    "origin": "feed",
-    "title": "Global maritime trade set for zero growth in 2026: UN",
-    "url": "https://phys.org/news/2026-11-global-maritime-growth.html",
-    "summary": "Global maritime trade—which carries more than 80% of the world's goods—is set to stagnate in 2026 due to shipping disruptions and trade uncertainties arising from the war in the Middle East, the United Nations said Thursday.",
-    "source": "Phys.org",
-    "published": "2026-11-26T16:00:01+00:00"
   },
   {
     "id": "t85cc5e11",
@@ -569,8 +746,7 @@
     "url": "https://www.space.com/stargazing/skywatching-kit/cloudy-thanksgiving-spoiling-your-stargazing-these-star-projectors-are-on-offer-for-black-friday",
     "summary": "From night lights to educational home planetariums, I've rounded up the biggest Black Friday savings on star projectors, including a major saving on the coolest star projector I've ever tested.",
     "source": "Space.com",
-    "published": "2026-11-26T16:00:00+00:00",
-    "text_file": "state/sources/tcbf2c7d2.txt"
+    "published": "2026-11-26T16:00:00+00:00"
   },
   {
     "id": "t93cbb17b",
@@ -588,17 +764,7 @@
     "url": "https://news.mongabay.com/2026/11/tequilas-hangover-how-the-drinks-success-drove-deforestation-in-mexico/",
     "summary": "For decades, Manuel García Castro has grown corn, squash and beans to feed his family and livestock. In 2019, he followed in the footsteps of prosperous local farmers and dedicated a portion of his land in the highlands of Jalisco, western Mexico, to planting blue agave, used to make tequila. A friend persuaded him to […]",
     "source": "Mongabay",
-    "published": "2026-11-26T15:44:26+00:00",
-    "text_file": "state/sources/t5ee00321.txt"
-  },
-  {
-    "id": "tac5892c4",
-    "origin": "feed",
-    "title": "Protein redesign boosts DNA insertion activity and reveals how molecular machinery selects targets",
-    "url": "https://phys.org/news/2026-11-protein-redesign-boosts-dna-insertion.html",
-    "summary": "Genome engineering is exciting, given its vast potential to treat and even cure diseases, but it is still a largely uncharted biomedical innovation. Scientists at St. Jude Children's Research Hospital recently uncovered the mechanisms involved in precisely integrating DNA into a target genomic location using CRISPR-associated transposases (CASTs). By studying type I-F3 CAST, the researchers unveil",
-    "source": "Phys.org",
-    "published": "2026-11-26T15:40:02+00:00"
+    "published": "2026-11-26T15:44:26+00:00"
   },
   {
     "id": "t707980af",
@@ -694,17 +860,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm",
     "summary": "Scientists have solved the mystery of strange trenches scattered across Australia’s vast Nullarbor Plain, revealing an extensive hidden world beneath the surface. These subtle landscape features are created as deeply buried cave systems slowly collapse upward over millions of years. The discovery could help researchers locate unexplored caves containing ancient environmental records and unusual li",
     "source": "ScienceDaily",
-    "published": "2026-11-26T11:06:15+00:00",
-    "text_file": "state/sources/t33bbc851.txt"
-  },
-  {
-    "id": "taaba79d2",
-    "origin": "feed",
-    "title": "Space plants with hot sauce: What ISS astronauts will be eating on Thanksgiving (video)",
-    "url": "https://www.space.com/space-exploration/human-spaceflight/space-plants-with-hot-sauce-what-iss-astronauts-will-be-eating-on-thanksgiving-video",
-    "summary": "The astronauts on the International Space Station will celebrate Thanksgiving with some nontraditional fare. Tortillas, hot sauce and pasta are on the menu, at least for one of them.",
-    "source": "Space.com",
-    "published": "2026-11-26T11:00:00+00:00"
+    "published": "2026-11-26T11:06:15+00:00"
   },
   {
     "id": "t309f0b1d",
@@ -751,8 +907,7 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm",
     "summary": "A famous 345-million-year-old fossil has turned out to be something entirely different from what scientists believed for decades. Advanced X-ray imaging revealed hidden gills and thousands of tiny teeth, exposing a primitive aquatic or amphibious creature rather than an early reptile. The discovery suggests that several adaptations associated with life on land actually evolved in animals still dep",
     "source": "ScienceDaily",
-    "published": "2026-11-26T10:46:17+00:00",
-    "text_file": "state/sources/t34e52cea.txt"
+    "published": "2026-11-26T10:46:17+00:00"
   },
   {
     "id": "t88fdfc98",
@@ -771,8 +926,7 @@
     "url": "https://mongabay.co.id/2026/11/26/mengapa-asal-usul-induk-kucing-hibrida-penting-bagi-perlindungan-kucing-kuwuk/",
     "summary": "Bagaimana memastikan seekor kucing hibrida benar-benar berasal dari pembiakan yang terkontrol? Dari mana induk kucing kuwuk diperoleh, bagaimana proses persilangannya, dan sejauh mana sifat liar diwariskan pada keturunannya? Mahardatunkamsi, peneliti senior mamalia dari Pusat Riset Biosistematika dan Evolusi Badan Riset dan Inovasi Nasional (BRIN), menjelaskan bahwa keturunan hasil persilangan kuc",
     "source": "Mongabay Indonesia",
-    "published": "2026-11-26T09:00:57+00:00",
-    "text_file": "state/sources/te5d2f86c.txt"
+    "published": "2026-11-26T09:00:57+00:00"
   },
   {
     "id": "t11fea53c",
@@ -785,32 +939,13 @@
     "text_file": "state/sources/t11fea53c.txt"
   },
   {
-    "id": "teb0269c8",
-    "origin": "feed",
-    "title": "International marine biodiversity conference emphasizes the unsung and the unknown",
-    "url": "https://news.mongabay.com/2026/11/international-marine-biodiversity-conference-emphasizes-the-unsung-and-the-unknown/",
-    "summary": "BRUGES, Belgium — More than 800 people gathered for the 7th World Conference on Marine Biodiversity, held Nov. 17-20, in Bruges, Belgium. The conference took on topics as varied as deep-sea mining impacts, ocean-related art, citizen science, methods for working with large datasets, environmental DNA and taxonomy. Yet it also raised broader questions about how people […]",
-    "source": "Mongabay",
-    "published": "2026-11-26T08:01:34+00:00"
-  },
-  {
-    "id": "tc119b5d5",
-    "origin": "feed",
-    "title": "How Uttarakhand’s women farmers are reviving endangered Himalayan medicinal plants",
-    "url": "https://news.mongabay.com/2026/11/how-uttarakhands-women-farmers-are-reviving-endangered-himalayan-medicinal-plants/",
-    "summary": "RAMNI, Uttarakhand, India — At state fairs across Uttarakhand, while most farmers set up stalls featuring local millet varieties, Guddi Devi and her fellow farmers showcase saplings of high-altitude medicinal plants. “In the past, people used to bring kutki [Picrorhiza kurroa] and other herbs like sugandha bala [Valeriana jatamansi] from the bugyals [alpine meadows]. Since […]",
-    "source": "Mongabay",
-    "published": "2026-11-26T08:00:13+00:00"
-  },
-  {
     "id": "ta2c9576b",
     "origin": "feed",
     "title": "Jejak Karhutla pada Area Konsesi Perusahaan di Jambi",
     "url": "https://mongabay.co.id/2026/11/26/jejak-karhutla-pada-area-konsesi-perusahaan-di-jambi/",
     "summary": "Awal November lalu, Walhi Jambi melaporkan delapan perusahaan dan satu koperasi ke Polda Jambi atas kebakaran hutan dan lahan. Di belakang mereka berdiri grup besar dari Sinar Mas, PTPN, hingga Michelin. Sampai 2 November 2026, analisis tim GIS Walhi Jambi mencatat, luas kebakaran di Jambi menjadi 65.429 hektar. Lebih dari seperlima luas kebakaran disumbang […] The post Jejak Karhutla pada Area Ko",
     "source": "Mongabay Indonesia",
-    "published": "2026-11-26T07:10:38+00:00",
-    "text_file": "state/sources/ta2c9576b.txt"
+    "published": "2026-11-26T07:10:38+00:00"
   },
   {
     "id": "t1e4111a6",
@@ -928,24 +1063,6 @@
     "published": "2026-11-26T02:42:37+00:00"
   },
   {
-    "id": "tf73da65a",
-    "origin": "feed",
-    "title": "Ujung Ekor Ular Ini Dulu Dikira Tumor, Ternyata Umpan Berbentuk Laba-laba Palsu yang Seluruhnya Terbuat dari Sisik",
-    "url": "https://mongabay.co.id/2026/11/26/ujung-ekor-ular-ini-dulu-dikira-tumor-ternyata-umpan-berbentuk-laba-laba-palsu-yang-seluruhnya-terbuat-dari-sisik/",
-    "summary": "Banyak ular menggerakkan ekornya untuk memancing mangsa. Cara ini dikenal pada ular derik, boa, dan piton, dan pada hampir semuanya ekor yang dipakai berbentuk biasa. Paling jauh, ujung ekor itu berwarna lebih terang daripada bagian tubuh lainnya. Gerakannya menarik perhatian mangsa yang mendekat, lalu ular menyergapnya. Satu spesies memakai cara ini dengan umpan yang jauh […] The post Ujung Ekor ",
-    "source": "Mongabay Indonesia",
-    "published": "2026-11-26T02:26:27+00:00"
-  },
-  {
-    "id": "t0dbee1b1",
-    "origin": "feed",
-    "title": "The night watchmen guarding Malaysia’s critically endangered river terrapins",
-    "url": "https://news.mongabay.com/2026/11/the-night-watchmen-guarding-malaysias-critically-endangered-river-terrapins/",
-    "summary": "KEMAMAN, Malaysia — As night settles over Kampung Pasir Gajah, a small team of men can be found sitting in the moonlight by the riverbank. They scroll on their phones, share a late meal, but their ears are tuned to the river. These men call themselves the Terrapin Guardians, or Geng Tuntung in Malay, after […]",
-    "source": "Mongabay",
-    "published": "2026-11-26T02:00:42+00:00"
-  },
-  {
     "id": "tdc6fbeaf",
     "origin": "feed",
     "title": "Astronomers may have discovered a black hole born before the first stars",
@@ -963,15 +1080,6 @@
     "source": "The Conversation Indonesia",
     "published": "2026-11-26T02:00:20+00:00",
     "text_file": "state/sources/t64d5d7bc.txt"
-  },
-  {
-    "id": "t7199c642",
-    "origin": "feed",
-    "title": "Ekonomi Sirkular Masih Munculkan Ketidakadilan?",
-    "url": "https://mongabay.co.id/2026/11/26/ekonomi-sirkular-masih-munculkan-ketidakadilan/",
-    "summary": "Konsep ekonomi sirkular tidak selamanya positif. Metode pengurangan limbah, penggunaan kembali material, dan daur ulang ini kerap mendapat tempat dalam penanganan krisis iklim. Meski begitu, jutaan orang yang menjadi penggerak utamanya justru berada di luar perlindungan dan pengakuan sistem formal, ada ketidakadilan sosial di dalamnya. Mariel Vilella, Direktur Program Iklim Global (Global Alliance",
-    "source": "Mongabay Indonesia",
-    "published": "2026-11-26T01:50:09+00:00"
   },
   {
     "id": "t0976ce0a",
@@ -1000,8 +1108,7 @@
     "url": "https://www.nature.com/articles/d41586-026-02752-6",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-26T00:00:00+00:00",
-    "text_file": "state/sources/t909c8697.txt"
+    "published": "2026-11-26T00:00:00+00:00"
   },
   {
     "id": "t7a47b5d7",
@@ -1010,8 +1117,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03875-6",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-26T00:00:00+00:00",
-    "text_file": "state/sources/t7a47b5d7.txt"
+    "published": "2026-11-26T00:00:00+00:00"
   },
   {
     "id": "t8d39e5db",
@@ -1020,8 +1126,16 @@
     "url": "https://www.nature.com/articles/d41586-026-03828-z",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-26T00:00:00+00:00",
-    "text_file": "state/sources/t8d39e5db.txt"
+    "published": "2026-11-26T00:00:00+00:00"
+  },
+  {
+    "id": "t60d2c578",
+    "origin": "feed",
+    "title": "Daily briefing: A guide to the Riemann hypothesis",
+    "url": "https://www.nature.com/articles/d41586-026-03894-3",
+    "summary": "",
+    "source": "Nature",
+    "published": "2026-11-26T00:00:00+00:00"
   },
   {
     "id": "tabfd6f87",
@@ -1030,8 +1144,7 @@
     "url": "https://www.livescience.com/health/heart-circulation/your-risk-of-heart-attack-and-stroke-could-be-forecasted-30-years-in-advance-study-suggests",
     "summary": "Researchers knew that cholesterol and blood pressure are important for estimating stroke risk, but a new study suggests these should be measured far earlier in life.",
     "source": "Live Science",
-    "published": "2026-11-25T20:20:00+00:00",
-    "text_file": "state/sources/tabfd6f87.txt"
+    "published": "2026-11-25T20:20:00+00:00"
   },
   {
     "id": "t1aa9447e",
@@ -1040,8 +1153,7 @@
     "url": "https://www.livescience.com/space/astronomy/james-webb-and-euclid-telescopes-discover-record-breaking-quasar-at-the-edge-of-the-universe",
     "summary": "Scientists have discovered the earliest-known quasar lurking in the ancient universe — and it's growing at a slower rate than scientists believed possible.",
     "source": "Live Science",
-    "published": "2026-11-25T20:07:13+00:00",
-    "text_file": "state/sources/t1aa9447e.txt"
+    "published": "2026-11-25T20:07:13+00:00"
   },
   {
     "id": "teda4b500",
@@ -1197,15 +1309,6 @@
     "text_file": "state/sources/tf5ff8407.txt"
   },
   {
-    "id": "t30e1a4e2",
-    "origin": "feed",
-    "title": "Scientists may have discovered new branch on the human family tree, 100,000-year-old tooth in China suggests",
-    "url": "https://www.livescience.com/archaeology/human-evolution/scientists-may-have-discovered-new-branch-on-the-human-family-tree-100-000-year-old-tooth-in-china-suggests",
-    "summary": "One tooth from a cave in southern China may upend how we think about early human origins in Asia.",
-    "source": "Live Science",
-    "published": "2026-11-25T16:00:00+00:00"
-  },
-  {
     "id": "t2c204d0c",
     "origin": "feed",
     "title": "Australia’s legless geckos evolved like snakes did",
@@ -1284,23 +1387,13 @@
     "published": "2026-11-25T11:57:55+00:00"
   },
   {
-    "id": "tf98eeee4",
-    "origin": "feed",
-    "title": "A woman gulped ice-cold drinks and ended up with torn arteries",
-    "url": "https://www.livescience.com/health/a-woman-gulped-ice-cold-drinks-and-ended-up-with-torn-arteries-diagnostic-dilemma",
-    "summary": "A woman's heart issues seemed to be tied to her rapid gulping of ice-cold drinks.",
-    "source": "Live Science",
-    "published": "2026-11-25T11:00:00+00:00"
-  },
-  {
     "id": "t760eecb4",
     "origin": "feed",
     "title": "A new biography reveals the private life of Stephen Hawking",
     "url": "https://www.scientificamerican.com/podcast/episode/a-new-biography-reveals-the-private-life-of-stephen-hawking/",
     "summary": "A new biography reveals the surprising personal story behind one of history’s most famous physicists",
     "source": "Scientific American",
-    "published": "2026-11-25T11:00:00+00:00",
-    "text_file": "state/sources/t760eecb4.txt"
+    "published": "2026-11-25T11:00:00+00:00"
   },
   {
     "id": "t49a614aa",
@@ -1309,8 +1402,7 @@
     "url": "https://www.scientificamerican.com/article/this-is-the-best-time-to-eat-thanksgiving-dinner-for-your-health/",
     "summary": "Research suggests that when we eat may matter as much as what we eat",
     "source": "Scientific American",
-    "published": "2026-11-25T11:00:00+00:00",
-    "text_file": "state/sources/t49a614aa.txt"
+    "published": "2026-11-25T11:00:00+00:00"
   },
   {
     "id": "t6e5c2f5d",
@@ -1332,15 +1424,6 @@
     "published": "2026-11-25T10:35:04+00:00"
   },
   {
-    "id": "t16dfb72d",
-    "origin": "feed",
-    "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
-    "summary": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter. Team will conduct most precise comparison yet between matter and antimatter. Any difference between the electron and positron could expose cracks in the Standard Model of particle p",
-    "source": "ScienceDaily",
-    "published": "2026-11-25T10:06:22+00:00"
-  },
-  {
     "id": "t65619603",
     "origin": "feed",
     "title": "AI's shock-and-awe raid on maths looks like pride before a fall | Rafael Behr",
@@ -1349,15 +1432,6 @@
     "source": "The Guardian Science",
     "published": "2026-11-25T10:05:15+00:00",
     "text_file": "state/sources/t65619603.txt"
-  },
-  {
-    "id": "t9226f079",
-    "origin": "feed",
-    "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
-    "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and thought. Their findings challenge the assumption that increasingly powerful computers could eventually dev",
-    "source": "ScienceDaily",
-    "published": "2026-11-25T09:30:54+00:00"
   },
   {
     "id": "t7a90f762",
@@ -1458,62 +1532,6 @@
     "url": "https://www.nature.com/articles/d41586-026-03468-3",
     "summary": "",
     "source": "Nature",
-    "published": "2026-11-25T00:00:00+00:00",
-    "text_file": "state/sources/t9deea424.txt"
-  },
-  {
-    "id": "t4b803200",
-    "origin": "feed",
-    "title": "Dual proofs of legendary Riemann hypothesis stun mathematicians",
-    "url": "https://www.nature.com/articles/d41586-026-03853-y",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-25T00:00:00+00:00",
-    "text_file": "state/sources/t4b803200.txt"
-  },
-  {
-    "id": "t3bc547f2",
-    "origin": "feed",
-    "title": "An in situ redox-converted molecule for all-perovskite tandem solar cells",
-    "url": "https://www.nature.com/articles/s41586-026-11465-9",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-25T00:00:00+00:00"
-  },
-  {
-    "id": "tfffee1d0",
-    "origin": "feed",
-    "title": "How Singapore has turned a nation into a smart-city testing ground",
-    "url": "https://www.nature.com/articles/d41586-026-03472-7",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-25T00:00:00+00:00"
-  },
-  {
-    "id": "te8a8cbfa",
-    "origin": "feed",
-    "title": "How arteries keep their shape in the face of overgrowth-inducing mutations",
-    "url": "https://www.nature.com/articles/d41586-026-03491-4",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-25T00:00:00+00:00"
-  },
-  {
-    "id": "t3ee73409",
-    "origin": "feed",
-    "title": "What is the Riemann hypothesis? A guide to the famed conjecture that rules prime numbers",
-    "url": "https://www.nature.com/articles/d41586-026-03854-x",
-    "summary": "",
-    "source": "Nature",
-    "published": "2026-11-25T00:00:00+00:00"
-  },
-  {
-    "id": "t8970b1cc",
-    "origin": "feed",
-    "title": "Saving Nepal’s wild orchids — in photos",
-    "url": "https://www.nature.com/articles/d41586-026-03475-4",
-    "summary": "",
-    "source": "Nature",
     "published": "2026-11-25T00:00:00+00:00"
   },
   {
@@ -1555,15 +1573,6 @@
     "published": "2026-11-24T19:00:00+00:00"
   },
   {
-    "id": "t987c9f5f",
-    "origin": "feed",
-    "title": "Read The Age of Alchemy by Kit Chapman with Scientific American in December",
-    "url": "https://www.scientificamerican.com/article/read-the-age-of-alchemy-by-kit-chapman-with-scientific-american-in-december/",
-    "summary": "In December join SciAm staff in our Book Club and participate in the discussion",
-    "source": "Scientific American",
-    "published": "2026-11-24T19:00:00+00:00"
-  },
-  {
     "id": "tcb955dee",
     "origin": "feed",
     "title": "Who needs perfume? The incredible link between body odour and relationships that last",
@@ -1591,15 +1600,6 @@
     "source": "Science News",
     "published": "2026-11-24T16:00:00+00:00",
     "text_file": "state/sources/tf10fb924.txt"
-  },
-  {
-    "id": "te8c37b46",
-    "origin": "feed",
-    "title": "Lightning strikes could more than double by 2100 thanks to climate change",
-    "url": "https://www.scientificamerican.com/article/lightning-strikes-could-more-than-double-by-2100-thanks-to-climate-change/",
-    "summary": "As the climate warms, heat rising from Earth’s surface creates more potential for electric fields—and cloud-to-ground lightning—to form",
-    "source": "Scientific American",
-    "published": "2026-11-24T15:11:00+00:00"
   },
   {
     "id": "t2499adb2",
