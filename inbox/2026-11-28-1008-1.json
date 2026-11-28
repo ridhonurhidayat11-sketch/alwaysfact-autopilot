@@ -1,0 +1,174 @@
+{
+ "topic_id": "t604b909d",
+ "source_url": "https://www.antaranews.com/berita/5884251/benarkah-instagram-menyadap-mikrofon-ini-fakta-di-balik-iklan",
+ "risk": "low",
+ "post": {
+  "topic": "Instagram menguping lewat mikrofon? Ini yang sebenarnya terjadi",
+  "image_query": "smartphone Instagram app",
+  "pillar": "Benda sehari-hari yang rumit",
+  "hook_options": [
+   "Habis ngobrol, iklannya muncul. HP kamu menguping?",
+   "Iklan muncul setelah ngobrol: kok bisa?"
+  ],
+  "slides": [
+   {
+    "type": "hook",
+    "title": "Habis ngobrol, iklannya muncul. HP kamu menguping?",
+    "body": "Instagram adalah aplikasi media sosial di HP kita, dan banyak orang curiga aplikasi ini diam-diam merekam suara lewat mikrofon.",
+    "icon": "magnifier",
+    "takeaway": "Iklan yang pas banget bikin kita curiga.",
+    "image_query": "smartphone Instagram app"
+   },
+   {
+    "type": "fact",
+    "title": "Kamu ngobrol soal sepatu lari, lalu iklannya muncul",
+    "body": "Banyak orang merasa begitu. Mereka yakin HP diam-diam menyadap suara. Tapi penelitian keamanan siber bilang anggapan itu tidak akurat.",
+    "icon": "bulb",
+    "takeaway": "Rasa dikuping itu umum, tapi bukti tidak mendukung.",
+    "image_query": "person talking friends smartphone"
+   },
+   {
+    "type": "fact",
+    "title": "Ribuan aplikasi sudah diuji, hasilnya tidak ada",
+    "body": "Peneliti Northeastern University menguji ribuan aplikasi populer. Mereka tidak menemukan bukti rekaman suara dikirim tanpa izin.",
+    "icon": "magnifier",
+    "takeaway": "Studi besar tidak menemukan penyadapan suara.",
+    "image_query": "smartphone apps"
+   },
+   {
+    "type": "fact",
+    "title": "Merekam terus itu boros dan ketahuan",
+    "body": "Merekam suara tanpa henti menguras baterai dan kuota data. Lampu indikator mikrofon di Android dan iOS juga akan menyala.",
+    "icon": "bolt",
+    "takeaway": "Penyadapan terus-menerus akan terasa di HP kamu.",
+    "image_query": "smartphone battery"
+   },
+   {
+    "type": "fact",
+    "title": "Iklannya tahu dari jejakmu, bukan suaramu",
+    "body": "Cukup dengan jejak di situs dan aplikasi lain, sistem iklan sudah bisa menebak minatmu. Temanmu yang sedang cari produk juga ikut dihitung.",
+    "icon": "globe",
+    "takeaway": "Jejak digitalmu lebih bocor daripada suaramu.",
+    "image_query": "online shopping smartphone"
+   },
+   {
+    "type": "fact",
+    "title": "Otakmu juga ikut menipu",
+    "body": "Setiap hari ada ratusan iklan acak yang diabaikan otakmu. Setelah topiknya dibahas, otak jadi lebih peka dan iklannya terasa baru muncul.",
+    "icon": "bulb",
+    "takeaway": "Otak baru sadar iklan setelah topiknya dibicarakan.",
+    "image_query": "human brain"
+   },
+   {
+    "type": "fact",
+    "title": "Untukmu: cek izin mikrofon di HP",
+    "body": "Buka pengaturan HP, pilih privasi, lalu pastikan mikrofon hanya aktif saat aplikasi benar-benar dipakai.",
+    "icon": "bulb",
+    "takeaway": "Atur izin mikrofon aplikasi di HP kamu.",
+    "image_query": "smartphone microphone"
+   },
+   {
+    "type": "cta",
+    "title": "Ikuti @alwaysfact_ dan kirim ke temanmu",
+    "body": "Kirim ke teman yang yakin HP-nya menguping, lalu ikuti @alwaysfact_ untuk fakta sains lain.",
+    "icon": "heart",
+    "takeaway": "Bagikan ke teman yang curiga HP-nya menguping."
+   }
+  ],
+  "caption": "Habis ngobrol, iklannya muncul. HP kamu menguping?\n\nStudi Northeastern University terhadap ribuan aplikasi tidak menemukan bukti rekaman suara dikirim tanpa izin. Merekam terus akan menguras baterai dan kuota, dan lampu mikrofon menyala. Iklan yang pas biasanya datang dari jejak digital di aplikasi lain, pencarian temanmu, dan otak yang baru sadar iklan setelah topiknya dibahas. Cek izin mikrofon di pengaturan HP-mu.\n\nKirim ke temanmu dan ikuti @alwaysfact_.\n\nSumber: ANTARA News",
+  "hashtags": [
+   "sains",
+   "faktasains",
+   "instagram",
+   "privasi",
+   "teknologi",
+   "alwaysfact"
+  ],
+  "claims": [
+   {
+    "text": "Studi Northeastern University terhadap ribuan aplikasi populer tidak menemukan bukti rekaman suara dikirim tanpa izin.",
+    "source_name": "ANTARA News",
+    "source_url": "https://www.antaranews.com/berita/5884251/benarkah-instagram-menyadap-mikrofon-ini-fakta-di-balik-iklan"
+   },
+   {
+    "text": "Merekam suara tanpa henti akan menguras baterai, memakan kuota data, dan menyalakan lampu indikator mikrofon.",
+    "source_name": "ANTARA News",
+    "source_url": "https://www.antaranews.com/berita/5884251/benarkah-instagram-menyadap-mikrofon-ini-fakta-di-balik-iklan"
+   },
+   {
+    "text": "Jejak digital dari browser atau aplikasi lain sudah cukup bagi sistem iklan untuk memetakan minatmu.",
+    "source_name": "ANTARA News",
+    "source_url": "https://www.antaranews.com/berita/5884251/benarkah-instagram-menyadap-mikrofon-ini-fakta-di-balik-iklan"
+   },
+   {
+    "text": "Kalau temanmu yang sedang mengobrol denganmu baru mencari suatu produk, sistem iklan menganggap kamu juga tertarik.",
+    "source_name": "ANTARA News",
+    "source_url": "https://www.antaranews.com/berita/5884251/benarkah-instagram-menyadap-mikrofon-ini-fakta-di-balik-iklan"
+   },
+   {
+    "text": "Otak manusia cenderung mengabaikan ratusan iklan acak setiap hari.",
+    "source_name": "ANTARA News",
+    "source_url": "https://www.antaranews.com/berita/5884251/benarkah-instagram-menyadap-mikrofon-ini-fakta-di-balik-iklan"
+   },
+   {
+    "text": "Akses mikrofon sebaiknya hanya aktif saat aplikasi benar-benar dipakai.",
+    "source_name": "ANTARA News",
+    "source_url": "https://www.antaranews.com/berita/5884251/benarkah-instagram-menyadap-mikrofon-ini-fakta-di-balik-iklan"
+   }
+  ],
+  "music_suggestions": [
+   "santai ceria tempo sedang",
+   "penasaran minimalis tempo pelan",
+   "elektronik ringan tempo sedang"
+  ]
+ },
+ "verdicts": [
+  {
+   "claim": 1,
+   "verdict": "supported",
+   "evidence_url": "https://www.antaranews.com/berita/5884251/benarkah-instagram-menyadap-mikrofon-ini-fakta-di-balik-iklan",
+   "quote": "Studi komprehensif dari Northeastern University yang menguji ribuan aplikasi populer menemukan tidak adanya bukti pengiriman rekaman audio tanpa izin ke server pihak ketiga.",
+   "note": "kutipan langsung dari artikel ANTARA"
+  },
+  {
+   "claim": 2,
+   "verdict": "supported",
+   "evidence_url": "https://www.antaranews.com/berita/5884251/benarkah-instagram-menyadap-mikrofon-ini-fakta-di-balik-iklan",
+   "quote": "Perekaman dan transmisi suara tanpa henti justru akan menguras baterai secara drastis, memakan kuota data dalam jumlah besar, serta memicu indikator lampu mikrofon pada sistem operasi modern seperti Android dan iOS.",
+   "note": "kutipan langsung dari artikel ANTARA"
+  },
+  {
+   "claim": 3,
+   "verdict": "supported",
+   "evidence_url": "https://www.antaranews.com/berita/5884251/benarkah-instagram-menyadap-mikrofon-ini-fakta-di-balik-iklan",
+   "quote": "Meski Anda merasa belum pernah mengetik kata kunci tersebut di Instagram, jejak digital dari peramban atau aplikasi lain sudah cukup bagi algoritma untuk memetakan minat Anda.",
+   "note": "kutipan langsung dari artikel ANTARA"
+  },
+  {
+   "claim": 4,
+   "verdict": "supported",
+   "evidence_url": "https://www.antaranews.com/berita/5884251/benarkah-instagram-menyadap-mikrofon-ini-fakta-di-balik-iklan",
+   "quote": "Jika teman yang sedang mengobrol dengan Anda baru saja mencari informasi tentang produk tertentu di ponselnya, algoritma mengasumsikan bahwa Anda memiliki ketertarikan serupa.",
+   "note": "kutipan langsung dari artikel ANTARA"
+  },
+  {
+   "claim": 5,
+   "verdict": "supported",
+   "evidence_url": "https://www.antaranews.com/berita/5884251/benarkah-instagram-menyadap-mikrofon-ini-fakta-di-balik-iklan",
+   "quote": "Otak manusia cenderung mengabaikan ratusan iklan acak setiap harinya.",
+   "note": "kutipan langsung dari artikel ANTARA"
+  },
+  {
+   "claim": 6,
+   "verdict": "supported",
+   "evidence_url": "https://www.antaranews.com/berita/5884251/benarkah-instagram-menyadap-mikrofon-ini-fakta-di-balik-iklan",
+   "quote": "pastikan akses mikrofon hanya diaktifkan saat aplikasi benar-benar digunakan.",
+   "note": "kutipan langsung dari artikel ANTARA"
+  },
+  {
+   "claim": 0,
+   "verdict": "supported",
+   "note": "slides and caption say nothing stronger than the claims"
+  }
+ ]
+}
