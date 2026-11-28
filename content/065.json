@@ -1,0 +1,219 @@
+{
+  "topic": "Kota-kota besar Afrika ternyata makin ambles, terlihat dari satelit",
+  "image_query": "Lagos Nigeria city aerial",
+  "pillar": "Alam semesta dan fisika",
+  "hook_options": [
+    "Tanah di kota Lagos turun 5 mm setiap tahun",
+    "Kota-kota besar Afrika diam-diam ambles"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Tanah di kota Lagos turun 5 mm setiap tahun",
+      "body": "Lagos adalah kota terbesar di Nigeria, negara di Afrika, dan tanahnya diam-diam ambles sedikit demi sedikit setiap tahun.",
+      "icon": "droplet",
+      "takeaway": "Tanahnya turun pelan tapi pasti.",
+      "image_query": "Lagos Nigeria city aerial"
+    },
+    {
+      "type": "fact",
+      "title": "Siapa yang mengukur dan bagaimana",
+      "body": "Peneliti memakai satelit Sentinel-1 milik Badan Antariksa Eropa. Satelit ini memotret lewat radar, jadi bisa melihat tanah dari luar angkasa.",
+      "icon": "rocket",
+      "takeaway": "Satelit radar memetakan tanah di 20 kota pantai Afrika.",
+      "image_query": "Sentinel-1 satellite"
+    },
+    {
+      "type": "fact",
+      "title": "Cukup teliti sampai 1 milimeter",
+      "body": "Satelit mengirim sinyal radar ke tanah, lalu mencatat waktu pantulannya. Dari situ gerakan tanah sekecil 1 mm per tahun bisa terbaca.",
+      "icon": "magnifier",
+      "takeaway": "Gerakan sekecil 1 mm pun terdeteksi.",
+      "viz": {
+        "kind": "stat",
+        "value": "1 mm",
+        "label": "gerakan tanah per tahun",
+        "note": "yang masih bisa dideteksi satelit"
+      }
+    },
+    {
+      "type": "compare",
+      "title": "Alexandria turun 6 mm, Lagos 5 mm setiap tahun",
+      "body": "Alexandria adalah kota besar di Mesir. Tanah di bawahnya turun rata-rata 6 mm per tahun, dan Lagos 5 mm per tahun.",
+      "icon": "globe",
+      "takeaway": "Dua kota besar Afrika ini ambles tiap tahun.",
+      "viz": {
+        "kind": "compare",
+        "items": [
+          {
+            "label": "Alexandria",
+            "value": 6
+          },
+          {
+            "label": "Lagos",
+            "value": 5
+          }
+        ],
+        "unit": "mm per tahun",
+        "caption": "Rata-rata tanah turun per tahun"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Penyebabnya sering ulah manusia",
+      "body": "Salah satunya menyedot terlalu banyak air dari dalam tanah. Tanah jadi padat dan permukaannya turun, seperti spons yang diperas.",
+      "icon": "droplet",
+      "takeaway": "Menyedot air tanah berlebihan bisa bikin tanah turun.",
+      "image_query": "groundwater well pump"
+    },
+    {
+      "type": "fact",
+      "title": "Dampaknya: banjir makin mengancam",
+      "body": "Studi memperkirakan tujuh juta orang dan satu juta bangunan bisa terancam banjir.",
+      "icon": "burst",
+      "takeaway": "Jutaan orang bisa terancam banjir.",
+      "viz": {
+        "kind": "compare",
+        "items": [
+          {
+            "label": "Orang (juta)",
+            "value": 7
+          },
+          {
+            "label": "Bangunan (juta)",
+            "value": 1
+          }
+        ],
+        "unit": "juta",
+        "caption": "Terancam banjir"
+      }
+    },
+    {
+      "type": "fact",
+      "title": "Tapi tidak semua kota ikut ambles",
+      "body": "Kota Durban di Afrika Selatan tanahnya stabil, bahkan naik sedikit. Jadi tiap kota beda, dan pengukuran satelit membantu tahu yang mana.",
+      "icon": "leaf",
+      "takeaway": "Tiap kota punya kondisi tanah yang berbeda.",
+      "image_query": "Durban South Africa skyline"
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_ dan kirim ke temanmu",
+      "body": "Kirim ke teman yang tinggal di kota pantai, lalu ikuti @alwaysfact_ untuk fakta sains lain.",
+      "icon": "heart",
+      "takeaway": "Bagikan ke teman yang tinggal di kota pantai."
+    }
+  ],
+  "caption": "Tanah di kota Lagos turun 5 mm setiap tahun.\n\nPeneliti memakai satelit Sentinel-1 milik Badan Antariksa Eropa untuk memetakan 20 kota pantai di Afrika. Tanah di Alexandria turun rata-rata 6 mm per tahun dan di Lagos 5 mm. Menyedot terlalu banyak air tanah bisa jadi penyebabnya. Studi memperkirakan tujuh juta orang dan satu juta bangunan bisa terancam banjir. Kota Durban malah stabil.\n\nKirim ke temanmu dan ikuti @alwaysfact_.\n\nSumber: BBC News",
+  "hashtags": [
+    "sains",
+    "faktasains",
+    "satelit",
+    "banjir",
+    "kota",
+    "alwaysfact"
+  ],
+  "claims": [
+    {
+      "text": "Peneliti memakai citra radar satelit Sentinel-1 milik Badan Antariksa Eropa untuk memetakan pergerakan tanah di 20 kota pantai Afrika.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "text": "Satelit bisa mendeteksi pergerakan tanah sekecil 1 mm per tahun.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "text": "Tanah di bawah Alexandria dan Lagos turun rata-rata 6 mm dan 5 mm per tahun.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "text": "Menyedot terlalu banyak air dari dalam tanah bisa membuat tanah memadat dan permukaannya turun.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "text": "Studi memperkirakan tujuh juta orang dan satu juta bangunan bisa terancam banjir.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "text": "Kota Durban di Afrika Selatan tanahnya stabil atau malah naik sedikit.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "music_suggestions": [
+    "tenang sinematik tempo pelan",
+    "penasaran atmosferik tempo sedang",
+    "elektronik ringan tempo sedang"
+  ],
+  "id": "065",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+      "quote": "Scientists used radar imagery from the European Space Agency's Sentinel-1 satellites to map how much the land beneath 20 African coastal cities had moved.",
+      "note": "kutipan langsung dari artikel BBC",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+      "quote": "the researchers from Virginia Tech were able to detect land movements as small as 1mm per year.",
+      "note": "kutipan langsung dari artikel BBC",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+      "quote": "The ground under Alexandria and Lagos was found to have sunk an average of 6mm and 5mm per year respectively.",
+      "note": "kutipan langsung dari artikel BBC",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+      "quote": "Too much water being extracted from the ground can lead to the soil becoming compacted and the surface sinking.",
+      "note": "kutipan langsung dari artikel BBC",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+      "quote": "Seven million people, one million buildings and $180bn",
+      "note": "kutipan langsung dari artikel BBC",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 6,
+      "verdict": "supported",
+      "evidence_url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+      "quote": "Luanda in Angola has also sunk significantly, but other cities such as Durban in South Africa have remained stable or even risen slightly.",
+      "note": "kutipan langsung dari artikel BBC",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+  "topic_id": "tddfeae31",
+  "image_credits": [
+    "Robert / CC BY 2.0 (Wikimedia Commons)",
+    "Copernicus Sentinel-2, ESA / CC BY-SA 3.0 igo (Wikimedia Commons)",
+    "Meaghan Emory, USGS. St. Petersburg Coastal and Marine Scien / Public domain (Wikimedia Commons)",
+    "MissMakhanya89 / CC BY-SA 4.0 (Wikimedia Commons)"
+  ]
+}
