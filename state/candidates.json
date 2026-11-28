@@ -1,5 +1,115 @@
 [
   {
+    "id": "tc95383b0",
+    "origin": "feed",
+    "title": "Bukan Kucing, Satwa Bermata Biru Ini Kuskus dari Maluku Utara",
+    "url": "https://mongabay.co.id/2026/11/28/bukan-kucing-satwa-bermata-biru-ini-kuskus-dari-maluku-utara/",
+    "summary": "Mata berwarna biru menjadi salah satu daya tarik sejumlah ras kucing, seperti kucing siam dan ragdoll. Warna mata serupa juga dapat dijumpai pada anjing siberian husky. Namun, tahukah Anda, sebagian besar mamalia memiliki mata berwarna cokelat atau berpigmen gelap? Mata biru merupakan karakteristik yang relatif jarang dijumpai pada mamalia liar. Menariknya, di dua pulau di […] The post Bukan Kucin",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-28T03:27:05+00:00",
+    "text_file": "state/sources/tc95383b0.txt"
+  },
+  {
+    "id": "t0d11544a",
+    "origin": "feed",
+    "title": "Nyegara Gunung dan Upaya Nelayan Bali Pulihkan Terumbu Karang",
+    "url": "https://mongabay.co.id/2026/11/28/nyegara-gunung-dan-upaya-nelayan-bali-pulihkan-terumbu-karang/",
+    "summary": "Di pesisir Desa Les, Kabupaten Buleleng, Bali, nelayan ikan hias kini menggunakan jaring dan serok untuk menangkap ikan di antara terumbu karang. Cara sederhana ini menjadi bagian dari perubahan besar masyarakat yang dulu menggunakan bahan kimia beracun untuk menangkap ikan. Sekitar dua dekade lalu, penggunaan potasium atau sianida masih menjadi praktik umum di wilayah tersebut. […] The post Nyega",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-28T03:16:45+00:00",
+    "text_file": "state/sources/t0d11544a.txt"
+  },
+  {
+    "id": "tc94d3488",
+    "origin": "feed",
+    "title": "Event Horizon Telescope views the dynamics and geometry of a black hole jet in extreme detail",
+    "url": "https://phys.org/news/2026-11-event-horizon-telescope-views-dynamics.html",
+    "summary": "The Event Horizon Telescope (EHT), a massive international collaboration of scientists and radio observatories, is like the gift that keeps on giving. In 2019, the EHT Collaboration gave us the first image of a black hole: the supermassive black hole (SMBH) at the heart of the M87 galaxy (M87*). In 2022, it provided the first image of Sagittarius A*, the SMBH at the center of the Milky Way. Betwee",
+    "source": "Phys.org",
+    "published": "2026-11-28T02:40:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "te3afec1a",
+    "origin": "feed",
+    "title": "AI klaim bantu pecahkan Hipotesis Riemann. Bisakah manusia memahami jawaban teka-teki matematika ini?",
+    "url": "https://theconversation.com/ai-klaim-bantu-pecahkan-hipotesis-riemann-bisakah-manusia-memahami-jawaban-teka-teki-matematika-ini-297713",
+    "summary": "Sebuah klaim pembuktian salah satu teka-teki matematika yang belum terpecahkan dibuat dibantu AI dan terdiri atas 17 baris kode komputer. Apakah hasilnya benar?",
+    "source": "The Conversation Indonesia",
+    "published": "2026-11-28T02:00:58+00:00",
+    "text_file": "state/sources/te3afec1a.txt"
+  },
+  {
+    "id": "td0f3f33f",
+    "origin": "feed",
+    "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+    "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Pennsylvania and neighbouring states remained badly affected on Friday after both coasts were lashed with wind and rain.",
+    "source": "BBC Science",
+    "published": "2026-11-28T01:55:33+00:00",
+    "text_file": "state/sources/td0f3f33f.txt"
+  },
+  {
+    "id": "t4124dd24",
+    "origin": "feed",
+    "title": "Should space data centers run on solar panels, nuclear reactors or both?",
+    "url": "https://phys.org/news/2026-11-space-centers-solar-panels-nuclear.html",
+    "summary": "The last few days we've been covering a series of papers by Dr. Slava Turyshev of NASA's Jet Propulsion Laboratory about the constraints surrounding the use of orbital data centers in space. One that has come up repeatedly is weight, and the solar panels used to power these data centers contribute a significant portion of that weight. So why not go with an alternative power source? Nuclear energy ",
+    "source": "Phys.org",
+    "published": "2026-11-28T01:40:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t08d8e1df",
+    "origin": "feed",
+    "title": "Narasi makar di tengah penangkapan mahasiswa Yogyakarta pascademo 10 November – 'Kamu makar, kamu kayak komunis'",
+    "url": "https://www.bbc.com/indonesia/articles/cxnv47gp89rqo?at_medium=RSS&at_campaign=rss",
+    "summary": "Gelombang penangkapan mahasiswa pascademonstrasi 10 November di Yogyakarta terus berlangsung. Mereka yang ditangkap dituduh melakukan makar oleh aparat kepolisian.",
+    "source": "BBC Indonesia",
+    "published": "2026-11-28T00:52:28+00:00",
+    "text_file": "state/sources/t08d8e1df.txt"
+  },
+  {
+    "id": "te82de17f",
+    "origin": "feed",
+    "title": "New technologies help Natural History Museum uncover 92 species in its transformed gardens",
+    "url": "https://phys.org/news/2026-11-technologies-natural-history-museum-uncover.html",
+    "summary": "The Natural History Museum's transformed gardens in South Kensington are revealing new insights into London's urban wildlife. Among the 92 species recorded at the site for the first time between its reopening in July 2024 and the end of 2025 are the striking emperor moth and small red-eyed damselfly.",
+    "source": "Phys.org",
+    "published": "2026-11-28T00:20:07+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "t33f9ab66",
+    "origin": "feed",
+    "title": "RNA discovery reveals how gut bacterium adapts to life in intestinal mucus",
+    "url": "https://phys.org/news/2026-11-rna-discovery-reveals-gut-bacterium.html",
+    "summary": "The mucus layer in the human gut is a tough place for bacteria: nutrients are scarce, and conditions are harsh. How do bacteria adapt to such extreme environments? Researchers at the Helmholtz Institute for RNA-based Infection Research (HIRI) and the Chair of Microbiology of the Julius-Maximilians-Universität (JMU) in Würzburg, working with scientists at Vanderbilt Health in the United States, hav",
+    "source": "Phys.org",
+    "published": "2026-11-28T00:00:01+00:00",
+    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tcd713930",
+    "origin": "feed",
+    "title": "Bahaya Bahan Kimia Makin Hantui Kesehatan Manusia dan Lingkungan",
+    "url": "https://mongabay.co.id/2026/11/27/bahaya-bahan-kimia-makin-hantui-kesehatan-manusia-dan-lingkungan/",
+    "summary": "Konferensi internasional pertama Global Framework on Chemicals (GFC) di Jenewa, Swiss, pada 16–20 November 2026 menjadi langkah penting penguatan kerja sama global dalam mengatasi penggunaan bahan kimia. Namun, organisasi masyarakat sipil menilai, komitmen politik dan dukungan pendanaan masih belum sebanding dengan besarnya ancaman pencemaran bahan kimia terhadap kesehatan manusia dan lingkungan. ",
+    "source": "Mongabay Indonesia",
+    "published": "2026-11-27T23:58:28+00:00",
+    "text_file": "state/sources/tcd713930.txt"
+  },
+  {
+    "id": "t604b909d",
+    "origin": "feed",
+    "title": "Benarkah Instagram menyadap mikrofon? Ini fakta di balik iklan",
+    "url": "https://www.antaranews.com/berita/5884251/benarkah-instagram-menyadap-mikrofon-ini-fakta-di-balik-iklan",
+    "summary": "Pernahkah Anda baru saja membicarakan sepatu lari atau destinasi liburan bersama teman, lalu beberapa menit kemudian ...",
+    "source": "Antara Tekno",
+    "published": "2026-11-27T23:45:29+00:00",
+    "text_file": "state/sources/t604b909d.txt"
+  },
+  {
     "id": "tdea35207",
     "origin": "feed",
     "title": "AI simulates electron hops over far longer times than conventional quantum calculations",
@@ -36,8 +146,7 @@
     "url": "https://phys.org/news/2026-11-lab-rsv-human-cells-antibodies.html",
     "summary": "Respiratory syncytial virus (RSV) causes severe respiratory disease and is responsible for numerous deaths each year. A research team led by DZIF scientist Dr. Wendy K. Jo and DZIF scientist Dr. Jan Felix Drexler at Charité—University Medicine Berlin, as well as DZIF board member Dr. Thomas Pietschmann and Dr. Sibylle Haid from TWINCORE in Hanover, has now characterized a virus in West African fru",
     "source": "Phys.org",
-    "published": "2026-11-27T23:20:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-27T23:20:01+00:00"
   },
   {
     "id": "t42707007",
@@ -46,8 +155,7 @@
     "url": "https://phys.org/news/2026-11-battery-free-implant-harvests-ultrasound.html",
     "summary": "Implantable bioelectronics enable health care professionals to continuously monitor patients' physiological conditions, deliver targeted treatments and support recovery. However, once implanted, these devices are difficult to inspect directly, and damage or degradation may go undetected until complications occur. Limited battery lifetimes and leakage risks also raise safety concerns.",
     "source": "Phys.org",
-    "published": "2026-11-27T23:00:04+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-27T23:00:04+00:00"
   },
   {
     "id": "te5bd1f9a",
@@ -56,8 +164,7 @@
     "url": "https://phys.org/news/2026-11-life-job-satisfaction-strongly-pay.html",
     "summary": "Work-life balance has a stronger association with job satisfaction than pay or flexible working arrangements, according to a study of employees in small and medium-sized enterprises (SMEs) published in the International Journal of Economics and Business Research.",
     "source": "Phys.org",
-    "published": "2026-11-27T23:00:01+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-27T23:00:01+00:00"
   },
   {
     "id": "te32f1fe8",
@@ -66,8 +173,7 @@
     "url": "https://phys.org/news/2026-11-fundamental-complexity-limit-quantum-circuit.html",
     "summary": "Quantum circuit optimization is an important research area, as the computational resources required to execute quantum algorithms remain a major challenge. In particular, two-qubit operations are generally associated with higher error rates than single-qubit gates on current quantum hardware, making reducing the number of two-qubit gates an important objective.",
     "source": "Phys.org",
-    "published": "2026-11-27T22:40:04+00:00",
-    "fetch_error": "HTTPError: HTTP Error 403: Forbidden"
+    "published": "2026-11-27T22:40:04+00:00"
   },
   {
     "id": "t02ae263f",
@@ -77,52 +183,6 @@
     "summary": "More than 20,000 earthquakes are located worldwide each year, but the vast majority of those are small—many too small to be felt by humans. Scientists have historically assumed most of these small earthquakes break as small, circular ruptures in which the rocks in a fault slip past each other in a single, smooth motion, and the crack spreads outward from one point like a ripple in a pond, unlike t",
     "source": "Phys.org",
     "published": "2026-11-27T22:40:01+00:00"
-  },
-  {
-    "id": "td0f3f33f",
-    "origin": "feed",
-    "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
-    "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-    "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
-    "source": "BBC Science",
-    "published": "2026-11-27T22:29:46+00:00",
-    "text_file": "state/sources/td0f3f33f.txt"
-  },
-  {
-    "id": "t3bfaeb77",
-    "origin": "feed",
-    "title": "Engineers reveal the interlayer elastic limits of van der Waals crystals",
-    "url": "https://phys.org/news/2026-11-reveal-interlayer-elastic-limits-van.html",
-    "summary": "A research team led by Professor Yang Lu from the Department of Mechanical Engineering in the Faculty of Engineering at The University of Hong Kong (HKU), in collaboration with Tsinghua University, has measured the interlayer elastic limits of graphite and hexagonal boron nitride, two representative van der Waals crystals, and revealed the physical mechanism that sets them. The work is published i",
-    "source": "Phys.org",
-    "published": "2026-11-27T22:20:04+00:00"
-  },
-  {
-    "id": "t4171e6ef",
-    "origin": "feed",
-    "title": "Using a drone and a poop-sniffing dog, scientists perform health checks on endangered orcas",
-    "url": "https://phys.org/news/2026-11-drone-poop-sniffing-dog-scientists.html",
-    "summary": "Every fall for the last few years, Deborah Giles starts her workday with one question in mind: Where are the orcas?",
-    "source": "Phys.org",
-    "published": "2026-11-27T22:20:01+00:00"
-  },
-  {
-    "id": "t1a15464a",
-    "origin": "feed",
-    "title": "'That's when the chaos began': The fall of the Berlin Wall in the words of East and West Germans",
-    "url": "https://phys.org/news/2026-11-chaos-began-fall-berlin-wall.html",
-    "summary": "Germany's far right is on the rise, with current polls suggesting the Alternative für Deutschland (AfD) has the backing of 28% of voters nationally. This makes it the most popular party in the country, ahead of German Chancellor Friedrich Merz's Christian Democrats at 20%.",
-    "source": "Phys.org",
-    "published": "2026-11-27T22:10:01+00:00"
-  },
-  {
-    "id": "t079aaecc",
-    "origin": "feed",
-    "title": "Newly discovered barrier could explain why nucleic acid medicines remain trapped inside cells",
-    "url": "https://phys.org/news/2026-11-newly-barrier-nucleic-acid-medicines.html",
-    "summary": "Researchers from the Department of Chemistry at The University of Hong Kong (HKU) and their collaborators have discovered a barrier that may prevent some promising nucleic acid medicines from reaching their targets inside subcellular compartments. Published in Nature Cell Biology, the findings could help guide the development of more effective drug delivery strategies.",
-    "source": "Phys.org",
-    "published": "2026-11-27T22:00:01+00:00"
   },
   {
     "id": "t6b38497d",
@@ -671,8 +731,7 @@
     "url": "https://mongabay.co.id/2026/11/27/hati-hati-di-balik-tren-memelihara-satwa-eksotis-ada-risiko-penularan-penyakit-zoonosis/",
     "summary": "Dalam sebuah kasus kejadian baru-baru ini, seorang dokter hewan di Mumbai, India, Rina Dev, menjalani perawatan di rumah sakit selama empat hari karena infeksi paru-paru. Dev adalah dokter hewan spesialis burung dan satwa eksotis yang bekerja sama dengan Departemen Kehutanan setempat untuk menangani satwa hasil sitaan dari perdagangan ilegal satwa liar. “Saya harap ini bukan […] The post Hati-Hati",
     "source": "Mongabay Indonesia",
-    "published": "2026-11-27T04:43:30+00:00",
-    "text_file": "state/sources/t4d0647aa.txt"
+    "published": "2026-11-27T04:43:30+00:00"
   },
   {
     "id": "ta46fc8db",
@@ -701,8 +760,7 @@
     "url": "https://mongabay.co.id/2026/11/27/seberapa-berbahaya-sengatan-tawon-vespa-bagi-manusia/",
     "summary": "Tawon dan hornet adalah pemangsa serangga-serangga lain, dan racunnya berevolusi untuk melumpuhkan mangsa serta mempertahankan sarang. Bagi sebagian besar orang, perjumpaan dengan mereka berakhir dengan sengatan yang menimbulkan nyeri dan bengkak, yang umumnya mereda dalam beberapa hari. Pada kasus tertentu, hasilnya jauh lebih serius, terutama bila korban disengat banyak tawon sekaligus. Di Asia,",
     "source": "Mongabay Indonesia",
-    "published": "2026-11-27T03:55:40+00:00",
-    "text_file": "state/sources/t19893654.txt"
+    "published": "2026-11-27T03:55:40+00:00"
   },
   {
     "id": "t4b5f5a3a",
@@ -711,8 +769,7 @@
     "url": "https://mongabay.co.id/2026/11/27/nasib-mangrove-sumut-kian-mengkhawatirkan/",
     "summary": "Ekosistem mangrove di Sumatera Utara banyak alami kerusakan. Walhi Sumatera Utara menilai, terjadi kegagalan melindungi ekosistem yang kaya biodiversitas serta tumpuan hidup masyarakat pesisir, termasuk nelayan. Jaka Kelana Damanik, Manajer Advokasi dan Kampanye Walhi Sumut, mengatakan, pada 2024–2025, sekitar 15.000 hektar ekosistem mangrove Sumut dalam kondisi rusak parah atau kritis. Sejalan de",
     "source": "Mongabay Indonesia",
-    "published": "2026-11-27T03:30:27+00:00",
-    "text_file": "state/sources/t4b5f5a3a.txt"
+    "published": "2026-11-27T03:30:27+00:00"
   },
   {
     "id": "t66354751",
@@ -1074,8 +1131,7 @@
     "url": "https://www.bbc.com/indonesia/articles/cv0l3gywkgl3o?at_medium=RSS&at_campaign=rss",
     "summary": "Kadiv Humas Polri Irjen Pol Johnny Eddizon Isir mengungkapkan, ketidakhadiran ini disampaikan dalam berita acara yang ditandatangani oleh Listyo Sigit.",
     "source": "BBC Indonesia",
-    "published": "2026-11-26T05:04:00+00:00",
-    "text_file": "state/sources/te47ef747.txt"
+    "published": "2026-11-26T05:04:00+00:00"
   },
   {
     "id": "tcfea6ef4",
@@ -1098,24 +1154,6 @@
     "text_file": "state/sources/t6075bc02.txt"
   },
   {
-    "id": "t4f0ee478",
-    "origin": "feed",
-    "title": "Panjangnya 12 Meter, Ular Purba Raksasa Ini Hidup di Gurun Sahara",
-    "url": "https://mongabay.co.id/2026/11/26/panjangnya-12-meter-ular-purba-raksasa-ini-hidup-di-gurun-sahara/",
-    "summary": "Siapa sangka, Gurun Sahara yang kini identik dengan hamparan pasir dan kekeringan pernah menjadi habitat ular raksasa? Jutaan tahun lalu, sebagian Afrika Barat merupakan perairan dangkal yang dihuni berbagai hewan, termasuk Palaeophis colossaeus, ular purba yang panjang tubuhnya diperkirakan bisa mendekati 12 meter. Ular ini hidup pada kala Eosen, sekitar 56-33,9 juta tahun lalu, ketika […] The po",
-    "source": "Mongabay Indonesia",
-    "published": "2026-11-26T05:00:08+00:00"
-  },
-  {
-    "id": "tac94ab44",
-    "origin": "feed",
-    "title": "Akademisi Menilai Penanganan Karhutla 2026 Masih Buruk",
-    "url": "https://mongabay.co.id/short-article/2026/11/akademisi-menilai-penanganan-karhutla-2026-masih-buruk/",
-    "summary": "Kebakaran hutan dan lahan (karhutla) tahun ini kembali meluas. Data MapBiomas menunjukkan, luas indikasi lahan terbakar sejak Januari hingga September mencapai 1.103.132 hektar. Kondisi ini memperlihatkan upaya pemerintah dalam menangani karhutla masih menghadapi sejumlah persoalan. Rizaldi Boer, Kepala Lembaga Riset Internasional Lingkungan dan Perubahan Iklim IPB University, menilai pemerintah m",
-    "source": "Mongabay Indonesia",
-    "published": "2026-11-26T04:06:47+00:00"
-  },
-  {
     "id": "tdf6f987b",
     "origin": "feed",
     "title": "Sudah siapkah Indonesia menerbitkan stablecoin rupiah?",
@@ -1133,15 +1171,6 @@
     "summary": "Peristiwa itu disebut terjadi di rumah jabatan Bupati Kupang pada Rabu (11/11) malam. Korban diajak oleh dua orang kenalannya ke rumah dinas bupati dengan iming-iming mendapatkan pekerjaan.",
     "source": "BBC Indonesia",
     "published": "2026-11-26T03:59:08+00:00"
-  },
-  {
-    "id": "t37b02ce0",
-    "origin": "feed",
-    "title": "Berat Tubuh Bisa Mencapai 120 Kilogram, Apa Keistimewaan Domba Batur?",
-    "url": "https://mongabay.co.id/2026/11/26/berat-tubuh-bisa-mencapai-120-kilogram-apa-keistimewaan-domba-batur/",
-    "summary": "Sekilas, Domba Batur terlihat seperti karakter dalam film animasi Shaun the Sheep. Tubuhnya besar, dengan bulu putih tebal dan keriting yang menyelimuti hampir seluruh badan. Penampilannya yang unik membuat domba ini mudah dibedakan dari jenis domba lainnya. Domba Batur, atau dikenal sebagai Dombat, merupakan plasma nutfah khas Banjarnegara, Jawa Tengah. Domba ini berasal dari Kecamatan […] The po",
-    "source": "Mongabay Indonesia",
-    "published": "2026-11-26T03:30:51+00:00"
   },
   {
     "id": "t91374f1d",
@@ -1512,17 +1541,7 @@
     "url": "https://theconversation.com/kenapa-makin-tua-kita-justru-makin-pendek-297059",
     "summary": "Penyusutan tinggi badan bisa jadi tanda bahwa ada masalah pada tulang belakang kita.",
     "source": "The Conversation Indonesia",
-    "published": "2026-11-25T04:36:04+00:00",
-    "text_file": "state/sources/t51bb6cf1.txt"
-  },
-  {
-    "id": "tcc2e70ba",
-    "origin": "feed",
-    "title": "Paus Fransiskus klaim melihat iblis tiga kali – Apa saja yang terungkap dari catatan hariannya?",
-    "url": "https://www.bbc.com/indonesia/articles/cjy5xe579dv5o?at_medium=RSS&at_campaign=rss",
-    "summary": "Paus Fransiskus mengklaim telah melihat iblis sebanyak tiga kali sepanjang hidupnya serta \"gerbang neraka\", menurut kutipan buku harian pribadinya.",
-    "source": "BBC Indonesia",
-    "published": "2026-11-25T03:18:42+00:00"
+    "published": "2026-11-25T04:36:04+00:00"
   },
   {
     "id": "td8f656c0",
@@ -1737,15 +1756,6 @@
     "published": "2026-11-23T05:00:00+00:00"
   },
   {
-    "id": "t5cec49b5",
-    "origin": "feed",
-    "title": "Kisah masa remaja Tari: Diktator Orde Baru menjadi tetangganya, lalu orang tuanya dipenjara",
-    "url": "https://theconversation.com/kisah-masa-remaja-tari-diktator-orde-baru-menjadi-tetangganya-lalu-orang-tuanya-dipenjara-296565",
-    "summary": "Memoar Tari Lang, “My Neighbour, The Dictator”, mengenang masa remajanya yang dibayang-bayangi kudeta militer Indonesia 1965.",
-    "source": "The Conversation Indonesia",
-    "published": "2026-11-23T03:20:15+00:00"
-  },
-  {
     "id": "t8f3bd85f",
     "origin": "feed",
     "title": "Sering pakai ChatGPT? Waspadai dampaknya pada kemampuan berpikir",
@@ -1822,8 +1832,7 @@
     "url": "https://www.antaranews.com/berita/5870107/layar-laptop-hitam-total-tapi-masih-menyala-ini-4-cara-mengatasinya",
     "summary": "Layar laptop yang tiba-tiba gelap total (black screen) padahal lampu indikator daya menyala atau suara kipas terdengar ...",
     "source": "Antara Tekno",
-    "published": "2026-11-21T14:44:01+00:00",
-    "text_file": "state/sources/tf745e5fd.txt"
+    "published": "2026-11-21T14:44:01+00:00"
   },
   {
     "id": "t082418af",
