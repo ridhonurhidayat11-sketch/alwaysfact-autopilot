@@ -1,0 +1,179 @@
+{
+  "topic": "Kuskus mata biru: hewan Maluku Utara yang namanya diambil dari bahasa Indonesia",
+  "image_query": "Phalanger matabiru blue-eyed cuscus",
+  "pillar": "Hewan dan alam",
+  "hook_options": [
+    "Kuskus bermata biru, hewan Ternate yang bukan kucing",
+    "Kuskus mata biru: hewan Maluku Utara yang bukan kucing"
+  ],
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Kuskus bermata biru, hewan Ternate yang bukan kucing",
+      "body": "Kuskus mata biru adalah hewan berkantong dari Pulau Ternate dan Tidore di Maluku Utara, dan matanya biru terang.",
+      "image_query": "Phalanger matabiru blue-eyed cuscus",
+      "icon": "magnifier",
+      "takeaway": "Kuskus mata biru hidup di Maluku Utara."
+    },
+    {
+      "type": "fact",
+      "title": "Mata biru itu langka di hewan liar",
+      "body": "Kucing siam dan anjing husky memang bermata biru. Tapi hampir semua hewan menyusui bermata cokelat atau gelap.",
+      "icon": "bulb",
+      "takeaway": "Mata biru jarang ada pada hewan liar."
+    },
+    {
+      "type": "fact",
+      "title": "Kuskus bukan kucing, tapi kerabat kanguru",
+      "body": "Kuskus punya kantong di perut induknya, seperti kanguru dan koala. Ia aktif malam hari dan tinggal di pohon.",
+      "image_query": "Phalanger cuscus tree",
+      "icon": "leaf",
+      "takeaway": "Kuskus sekeluarga dengan kanguru dan koala."
+    },
+    {
+      "type": "fact",
+      "title": "Nama ilmiahnya berbahasa Indonesia",
+      "body": "Pada 1995, dua peneliti memberinya nama ilmiah **matabiru**. Itu dua kata bahasa Indonesia: mata dan biru.",
+      "icon": "globe",
+      "takeaway": "Matanya sampai jadi nama resminya."
+    },
+    {
+      "type": "fact",
+      "title": "Jumlahnya belum ada yang tahu pasti",
+      "body": "Sudah lebih dari tiga dekade sejak diberi nama, tapi jumlah kuskus mata biru di alam masih belum diketahui.",
+      "icon": "clock",
+      "takeaway": "Hewan ini masih penuh misteri."
+    },
+    {
+      "type": "fact",
+      "title": "Rumahnya dekat gunung api yang aktif",
+      "body": "Ternate punya Gunung Gamalama yang masih aktif. Daerah hidup kuskus ini sempit, jadi ia mudah terancam.",
+      "icon": "flame",
+      "takeaway": "Wilayah hidupnya kecil, jadi rentan."
+    },
+    {
+      "type": "fact",
+      "title": "Kaitannya denganmu",
+      "body": "Hewan unik ini ada di Indonesia, bukan di film dokumenter luar negeri. Kita punya kekayaan alam yang belum semua orang tahu.",
+      "icon": "heart",
+      "takeaway": "Kekayaan alam Indonesia perlu kita kenal."
+    },
+    {
+      "type": "cta",
+      "title": "Ikuti @alwaysfact_ dan kirim ke temanmu",
+      "body": "Kirim post ini ke temanmu yang suka hewan, lalu ikuti @alwaysfact_ untuk fakta sains lain."
+    }
+  ],
+  "caption": "Kuskus bermata biru bukan kucing, ia hidup di Ternate dan Tidore. Kuskus mata biru adalah hewan berkantong yang sekeluarga dengan kanguru dan koala, dan nama ilmiahnya diambil dari bahasa Indonesia. Jumlahnya di alam belum diketahui pasti. Kirim ke temanmu yang suka hewan! Ikuti @alwaysfact_ untuk fakta sains lainnya.\n\nSumber: Mongabay Indonesia, 28 November 2026.",
+  "hashtags": [
+    "kuskus",
+    "malukuutara",
+    "ternate",
+    "tidore",
+    "hewanindonesia",
+    "faktaunik",
+    "sains",
+    "alwaysfact"
+  ],
+  "claims": [
+    {
+      "text": "Kuskus mata biru adalah hewan berkantong yang hanya dikenal dari Pulau Ternate dan Tidore, Maluku Utara.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/28/bukan-kucing-satwa-bermata-biru-ini-kuskus-dari-maluku-utara/"
+    },
+    {
+      "text": "Sebagian besar hewan menyusui bermata cokelat atau berwarna gelap.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/28/bukan-kucing-satwa-bermata-biru-ini-kuskus-dari-maluku-utara/"
+    },
+    {
+      "text": "Kuskus berada dalam kelompok yang sama dengan kanguru dan koala.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/28/bukan-kucing-satwa-bermata-biru-ini-kuskus-dari-maluku-utara/"
+    },
+    {
+      "text": "Kuskus mata biru dideskripsikan secara ilmiah pada 1995 dan nama ilmiahnya matabiru berasal dari bahasa Indonesia.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/28/bukan-kucing-satwa-bermata-biru-ini-kuskus-dari-maluku-utara/"
+    },
+    {
+      "text": "Lebih dari tiga dekade sejak dideskripsikan, jumlah populasi kuskus mata biru masih belum diketahui pasti.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/28/bukan-kucing-satwa-bermata-biru-ini-kuskus-dari-maluku-utara/"
+    },
+    {
+      "text": "Pulau Ternate, salah satu habitat kuskus mata biru, punya Gunung Gamalama yang masih aktif.",
+      "source_name": "Mongabay Indonesia",
+      "source_url": "https://mongabay.co.id/2026/11/28/bukan-kucing-satwa-bermata-biru-ini-kuskus-dari-maluku-utara/"
+    }
+  ],
+  "music_suggestions": [
+    "Santai ceria, tempo sedang",
+    "Penasaran, tempo pelan",
+    "Alam tropis, akustik ringan"
+  ],
+  "id": "063",
+  "status": "queued",
+  "verification": [
+    {
+      "claim": 1,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/28/bukan-kucing-satwa-bermata-biru-ini-kuskus-dari-maluku-utara/",
+      "quote": "merupakan mamalia berkantong endemik Maluku Utara yang dikenal dari Pulau Ternate dan Tidore.",
+      "note": "stated in lead",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 2,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/28/bukan-kucing-satwa-bermata-biru-ini-kuskus-dari-maluku-utara/",
+      "quote": "sebagian besar mamalia memiliki mata berwarna cokelat atau berpigmen gelap?",
+      "note": "stated",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 3,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/28/bukan-kucing-satwa-bermata-biru-ini-kuskus-dari-maluku-utara/",
+      "quote": "Satwa ini berada dalam ordo yang sama dengan kanguru dan koala, yaitu Diprotodontia .",
+      "note": "stated",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 4,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/28/bukan-kucing-satwa-bermata-biru-ini-kuskus-dari-maluku-utara/",
+      "quote": "Kuskus mata biru baru dideskripsikan secara ilmiah pada 1995 oleh Tim Flannery dan Boeadi.",
+      "note": "stated; name from Indonesian also stated",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 5,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/28/bukan-kucing-satwa-bermata-biru-ini-kuskus-dari-maluku-utara/",
+      "quote": "jumlah populasi kuskus mata biru masih belum diketahui secara pasti.",
+      "note": "stated",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 6,
+      "verdict": "supported",
+      "evidence_url": "https://mongabay.co.id/2026/11/28/bukan-kucing-satwa-bermata-biru-ini-kuskus-dari-maluku-utara/",
+      "quote": "Pulau Ternate, salah satu habitatnya, merupakan pulau vulkanik dengan Gunung Gamalama yang masih aktif.",
+      "note": "stated",
+      "second_evidence_url": ""
+    },
+    {
+      "claim": 0,
+      "verdict": "supported",
+      "note": "slides and caption say nothing stronger than the claims"
+    }
+  ],
+  "origin": "routine",
+  "source_url": "https://mongabay.co.id/2026/11/28/bukan-kucing-satwa-bermata-biru-ini-kuskus-dari-maluku-utara/",
+  "topic_id": "tc95383b0",
+  "image_credits": [
+    "Zieger M / CC BY-SA 4.0 (Wikimedia Commons)",
+    "Zieger M / CC BY-SA 4.0 (Wikimedia Commons)"
+  ]
+}
